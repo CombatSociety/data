@@ -1,6 +1,6 @@
 # 스웨덴 사브, 칼 구스타프용 신형 대전차탄 'HEAT 758' 공개
 
-스웨덴 사브가 칼 구스타프용 신형 대전차탄 'HEAT 758'을 공개했으며, 폭발반응장갑 장착 차량 격파를 목표로 설계되었다.
+스웨덴 사브가 반응장갑 장착 차량 격파용 신형 대전차탄 'HEAT 758'을 공개했으며, 5월 칼스코가에서 실사격 시연을 실시했다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | Carl Gustaf M4, 방산수출 |
+| 태그 | 방산수출, Carl Gustaf M4 |
 | 단일 출처 | [Soldier Systems](https://soldiersystems.net/2026/05/07/saab-launches-new-carl-gustaf-anti-tank-round/?utm_source=rss&utm_medium=rss&utm_campaign=saab-launches-new-carl-gustaf-anti-tank-round) |
 
 ## 출처 매체
