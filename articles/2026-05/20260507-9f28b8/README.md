@@ -1,6 +1,6 @@
-# 캐나다 연방경찰, 스트림라이트 TLR-7 X를 표준 권총 조명장비로 채택
+# 캐나다 연방경찰, 스트림라이트 TLR-7 X를 표준 권총 조명으로 채택
 
-캐나다 연방경찰이 스트림라이트 TLR-7 X 권총용 조명장비를 표준 장비로 채택했으며, 이는 3,900만 캐나다달러 규모의 신규 권총 체계 공급 계약에 포함됐다.
+스트림라이트 TLR-7 X 무기 조명이 3,900만 캐나다달러 규모 계약을 통해 캐나다 연방경찰의 신규 권총 체계 표준 장비로 채택됐다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P4 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 무기·방산 |
+| 태그 | 도입 |
 | 단일 출처 | [Soldier Systems](https://soldiersystems.net/2026/05/07/streamlight-tlr-7-x-selected-as-standard-issue-pistol-light-by-canadian-federal-police/?utm_source=rss&utm_medium=rss&utm_campaign=streamlight-tlr-7-x-selected-as-standard-issue-pistol-light-by-canadian-federal-police) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "캐나다 연방경찰, 스트림라이트 TLR-7 X를 표준 권총 조명장비로 채택", combatsociety.kr/news/20260507-9f28b8, github.com/CombatSociety/data.
+Combat Society dataset, "캐나다 연방경찰, 스트림라이트 TLR-7 X를 표준 권총 조명으로 채택", combatsociety.kr/news/20260507-9f28b8, github.com/CombatSociety/data.
 ```

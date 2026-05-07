@@ -1,6 +1,6 @@
-# 미 육군, 인도태평양 해양거부전 역할 강화
+# 미 육군, 인도태평양 해양거부전 강화 추진
 
-Modern War Institute는 인도태평양에서의 21세기 패권 경쟁에서 미 육군의 해양거부전 역할이 중요해지고 있다고 분석했다.
+Modern War Institute 보도에 따르면 미 육군이 인도태평양 지역에서 중국의 해양 팽창에 대응하기 위해 해양거부전 능력 강화를 추진 중이다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@ Modern War Institute는 인도태평양에서의 21세기 패권 경쟁에서 �
 ## 인용
 
 ```
-Combat Society dataset, "미 육군, 인도태평양 해양거부전 역할 강화", combatsociety.kr/news/20260507-2530ce, github.com/CombatSociety/data.
+Combat Society dataset, "미 육군, 인도태평양 해양거부전 강화 추진", combatsociety.kr/news/20260507-2530ce, github.com/CombatSociety/data.
 ```
