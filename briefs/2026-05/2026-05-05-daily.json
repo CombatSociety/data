@@ -1,0 +1,142 @@
+{
+  "assessment": "현재 글로벌 군사 안보 환경은 무인·자율 체계와 전자전 능력 중심으로의 급속한 전환이 진행 중이며, 이는 한국의 드론 전력화 추진과 미국의 다층적 무인 플랫폼 통합 전략으로 구체화되고 있다. 동시에 호르무즈 해협·우크라이나·북극 해역 등 전략적 요충지에서 미국·영국·이란 간 해양·항공 우위 경쟁이 심화되고 있으며, 중국의 스텔스 순항미사일 개발과 이스라엘의 장거리 급유 능력 확보는 지역 군사 균형 변화를 시사한다. 이러한 추세는 기존 유인 전력 중심에서 무인 시스템·전자전·정밀 타격 능력 통합으로의 패러다임 전환을 의미하며, 한반도 역시 이러한 기술 경쟁에 적응하기 위한 전력 현대화 속도 조절이 전략적 과제가 될 것으로 판단된다.",
+  "brief_date": "2026-05-05",
+  "digest_type": "daily",
+  "items": [
+    {
+      "editors_comment": "드론의 개인화기화는 저강도 분쟁에서 한국군의 비용-효율성을 높이나, 북한의 드론 위협 증가에 대한 방어 체계 동시 강화가 필수적이다.",
+      "priority": "P2",
+      "section": "한반도",
+      "source_name": "국방일보-육군",
+      "source_url": "http://kookbang.dema.mil.kr/newsWeb/20260504/6/ATCE_CTGR_0010030000/view.do",
+      "subtitle": "김규하 육군참모총장이 드론의 보편적 전투수단화와 AI·로봇 결합 전투체계 구축 계획을 발표했다.",
+      "summary_en": "The Army announced plans to expand drones as individual weapons and establish a drone combat system across all units and branches. Under the 500,000 drone warrior training initiative, all soldiers will be equipped with drone operation capabilities, not just specific military occupational specialties. This represents part of a broader future combat system transformation integrating AI and robotics technology.",
+      "summary_kr": "육군은 드론을 개인화기 수준으로 확대 보급하고 전 부대·전 제대에 걸친 드론 전력 체계를 구축하기로 했다. 50만 드론전사 양성 계획에 따라 특정 병과가 아닌 모든 병사가 드론 운용 능력을 갖추도록 할 예정이다. 이는 AI와 로봇 기술을 결합한 미래 전투체계 혁신의 일환으로, 공간력 혁신도 함께 추진된다.",
+      "title": "육군, 드론을 개인화기로 전환·50만 드론전사 양성 추진"
+    },
+    {
+      "editors_comment": "호르무즈 해협 통행로 확보를 둘러싼 미-이란 간 직접 충돌 심화로, 중동 해상 안보 긴장 고조 및 글로벌 에너지 공급망 리스크 증대 우려.",
+      "priority": "P1",
+      "section": "해외",
+      "source_name": "Army Times",
+      "source_url": "https://www.armytimes.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/",
+      "subtitle": "호르무즈 해협 상업 통행로 개방 작전 중 이란의 간섭 저지",
+      "summary_en": "Adm. Brad Cooper stated that Iran attempted to interfere with a U.S. military operation aimed at keeping the Strait of Hormuz open for commercial traffic. The U.S. military destroyed six Iranian small boats and shot down missiles and drones during the incident.",
+      "summary_kr": "미 해군 쿠퍼 제독은 호르무즈 해협의 상업 통행로 개방을 위한 미군 작전 중 이란이 소형 보트 6척과 미사일, 드론으로 간섭을 시도했다고 밝혔다. 미군은 이란의 공격을 격퇴하고 해협 통행 보장 작전을 계속 추진 중이다.",
+      "title": "미국, 이란 소형 보트 6척 격침·미사일·드론 격추"
+    },
+    {
+      "editors_comment": "전략적 공중수송 자산의 방어 강화는 고강도 분쟁 환경에서 미군 작전 지속성 확보의 핵심이며, 향후 아시아-태평양 지역 분쟁 시나리오에서 한반도 주변 미군 운영에도 직간접 영향을 미칠 수 있다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Air Force Magazine",
+      "source_url": "https://www.airandspaceforces.com/air-force-tanker-cargo-aircraft-active-defenses/",
+      "subtitle": "2031년까지 5억 달러 투자해 미사일·드론 요격 센서·무기 탑재 계획",
+      "summary_en": "The U.S. Air Force plans to invest over half a billion dollars through 2031 on an active defense system for cargo and refueling aircraft equipped with onboard sensors and weapons to track and neutralize enemy missiles and drones. The system aims to enhance survivability of critical strategic airlift and tanker assets. This represents a significant shift toward armed protection for non-combat aircraft.",
+      "summary_kr": "미 공군이 화물기와 공중급유기에 탑재할 능동형 방어체계 개발에 2031년까지 5억 달러 이상을 투자할 계획이다. 이 시스템은 탑재 센서로 적 미사일과 드론을 추적하고 격추할 수 있는 무기를 갖춘다. 전략적 수송·급유 자산의 생존성 강화를 목표로 한다.",
+      "title": "미 공군, 수송·급유기에 능동형 방어체계 장착 추진"
+    },
+    {
+      "editors_comment": "중국의 스텔스 전투기 플랫폼 다중화 전략으로, 내부 무기창 탑재 미사일은 RCS 감소와 작전 반경 확대를 동시에 추구하는 기술적 진화를 의미한다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defence Blog",
+      "source_url": "https://defence-blog.com/china-develops-new-stealth-cruise-missile/",
+      "subtitle": "내부 무기창 장착 가능한 4m 미만 소형 미사일로 스텔스 전투기의 은폐 능력 강화",
+      "summary_en": "China is developing a new stealth cruise missile designed to fit within the internal weapons bays of its J-20 and J-35 stealth fighters, according to technical design documents. The missile is specified at under 4 meters in length, enabling the aircraft to maintain stealth characteristics while enhancing strike capability.",
+      "summary_kr": "중국이 J-20, J-35 스텔스 전투기의 내부 무기창에 탑재 가능한 신형 스텔스 순항미사일을 개발 중인 것으로 보도됐다. 기술 설계 문서에 따르면 미사일 길이는 4m 미만으로 설계돼 항공기의 스텔스 특성을 유지하면서 타격 능력을 확보하는 것을 목표로 한다.",
+      "title": "중국, J-20·J-35 탑재용 스텔스 순항미사일 개발 중"
+    },
+    {
+      "editors_comment": "전자전 항공기의 전개 확대는 현대 방공망 대응 능력이 전술적 우위의 핵심임을 시사하며, 향후 고강도 분쟁에서 전자전 능력 확보의 중요성을 부각시킨다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defense One",
+      "source_url": "https://www.defenseone.com/ideas/2026/05/navy-growler-iran-venezuela-electronic-attack/413316/",
+      "subtitle": "적 레이더 무력화 목적의 전자공격 항공기 운용 확대로 공중 우위 전략 전환",
+      "summary_en": "The U.S. Navy is expanding aerial electronic attack operations by deploying F/A-18G Super Hornets over Iran and Venezuela. These jamming-equipped aircraft are designed to neutralize enemy radar systems, reflecting a strategic shift from conventional air superiority toward electronic warfare-centric aerial dominance.",
+      "summary_kr": "미 해군이 F/A-18G 슈퍼 호넷(전자전 특화 기종)을 이란과 베네수엘라 상공에 배치해 전자전 작전을 강화하고 있다. 이는 적 방공 체계의 레이더를 교란·무력화하는 전술로, 전통적 공중전에서 전자전 능력 중심의 항공 우위 전략으로의 전환을 의미한다.",
+      "title": "미 해군 F/A-18G, 이란·베네수엘라 상공 전자전 작전 강화"
+    },
+    {
+      "editors_comment": "위성영상 기반 NBC 방어 부대 추적은 북한의 대량살상무기 운용 체계와 방어 태세 변화를 감시하는 핵심 수단으로, 한미 정보 공백 보완과 한반도 위기 상황 대응 능력 강화에 직결된다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "38 North",
+      "source_url": "https://www.38north.org/2026/05/project-anthracite-imagery-search-for-possible-nuclear-chemical-and-biological-defense-battalions/",
+      "subtitle": "Project Anthracite를 통해 북한의 NBC 방어 역량 파악 시도, 한반도 위협 평가 심화",
+      "summary_en": "Project Anthracite, a multiyear initiative by 38 North, uses satellite imagery to track North Korean nuclear, chemical, and biological defense battalions and their operational capabilities. The research aims to assess North Korea's WMD-related military posture and defensive infrastructure, providing critical intelligence for regional security threat assessment.",
+      "summary_kr": "38 North의 Project Anthracite는 위성영상을 활용해 북한의 핵·화학·생물 방어 부대 위치와 규모를 추적하는 다년간 연구 프로젝트다. 이는 북한의 대량살상무기 관련 군사 역량과 방어 태세를 파악하려는 시도로, 한반도 안보 위협 평가의 중요한 정보원이 될 것으로 예상된다.",
+      "title": "북한 핵화학생물 방어 부대 위성영상 추적 프로젝트 진행"
+    },
+    {
+      "editors_comment": "NATO 해양국가들의 무인화 전략이 가속화되는 가운데, 영국의 하이브리드 함대 전환은 북극 해역 러시아 활동 억제와 비용 효율성을 동시에 추구하는 전략적 선택으로 평가되며, 향후 해양 분쟁에서 무인 자산의 역할 확대를 시사한다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "USNI News",
+      "source_url": "https://news.usni.org/2026/05/04/royal-navy-to-use-hybrid-fleet-to-keep-pace-with-russia-in-high-north",
+      "subtitle": "북대서양·북극 해역에서 러시아와의 해양 경쟁력 강화를 위해 자율·무인 함정 통합 운영 추진",
+      "summary_en": "The Royal Navy announced a Hybrid Navy transformation plan integrating autonomous and uncrewed vessels to enhance operational capability. First Sea Lord Gen. Gywn Jenkins stated the strategy aims to counter Russian maritime activities in the North Atlantic and High North regions. This shift represents a transition from traditional manned-vessel-centric operations to next-generation naval operations leveraging advanced unmanned assets.",
+      "summary_kr": "영국 해군이 자율함정과 무인함정을 통합한 하이브리드 함대 전환 계획을 발표했다. 제1해군경 젠킨스 대장은 북대서양과 북극 해역에서 러시아의 해양 활동에 대응하기 위해 이 전략을 추진한다고 밝혔다. 이는 전통적 유인함정 중심에서 첨단 무인 자산을 활용한 차세대 해군 운영 체계로의 전환을 의미한다.",
+      "title": "영국 해군, 러시아 견제 위해 무인함정 중심 하이브리드 함대 전환"
+    },
+    {
+      "editors_comment": "드론 중심 항공작전 전환은 인력 손실 감소와 작전 지속성 강화를 의도하나, 2029년까지의 기술 성숙도 달성과 지휘통제 체계 확보가 성공의 핵심 변수다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Real Clear Defense",
+      "source_url": "https://www.realcleardefense.com/2026/05/04/marine_corps_charts_path_for_future_aviation_ops_led_by_drones_1180497.html",
+      "subtitle": "무인항공기 중심의 미래 항공작전 체계 전환으로 전술 운용 방식 재편",
+      "summary_en": "The U.S. Marine Corps is targeting 2029 to begin operational testing of its MUX TACAIR unmanned aerial vehicle. This represents a strategic shift toward unmanned-centric aviation operations, while simultaneously exploring integrated employment of diverse unmanned systems across tactical missions.",
+      "summary_kr": "미 해병대가 2029년을 목표로 MUX TACAIR 드론의 작전 시험을 시작할 계획이다. 이는 유인 항공기 중심의 기존 항공작전 체계를 무인 시스템 중심으로 전환하려는 전략적 움직임으로, 다양한 무인 플랫폼의 통합 운용 방안을 동시에 모색 중이다.",
+      "title": "미 해병대, 2029년 MUX 드론 작전 시험 추진"
+    },
+    {
+      "editors_comment": "FF(X) 호위함의 조기 배치는 중국 해군 확장에 대응하는 미국의 전략적 우선순위를 시사하며, 동맹국 해군력 운용 환경에도 영향을 미칠 것으로 예상된다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Real Clear Defense",
+      "source_url": "https://www.realcleardefense.com/2026/05/04/us_navy_wants_first_ffx_frigate_in_the_water_by_2028_1180495.html",
+      "subtitle": "2027 회계연도 예산에 신형 호위함 프로그램 반영, 해군력 현대화 가속화",
+      "summary_en": "The U.S. Navy has outlined plans in its FY2027 budget documentation to deploy the first FF(X) frigate by 2028. This initiative reflects the Navy's modernization strategy to replace aging vessels and strengthen naval capabilities in the Indo-Pacific region.",
+      "summary_kr": "미 해군이 2027 회계연도 예산 문서에 FF(X) 신형 호위함 프로그램을 포함시켜 2028년까지 첫 함정을 실전 배치할 계획을 밝혔다. 이는 노후 호위함 대체 및 인도태평양 지역 해군력 강화 전략의 일환이다.",
+      "title": "미 해군, FF(X) 호위함 2028년 실전 배치 추진"
+    },
+    {
+      "editors_comment": "B-52의 수십 년 운용 연장은 미국의 전략폭격 능력 지속성 확보 차원에서 중요하며, 신형 엔진 도입으로 인도-태평양 지역 장거리 투사 능력이 강화될 것으로 분석된다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Air Force Magazine",
+      "source_url": "https://www.airandspaceforces.com/first-b-52j-engine-upgrade-successful-design-review/",
+      "subtitle": "설계 검증 완료 후 올해 말부터 첫 기체 개조 시작, 냉전 시대 기종의 전력화 연장",
+      "summary_en": "The U.S. Air Force has completed the design review for the Commercial Engine Replacement Program and plans to begin modifying the first B-52H Stratofortress with new engines later this year. This modernization initiative extends the operational life of the Cold War-era bomber into the 2050s, significantly improving fuel efficiency and operational range through new engine integration.",
+      "summary_kr": "미 공군이 B-52H 전략폭격기의 엔진 교체 및 현대화 프로그램 설계 검증을 완료했으며, 올해 말부터 첫 번째 기체 개조를 시작할 예정이다. 이는 1960년대 배치된 B-52의 운용 수명을 2050년대까지 연장하는 핵심 사업으로, 신형 엔진 탑재로 연료 효율성과 작전 반경을 대폭 개선할 것으로 기대된다.",
+      "title": "미 공군, B-52 전략폭격기 엔진 현대화 사업 본격 추진"
+    },
+    {
+      "editors_comment": "포크롭스크 지역의 집중된 러시아 공세는 우크라이나 동부 전략 요충지에 대한 러시아의 지속적 압박을 시사하며, 전선 전역의 높은 교전 빈도는 양측 모두 소모전 국면에 진입했음을 반영한다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-ato/4119669-war-update-132-clashes-on-front-lines-ukrainian-forces-neutralize-nearly-70-russian-troops-in-pokrovsk-sector.html",
+      "subtitle": "포크롭스크 지역에서 러시아군 70명 무력화, 전선 전역에서 격렬한 충돌 지속",
+      "summary_en": "Ukrainian forces recorded 132 combat engagements with Russian forces on May 4, with particularly intense fighting in the Pokrovsk sector where the enemy launched 21 attacks. Ukrainian forces neutralized approximately 70 Russian troops in this sector. Fierce clashes continue across the entire front line.",
+      "summary_kr": "우크라이나군은 5월 4일 러시아군과 132건의 전투 교전을 기록했다. 특히 포크롭스크 지역에서 러시아군의 21회 공격이 집중되었으며, 우크라이나군은 이 지역에서 러시아군 약 70명을 무력화했다. 전선 전역에서 지속적인 격렬한 충돌이 벌어지고 있다.",
+      "title": "우크라이나, 5월 4일 132건 전투 교전 기록"
+    },
+    {
+      "editors_comment": "KC-46 도입은 이스라엘의 광역 작전 반경 확대와 지역 공중우위 유지 전략의 핵심 요소로, 중동 전력 균형에 영향을 미칠 수 있다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defence Blog",
+      "source_url": "https://defence-blog.com/israels-first-kc-46-tanker-completes-maiden-flight/",
+      "subtitle": "미국에서 첫 시험비행 완료, 총 6대 도입 계획으로 공중급유 능력 강화",
+      "summary_en": "Israel's Ministry of Defense announced the successful maiden flight of its first KC-46 tanker aircraft in the United States. Designated 'Gideon' in Hebrew, this is the first of six KC-46 tankers procured by Israel. The acquisition significantly enhances the Israeli Air Force's long-range operational capability and aerial refueling infrastructure.",
+      "summary_kr": "이스라엘 국방부가 첫 KC-46 급유기의 미국 내 초도 비행 완료를 발표했다. '기드온'으로 명명된 이 항공기는 이스라엘이 도입하는 6대 KC-46 중 첫 번째다. 이는 이스라엘 공군의 장거리 작전 능력과 공중급유 인프라를 대폭 확충하는 전략적 획득이다.",
+      "title": "이스라엘, KC-46 급유기 첫 비행 성공"
+    }
+  ],
+  "published_at": "2026-05-04T22:01:00.381097+00:00",
+  "summary": "한반도 1건 · 해외 11건",
+  "title": "Daily Brief — 2026년 05월 05일"
+}

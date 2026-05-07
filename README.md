@@ -16,7 +16,9 @@ data/
 │           ├── meta.json     # 기사 메타 (title·summary·category·tags·priority·content_type·published_at·image_caption·image_credit)
 │           ├── sources.json  # multi-source 교차 (Type B 합성 시)
 │           └── README.md     # 자동 생성 요약
-└── briefs/               # (예정) Daily/Weekly/Monthly/Quarterly digest
+└── briefs/               # Digest 시계열 (538 NFL ELO 패턴)
+    └── YYYY-MM/
+        └── {date}-{digest_type}.json    # daily / weekly / monthly / quarterly
 ```
 
 본문(body) 은 미러하지 않습니다. 사이트(combatsociety.kr) 에서 읽어주세요.

@@ -1,0 +1,142 @@
+{
+  "assessment": "오늘의 이슈들은 물리적 전장과 인지·사이버·핵 영역이 동시에 압박받는 복합 위기 구조를 선명하게 드러낸다. RGB(Reconnaissance General Bureau) 산하 APT37이 'BirdCall' 악성코드를 게임 앱 공급망에 심어 탈북민 네트워크를 추적하는 작전은 단순한 해킹이 아니라 인간정보(HUMINT) 공백을 사이버 수단으로 메우는 정밀 표적화 작전이며, 한국 방첩 당국은 공급망 취약점 감사와 탈북민 보호 네트워크 디지털 위생 교육을 제도화할 필요가 있다. 러시아의 모듈형 합성미디어 인지전 체계와 중국산 프런티어 AI의 결합은 서방 정보 생태계 전체를 표적으로 삼는 구조적 위협으로, 한국도 전략커뮤니케이션(StratCom) 전담 조직과 AI 기반 허위정보 탐지 체계를 ROK JCS(Joint Chiefs of Staff) 수준에서 공식화해야 할 시점이다. 미·필·일·캐 연합군이 필리핀 라오아그에서 실시한 '연안 종심전투(Littoral Deep Battle)' 훈련과 Balikatan exercise 프레임워크는 PLAN(People's Liberation Army Navy) 상륙 시나리오에 대한 다국적 거부 교리가 실전화 단계에 진입했음을 보여주며, 한국 해병대 역시 이 교리 체계와의 상호운용성을 쌍룡훈련(Ssang Yong amphibious exercise) 설계에 반영해야 한다. F-35 Lightning II의 양자 내성 암호화 전환 착수와 AIM-9X Sidewinder 소형화 개발은 스텔스 플랫폼의 생존성과 전자전 내성을 동시에 강화하는 미국의 장기 투자로, KF-21 Boramae의 블록 업그레이드 로드맵에도 동일한 암호화·무장 통합 기준을 조기에 반영하는 것이 DAPA(Defense Acquisition Program Administration) 차원의 과제다. 러시아의 ICBM 시험 발사 예고와 포세이돈(Poseidon) 탑재함 하바롭스크의 제원 공개는 핵 신호 경쟁이 전략적 소통 수단으로 일상화되고 있음을 확인시키며, 미 공",
+  "brief_date": "2026-05-07",
+  "digest_type": "daily",
+  "items": [
+    {
+      "editors_comment": "북한 정찰총국 (RGB) 계열 사이버 조직이 민간 앱 공급망을 정보수집 벡터로 활용한 이번 사례는, 탈북민 보호 체계가 사이버 위협 영역까지 확장되어야 함을 명확히 보여준다. 국정원 (NIS) 및 관련 기관은 탈북민 지원 네트워크에 대한 디지털 위협 인텔리전스 공유 체계를 구축하고, 공개출처정보 (OSINT) 기반 앱 공급망 모니터링을 탈북민 보호 프로토콜에 정식 편입해야 한다.",
+      "priority": "P2",
+      "section": "한반도",
+      "source_name": "VOA 한반도",
+      "source_url": "https://www.voakorea.com/a/north-korean-hackers-target-ethnic-koreans-in-china-with-malware-infested-game-apps-to-collect-defector-data-050626/8147299.html",
+      "subtitle": "중국 조선족 거주 지역 겨냥 모바일 앱에 악성코드 삽입, 탈북민 신원 노출 우려",
+      "summary_en": "A North Korea-linked hacking group has been conducting supply chain attacks by embedding malware in popular mobile game apps targeting ethnic Korean communities in China. The operation has been used to systematically harvest personal information on North Korean defectors, raising serious concerns about the exposure of defector networks and their safety.",
+      "summary_kr": "북한 연계 해킹 조직이 중국 내 조선족 밀집 지역을 표적으로 삼아 인기 모바일 게임 앱에 악성코드를 심는 공급망 공격을 수행한 것으로 확인됐다. 이를 통해 탈북민 관련 개인정보를 지속적으로 수집해온 것으로 드러났으며, 탈북민 네트워크 전반의 신원 노출 및 안전 위협이 현실화될 수 있다.",
+      "title": "북한 해킹 조직, 게임 앱 공급망 공격으로 탈북민 정보 수집"
+    },
+    {
+      "editors_comment": "APT37의 조선족 타깃 작전은 단순 사이버 범죄가 아니라 해외 한민족 네트워크를 통한 대남·대중 정보수집의 연장선이다. 국가정보원(NIS)과 국방정보본부(DIA)는 재외 한민족 커뮤니티 대상 모바일 위협을 공개출처정보(OSINT) 및 민관 위협 인텔리전스 공유 체계에 정식 편입하고, 중국 내 조선족 대상 사이버 위협 인식 제고 프로그램을 외교 채널과 연계해 운용하는 방향을 검토해야 한다.",
+      "priority": "P2",
+      "section": "한반도",
+      "source_name": "The Record",
+      "source_url": "https://therecord.media/north-korean-hackers-target-ethnic-koreans-in-china",
+      "subtitle": "카드게임 앱으로 위장한 백도어로 재외 한민족 대상 정보수집 작전 수행",
+      "summary_en": "North Korean-linked threat actor APT37 has been attributed to a campaign distributing 'BirdCall' Android malware targeting ethnic Koreans residing in China. The attackers embedded a backdoor within card game applications from a company called Sqgame to compromise victims' devices. The operation highlights the Reconnaissance General Bureau's (RGB) persistent focus on overseas Korean diaspora communities as intelligence collection targets.",
+      "summary_kr": "북한 연계 해킹 조직 APT37이 중국 내 조선족을 표적으로 'BirdCall' 안드로이드 악성코드를 유포한 캠페인이 확인됐다. 해커들은 'Sqgame'이라는 업체의 카드게임 앱에 백도어를 삽입해 배포하는 방식을 사용했다. 이는 북한 정찰총국(RGB) 산하 사이버 부대가 해외 한민족 커뮤니티를 지속적으로 정보수집 대상으로 삼고 있음을 보여주는 사례다.",
+      "title": "APT37, 중국 내 조선족 겨냥 안드로이드 악성코드 'BirdCall' 배포"
+    },
+    {
+      "editors_comment": "인지전 대응의 핵심 취약점은 탐지-귀속-반박의 주기가 합성미디어 생산 주기보다 구조적으로 느리다는 데 있다. 미국의 기관 공백이 장기화될수록 동맹국들이 자체 대응 아키텍처를 선제 구축해야 할 필요성이 커진다. 한국은 국정원(NIS) 및 국방정보본부(DIA, ROK) 주도로 공개출처정보(OSINT)·신호정보(SIGINT) 기반 합성미디어 탐지 체계를 Five Eyes 및 나인아이즈(Nine Eyes) 파트너와 연동하고, 전략커뮤니케이션(StratCom) 기능을 ROK JCS(합동참모본부) 산하 독립 조직으로 제도화하는 것이 다음 단계",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "The Cipher Brief",
+      "source_url": "https://www.thecipherbrief.com/the-last-undefended-perimeter",
+      "subtitle": "미국 연방 대응 기관 공백 속 적성국 합성미디어 공세가 무제한 확산 중",
+      "summary_en": "Russia has industrialized cognitive warfare through a modular synthetic media system that engineers distinct effects against soldiers, civilians, and Western publics. A Chinese frontier AI capable of executing the same doctrine is now freely available worldwide at minimal cost, placing nation-state-level influence capabilities within reach of any actor. With U.S. federal counter-influence institutions in transition and no successor architecture in place, the cognitive domain faces a structural defensive gap of indeterminate duration.",
+      "summary_kr": "러시아는 군인·민간인·서방 여론을 각각 다른 방식으로 표적화하는 모듈형 합성미디어 생산 체계를 구축해 인지전을 산업화 수준으로 끌어올렸다. 동일 교리를 실행 가능한 중국산 프런티어 AI가 무제한·저가로 전 세계에 공개 배포되면서 국가 수준 이하 행위자까지 동일 역량을 보유하게 됐다. 이를 추적·대응하던 미국 연방 기관들이 전환기에 있고 후속 아키텍처가 부재한 상황에서 인지 영역의 방어 공백이 구조적으로 고착될 위험이 높아지고 있다.",
+      "title": "러시아 인지전 산업화·중국 AI 확산, 서방 대응 공백 심화"
+    },
+    {
+      "editors_comment": "전술 항공 플랫폼의 암호화 체계를 PQC로 전환하는 것은 단순 소프트웨어 패치가 아니라 C2·데이터링크·IFF 전 계층의 키 관리 아키텍처를 재설계하는 작업이다. 한국 공군도 F-35A Lightning II 도입국으로서 NAVAIR 주도 IFED 개조 일정과 연동된 상호운용성 로드맵을 조기에 확보하고, ADD(국방과학연구소)와 국가보안기술연구소(NSR) 간 PQC 표준 공동 적용 체계를 구축해 독자 암호화 자산과의 정합성을 선제적으로 검증해야 한다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defence Blog",
+      "source_url": "https://defence-blog.com/pentagon-prepares-f-35-for-quantum-computing-threat/",
+      "subtitle": "미 해군항공체계사령부, 인라인 파일 암호화 장치 소프트웨어 개조 사전공고 발행",
+      "summary_en": "The F-35 Joint Program Office has issued a presolicitation notice through Naval Air Systems Command to modify the fighter's In-Line File Encryption Device (IFED) software to support government-mandated quantum-resistant algorithms, as of May 6, 2026. This marks the first formal step toward applying post-quantum cryptography (PQC) standards to a frontline tactical aircraft platform, directly addressing the threat of quantum-enabled cryptographic attacks. Allied nations operating the F-35 are likely to face cascading requirements to adopt the same encryption upgrades.",
+      "summary_kr": "미 F-35 합동사업단(JPO)이 2026년 5월 6일 해군항공체계사령부(NAVAIR)를 통해 F-35의 인라인 파일 암호화 장치(IFED) 소프트웨어를 양자 내성 암호화 알고리즘으로 전환하기 위한 사전공고를 발행했다. 이는 미 정부가 의무화한 포스트-양자 암호화(PQC) 표준을 전술 항공 플랫폼에 적용하는 첫 공식 절차로, 양자컴퓨터 기반 암호 해독 위협에 대한 선제적 대응이다. F-35를 운용하는 동맹국 전력에도 동일한 암호화 체계 업그레이드가 연쇄 적용될 가능성이 높다.",
+      "title": "F-35 암호화 소프트웨어, 양자 내성 알고리즘 전환 착수"
+    },
+    {
+      "editors_comment": "해상 봉쇄에서 '발포 후 무력화'는 단순 경고 사격과 질적으로 다른 교전 규칙(ROE) 적용이다. 정치적 수사와 실제 작전 템포가 분리 운용되고 있다는 점은 향후 이란의 호르무즈 해협 봉쇄 카드 또는 대리세력 해상 공격 가능성을 높인다. 청해부대 운용 경험을 보유한 한국 해군은 CTF-152·153 계열 다국적 해상 작전 참여 확대를 통해 이 같은 강제 집행(enforcement) 국면에서의 연합 작전 숙련도와 ROE 호환성을 사전에 확보해 두어야 한다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-navy/2026/05/06/us-forces-fire-at-disable-iran-flagged-tanker-trying-to-evade-blockade/",
+      "subtitle": "트럼프 '프리덤 프로젝트 일시 중단' 발표에도 이란 항구 봉쇄는 유지 중",
+      "summary_en": "U.S. Navy forces fired upon and disabled an Iran-flagged tanker attempting to breach the ongoing naval blockade of Iranian ports. Despite President Trump's announcement that Project Freedom was paused, the blockade preventing vessels from entering or exiting Iranian ports remains in effect. The incident demonstrates that the U.S. is prepared to use kinetic force to enforce the maritime cordon, significantly raising the operational stakes for Iranian shipping.",
+      "summary_kr": "미 해군이 봉쇄를 돌파하려던 이란 국적 유조선에 발포해 무력화했다. 트럼프 대통령이 '프리덤 프로젝트(Project Freedom)'의 일시 중단을 선언했음에도 불구하고, 이란 항구 출입을 차단하는 해상 봉쇄 작전은 계속 유지되고 있다. 이번 교전은 봉쇄 실행 의지를 실증한 사례로, 이란의 원유 수출 및 해상 보급선에 대한 압박이 현실적 군사력으로 뒷받침되고 있음을 보여준다.",
+      "title": "미 해군, 이란 국적 유조선에 발포·무력화…봉쇄 작전 지속"
+    },
+    {
+      "editors_comment": "포세이돈은 속도·심도·자율성 모두에서 현존 대잠전(ASW) 체계의 탐지·요격 한계를 의도적으로 설계에 반영한 무기다. 하바롭스크 제원이 구체화될수록 미 해군 버지니아급 잠수함(Virginia-class submarine) 기반 ASW 전술과 수중 감시망(SOSUS 후속 체계) 재편 논의가 가속될 것이며, 한국 해군 도산안창호급 잠수함(Dosan Ahn Changho-class submarine, KSS-III) 전력도 중장기적으로 수중 탐지·추적 능력을 심해 자율체계 대응 방향으로 발전시켜야 한다는 과제를 던진다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Naval News",
+      "source_url": "https://www.navalnews.com/naval-news/2026/05/new-details-of-russias-super-weapon-submarine-khabarovsk/",
+      "subtitle": "자율 핵추진 수중무기 포세이돈을 탑재하는 신형 잠수함의 세부 제원이 점차 공개되고 있다",
+      "summary_en": "Russia's Poseidon is an autonomous, nuclear-powered, nuclear-armed underwater weapon with intercontinental range, designed to bypass conventional defenses. New details about its dedicated carrier submarine, Khabarovsk, are gradually emerging as Russia continues to advance its super-weapon programs. The Poseidon-Khabarovsk combination poses a fundamental challenge to existing nuclear deterrence frameworks and undersea defense architectures.",
+      "summary_kr": "러시아가 기존 방어체계를 무력화하기 위해 개발 중인 '초강력 무기' 중 핵심인 포세이돈(Poseidon)은 자율 핵추진·핵탄두 탑재 수중 무기로 사실상 대륙간 사거리를 보유한다. 이를 전용 탑재하는 신형 잠수함 하바롭스크(Khabarovsk)의 제원이 점진적으로 확인되고 있으며, 러시아는 해당 초강력 무기 체계 개발을 지속 추진 중이다. 포세이돈-하바롭스크 조합은 기존 핵억제 구조와 해상 방어 개념 전반에 근본적 도전을 제기한다.",
+      "title": "러시아 핵 어뢰 '포세이돈' 전용 탑재함 하바롭스크 제원 윤곽 드러나"
+    },
+    {
+      "editors_comment": "연안 종심전투 개념은 도서 지형을 활용한 분산 지상화력·대함미사일 운용으로 적 해상 기동을 거부하는 교리다. 한국 육군도 서해 도서 방어와 연계해 M142 HIMARS 및 현무-3 순항미사일 운용 부대를 이 개념 틀로 재편제하고, 미·필·일 3국 훈련에 옵저버 참여를 제도화하면 인도태평양 다영역작전 통합 역량을 실질적으로 끌어올릴 수 있다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Real Clear Defense",
+      "source_url": "https://www.realcleardefense.com/2026/05/06/littoral_deep_battle_1180996.html",
+      "subtitle": "발리캐탄 훈련 틀 안에서 다영역 연안 작전 상호운용성 검증에 초점",
+      "summary_en": "U.S., Philippine, and Japanese Army forces conducted joint training under the 'Littoral Deep Battle' concept, with Japan Ground Self-Defense Force Col. Tomino Sho publicly commending the combined training proficiency of U.S. and Philippine forces. The exercise reflects deepening trilateral interoperability focused on multi-domain littoral operations. The training directly supports denial and access-control scenarios in the South China Sea.",
+      "summary_kr": "미국·필리핀·일본 3국 육군이 '연안 종심전투(Littoral Deep Battle)' 개념을 적용한 공동훈련을 실시했다. 일본 육상자위대 지휘관이 미·필 육군의 훈련 역량을 공개 평가하는 등 3국 간 작전 통합 수준이 심화되고 있음을 보여준다. 이 훈련은 남중국해 접근 거부 시나리오에 대비한 다영역 연안 작전 교리를 실전화하는 데 목적이 있다.",
+      "title": "미·필·일 3국, 연안 종심전투 개념 공동훈련 실시"
+    },
+    {
+      "editors_comment": "전승절 퍼레이드와 ICBM 시험 일정을 의도적으로 겹친 것은 러시아가 '핵 억제'를 전술적 메시지 수단으로 일상화하고 있다는 신호다. 이 패턴은 북한의 열병식·미사일 발사 연계 전술과 구조적으로 동일하며, 한국군 전략정보 분석 체계는 러시아-북한 핵 신호 행위의 연동 패턴을 공개출처정보(OSINT)와 신호정보(SIGINT) 융합으로 상시 추적하는 체계를 ROK JCS(합동참모본부) 전략기획 수준에서 제도화할 필요가 있다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defence Blog",
+      "source_url": "https://defence-blog.com/russia-schedules-nuclear-capable-icbms-tests-over-victory-day-parade/",
+      "subtitle": "캄차카 쿠라 시험장 5월 6~10일 발사 예고, 우크라이나 대모스크바 공격 억제 목적 분석",
+      "summary_en": "Russia announced ICBM test launches at the Kura test range in Kamchatka scheduled from May 6 to 10, a window bracketing its Victory Day parade on May 9. Analysts interpret the timing as deliberate nuclear signaling designed to deter any Ukrainian strike on Red Square during the high-profile event. The overlap of a nuclear-capable missile test with the parade represents a calculated demonstration of Russia's strategic deterrence posture.",
+      "summary_kr": "러시아가 전승절(5월 9일) 전후인 5월 6~10일 캄차카 쿠라(Kura) 시험장에서 핵 탑재 가능 ICBM 시험 발사를 예고했다. 군사 분석가들은 이를 우크라이나의 모스크바 붉은광장 공격 억제를 겨냥한 의도적 핵 신호 행위로 해석하고 있다. 전승절 퍼레이드와 시험 일정을 의도적으로 겹친 것은 핵 억제력을 대내외에 과시하는 전략적 메시지로 기능한다.",
+      "title": "러시아, 전승절 전후 ICBM 시험 발사 일정 공개…핵 신호 의도"
+    },
+    {
+      "editors_comment": "스텔스 플랫폼의 내부 무장창 제약은 근거리 공중전 능력의 구조적 병목이었다. 소형화 AIM-9X는 단순 미사일 개량이 아니라 유무인 복합 편대의 자위 교전 규칙(ROE)과 무장 탑재 ORBAT 자체를 재설계하는 기반이 된다. 한국 공군도 KF-21 Boramae의 내부 무장창 통합 로드맵에서 국내 단거리 공대공 미사일 소형화 연구를 ADD(국방과학연구소)와 병행 추진해야, 향후 스텔스 2단계 전환 시 외산 의존 없이 완전 내부 무장 운용이 가능해진다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "The War Zone",
+      "source_url": "https://www.twz.com/air/smaller-aim-9x-sidewinder-for-stealthy-weapons-bays-is-in-development",
+      "subtitle": "미래 스텔스 드론·전투기의 내부 무장창 적재량 확대와 통합 용이성 확보가 목표",
+      "summary_en": "The U.S. is developing a more compact variant of the AIM-9X Sidewinder short-range air-to-air missile optimized for internal weapons bays of stealth aircraft and future combat drones. The current AIM-9X's size limits carriage capacity and integration into low-observable platforms. The miniaturized version is expected to enhance close-range self-defense capability for Loyal Wingman-type unmanned combat air vehicles (UCAVs) and next-generation stealth fighters.",
+      "summary_kr": "미국이 AIM-9X Sidewinder 단거리 공대공 미사일의 소형화 버전을 개발 중이다. 기존 AIM-9X는 스텔스 항공기의 내부 무장창(internal weapons bay)에 탑재하기 어렵거나 탑재 수량이 제한되는 문제가 있었으며, 소형화를 통해 미래 스텔스 드론 및 유무인 복합 플랫폼의 근거리 자위 능력을 강화하려는 의도다. 이는 충실한 윙맨(Loyal Wingman) 계열 무인 전투기 등 내부 무장창 의존 플랫폼의 공중전 능력 통합을 가속화할 전망이다.",
+      "title": "소형화 AIM-9X 사이드와인더, 스텔스 내부 무장창 탑재용 개발 착수"
+    },
+    {
+      "editors_comment": "군집 자폭 수상무인정은 단순한 플랫폼 추가가 아니라 해상 거부(sea-denial) 전략의 비용 구조 자체를 바꾸는 게임체인저다. 저단가 군집체가 고가 수상함을 위협하는 비대칭 방정식이 성립하는 순간, 기존 함정 방호 체계(CIWS·소나·함대공미사일)만으로는 포화 공격에 대응하기 어렵다. 한국 해군도 수중무인정(UUV)·수상무인정(USV) 전력화 로드맵에 군집 대응 교전규칙(ROE)과 다층 방호 통합 개념을 조기에 반영해야 하며, 정조대왕급 구축함(KDX-III BIII) 이후 함급 설계 단계에서 USV 군집 위협 대응 아키텍처를 ",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Naval News",
+      "source_url": "https://www.navalnews.com/naval-news/2026/05/stm-unveils-yaktu-swarm-kamikaze-unmanned-surface-vehicle/",
+      "subtitle": "고속·저피탐 설계에 군집 운용 능력 탑재, 해상 비대칭전 패러다임 전환 예고",
+      "summary_en": "Turkish defense firm STM unveiled the YAKTU Kamikaze Unmanned Surface Vehicle (KUSV) at SAHA 2026, featuring high-speed performance, a low-profile hull, and swarm operational capabilities designed for asymmetric maritime strike missions. The platform represents a significant advancement in autonomous naval warfare technology. The proliferation of swarm KUSV systems signals a structural shift in sea-denial strategies, posing new challenges for conventional naval force protection.",
+      "summary_kr": "튀르키예 방산기업 STM이 SAHA 2026 전시회에서 차세대 자폭형 수상무인정(KUSV) 'YAKTU'를 공개했다. YAKTU는 고속 기동, 저피탐 선형, 군집 작전 능력을 결합해 해상 비대칭 타격 임무에 최적화된 플랫폼으로 설계됐다. 군집 자폭 수상무인정의 실전화는 기뢰·어뢰 중심의 전통적 해상 거부 전략을 대체할 새로운 위협 축으로 부상하고 있다.",
+      "title": "튀르키예 STM, 군집 자폭 수상무인정 YAKTU 공개"
+    },
+    {
+      "editors_comment": "퇴역 고숙련 조종사를 통한 전술 유출은 단순 스파이 사건이 아니라 PLAAF의 체계적 전력 격차 단축 전략의 일환이다. 한국도 퇴역 조종사·특수전 요원 대상 해외 용병·자문 계약에 대한 보안 심사 체계를 강화하고, 전역 후 일정 기간 외국 군사기관 접촉 시 신고 의무화 및 사후 모니터링 제도를 국방부 차원에서 제도화해야 한다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Task & Purpose",
+      "source_url": "https://taskandpurpose.com/news/fighter-pilot-sold-secrets-china/",
+      "subtitle": "2년간 중국 체류 후 귀국한 조종사 자택에서 위조 여권·위조 화폐 발견",
+      "summary_en": "U.S. federal authorities allege a retired Air Force fighter pilot spent two years in China training Chinese airmen in classified U.S. aerial tactics. FBI agents recovered counterfeit currency and a fake passport from his home office after he apparently returned to sell a condo. The case underscores China's persistent efforts to exploit retired military personnel as vectors for extracting sensitive operational knowledge.",
+      "summary_kr": "미 연방 당국은 퇴역 미 공군 전투기 조종사가 중국에 2년간 체류하며 중국 공군 조종사들에게 미군 기밀 전술을 교육한 혐의로 기소했다. FBI는 해당 인물의 자택 사무실에서 위조 화폐와 위조 여권을 압수했으며, 그는 귀국 직후 콘도 매각을 시도한 것으로 알려졌다. 이번 사건은 퇴역 군인을 표적으로 한 중국의 군사 정보 수집 활동이 지속적으로 이루어지고 있음을 재확인시켜 준다.",
+      "title": "미 공군 퇴역 전투기 조종사, 중국에 비밀 전술 교육 혐의로 기소"
+    },
+    {
+      "editors_comment": "Littoral Deep Battle 개념의 핵심은 상륙 전력이 해안선에 닿기 전 종심에서 복합 타격으로 분쇄하는 것이다. 한국군도 서해·동해 연안 상륙 위협에 대비해 현재의 해안 방어 중심 ORBAT을 해상 종심 타격(현무-2 SRBM + K21 IFV 기반 기동타격대 + 드론 복합)으로 재편하고, 발리캐탄(Balikatan exercise) 계열 다국적 훈련에 옵저버 이상의 역할로 참여해 이 개념의 교리·전술을 직접 흡수해야 한다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "USNI News",
+      "source_url": "https://news.usni.org/2026/05/05/littoral-deep-battle",
+      "subtitle": "라오아그 해안에서 중국군 상륙 IFV 모사 드론 표적 삼아 연안 종심전투 개념 검증",
+      "summary_en": "At La Paz Sand Dunes near Laoag, Philippines, a combined force of U.S., Philippine, Canadian, and Japanese troops conducted live-fire drills against target drones simulating Chinese amphibious IFVs, validating the U.S. Army's Littoral Deep Battle concept. The exercise tested a coordinated multi-domain approach to defeating amphibious landings in the Indo-Pacific littoral environment. The culminating event on the beach underscored growing multilateral interoperability aimed at deterring large-scale amphibious aggression in the South China Sea.",
+      "summary_kr": "필리핀 라오아그 라파스 사구에서 미국·필리핀·캐나다·일본 연합군이 중국 수륙양용 보병전투차량을 모사한 표적 드론을 활용해 상륙 침공 격퇴 훈련을 실시했다. 미 육군이 고안한 '연안 종심전투(Littoral Deep Battle)' 개념을 실전 검증하는 다국적 합동 훈련으로, 훈련 종료 후 미·일·필 부대가 해안에서 성과를 공유했다. 이번 훈련은 남중국해 유사시 다국적 연합 대응 체계의 실효성을 높이기 위한 통합억제 노력의 일환으로 평가된다.",
+      "title": "미·일·필·캐 연합군, 중국 상륙전 격퇴 훈련 실시"
+    }
+  ],
+  "published_at": "2026-05-06T22:03:36.504235+00:00",
+  "summary": "한반도 2건 · 해외 10건",
+  "title": "Daily Brief — 2026년 05월 07일"
+}
