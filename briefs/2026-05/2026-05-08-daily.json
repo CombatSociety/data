@@ -1,0 +1,142 @@
+{
+  "assessment": "KF-21 Boramae의 '전투용 적합' 판정은 한국이 독자 전투기 개발 역량을 실증한 구조적 성과로, 향후 Block II 무장 통합과 능동위상배열(AESA) 레이더 국산화 일정이 이 성과를 실전 억제력으로 전환하는 핵심 변수다. 반면 북한이 헌법에 핵무력 보유 권한을 명문화하고 RGB(Reconnaissance General Bureau) 연계 조직이 게임 앱 공급망을 통해 탈북민 정보를 체계적으로 수집하는 정황은, 평양이 핵 고도화와 사이버·정보전을 동시 축으로 삼는 비대칭 복합 전략을 제도화 단계까지 끌어올렸음을 보여준다. 호르무즈 해협에서의 미-이란 교전 주장과 중동 미군기지 15곳 228개 시설 피격 확인은 '미군 기지 불가침' 인식이 실전에서 무너졌음을 의미하며, 분산 배치·강화된 능동방호·다층 방공망 재설계 없이는 전진 기지 억제력 자체가 취약해진다는 교훈을 남긴다. 이란 MOIS 연계 MuddyWater의 Chaos 랜섬웨어 위장 침투와 중국 해상 그레이존 함대의 대만 해역 잠식은 모두 귀속 판단을 지연시키는 '임계선 하 작전'이라는 공통 문법을 공유하며, 이에 대응하려면 귀속 속도와 교전규칙 유연성을 동시에 높이는 법·교리 개정이 선행돼야 한다. 일본 육상자위대의 발리캐탄(Balikatan exercise) 88식 대함미사일 실사격과 미 육군의 해양거부(Sea Denial) 교리 재편은 지상 기반 해양거부 전력이 인도태평양 억제 구조의 새로운 축으로 부상하고 있음을 확인하며, 한국 역시 지상 발사 대함 타격 체계를 연합 해양거부 네트워크에 통합하는 방향으로 교리와 획득 우선순위를 조정할 실질적 유인이 생겼다.",
+  "brief_date": "2026-05-08",
+  "digest_type": "daily",
+  "items": [
+    {
+      "editors_comment": "KF-21 보라매의 '전투용 적합' 판정은 단순 개발 완료가 아니라, 한국이 설계·시험·인증 전 주기를 독자 수행할 수 있는 항공전력 생태계를 갖췄음을 의미한다. 다음 임계 과제는 Block II 단계의 AESA 레이더 완전 통합과 공대공·공대지 정밀유도무기 운용 능력 확보로, 이를 조기에 달성해야 F-35A Lightning II와의 고-저 혼합 편대 운용 교리를 실전화할 수 있다.",
+      "priority": "P2",
+      "section": "한반도",
+      "source_name": "국방일보-방위사업",
+      "source_url": "http://kookbang.dema.mil.kr/newsWeb/20260508/2/ATCE_CTGR_0010020000/view.do",
+      "subtitle": "1,600여 회 비행 시험 완료 후 체계개발 최종 관문 통과, 하반기 공군 실전 배치 예정",
+      "summary_en": "South Korea's Defense Acquisition Program Administration (DAPA) announced on the 7th that the KF-21 Boramae fighter has received its final 'combat-ready' certification, completing the last milestone of the system development phase. Following a provisional certification in May 2023, over 1,600 test flights conducted across approximately three years confirmed the aircraft's performance and airworthiness. The first production aircraft is scheduled for operational deployment with the ROK Air Force in the second half of this year, marking South Korea's full attainment of indigenous fighter developm",
+      "summary_kr": "방위사업청(DAPA)은 7일 KF-21 보라매(KF-21 Boramae)가 체계개발 최종 관문인 '전투용 적합' 판정을 획득했다고 밝혔다. 2023년 5월 '잠정 전투용 적합' 판정 이후 약 3년간의 후속 시험평가에서 1,600여 회 비행을 통해 성능과 안정성을 확인했다. 양산 1호기는 올 하반기 공군에 실전 배치될 예정으로, 한국이 독자적인 전투기 개발·양산 능력을 완전히 확보했음을 공식 입증한 이정표다.",
+      "title": "KF-21 보라매, '전투용 적합' 판정 획득…독자 전투기 시대 개막"
+    },
+    {
+      "editors_comment": "핵을 헌법에 명문화한 것은 단순한 선전이 아니라 내부 엘리트와 군부에 대한 '되돌릴 수 없는 계약'이다. 이제 비핵화 협상은 북한 지도부에게 헌법 개정이라는 정치적 자해를 요구하는 구조가 됐다. 한국은 비핵화 로드맵 중심의 대북 전략을 재검토하고, 핵 보유 고착화를 전제로 한 억제·방어 태세—특히 확장억제 실행력 강화와 킬체인 조기경보 체계 고도화—를 전략의 주축으로 전환해야 할 시점이다.",
+      "priority": "P2",
+      "section": "한반도",
+      "source_name": "RFA 한국어",
+      "source_url": "https://rfa.org/korean/in-focus/2026/05/07/north-korea-nuclear-power-consolidation/",
+      "subtitle": "NIS(국가정보원) 분석, 김정은 1인 체제 공고화와 핵 불가역성 동시 제도화",
+      "summary_en": "South Korea's NIS (National Intelligence Service) assessed that North Korea's revised constitution formally enshrines the right to nuclear armed forces, effectively declaring denuclearization off the table. The revision also consolidates the one-man rule of the State Affairs Commission Chairman, institutionalizing Kim Jong-un's absolute authority. This constitutional entrenchment makes it structurally harder to place denuclearization on any future negotiation agenda.",
+      "summary_kr": "NIS(국가정보원)는 북한이 최근 개정한 헌법에 핵무력 보유 권한을 명문화해 사실상 핵포기 불가를 선언했다고 평가했다. 아울러 국무위원장 1인 체제를 헌법적으로 공고히 해 권력 집중 구조가 제도화됐다고 분석했다. 이는 향후 어떠한 협상 국면에서도 비핵화를 의제로 삼기 어렵게 만드는 법적 장치로 기능할 전망이다.",
+      "title": "북한 개정 헌법에 '핵무력권' 명문화…핵포기 불가 선언"
+    },
+    {
+      "editors_comment": "탈북민을 겨냥한 공급망 기반 모바일 악성코드 작전은 북한 사이버 부대가 군사·금융 표적을 넘어 인적 정보망 해체를 목표로 전술을 고도화하고 있다는 신호다. 국정원(NIS)과 통일부 산하 탈북민 지원 기관은 탈북민 접촉 채널에 대한 디지털 위협 인식 교육을 의무화하고, 공개출처정보(OSINT) 기반 앱 공급망 모니터링 체계를 민관 협력으로 상시 운용하는 방향으로 대응 구조를 전환해야 한다.",
+      "priority": "P2",
+      "section": "한반도",
+      "source_name": "VOA 한반도",
+      "source_url": "https://www.voakorea.com/a/north-korean-hackers-target-ethnic-koreans-in-china-with-malware-infested-game-apps-to-collect-defector-data-050626/8147299.html",
+      "subtitle": "중국 조선족 거주 지역 겨냥 모바일 악성코드 침투, 탈북민 신원 노출 우려",
+      "summary_en": "A North Korea-linked hacking group conducted a supply chain attack by embedding malware into popular mobile game applications targeting ethnic Korean communities in China. The operation systematically collected personal information on North Korean defectors, raising serious concerns about the exposure of defector networks and escape routes. The incident highlights the RGB's expanding use of civilian digital platforms as covert intelligence collection vectors.",
+      "summary_kr": "북한 연계 해킹 조직이 중국 조선족 밀집 지역을 표적으로 삼아 인기 모바일 게임 앱에 악성코드를 삽입하는 공급망 공격을 수행한 것으로 확인됐다. 이를 통해 탈북민 관련 개인정보를 지속적으로 수집해온 것으로 드러났으며, 탈북민 네트워크 및 지원 경로 노출 가능성이 제기된다. 이번 작전은 북한 정찰총국(RGB) 계열 사이버 부대가 비군사적 민간 플랫폼을 정보 수집 수단으로 적극 활용하고 있음을 보여주는 사례다.",
+      "title": "북한 해킹 조직, 게임 앱 공급망 공격으로 탈북민 정보 수집"
+    },
+    {
+      "editors_comment": "호르무즈 해협에서의 미-이란 직접 교전이 사실로 확인된다면, 이는 그레이존 분쟁을 넘어 정규전 임계점을 건드리는 사건이다. USCENTCOM은 즉각 분산해상작전(Distributed Maritime Operations) 태세로 전환하고, 청해부대 운용 중인 한국 해군은 CTF-151 협조 채널을 통해 상황 공유 및 비전투원 보호 계획을 선제 점검해야 한다.",
+      "priority": "P1",
+      "section": "해외",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss",
+      "subtitle": "이란 국영매체, 미 구축함이 이란 공격 받고 오만만으로 퇴각했다고 보도",
+      "summary_en": "Iran's Tasnim news agency claimed three U.S. Navy destroyers came under Iranian fire and withdrew from the Strait of Hormuz toward the Gulf of Oman. Explosions were simultaneously reported inside Iran, raising the possibility of U.S. retaliatory strikes. If confirmed, the engagement would mark a dramatic escalation in the Persian Gulf, threatening global energy supply lines and broader regional stability.",
+      "summary_kr": "이란 타스님 통신은 미 해군 구축함 3척이 이란의 공격을 받고 호르무즈 해협에서 오만만 방향으로 퇴각했다고 보도했다. 동시에 이란 내부에서 폭발음이 보고되어 미군의 대응 타격 가능성도 제기된다. 호르무즈 해협은 전 세계 원유 수송량의 약 20%가 통과하는 전략 요충지로, 교전이 사실로 확인될 경우 중동 전역의 안보 구도에 즉각적인 파장이 예상된다.",
+      "title": "이란, 호르무즈 해협서 미 해군 구축함 3척에 교전 주장"
+    },
+    {
+      "editors_comment": "88식 대함미사일의 필리핀 역외 실사격은 단순 훈련 이벤트가 아니라 일본이 '도서방위' 교리를 루손 해협까지 전방 투사하는 해상거부(sea denial) 네트워크 구축의 실증이다. 한국도 해성-II 함대지 대함미사일 체계를 필리핀·베트남 등 남중국해 연안국과의 연합훈련 틀에 통합하고, 다영역작전(MDO) 맥락에서 역외 실사격 훈련 경험을 축적해야 인도태평양 억제 구도에서 실질적 기여국으로 자리매김할 수 있다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Naval News",
+      "source_url": "https://www.navalnews.com/naval-news/2026/05/japan-fires-type-88-anti-ship-missile-in-philippine-exercise/",
+      "subtitle": "루손섬 북서부 라오아그 인근에서 퇴역함 표적 실사격, 역외 동맹 억제력 시위",
+      "summary_en": "Japan's Ground Self-Defense Force fired two Type 88 anti-ship missiles at a decommissioned vessel during Exercise Balikatan 2026 on 6 May, launching from the Culili Point sand dunes in northwestern Luzon, Philippines. This marks the first live anti-ship missile firing by Japan on Philippine soil, publicly demonstrating a combined sea-denial capability along South China Sea approaches. The event signals deepening Japan-Philippines defense integration as a multilateral deterrence measure against Chinese coercive activities in the region.",
+      "summary_kr": "일본 육상자위대가 2026년 발리캐탄(Balikatan exercise) 훈련 중 5월 6일 필리핀 루손섬 북서부 쿨릴리 포인트 사구에서 88식 대함미사일 2발을 퇴역 함정에 실사격했다. 이는 일본이 필리핀 영토에서 대함미사일 실사격을 실시한 최초 사례로, 남중국해 접근로에 대한 일·필 연합 해상거부 능력을 공개적으로 과시한 것이다. 이번 훈련은 중국의 남중국해 강압 행동에 대응한 다자 억제 구도 강화의 일환으로 평가된다.",
+      "title": "일본, 필리핀 발리캐탄 훈련서 88식 대함미사일 실사격 실시"
+    },
+    {
+      "editors_comment": "180일 계획을 73일로 압축한 것은 단순 일정 단축이 아니라 디지털 엔지니어링 기반 모델-시뮬레이션 통합 시험(MBSE/DT&E)이 실전 검증된 사례다. B-21 Raider의 조기 전력화는 중국 DF-26 IRBM 사거리 내 전진기지 의존도를 줄이는 장거리 침투 타격 옵션을 미국에 복원시키며, 한반도 유사시 확장억제 실행력과도 직결된다. 한국 ADD와 DAPA는 KF-21 Boramae 후속 블록 개발에서 디지털 트윈 기반 시험 압축 방법론을 벤치마킹해 개발 주기를 단축하는 방향을 검토할 시점이다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defence Blog",
+      "source_url": "https://defence-blog.com/northrop-grumman-reports-b-21-test-milestone-as-program-accelerates/",
+      "subtitle": "미 공군-노스롭 그루먼 합동시험대, 전체 임무의 절반 완료하며 프로그램 가속화",
+      "summary_en": "Northrop Grumman announced on May 7 that the B-21 Raider Combined Test Force, in partnership with the U.S. Air Force, compressed a 180-day test plan to just 73 days and secured $11.8 billion in program funding, with half of all test missions already completed. The accelerated timeline signals that the next-generation stealth bomber is on track for earlier operational fielding than originally projected. This development directly advances U.S. nuclear triad modernization and long-range conventional strike capability.",
+      "summary_kr": "노스롭 그루먼은 5월 7일 B-21 Raider 합동시험대(Combined Test Force)가 당초 180일 계획의 시험 일정을 73일로 단축하고 118억 달러의 예산을 확보했다고 발표했다. 전체 시험 임무의 절반이 완료된 상태로, 프로그램 가속화가 공식 확인됐다. 이는 미국의 차세대 스텔스 폭격기 전력화 일정이 예상보다 빠르게 진행되고 있음을 의미하며, 핵 투발 수단 현대화에 직접적인 영향을 미친다.",
+      "title": "B-21 레이더 시험 일정 180일→73일로 단축, 118억 달러 확보"
+    },
+    {
+      "editors_comment": "비공개 훈장 수여는 단순 의전이 아니라 북한 장성들을 러시아 전쟁 지휘 체계 내 공식 행위자로 편입시키는 절차적 신호다. 북한 정찰총국(RGB) 및 KPA 전방 지휘관들이 실전 연합작전 경험을 축적하고 있다는 점에서, 한미연합사(CFC)는 향후 한반도 유사시 북한군 교리에 러시아식 종심타격·전자전 통합 전술이 반영될 가능성을 전쟁계획(OPLAN) 위협 평가에 즉각 반영해야 한다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "NK News",
+      "source_url": "https://www.nknews.org/2026/05/russia-secretly-awarded-north-korean-generals-in-charge-of-kursk-fighting/",
+      "subtitle": "2025년 12월 모스크바 비공개 시상식, 북러 군사 밀착 심화 확인",
+      "summary_en": "Russian President Vladimir Putin reportedly held a secret medal ceremony in Moscow on December 3, 2025, awarding North Korean generals who commanded Pyongyang's troop deployment in the Kursk fighting. The same generals had previously met Putin at Red Square during May 9 Victory Day celebrations. The covert ceremony signals that North Korea-Russia military cooperation has deepened to a level approaching formal alliance status.",
+      "summary_kr": "블라디미르 푸틴 러시아 대통령이 2025년 12월 3일 모스크바에서 쿠르스크 전투를 지휘한 북한 장성들에게 비공개 훈장 수여식을 진행한 것으로 확인됐다. 해당 장성들은 같은 해 5월 9일 전승절 행사에서 푸틴과 회동한 인물들로, 북한군의 러시아 파병 작전을 직접 지휘한 것으로 알려졌다. 이번 비밀 시상은 북러 군사 협력이 공식 동맹 수준으로 격상되고 있음을 보여주는 구체적 증거다.",
+      "title": "러시아, 쿠르스크 전투 지휘 북한 장성들에 비밀 훈장 수여"
+    },
+    {
+      "editors_comment": "228개 피격 데이터는 단순 피해 통계가 아니라 적이 미군 기지 ORBAT을 사전에 정밀 분석하고 우선순위 타격 목록을 작성했다는 정보·표적화 역량의 증거다. USINDOPACOM 전구에서도 동일한 논리가 적용되며, 한국군은 주한미군 기지 및 ROK JCS 핵심 노드의 피격 시나리오를 전제로 한 분산 지휘·예비 통신·전력 지원 체계를 지금 당장 Agile Combat Employment(ACE) 개념과 연계해 재설계해야 한다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Small Wars Journal",
+      "source_url": "https://smallwarsjournal.com/2026/05/07/the-american-military-base-untouchable-no-more/",
+      "subtitle": "연료 저장소·레이더·MIM-104 Patriot SAM·항공기까지 정밀 타격, 미군 기지 취약성 현실화",
+      "summary_en": "Satellite imagery analysis revealed damage to at least 228 structures or systems across 15 U.S. military facilities in the Middle East during the Iran War, with fuel depots, barracks, radars, communications nodes, MIM-104 Patriot SAM batteries, and aircraft all struck. Analysts noted that the precision of the strikes was more alarming than the sheer scale of destruction. The findings effectively shatter the long-held assumption of U.S. base invulnerability and signal an urgent need to reassess forward basing doctrine and dispersal strategies.",
+      "summary_kr": "위성영상 분석 결과 이란전쟁 과정에서 중동 내 미군 기지 15곳에서 228개 이상의 구조물·시스템이 피해를 입은 것으로 확인됐다. 연료 저장소, 막사, 레이더, 통신 노드, MIM-104 Patriot SAM 포대, 항공기 등 핵심 전력 지원 자산이 망라됐으며, 피해 규모보다 타격의 정밀성이 더 주목받고 있다. 이는 미군 전진 기지가 더 이상 '불가침 영역'이 아님을 위성 영상으로 입증한 사례로, 기지 방호 교리와 분산 배치 전략 전반에 대한 재검토를 촉구하는 신호탄이 됐다.",
+      "title": "이란전쟁으로 중동 미군기지 15곳·228개 시설 피격, '불가침 신화' 붕괴"
+    },
+    {
+      "editors_comment": "지상군의 해양거부 역할 통합은 MDO 교리의 핵심 실험이다. M142 HIMARS에 Naval Strike Missile(NSM)을 탑재한 미 육군의 연안 화력 운용은 이미 필리핀 발리캐탄(Balikatan exercise)에서 실증됐다. 한국군도 현무-3(Hyunmoo-3 cruise missile) 계열의 지상 발사 대함 능력을 ROK 1st Corps 및 해병대 1사단(ROK 1st Marine Division) 연안 방어 편제와 연동하는 합동 화력 통합 훈련을 제도화해야, 유사시 서해·남해 해양거부 시나리오에서 독자 기여 역",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "MWI at West Point",
+      "source_url": "https://mwi.westpoint.edu/deterring-the-dragon-the-us-army-and-sea-denial-in-maritime-warfare/",
+      "subtitle": "중국 해양팽창 억제를 위해 미 육군의 연안·도서 작전 역할이 재정의되고 있다",
+      "summary_en": "The U.S. Army is being repositioned as a key contributor to sea denial operations across the Indo-Pacific, leveraging ground-based anti-ship missile systems and littoral maneuver doctrine to complement naval forces against Chinese maritime expansion. This reflects the maturation of Multi-Domain Operations (MDO) concept, where land forces contest maritime corridors through dispersed island-chain positioning. The shift represents a structural evolution beyond traditional land warfare roles, integrating Army fires into the broader maritime deterrence architecture.",
+      "summary_kr": "인도태평양의 분산된 도서 지형과 중국의 해양 팽창에 대응하기 위해 미 육군이 해양거부(Sea Denial) 작전의 주요 행위자로 재편되고 있다. 지상 기반 대함 미사일 체계와 연안 작전 교리를 결합해 해군력을 보완하는 다영역작전(MDO) 개념이 구체화되고 있다. 이는 전통적인 지상군 역할을 넘어 육군이 해양 억제력의 일부를 담당하는 구조적 전환을 의미한다.",
+      "title": "미 육군, 인도태평양 해양거부 작전의 핵심 전력으로 부상한다"
+    },
+    {
+      "editors_comment": "국가 행위자가 상용 랜섬웨어를 위장막으로 쓰는 전술은 귀속 분석 지연이 곧 전략적 이득임을 역이용하는 것이다. 한국 사이버작전사령부와 국정원(NIS)은 초기 사고 분류 단계에서 TTP(전술·기법·절차) 기반 귀속 분석을 랜섬웨어 대응 플레이북에 의무화하고, MuddyWater 계열 이란 APT의 TTPs를 Five Eyes 공유 인텔과 연동해 조기 식별 임계값을 낮춰야 한다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "The Record",
+      "source_url": "https://therecord.media/iran-government-hackers-use-chaos-ransomware-as-cover",
+      "subtitle": "이란 정보부 연계 APT 그룹 MuddyWater, 랜섬웨어 공격으로 위장해 귀속 분석 교란",
+      "summary_en": "The Iranian state-linked APT group MuddyWater, tied to Iran's Ministry of Intelligence and Security (MOIS), was found to have used Chaos ransomware as cover during a recent intrusion, initially misidentified as a criminal ransomware attack. Incident responders from Rapid7 uncovered the true attribution through deep forensic analysis. The operation highlights a growing trend of nation-state actors leveraging cybercriminal toolsets to obscure attribution and complicate incident response.",
+      "summary_kr": "이란 정보보안부(MOIS) 연계 APT 그룹 MuddyWater가 Chaos 랜섬웨어를 위장 수단으로 활용한 사이버 침투 작전이 사이버보안 업체 Rapid7의 사고대응 분석을 통해 확인됐다. 초기 분석에서는 일반 랜섬웨어 공격으로 분류됐으나, 심층 포렌식 결과 국가 지원 행위자의 소행으로 귀속됐다. 이는 국가 지원 해킹 그룹이 사이버 범죄 도구를 의도적으로 활용해 귀속 분석을 지연·교란하는 전술이 고도화되고 있음을 보여준다.",
+      "title": "이란 국가 해커, Chaos 랜섬웨어로 위장한 사이버 침투 작전 수행"
+    },
+    {
+      "editors_comment": "그레이존 해상 압박의 핵심은 '법적 모호성'과 '반응 피로'의 복합 효과다. 대만뿐 아니라 남중국해에서 유사 전술을 경험한 필리핀 사례처럼, 대응 교리는 해경·해군·법집행 기관 간 통합 지휘체계(Unified Maritime Domain Awareness)와 국제법 기반 퇴거 절차를 사전에 제도화해야 한다. 한국도 서해·이어도 수역에서 중국 해상민병대(PAFMM) 침투 시나리오를 상정해 해양경찰-해군 합동 대응 매뉴얼과 PLAN 해상민병대 식별 OSINT 체계를 지금 구축해야 실전 공백을 막을 수 있다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "The Strategist (ASPI)",
+      "source_url": "https://www.aspistrategist.org.au/chinas-grey-zone-fleet-is-eroding-taiwans-control-at-sea/",
+      "subtitle": "민간·준군사 선박 혼용 전술로 대만 해역 압박 수위를 단계적으로 높이고 있다",
+      "summary_en": "China is deploying a maritime grey-zone fleet composed of civilian and paramilitary vessels to harass and probe Taiwan's sea control without triggering conventional military thresholds. This strategy incrementally erodes Taiwan's maritime authority while limiting Taipei's legal and operational response options. The approach underscores that deterrence frameworks focused solely on conventional warfighting are insufficient against persistent sub-threshold coercion.",
+      "summary_kr": "중국은 정규 해군 함정 대신 민간 및 준군사 선박으로 구성된 해상 그레이존 함대를 운용해 대만 해역을 지속적으로 압박하고 있다. 이 전술은 무력 충돌 임계선 아래에서 대만의 대응을 제한하면서 실효적 해상 통제권을 점진적으로 약화시키는 데 목적이 있다. 정규전 억제력만으로는 이 같은 비선형 압박에 대응하기 어려워 대만과 동맹국의 새로운 교리·법적 대응 틀 마련이 시급하다.",
+      "title": "중국 해상 그레이존 함대, 대만 해상 통제권 잠식 가속화"
+    },
+    {
+      "editors_comment": "정치적 '일시 중단' 선언과 현장 교전 규칙(ROE)이 동시에 작동하는 이 상황은 전형적인 강압 외교(coercive diplomacy)의 이중 트랙이다. USCENTCOM이 봉쇄 집행 강도를 유지하는 한, 이란은 협상 테이블에서 양보 압박을 받는 동시에 우회 돌파를 시도할 유인도 커진다. 향후 6개월 내 이란의 비국가 대리 세력을 통한 호르무즈 해협 기뢰 부설 또는 수상무인정 공격 가능성을 임계 시나리오로 설정하고, 청해부대 운용 경험을 보유한 한국 해군도 CTF-152·153 계열 다국적 해상 작전 참여 확대를 통해 SLOC 보",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-navy/2026/05/06/us-forces-fire-at-disable-iran-flagged-tanker-trying-to-evade-blockade/",
+      "subtitle": "트럼프 '프리덤 프로젝트 일시 중단' 발표에도 이란 항구 해상봉쇄는 실질 유지 중",
+      "summary_en": "U.S. Navy forces fired upon and disabled an Iran-flagged tanker attempting to breach the ongoing naval blockade of Iranian ports. Despite President Trump's announcement that Project Freedom was paused, the operational blockade remains in effect, preventing vessels from entering or exiting Iranian ports. The incident highlights a gap between diplomatic messaging and on-the-ground military posture, signaling continued pressure on Iran's maritime trade.",
+      "summary_kr": "미 해군이 봉쇄선을 돌파하려던 이란 국기 유조선에 발포해 무력화했다. 트럼프 대통령이 '프리덤 프로젝트(Project Freedom)'의 일시 중단을 선언했음에도 불구하고, 이란 항구 출입을 차단하는 해상봉쇄는 실질적으로 계속 운용되고 있다. 이번 교전은 외교적 수사와 현장 군사 행동 사이의 괴리를 드러내며, 이란의 원유 수출 및 해상 물류에 대한 압박이 지속되고 있음을 시사한다.",
+      "title": "미 해군, 이란 국기 유조선에 발포·무력화…봉쇄 작전 지속"
+    }
+  ],
+  "published_at": "2026-05-07T22:04:22.232363+00:00",
+  "summary": "한반도 3건 · 해외 9건",
+  "title": "Daily Brief — 2026년 05월 08일"
+}
