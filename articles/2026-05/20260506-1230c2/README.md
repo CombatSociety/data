@@ -1,6 +1,6 @@
-# 미 공군 B-1B 폭격기 '아포칼립스 II' 2년 정비 후 현역 복귀
+# 미 공군 B-1B 폭격기 '아포칼립스 II', 2년 정비 후 현역 복귀
 
-미 공군의 B-1B 폭격기 '아포칼립스 II'가 약 2년간의 정비를 완료하고 애리조나주 저장소에서 현역 복귀했다.
+미 공군 B-1B 폭격기 '아포칼립스 II'가 약 2년간의 정비를 완료하고 저장소에서 현역 복귀했다.
 
 | 항목 | 값 |
 |---|---|
@@ -8,8 +8,8 @@
 | 발행 | 2026-05-06T19:45:41.00386+00:00 |
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
-| 분류 | operations |
-| 태그 | 미국, 공군, 폭격기, 배치 |
+| 분류 | weapons |
+| 태그 | 미국, 공군, 폭격기, 도입 |
 | 단일 출처 | [The War Zone](https://www.twz.com/air/b-1b-apocalypse-ii-out-of-the-boneyard-and-back-in-service) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 공군 B-1B 폭격기 '아포칼립스 II' 2년 정비 후 현역 복귀", combatsociety.kr/news/20260506-1230c2, github.com/CombatSociety/data.
+Combat Society dataset, "미 공군 B-1B 폭격기 '아포칼립스 II', 2년 정비 후 현역 복귀", combatsociety.kr/news/20260506-1230c2, github.com/CombatSociety/data.
 ```

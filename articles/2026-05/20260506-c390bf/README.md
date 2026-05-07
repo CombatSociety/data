@@ -1,4 +1,4 @@
-# 미 공군, EA-37B 전자전 항공기 도입 규모 거의 2배 확대
+# 미 공군, EA-37B 전자전 항공기 도입 규모 2배 확대
 
 미 공군이 EA-37B 전자전 항공기의 도입 규모를 거의 2배로 확대하고 향후 5년간 30억 달러 이상을 투자할 계획이다.
 
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 공군, EA-37B 전자전 항공기 도입 규모 거의 2배 확대", combatsociety.kr/news/20260506-c390bf, github.com/CombatSociety/data.
+Combat Society dataset, "미 공군, EA-37B 전자전 항공기 도입 규모 2배 확대", combatsociety.kr/news/20260506-c390bf, github.com/CombatSociety/data.
 ```

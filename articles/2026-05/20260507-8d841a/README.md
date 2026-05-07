@@ -1,6 +1,6 @@
 # 미군 심리전 부대, 82공정사단과 연합훈련으로 현대전 대응 능력 강화
 
-미 7심리전대대가 82공정사단과 JRTC 훈련에서 현대전 심리전 능력을 강화하고 있으며, 정보전 통합 운용 능력을 검증 중이다.
+미 7심리전대대가 82공정사단과 합동훈련을 실시하며 현대 분쟁에서의 심리전 능력을 강화하고 있다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | operations |
-| 태그 | 미국, USSOCOM, 다영역작전, 훈련 |
+| 태그 | 미국, 훈련, 다영역작전 |
 | 단일 출처 | [Soldier Systems](https://soldiersystems.net/2026/05/07/the-invisible-front-how-psyop-is-redefining-modern-conflict/?utm_source=rss&utm_medium=rss&utm_campaign=the-invisible-front-how-psyop-is-redefining-modern-conflict) |
 
 ## 출처 매체
