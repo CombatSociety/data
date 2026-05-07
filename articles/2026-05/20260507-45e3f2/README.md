@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 미국, 공군, AFSOC, 전자전, 다영역작전 |
+| 태그 | 미국, 공군, AFSOC |
 | 단일 출처 | [Air Force Magazine](https://www.airandspaceforces.com/air-force-plan-ditch-bacn-jets-satcom/) |
 
 ## 출처 매체

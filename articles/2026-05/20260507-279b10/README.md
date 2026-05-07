@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | threats |
-| 태그 | 미국, 북한, 대북제재, 사이버안보 |
+| 태그 | 미국, 북한, 사이버안보, 대북제재, 외교 |
 | 단일 출처 | [VOA 한반도](https://www.voakorea.com/a/two-u-s-nationals-each-sentenced-to-18-months-for-facilitating-fraudulent-employment-of-north-korean-it-workers-050726/8147647.html) |
 
 ## 출처 매체

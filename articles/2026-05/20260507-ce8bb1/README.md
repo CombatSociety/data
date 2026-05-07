@@ -1,6 +1,6 @@
-# 미 육군, JLTV 기반 RAD 무인기 방어체계 평가
+# 미군, JLTV 기반 RAD 대드론 시스템 평가
 
-미 육군이 SAIC와 콩스베르그가 개발한 JLTV 기반 RAD 무인기 방어체계를 리투아니아 플라이트랩 프로젝트에서 평가 중이다.
+미군이 SAIC와 Kongsberg Defence가 개발한 JLTV 기반 RAD 대드론 시스템을 리투아니아의 Project Flytrap 작전에서 평가 중이다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 육군, JLTV 기반 RAD 무인기 방어체계 평가", combatsociety.kr/news/20260507-ce8bb1, github.com/CombatSociety/data.
+Combat Society dataset, "미군, JLTV 기반 RAD 대드론 시스템 평가", combatsociety.kr/news/20260507-ce8bb1, github.com/CombatSociety/data.
 ```

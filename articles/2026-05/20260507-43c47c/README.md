@@ -1,4 +1,4 @@
-# KF-21 보라매 '전투용 적합' 판정 획득…국산 전투기 시대 개막
+# KF-21 보라매 '전투용 적합' 판정 획득…양산 1호기 하반기 실전 배치
 
 KF-21 보라매가 체계개발 최종 관문인 '전투용 적합' 판정을 획득했으며, 양산 1호기는 하반기 공군 실전 배치 예정이다.
 
@@ -23,5 +23,5 @@ KF-21 보라매가 체계개발 최종 관문인 '전투용 적합' 판정을 �
 ## 인용
 
 ```
-Combat Society dataset, "KF-21 보라매 '전투용 적합' 판정 획득…국산 전투기 시대 개막", combatsociety.kr/news/20260507-43c47c, github.com/CombatSociety/data.
+Combat Society dataset, "KF-21 보라매 '전투용 적합' 판정 획득…양산 1호기 하반기 실전 배치", combatsociety.kr/news/20260507-43c47c, github.com/CombatSociety/data.
 ```
