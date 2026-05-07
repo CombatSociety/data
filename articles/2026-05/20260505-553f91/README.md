@@ -1,0 +1,27 @@
+# 미국, 이란 고속정 공격...마에스크 선박 호르무즈 해협 통과
+
+미국이 이란 고속정을 공격한 가운데 마에스크 상선이 미군 보호 아래 호르무즈 해협을 통과했다. 이란의 UAE 석유시설 공격과 미군의 해협 내 활동 강화로 중동 해상 긴장이 고조되고 있다.
+
+| 항목 | 값 |
+|---|---|
+| Slug | `20260505-553f91` |
+| 발행 | 2026-05-05T03:38:11.635611+00:00 |
+| 우선순위 | P1 |
+| 콘텐츠 타입 | wire |
+| 분류 | operations |
+| 태그 | 미국, 이란, 중동 |
+| 단일 출처 | [bbc.com](https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss) |
+
+## 출처 매체
+
+- [BBC](https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss)
+
+## 사이트에서 읽기
+
+<https://combatsociety.kr/news/20260505-553f91>
+
+## 인용
+
+```
+Combat Society dataset, "미국, 이란 고속정 공격...마에스크 선박 호르무즈 해협 통과", combatsociety.kr/news/20260505-553f91, github.com/CombatSociety/data.
+```

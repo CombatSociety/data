@@ -1,0 +1,22 @@
+[
+  {
+    "name": "BBC",
+    "type": "international",
+    "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "name": "BBC",
+    "type": "international",
+    "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "name": "Ukrinform",
+    "type": "international",
+    "url": "https://www.ukrinform.net/rubric-ato/4119200-russian-strikes-on-nikopol-region-leave-five-people-injured.html"
+  },
+  {
+    "name": "Ukrinform",
+    "type": "international",
+    "url": "https://www.ukrinform.net/rubric-ato/4119197-russian-shahed-drone-hits-residential-building-in-kryvyi-rih-leaving-five-injured.html"
+  }
+]

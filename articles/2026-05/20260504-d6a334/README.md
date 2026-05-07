@@ -1,0 +1,27 @@
+# 영국 해군, 무인 광해역 소해 시스템 탑재한 '하이브리드 해군' 운영 시작
+
+영국 해군이 베이급 보조함 RFA 라임 베이에 무인 광해역 소해 시스템을 탑재해 유인·무인 결합 운영을 시작했다. 이는 제한된 자산으로 긴급 상황에 유연하게 대응하려는 전략적 선택이다.
+
+| 항목 | 값 |
+|---|---|
+| Slug | `20260504-d6a334` |
+| 발행 | 2026-05-04T04:47:34.628123+00:00 |
+| 우선순위 | P3 |
+| 콘텐츠 타입 | wire |
+| 분류 | doctrine |
+| 태그 | 해군 |
+| 단일 출처 | [Naval News](https://www.navalnews.com/naval-news/2026/05/lyme-bay-mcm-uncrewed-systems-fit-illustrates-hybrid-navy-flexibility/) |
+
+## 출처 매체
+
+- [Naval News](https://www.navalnews.com/naval-news/2026/05/lyme-bay-mcm-uncrewed-systems-fit-illustrates-hybrid-navy-flexibility/)
+
+## 사이트에서 읽기
+
+<https://combatsociety.kr/news/20260504-d6a334>
+
+## 인용
+
+```
+Combat Society dataset, "영국 해군, 무인 광해역 소해 시스템 탑재한 '하이브리드 해군' 운영 시작", combatsociety.kr/news/20260504-d6a334, github.com/CombatSociety/data.
+```
