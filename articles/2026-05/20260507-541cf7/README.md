@@ -1,6 +1,6 @@
-# 미 육군 M119A3 곡사포, 상륙작전 저지 훈련 실시
+# 미 육군, M119A3 곡사포로 상륙작전 저지 훈련 실시
 
-미 육군 제25보병사단이 M119A3 105mm 곡사포로 적 상륙작전 저지 훈련을 실시했다.
+미 육군 제25보병사단이 M119A3 곡사포를 활용해 상륙작전 저지 실탄훈련을 실시했다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 육군 M119A3 곡사포, 상륙작전 저지 훈련 실시", combatsociety.kr/news/20260507-541cf7, github.com/CombatSociety/data.
+Combat Society dataset, "미 육군, M119A3 곡사포로 상륙작전 저지 훈련 실시", combatsociety.kr/news/20260507-541cf7, github.com/CombatSociety/data.
 ```
