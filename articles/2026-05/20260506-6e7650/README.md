@@ -1,6 +1,6 @@
 # 미군, MK22 정밀저격소총용 XM1224 하이브리드 대물탄 개발 중
 
-미군 JPEO A&A가 MK22 정밀저격소총용 XM1224 하이브리드 대물탄을 개발 중이며, 저격수의 원거리 감시·정찰 능력 강화를 목표로 한다.
+미 육군 JPEO A&A가 MK22 정밀저격소총용 XM1224 하이브리드 대물탄을 개발 중이며, 병사 전투력 강화 사업의 일환으로 추진되고 있다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 미국, 특수전, 방산정책 |
+| 태그 | 미국, 육군 |
 | 단일 출처 | [Soldier Systems](https://soldiersystems.net/2026/05/06/hybrid-anti-materiel-round-hamr-delivering-decisive-advantage-through-unconventional-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=hybrid-anti-materiel-round-hamr-delivering-decisive-advantage-through-unconventional-innovation) |
 
 ## 출처 매체
