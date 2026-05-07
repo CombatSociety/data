@@ -1,6 +1,6 @@
 # 미군, 정밀저격소총용 신형 탄약 'HAMR' 개발 중
 
-미 육군이 MK22 정밀저격소총용 신형 탄약 XM1224 HAMR을 개발 중이며, 저격수의 관찰·사격 거리 확대와 전투 효과성 강화를 목표로 하고 있다.
+미군이 MK22 정밀저격소총용 신형 탄약 XM1224 HAMR을 개발 중이며, 다양한 작전 환경에서 저격수의 원거리 감지·관찰 능력 향상을 목표로 하고 있다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 미국, 육군 |
+| 태그 | 미국, 특수전 |
 | 단일 출처 | [Soldier Systems](https://soldiersystems.net/2026/05/06/hybrid-anti-materiel-round-hamr-delivering-decisive-advantage-through-unconventional-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=hybrid-anti-materiel-round-hamr-delivering-decisive-advantage-through-unconventional-innovation) |
 
 ## 출처 매체

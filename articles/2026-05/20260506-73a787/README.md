@@ -1,6 +1,6 @@
-# 중국·일본 갈등, 더욱 위험한 국면으로 진입
+# 중국·일본, 더욱 위험한 대립 국면 진입
 
-중국과 일본이 상대방의 전쟁 준비를 의심하면서 갈등이 위험한 국면으로 진입 중. 양국 모두 전쟁을 원하지 않지만 오인과 계산 착오로 인한 우발적 충돌 가능성이 증가하고 있다.
+중국과 일본이 상대방의 전쟁 준비 의혹으로 인한 위험한 대립 국면에 진입하고 있으며, 양국 간 오인과 오판으로 인한 우발적 충돌 위험이 증가하고 있다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | geopolitics |
-| 태그 | 중국, 일본, 그레이존 분쟁, 하이브리드전, 인도태평양, 남중국해 |
+| 태그 | 중국, 일본, 인도태평양, 한반도 |
 | 단일 출처 | [The Diplomat](https://thediplomat.com/2026/05/china-and-japan-are-entering-a-more-dangerous-phase-of-rivalry/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "중국·일본 갈등, 더욱 위험한 국면으로 진입", combatsociety.kr/news/20260506-73a787, github.com/CombatSociety/data.
+Combat Society dataset, "중국·일본, 더욱 위험한 대립 국면 진입", combatsociety.kr/news/20260506-73a787, github.com/CombatSociety/data.
 ```
