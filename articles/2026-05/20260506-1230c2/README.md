@@ -1,6 +1,6 @@
-# 미 B-1B 폭격기 '아포칼립스 II', 사막 저장소에서 복귀 작전 투입
+# 미 B-1B 폭격기 '아포칼립스 II' 2년 정비 후 현역 복귀
 
-미 공군 B-1B 폭격기 '아포칼립스 II'가 약 2년의 정비를 마치고 사막 저장소에서 현역 작전에 복귀했다.
+미 공군 B-1B 폭격기 '아포칼립스 II'가 약 2년간의 정비를 완료하고 데이비스-몬테한 공군기지의 보네야드에서 현역 복귀했다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 B-1B 폭격기 '아포칼립스 II', 사막 저장소에서 복귀 작전 투입", combatsociety.kr/news/20260506-1230c2, github.com/CombatSociety/data.
+Combat Society dataset, "미 B-1B 폭격기 '아포칼립스 II' 2년 정비 후 현역 복귀", combatsociety.kr/news/20260506-1230c2, github.com/CombatSociety/data.
 ```
