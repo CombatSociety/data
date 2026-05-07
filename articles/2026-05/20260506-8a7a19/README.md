@@ -1,6 +1,6 @@
-# 우크라이나, 러시아 에너지 인프라 공격 강화…유전·항만 집중 타격
+# 우크라이나, 러시아 석유 인프라 공격 강도 2배 높여
 
-우크라이나가 러시아 석유 정유시설·항만·유조선 등 에너지 인프라에 대한 공격을 2배 이상 강화해 5월까지 지속하고 있으며, ACLED는 이를 일시적 확대가 아닌 지속적 캠페인으로 평가했다.
+우크라이나가 러시아 석유 인프라 공격을 2배로 강화해 5월까지 지속하고 있으며, ACLED는 이를 일시적 확대가 아닌 지속적 캠페인으로 평가했다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | operations |
-| 태그 | 우크라이나, 러시아, 미사일발사, 교전 |
+| 태그 | 우크라이나, 러시아, 교전 |
 | 단일 출처 | [Defence Blog](https://defence-blog.com/ukraine-hits-russian-energy-infrastructure-to-blunt-oil-revenue-surge/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "우크라이나, 러시아 에너지 인프라 공격 강화…유전·항만 집중 타격", combatsociety.kr/news/20260506-8a7a19, github.com/CombatSociety/data.
+Combat Society dataset, "우크라이나, 러시아 석유 인프라 공격 강도 2배 높여", combatsociety.kr/news/20260506-8a7a19, github.com/CombatSociety/data.
 ```
