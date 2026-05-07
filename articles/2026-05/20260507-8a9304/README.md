@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | tech |
-| 태그 | 미국, 사이버무기, AI국방, 사이버안보, 북한 사이버부대 |
+| 태그 | 미국, 사이버안보, AI국방, 사이버무기 |
 | 단일 출처 | [Defense One](https://www.defenseone.com/threats/2026/05/pentagon-leaders-love-agentic-ai-its-giving-cyber-criminals-nation-state-powers/413379/) |
 
 ## 출처 매체
