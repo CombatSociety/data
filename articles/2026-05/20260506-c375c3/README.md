@@ -1,6 +1,6 @@
-# 북한 해킹 조직, 중국 조선족 겨냥 게임 앱 악성코드 공급망 공격
+# 북한 해킹 조직, 중국 게임 앱 통해 탈북민 정보 수집
 
-북한 연계 해킹 조직이 중국 조선족 지역의 게임 앱에 악성코드를 심어 탈북민 정보를 수집한 공급망 공격을 감행했다.
+북한 연계 해킹 조직이 중국 게임 앱에 악성코드를 심어 조선족과 탈북민 정보를 수집해온 것으로 드러났다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "북한 해킹 조직, 중국 조선족 겨냥 게임 앱 악성코드 공급망 공격", combatsociety.kr/news/20260506-c375c3, github.com/CombatSociety/data.
+Combat Society dataset, "북한 해킹 조직, 중국 게임 앱 통해 탈북민 정보 수집", combatsociety.kr/news/20260506-c375c3, github.com/CombatSociety/data.
 ```
