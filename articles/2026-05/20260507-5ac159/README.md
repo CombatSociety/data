@@ -1,6 +1,6 @@
-# 북한, 핵무장 신형 군함 6월 중순 배치 예정 발표
+# 북한, 핵무장 신형 구축함 6월 중순 배치 예정
 
-북한이 핵무장 신형 군함을 6월 중순에 배치할 예정이라고 발표했다. 서해 해역에서 첫 항해시험을 마친 후 이같은 방침을 밝혔다.
+북한이 핵무장 신형 구축함 51호함을 6월 중순 배치할 예정이며, 김정은이 서해 항해 시험에 탑승했다고 밝혔다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P1 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 북한, 해군, 핵무기, 배치, 미사일발사 |
+| 태그 | 북한, 해군, 탄도미사일, 핵무기, 배치, 한반도 |
 | 단일 출처 | [NK News](https://www.nknews.org/2026/05/north-korea-says-it-will-deploy-new-nuclear-armed-warship-in-mid-june/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "북한, 핵무장 신형 군함 6월 중순 배치 예정 발표", combatsociety.kr/news/20260507-5ac159, github.com/CombatSociety/data.
+Combat Society dataset, "북한, 핵무장 신형 구축함 6월 중순 배치 예정", combatsociety.kr/news/20260507-5ac159, github.com/CombatSociety/data.
 ```

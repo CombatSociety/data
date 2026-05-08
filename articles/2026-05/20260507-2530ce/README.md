@@ -1,6 +1,6 @@
-# 미 육군, 인도태평양 해양거부전 역할 강화
+# 미 육군, 인도태평양 해양거부전략 강화…중국 견제
 
-Modern War Institute에 따르면 미 육군이 인도태평양 지역에서 해양거부전 역할을 강화하고 있으며, 이는 중국의 부상에 대응하기 위한 전략적 조정으로 분석된다.
+Modern War Institute에 따르면 미 육군이 인도태평양에서 중국의 해상 팽창을 억제하기 위해 해양거부 전략을 강화하고 있다.
 
 | 항목 | 값 |
 |---|---|
@@ -8,8 +8,8 @@ Modern War Institute에 따르면 미 육군이 인도태평양 지역에서 해
 | 발행 | 2026-05-07T07:42:56.973552+00:00 |
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
-| 분류 | doctrine |
-| 태그 | 미국, 육군, 인도태평양, 중국, 다영역작전, 통합억제 |
+| 분류 | geopolitics |
+| 태그 | 미국, 중국, 인도태평양, 해군, 다영역작전, 통합억제 |
 | 단일 출처 | [MWI at West Point](https://mwi.westpoint.edu/deterring-the-dragon-the-us-army-and-sea-denial-in-maritime-warfare/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@ Modern War Institute에 따르면 미 육군이 인도태평양 지역에서 해
 ## 인용
 
 ```
-Combat Society dataset, "미 육군, 인도태평양 해양거부전 역할 강화", combatsociety.kr/news/20260507-2530ce, github.com/CombatSociety/data.
+Combat Society dataset, "미 육군, 인도태평양 해양거부전략 강화…중국 견제", combatsociety.kr/news/20260507-2530ce, github.com/CombatSociety/data.
 ```
