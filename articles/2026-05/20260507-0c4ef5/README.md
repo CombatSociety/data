@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | defense_policy |
-| 태그 | 미국, AI국방, Microsoft 국방, AWS 국방, Anthropic, 방산정책 |
+| 태그 | 미국, AI국방, 방산정책, Anthropic, Microsoft 국방 |
 | 단일 출처 | [Defense One](https://www.defenseone.com/policy/2026/05/pentagon-will-never-again-rely-single-ai-provider-official-says/413409/) |
 
 ## 출처 매체
