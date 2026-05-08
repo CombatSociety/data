@@ -1,6 +1,6 @@
-# 우크라이나 드론, 모스크바 전승절 행사 차질 초래
+# 우크라이나 드론, 모스크바 승전절 행사 차질…푸틴 보안 강화
 
-우크라이나 드론 공격으로 러시아가 전승절 행사 보안을 강화하고 중장비 전시를 제한했으며, 저가 드론이 모스크바 중심부까지 도달 가능함을 드러냈다.
+우크라이나 드론의 승전절 공격 위협으로 모스크바가 보안을 강화하고 전시 장비를 숨기는 조치를 취했으며, 저가 드론이 붉은광장까지 도달 가능함이 드러났다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | operations |
-| 태그 | 우크라이나, 러시아, 드론, 미사일발사, 비정규전 |
+| 태그 | 우크라이나, 러시아, 드론, 미사일발사, 교전 |
 | 단일 출처 | [SOFREP](https://sofrep.com/news/evening-brief-moscows-victory-day-drone-panic/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "우크라이나 드론, 모스크바 전승절 행사 차질 초래", combatsociety.kr/news/20260507-10ca3b, github.com/CombatSociety/data.
+Combat Society dataset, "우크라이나 드론, 모스크바 승전절 행사 차질…푸틴 보안 강화", combatsociety.kr/news/20260507-10ca3b, github.com/CombatSociety/data.
 ```
