@@ -1,6 +1,6 @@
-# 미 국방부, 탄약 긴급증산 체계 구축 필요
+# 미 국방부, 탄약 긴급 증산 체계 구축 필요
 
-War on Rocks 보도에 따르면 미 국방부가 토마호크 미사일 등 첨단 탄약의 긴급증산 체계 구축 필요성을 인식하고 있으며, 수개월에서 수년 소요되는 생산 기간 단축이 과제로 대두됐다.
+War on Rocks 보도에 따르면 미 국방부가 토마호크 미사일 등 탄약의 긴급 증산 체계 구축 필요성을 인식하고 있으며, 수개월~수년 소요되는 생산 기간 단축을 위한 대응 방안 마련을 추진 중이다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@ War on Rocks 보도에 따르면 미 국방부가 토마호크 미사일 등 첨
 ## 인용
 
 ```
-Combat Society dataset, "미 국방부, 탄약 긴급증산 체계 구축 필요", combatsociety.kr/news/20260507-076e0a, github.com/CombatSociety/data.
+Combat Society dataset, "미 국방부, 탄약 긴급 증산 체계 구축 필요", combatsociety.kr/news/20260507-076e0a, github.com/CombatSociety/data.
 ```
