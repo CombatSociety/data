@@ -1,6 +1,6 @@
-# 미 공군, B-52 후속 폭격기 개발 탐색 착수
+# 미공군, B-52 후속 전략폭격기 대체 방안 검토 착수
 
-미 공군이 B-52H 폭격기의 후속 기종 개발을 위한 탐색을 시작한다. 현재 B-52H의 유지보수 비용이 급증하면서 차세대 폭격기 개발 필요성이 대두되고 있다.
+미 공군이 B-52H 전략폭격기의 후속 기종 개발 방안을 검토하기 시작했다. 현재 운용 중인 B-52H의 유지보수 비용 급증으로 인해 차세대 폭격기 개발 필요성이 대두되고 있다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 공군, B-52 후속 폭격기 개발 탐색 착수", combatsociety.kr/news/20260508-bc0d55, github.com/CombatSociety/data.
+Combat Society dataset, "미공군, B-52 후속 전략폭격기 대체 방안 검토 착수", combatsociety.kr/news/20260508-bc0d55, github.com/CombatSociety/data.
 ```

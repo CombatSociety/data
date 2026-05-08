@@ -1,6 +1,6 @@
-# 미 육군, 포트 스튜어트 기지에 무인항공기 운용 교육센터 설립
+# 미 육군, 포트 스튜어트 기지에 무인항공기 운용 전문 교육센터 개설
 
-미 육군이 포트 스튜어트 기지에 마른 무인항공기 우수센터를 설립하고 드론 운용자 양성 교육을 시작했다.
+미 육군이 포트 스튜어트 기지에 무인항공기 운용 전문 교육센터를 개설하고 드론 운용자 양성을 본격화했다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 육군, 포트 스튜어트 기지에 무인항공기 운용 교육센터 설립", combatsociety.kr/news/20260508-7aa924, github.com/CombatSociety/data.
+Combat Society dataset, "미 육군, 포트 스튜어트 기지에 무인항공기 운용 전문 교육센터 개설", combatsociety.kr/news/20260508-7aa924, github.com/CombatSociety/data.
 ```
