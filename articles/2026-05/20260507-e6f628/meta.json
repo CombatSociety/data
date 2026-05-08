@@ -1,5 +1,5 @@
 {
-  "category": "geopolitics",
+  "category": "threats",
   "content_type": "wire",
   "cover_image_caption": "북한 군인이 군사분계선 북쪽에서 경계근무를 서고 있다.",
   "cover_image_credit": "DVIDS",
@@ -8,11 +8,12 @@
   "slug": "20260507-e6f628",
   "source_name": "NK News",
   "source_url": "https://www.nknews.org/2026/05/north-korea-says-its-not-bound-by-npt-rejects-denuclearization/",
-  "summary": "북한 유엔 상임대표가 NPT에 구속받지 않으며 비핵화 압박은 국제법 위반이라고 주장했다.",
+  "summary": "북한 유엔 상임대표가 NPT에 구속받지 않으며 비핵화를 거부한다고 선언했다. 북한은 미가입국 지위를 근거로 국제 핵 규제 체계의 적용 대상이 아니라고 주장했다.",
   "tags": [
     "북한",
     "핵무기",
-    "대북제재",
+    "비정규전",
+    "외교",
     "한반도"
   ],
   "title": "북한 \"NPT 구속 받지 않는다\" 비핵화 거부 선언",

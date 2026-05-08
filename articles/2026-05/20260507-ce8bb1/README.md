@@ -1,6 +1,6 @@
-# 미군, JLTV 기반 RAD 무인기 대응체계 리투아니아서 평가
+# 미군, JLTV 기반 RAD 대드론 시스템 평가 중
 
-미군이 리투아니아에서 SAIC와 Kongsberg가 공동 개발한 JLTV 기반 RAD 무인기 대응체계를 Project Flytrap 작전 중 평가하고 있다.
+미군이 SAIC와 콩스베르그가 개발한 JLTV 기반 RAD 대드론 시스템을 리투아니아의 프로젝트 플라이트랩에서 평가 중이다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 미국, 방공체계, 드론, NATO, 방산정책 |
+| 태그 | 미국, 육군, 드론, 방공체계, 배치 |
 | 단일 출처 | [Defence Blog](https://defence-blog.com/u-s-army-evaluates-jltv-based-rad-counter-drone-system/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미군, JLTV 기반 RAD 무인기 대응체계 리투아니아서 평가", combatsociety.kr/news/20260507-ce8bb1, github.com/CombatSociety/data.
+Combat Society dataset, "미군, JLTV 기반 RAD 대드론 시스템 평가 중", combatsociety.kr/news/20260507-ce8bb1, github.com/CombatSociety/data.
 ```
