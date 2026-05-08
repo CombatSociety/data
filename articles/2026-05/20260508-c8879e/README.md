@@ -9,7 +9,7 @@
 | 우선순위 | P1 |
 | 콘텐츠 타입 | wire |
 | 분류 | operations |
-| 태그 | 미국, 이란, 중동, USCENTCOM, 교전, 미사일발사 |
+| 태그 | 미국, 이란, 중동, USCENTCOM, 교전 |
 | 단일 출처 | [The War Zone](https://www.twz.com/news-features/iranian-island-port-in-strait-of-hormuz-attacked-state-media-claims) |
 
 ## 출처 매체
