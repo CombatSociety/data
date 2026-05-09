@@ -1,14 +1,14 @@
 {
-  "category": "operations",
+  "category": "weapons",
   "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
-  "priority": "P3",
+  "priority": "P2",
   "published_at": "2026-05-09T09:37:38.516485+00:00",
   "slug": "20260509-c8cbb4",
   "source_name": "Defense News",
   "source_url": "https://www.defensenews.com/unmanned/2026/05/08/ukraine-ramps-up-ground-robot-production-to-spare-soldiers-haul-ammo-and-rescue-grandma/",
-  "summary": "우크라이나가 무인지상로봇 생산을 확대하며 탄약 수송, 부상병 후송에 이어 분쟁 지역 민간인 구출 임무까지 수행 중이다.",
+  "summary": "우크라이나가 탄약 수송과 부상병 후송용 무인지상로봇 생산을 확대하며, 분쟁 지역 민간인 구출 임무까지 확대 운영 중이다.",
   "tags": [
     "우크라이나",
     "드론",
