@@ -1,6 +1,6 @@
-# 중국, 아시아 정부·해외 민주인사 동시 겨냥한 사이버작전 전개
+# 중국, 아시아 정부·방위체계 대상 사이버작전 동시 추진
 
-중국이 아시아 정부·방위기관 대상 정보수집과 해외 비판인사 감시·억압을 동시에 추진하는 사이버작전을 벌이고 있다.
+중국이 아시아 정부·방위체계 대상 정보수집과 해외 비판세력 감시를 동시에 추진하는 사이버캠페인을 벌이고 있다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | threats |
-| 태그 | 중국, 사이버안보, 정보수집, 사이버스파이, 영향공작 |
+| 태그 | 중국, 사이버안보, 정보수집, 영향공작 |
 | 단일 출처 | [The Diplomat](https://thediplomat.com/2026/05/1-campaign-2-targets-chinas-cyber-operations-hit-asian-governments-and-dissidents-abroad/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "중국, 아시아 정부·해외 민주인사 동시 겨냥한 사이버작전 전개", combatsociety.kr/news/20260509-735d3d, github.com/CombatSociety/data.
+Combat Society dataset, "중국, 아시아 정부·방위체계 대상 사이버작전 동시 추진", combatsociety.kr/news/20260509-735d3d, github.com/CombatSociety/data.
 ```

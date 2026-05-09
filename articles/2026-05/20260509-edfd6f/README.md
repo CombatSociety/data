@@ -1,6 +1,6 @@
-# 영국 공군, 다층 무인항공기 방어체계 구축
+# 영국 RAF, 다층 무인항공기 방어체계 구축…상업용 드론 위협 대응
 
-영국 공군이 상용 기반 소형 무인항공기의 증가하는 위협에 대응하기 위해 다층 무인항공기 방어 능력을 개발했다.
+영국 공군이 상업용 드론 기반 무인항공기 위협에 대응하기 위해 다층 대무인항공기 방어체계를 구축했으며, RAF 연대가 이를 운영 중이다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 드론, 방공체계, 방산정책 |
+| 태그 | 드론, 방공체계, 비정규전, NATO |
 | 단일 출처 | [Soldier Systems](https://soldiersystems.net/2026/05/09/raf-regiment-counter-uas-defending-the-airspace-and-turning-threat-into-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=raf-regiment-counter-uas-defending-the-airspace-and-turning-threat-into-intelligence) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "영국 공군, 다층 무인항공기 방어체계 구축", combatsociety.kr/news/20260509-edfd6f, github.com/CombatSociety/data.
+Combat Society dataset, "영국 RAF, 다층 무인항공기 방어체계 구축…상업용 드론 위협 대응", combatsociety.kr/news/20260509-edfd6f, github.com/CombatSociety/data.
 ```
