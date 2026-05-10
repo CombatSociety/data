@@ -1,6 +1,6 @@
 # 미 공군 B-1B 랜서 광범위 정비 후 운용 재개
 
-미 공군 B-1B Lancer 폭격기가 Tinker Air Force Base의 광범위한 정비를 거쳐 Dyess Air Force Base에서 운용을 재개했다.
+미 공군 B-1B 랜서 폭격기가 Tinker Air Force Base의 광범위한 정비 작업을 거쳐 Dyess Air Force Base에서 운용을 재개했다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 미국, 공군, 폭격기, 배치 |
+| 태그 | 미국, 공군, 폭격기 |
 | 단일 출처 | [Air Force Times](https://www.airforcetimes.com/news/your-military/2026/05/08/b-1-returns-to-flight-after-restoration-surviving-the-boneyard/) |
 
 ## 출처 매체
