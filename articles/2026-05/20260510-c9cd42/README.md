@@ -1,6 +1,6 @@
-# OSS, 현대 미 특수전사령부·CIA의 모태 역할
+# OSS, 현대 미국 특수전과 CIA의 기초 마련
 
-제2차 세계대전 당시 미국 전략정보국(OSS)이 파괴공작·게릴라전·비밀정보 수집 등을 통해 현대 미 특수전사령부와 CIA의 교리·능력·조직 문화의 기초를 형성했다.
+제2차 세계대전 당시 미국 전략정보국(OSS)이 비정규전과 정보 수집 활동을 통해 현대 CIA와 미국 특수작전군의 교리와 능력 기초를 마련했다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "OSS, 현대 미 특수전사령부·CIA의 모태 역할", combatsociety.kr/news/20260510-c9cd42, github.com/CombatSociety/data.
+Combat Society dataset, "OSS, 현대 미국 특수전과 CIA의 기초 마련", combatsociety.kr/news/20260510-c9cd42, github.com/CombatSociety/data.
 ```
