@@ -1,6 +1,6 @@
-# 미 해병대, 알래스카에 신규 순환배치 부대 설치
+# 미 해병대, 알래스카에 신규 순환배치 부대 구성
 
-미 해병대가 알래스카에 신규 순환배치 부대와 상설 분견대를 설치하며 북극 지역 전략적 입지를 강화하고 있다.
+미 해병대가 알래스카에 신규 훈련 주둔지와 상설 분견대를 구성하며 북극 지역 전략적 입지를 확대하고 있다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 해병대, 알래스카에 신규 순환배치 부대 설치", combatsociety.kr/news/20260509-68c695, github.com/CombatSociety/data.
+Combat Society dataset, "미 해병대, 알래스카에 신규 순환배치 부대 구성", combatsociety.kr/news/20260509-68c695, github.com/CombatSociety/data.
 ```
