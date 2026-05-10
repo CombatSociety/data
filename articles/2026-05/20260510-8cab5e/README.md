@@ -1,6 +1,6 @@
-# 미 해공군, 소형 AIM-9X 개발 추진…무인전투기 무장 강화
+# 미 해공군, 소형 AIM-9X 개발 추진…무인전투기 탑재량 확대
 
-미 해공군이 AIM-9X 공대공 미사일의 소형 버전 개발을 추진 중이며, 협력전투항공기 등 무인 전투기의 무장 탑재량을 늘리기 위한 것으로 알려졌다.
+미 해공군이 협력전투항공기 등 무인 전투기의 탑재량을 늘리기 위해 소형 AIM-9X 공대공 미사일 개발을 추진 중이다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 해공군, 소형 AIM-9X 개발 추진…무인전투기 무장 강화", combatsociety.kr/news/20260510-8cab5e, github.com/CombatSociety/data.
+Combat Society dataset, "미 해공군, 소형 AIM-9X 개발 추진…무인전투기 탑재량 확대", combatsociety.kr/news/20260510-8cab5e, github.com/CombatSociety/data.
 ```

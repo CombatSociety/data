@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 미국, 해군, 전투기, 방산정책 |
+| 태그 | 미국, 해군, 전투기, 방산정책, 도입 |
 | 단일 출처 | [Real Clear Defense](https://www.realcleardefense.com/2026/05/09/pentagon_takes_charge_of_navys_next-gen_jet_in_show_of_support_1181489.html) |
 
 ## 출처 매체

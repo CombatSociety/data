@@ -9,7 +9,7 @@ BlackSea Technologies가 Sea Air Space 2026에서 신형 무인수상정 코멧(
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 수상무인정, 드론, 미국, 해군, 방산수출 |
+| 태그 | 수상무인정, 미국, 도입 |
 | 단일 출처 | [Naval News](https://www.navalnews.com/naval-news/2026/05/video-new-comet-and-chaser-usv-by-blacksea-technologies/) |
 
 ## 출처 매체
