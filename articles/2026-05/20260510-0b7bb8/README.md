@@ -1,6 +1,6 @@
 # 미 특수작전 함선 MV Ocean Trader, 디에고 가르시아 도착
 
-미 특수작전 함선 MV Ocean Trader가 인도양 디에고 가르시아 기지에 도착했으며, 이란 작전 범위 내에 위치한 것으로 알려졌다.
+미 특수작전사령부 산하 함선 MV Ocean Trader가 인도양 디에고 가르시아 기지에 도착, 이란 근처 작전 반경 내 배치 완료.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | operations |
-| 태그 | 미국, 특수전, USSOCOM, 인도태평양, 이란, 해군 |
+| 태그 | 미국, 특수전, USSOCOM, 중동, 배치 |
 | 단일 출처 | [Small Wars Journal](https://smallwarsjournal.com/2026/05/10/5-10-26-national-security-and-korean-news-and-commentary/) |
 
 ## 출처 매체
