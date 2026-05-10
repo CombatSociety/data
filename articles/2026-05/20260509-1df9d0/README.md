@@ -1,6 +1,6 @@
-# 미국방부 차관, 해군 차세대 스텔스 전투기 감시 직접 맡아
+# 미 국방부 차관, 해군 차세대 스텔스 전투기 감시 직접 담당
 
-미국방부 최고 방위사업 담당 관리자가 해군 차세대 스텔스 전투기 사업 감시를 직접 맡으며 사업 지원 의지를 표현했다.
+미 국방부 최고 방위사업 담당 관리자가 해군 차세대 스텔스 전투기 사업 감시를 직접 담당하며 사업 지원 의지를 표현했다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미국방부 차관, 해군 차세대 스텔스 전투기 감시 직접 맡아", combatsociety.kr/news/20260509-1df9d0, github.com/CombatSociety/data.
+Combat Society dataset, "미 국방부 차관, 해군 차세대 스텔스 전투기 감시 직접 담당", combatsociety.kr/news/20260509-1df9d0, github.com/CombatSociety/data.
 ```

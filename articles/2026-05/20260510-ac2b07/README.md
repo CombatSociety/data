@@ -1,6 +1,6 @@
 # 미군, 포신 독립 검증 시스템 도입…탄약 생산 확대 지원
 
-미군 유마 시험장이 포신을 독립적으로 검증할 수 있는 증명 포 시스템(PGS)을 도입했으며, 이는 탄약 생산 능력 확대를 지원하는 데 활용될 예정이다.
+미 육군 유마 시험장이 포신을 독립적으로 검증할 수 있는 PGS를 도입, 탄약 생산 확대를 지원할 예정이다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 미국, 육군, 자주포, 방산정책 |
+| 태그 | 미국, 육군, 방산정책 |
 | 단일 출처 | [Soldier Systems](https://soldiersystems.net/2026/05/10/yuma-test-centers-proof-gun-system-supports-army-goal-to-increase-munition-production/?utm_source=rss&utm_medium=rss&utm_campaign=yuma-test-centers-proof-gun-system-supports-army-goal-to-increase-munition-production) |
 
 ## 출처 매체

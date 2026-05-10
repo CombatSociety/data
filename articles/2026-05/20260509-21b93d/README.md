@@ -1,6 +1,6 @@
-# 미 국방부, 8개 AI 기업과 기밀망 배치 협약 체결
+# 미 국방부, 8개 AI 기업과 기밀망 AI 배치 협약 체결
 
-미 국방부가 스페이스X, 오픈AI, 구글 등 8개 글로벌 AI 기업과 기밀 네트워크 배치 협약을 체결했다.
+미 국방부가 스페이스X, 오픈AI, 구글 등 8개 주요 AI 기업과 기밀 네트워크 AI 배치 협약을 체결했다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 국방부, 8개 AI 기업과 기밀망 배치 협약 체결", combatsociety.kr/news/20260509-21b93d, github.com/CombatSociety/data.
+Combat Society dataset, "미 국방부, 8개 AI 기업과 기밀망 AI 배치 협약 체결", combatsociety.kr/news/20260509-21b93d, github.com/CombatSociety/data.
 ```
