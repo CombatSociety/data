@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 탄도미사일, 핵무기, 인도태평양 |
+| 태그 | 탄도미사일, 핵무기, 미사일발사 |
 | 단일 출처 | [Defence Blog](https://defence-blog.com/india-tests-multi-warhead-agni-missile-in-successful-trial/) |
 
 ## 출처 매체
