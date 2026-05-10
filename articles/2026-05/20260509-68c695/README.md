@@ -1,6 +1,6 @@
-# 미 해병대, 알래스카에 신규 순환배치 부대 구성
+# 미 해병대, 알래스카에 신규 순환배치 부대 설치
 
-미 해병대가 알래스카에 신규 훈련 주둔지와 상설 분견대를 구성하며 북극 지역 군사 입지를 확대했다. 스미스 해병대 사령관은 알래스카를 전략적 중요성이 증대되는 지역으로 평가했다.
+미 해병대가 알래스카에 신규 훈련 주둔지와 상설 분견대를 설치하며 북극 지역 전력을 확대하고 있다. 스미스 해병대 사령관은 이 지역을 전략적 중요성이 높은 곳으로 지정했다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | operations |
-| 태그 | 미국, 해병대, USINDOPACOM, 배치, 인도태평양 |
+| 태그 | 미국, 해병대, 배치, 인도태평양 |
 | 단일 출처 | [Task & Purpose](https://taskandpurpose.com/news/marines-rotational-force-alaska/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 해병대, 알래스카에 신규 순환배치 부대 구성", combatsociety.kr/news/20260509-68c695, github.com/CombatSociety/data.
+Combat Society dataset, "미 해병대, 알래스카에 신규 순환배치 부대 설치", combatsociety.kr/news/20260509-68c695, github.com/CombatSociety/data.
 ```

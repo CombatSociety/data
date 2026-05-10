@@ -1,6 +1,6 @@
 # 미 국방부, 8개 AI 기업과 기밀망 배치 협약 체결
 
-미 국방부가 SpaceX, OpenAI, Google 등 8개 AI 기업과 기밀 네트워크 배치 협약을 체결했다.
+미 국방부가 스페이스X, 오픈AI, 구글 등 8개 주요 AI 기업과 기밀 네트워크 배치 협약을 체결했다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | tech |
-| 태그 | 미국, AI국방, OpenAI, Microsoft 국방, DeepMind, 방산정책 |
+| 태그 | 미국, AI국방, OpenAI, Microsoft 국방, 방산정책 |
 | 단일 출처 | [Soldier Systems](https://soldiersystems.net/2026/05/09/classified-networks-ai-agreements/?utm_source=rss&utm_medium=rss&utm_campaign=classified-networks-ai-agreements) |
 
 ## 출처 매체
