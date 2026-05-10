@@ -1,0 +1,27 @@
+# 러시아 태평양함대 함정 3척, 블라디보스토크 귀항
+
+러시아 태평양함대 잠수함 1척, 초계함 1척, 예인선 1척으로 구성된 함정 편대가 8일 블라디보스토크에 도착해 아시아태평양 배치 임무를 완료했다.
+
+| 항목 | 값 |
+|---|---|
+| Slug | `20260510-66e1c9` |
+| 발행 | 2026-05-10T15:33:21.938966+00:00 |
+| 우선순위 | P2 |
+| 콘텐츠 타입 | wire |
+| 분류 | operations |
+| 태그 | 러시아, 해군, 배치 |
+| 단일 출처 | [USNI News](https://news.usni.org/2026/05/08/usni-news-western-pacific-pulse-may-8-2026) |
+
+## 출처 매체
+
+- [USNI News](https://news.usni.org/2026/05/08/usni-news-western-pacific-pulse-may-8-2026)
+
+## 사이트에서 읽기
+
+<https://combatsociety.kr/news/20260510-66e1c9>
+
+## 인용
+
+```
+Combat Society dataset, "러시아 태평양함대 함정 3척, 블라디보스토크 귀항", combatsociety.kr/news/20260510-66e1c9, github.com/CombatSociety/data.
+```
