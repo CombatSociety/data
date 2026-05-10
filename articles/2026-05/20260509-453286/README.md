@@ -1,6 +1,6 @@
-# DARPA, 용기형 드론 군집 개발 추진…원격 기동 가능
+# DARPA, 컨테이너형 드론 스웜 개발 추진
 
-DARPA가 일반 용기에 담긴 드론 군집 시스템 개발을 추진 중이며, 원격 신호로 작동되어 적진 후방에서 광범위한 위협을 생성할 수 있다.
+DARPA가 일반 컨테이너에 숨겨진 드론 스웜을 원격으로 작동시키는 기술 개발을 추진 중이며, 이는 적진 후방 배치 후 원격 신호로 다수 드론을 동시 출격시킬 수 있는 비대칭 전력으로 활용될 예정이다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@ DARPA가 일반 용기에 담긴 드론 군집 시스템 개발을 추진 중이
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 미국, 드론, 다영역작전 |
+| 태그 | 드론, 미국, 다영역작전 |
 | 단일 출처 | [The War Zone](https://www.twz.com/news-features/drone-swarms-packed-into-unassuming-containers-sought-by-darpa) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@ DARPA가 일반 용기에 담긴 드론 군집 시스템 개발을 추진 중이
 ## 인용
 
 ```
-Combat Society dataset, "DARPA, 용기형 드론 군집 개발 추진…원격 기동 가능", combatsociety.kr/news/20260509-453286, github.com/CombatSociety/data.
+Combat Society dataset, "DARPA, 컨테이너형 드론 스웜 개발 추진", combatsociety.kr/news/20260509-453286, github.com/CombatSociety/data.
 ```

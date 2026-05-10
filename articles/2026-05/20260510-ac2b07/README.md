@@ -1,6 +1,6 @@
-# 미군, 포신 독립 검증 시스템 도입…탄약 생산 확대 지원
+# 미군 유마 시험장, 포신 독립 검증 시스템 도입…탄약 생산 확대 지원
 
-미군 유마 시험장이 포신 독립 검증 시스템을 도입해 포 생산 효율성을 높이고 탄약 생산 확대를 지원한다.
+미 육군 유마 시험장이 포신 독립 검증 시스템을 도입해 무기체계 없이 포신만 검증 가능하게 됐으며, 이는 탄약 생산 확대를 지원할 것으로 기대된다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미군, 포신 독립 검증 시스템 도입…탄약 생산 확대 지원", combatsociety.kr/news/20260510-ac2b07, github.com/CombatSociety/data.
+Combat Society dataset, "미군 유마 시험장, 포신 독립 검증 시스템 도입…탄약 생산 확대 지원", combatsociety.kr/news/20260510-ac2b07, github.com/CombatSociety/data.
 ```
