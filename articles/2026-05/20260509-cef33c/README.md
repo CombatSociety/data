@@ -1,6 +1,6 @@
-# 사하라 이남 아프리카, 특수전력 강화에 박차
+# 사하라 이남 아프리카, 특수전력 강화 경쟁 심화
 
-사하라 이남 아프리카 국가들이 테러 및 반란 대응을 위해 특수작전부대 투자를 확대 중이며, 남아공·케냐·나이지리아가 지역 SOF 발전을 주도하고 있다.
+사하라 이남 아프리카 국가들이 테러 대응과 지역 안정을 위해 특수전력 투자를 확대 중이며, 남아공·케냐·나이지리아가 선진 훈련과 장비로 지역 SOF 개발을 주도하고 있다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "사하라 이남 아프리카, 특수전력 강화에 박차", combatsociety.kr/news/20260509-cef33c, github.com/CombatSociety/data.
+Combat Society dataset, "사하라 이남 아프리카, 특수전력 강화 경쟁 심화", combatsociety.kr/news/20260509-cef33c, github.com/CombatSociety/data.
 ```
