@@ -1,5 +1,5 @@
 {
-  "category": "weapons",
+  "category": "operations",
   "content_type": "wire",
   "cover_image_caption": "B-1B 랜서 폭격기가 다이에스 공군기지에서 운용 준비를 위해 활주로를 이동 중이다.",
   "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / William Neal",
@@ -8,11 +8,12 @@
   "slug": "20260510-6ea05c",
   "source_name": "Air Force Times",
   "source_url": "https://www.airforcetimes.com/news/your-military/2026/05/08/b-1-returns-to-flight-after-restoration-surviving-the-boneyard/",
-  "summary": "미 공군 B-1B 랜서 폭격기가 Tinker Air Force Base의 광범위한 정비 작업을 거쳐 Dyess Air Force Base에서 운용을 재개했다.",
+  "summary": "미 공군 B-1B 랜서 폭격기가 Tinker Air Force Base의 광범위한 정비를 거쳐 Dyess Air Force Base에서 운용을 재개했다.",
   "tags": [
     "미국",
     "공군",
-    "폭격기"
+    "폭격기",
+    "배치"
   ],
   "title": "미 공군 B-1B 랜서 광범위 정비 후 운용 재개",
   "url": "https://combatsociety.kr/news/20260510-6ea05c"
