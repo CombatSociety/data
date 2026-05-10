@@ -1,6 +1,6 @@
-# DARPA, 용기형 드론 스웜 개발 추진…원격 기동 가능
+# DARPA, 컨테이너형 드론 스웜 개발 추진
 
-DARPA가 용기에 담아 운반 가능한 드론 스웜 시스템 개발을 추진 중이며, 원격 신호로 작동되어 적진 후방에서 다중 위협을 창출할 수 있도록 설계되고 있다.
+DARPA가 원격 조종 가능한 컨테이너형 드론 스웜 개발을 추진 중이며, 적진 후방 배치를 통해 기존 방어 체계로 대응하기 어려운 위협을 창출할 계획이다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@ DARPA가 용기에 담아 운반 가능한 드론 스웜 시스템 개발을 추
 ## 인용
 
 ```
-Combat Society dataset, "DARPA, 용기형 드론 스웜 개발 추진…원격 기동 가능", combatsociety.kr/news/20260509-453286, github.com/CombatSociety/data.
+Combat Society dataset, "DARPA, 컨테이너형 드론 스웜 개발 추진", combatsociety.kr/news/20260509-453286, github.com/CombatSociety/data.
 ```

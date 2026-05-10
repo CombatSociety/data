@@ -1,6 +1,6 @@
-# 미 국방부 차관, 해군 차세대 스텔스 전투기 감시 직접 인수
+# 미국방부 차관, 해군 차세대 스텔스 전투기 감시 직접 맡아
 
-미 국방부 최고 획득 담당관이 해군 차세대 스텔스 전투기 사업 감시를 직접 인수하며 사업에 대한 강력한 지지 의사를 표현했다.
+미국방부 최고 방위사업 담당 관리자가 해군 차세대 스텔스 전투기 사업 감시를 직접 맡으며 사업 지원 의지를 표현했다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 미국, 해군, 전투기, 방산정책, 인도태평양 |
+| 태그 | 미국, 해군, 전투기, 방산정책 |
 | 단일 출처 | [Real Clear Defense](https://www.realcleardefense.com/2026/05/09/pentagon_takes_charge_of_navys_next-gen_jet_in_show_of_support_1181489.html) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 국방부 차관, 해군 차세대 스텔스 전투기 감시 직접 인수", combatsociety.kr/news/20260509-1df9d0, github.com/CombatSociety/data.
+Combat Society dataset, "미국방부 차관, 해군 차세대 스텔스 전투기 감시 직접 맡아", combatsociety.kr/news/20260509-1df9d0, github.com/CombatSociety/data.
 ```
