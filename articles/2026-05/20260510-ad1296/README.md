@@ -1,6 +1,6 @@
-# 영국, 호르무즈 해협 상선 보호 대비 Type 45 구축함 중동 재배치
+# 영국, 호르무즈 해협 상선 호위 대비 Type 45 구축함 중동 재배치
 
-영국이 Type 45 방공구축함 HMS Dragon을 중동으로 재배치하며, 향후 호르무즈 해협 상선 보호를 위한 다국적 해상작전에 대비하고 있다.
+영국이 Type 45 방공구축함 HMS Dragon을 중동으로 재배치하며, 현재 걸프만 분쟁 종료 후 호르무즈 해협 상선 호위를 위한 다국적 해상 임무에 대비하고 있다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "영국, 호르무즈 해협 상선 보호 대비 Type 45 구축함 중동 재배치", combatsociety.kr/news/20260510-ad1296, github.com/CombatSociety/data.
+Combat Society dataset, "영국, 호르무즈 해협 상선 호위 대비 Type 45 구축함 중동 재배치", combatsociety.kr/news/20260510-ad1296, github.com/CombatSociety/data.
 ```
