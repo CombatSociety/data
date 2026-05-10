@@ -1,6 +1,6 @@
-# 사하라 이남 아프리카, 특수전력 강화 경쟁 심화
+# 사하라 이남 아프리카, 특수전력 투자 확대…테러·반란 대응 강화
 
-사하라 이남 아프리카 국가들이 테러 대응과 지역 안정을 위해 특수전력 투자를 확대 중이며, 남아공·케냐·나이지리아가 지역 선도국으로 부상하고 있다.
+사하라 이남 아프리카 국가들이 테러·반란 대응을 위해 특수전력 투자를 확대 중이며, 남아공·케냐·나이지리아 등이 고급 훈련과 현대식 장비로 역내 특수전 능력을 주도하고 있다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | operations |
-| 태그 | 특수전, USAFRICOM, 테러조직, 반테러작전 |
+| 태그 | 특수전, USAFRICOM, 테러조직, 반테러작전, 비정규전 |
 | 단일 출처 | [SOFREP](https://sofrep.com/news/the-special-operations-world-of-sub-saharan-africa/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "사하라 이남 아프리카, 특수전력 강화 경쟁 심화", combatsociety.kr/news/20260509-cef33c, github.com/CombatSociety/data.
+Combat Society dataset, "사하라 이남 아프리카, 특수전력 투자 확대…테러·반란 대응 강화", combatsociety.kr/news/20260509-cef33c, github.com/CombatSociety/data.
 ```

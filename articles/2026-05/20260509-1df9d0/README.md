@@ -1,6 +1,6 @@
-# 미 국방부 차관, 해군 차세대 스텔스 전투기 감시 직접 인수
+# 미 국방부 차관, 해군 차세대 스텔스 전투기 감시 직접 담당
 
-미 국방부 최고 획득 담당 관리자가 해군 차세대 스텔스 전투기 사업의 감시 권한을 직접 인수하며 사업에 대한 강력한 지지 의사를 표현했다.
+미 국방부 최고 획득 담당관이 해군 차세대 스텔스 전투기 사업 감시를 직접 담당하며 사업에 대한 강한 지지 의사를 표현했다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 국방부 차관, 해군 차세대 스텔스 전투기 감시 직접 인수", combatsociety.kr/news/20260509-1df9d0, github.com/CombatSociety/data.
+Combat Society dataset, "미 국방부 차관, 해군 차세대 스텔스 전투기 감시 직접 담당", combatsociety.kr/news/20260509-1df9d0, github.com/CombatSociety/data.
 ```
