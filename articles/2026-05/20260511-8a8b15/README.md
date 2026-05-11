@@ -1,6 +1,6 @@
-# 미 육군, Hunter WOLF 무인지상차량 도입 시작
+# 미 육군, 헌터 울프 무인지상차량 포크 포트에서 인수
 
-미 육군이 HDT Robotics로부터 Hunter WOLF 무인지상차량을 도입해 루이지애나주 포크 포트의 10산악사단 3여단에 배치했으며, 신규장비훈련을 진행 중이다.
+미 육군이 HDT Robotics로부터 헌터 울프 무인지상차량을 인수하고 루이지애나주 포크 포트에서 운용 교육을 시작했다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 육군, Hunter WOLF 무인지상차량 도입 시작", combatsociety.kr/news/20260511-8a8b15, github.com/CombatSociety/data.
+Combat Society dataset, "미 육군, 헌터 울프 무인지상차량 포크 포트에서 인수", combatsociety.kr/news/20260511-8a8b15, github.com/CombatSociety/data.
 ```

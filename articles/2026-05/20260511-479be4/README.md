@@ -1,6 +1,6 @@
 # USS 제럴드 R 포드 기록적 배치로 미해군 항모 배치 주기 재검토
 
-USS 제럴드 R 포드의 기록적 배치로 미해군이 항모 배치 주기와 귀항 시간 구조 재검토 중.
+USS 제럴드 R 포드의 기록적 배치가 미해군의 항모 배치 주기 정책 재검토를 촉발했다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@ USS 제럴드 R 포드의 기록적 배치로 미해군이 항모 배치 주기�
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | operations |
-| 태그 | 미국, 해군, 항공모함, 배치, 한미동맹 |
+| 태그 | 미국, 해군, 항공모함, 배치 |
 | 단일 출처 | [Army Times](https://www.armytimes.com/news/your-navy/2026/05/11/epic-fury-has-navy-rethinking-carrier-deployment-tempo/) |
 
 ## 출처 매체
