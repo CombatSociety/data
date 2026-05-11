@@ -1,19 +1,20 @@
-# 헤그세스 미국 국방장관, 안규백 국방부 장관과 회담…전작권·핵잠수함 협력 논의
+# 헤그세스-안규백 회담, 전작권·핵잠수함 협력 의제
 
-헤그세스 미국 국방장관이 11일 안규백 국방부 장관과 회담을 가질 예정이며, 전작권 전환과 핵추진 잠수함 협력 등을 논의할 것으로 전망된다.
+피트 헤그세스 미국 국방부 장관이 2026년 5월 11일 방미 중인 안규백 한국 국방부 장관과 회담을 갖는다. 전시작전통제권 전환과 핵추진 잠수함 협력이 주요 의제로 논의될 전망이다.
 
 | 항목 | 값 |
 |---|---|
 | Slug | `20260511-e312b3` |
 | 발행 | 2026-05-11T15:56:26.365041+00:00 |
-| 우선순위 | P3 |
-| 콘텐츠 타입 | wire |
+| 우선순위 | P2 |
+| 콘텐츠 타입 | original |
 | 분류 | alliance |
-| 태그 | 한국, 미국, 한미동맹, 핵무기 |
-| 단일 출처 | [VOA 한반도](https://www.voakorea.com/a/sec-hegseth-to-meet-with-south-korean-defense-minister-ahn-talks-expected-on-opcon-transfer-and-nuclear-submarine-cooperation-20260511/8148831.html) |
+| 태그 | 한국, 미국, 한미동맹, 잠수함, 회담, 확장억제 |
+| 단일 출처 | [GoogleNews:한국정책](None) |
 
 ## 출처 매체
 
+- [GoogleNews:한국정책](https://news.google.com/rss/articles/CBMihAJBVV95cUxPcHlJZGZEcXdQTlhlMHlseG9aQVNTckVMTm1ZWkJPUjViRjJCaS1mcS1lWFlucXYzSUx5MlhMSU1mWkRRYzdEdDZnLTQzcUdRNWNTcW9wTVY2dHh4SXlQZy1qalZ1c3RrUkJDWHRzYmJncnlmOGthQ0NBVjFkLUdZSTBlMEc3X2dsUERqM3Q3MFRiQzhYNEZaZE9UR1FkOE1DWGdscmJmRXV5ZVE3WDZiN0xhM2p6MS1ucVhCQXRRdlRyNjVmUGpkQ0R5bXhCOGpGaVE0ZGNSQUZSU2tpM1hBRExack5VTVVVZmlVekpvcW81Mk1JdWVkTHBlazN0dzNkR1VqMtIBhwJBVV95cUxQNTJiWVRKaDNMcXd4UzQ3RGtkYS1uUlBETDluZDhkaGdsWVV5YkVPbDdROXg3SGxTaWl3eVlVSkpCc3BKM3BnLWtvVk45QVJ2U2VvWFdNZlhkZkdDYVFzU1ZSZ2FjNDVfdWFQLWEwTE0zRVh4MUhieGZITWljMnRfelNmeUlET3FTcHlDMk5kaGpnY2E0WFlscTdlRmZfR3MzdmVPOTJsd2k2WU9nOThxQWR5WUhLbWowRFFvUXdpNEZHLVgzUEdrMHNpczctTVpkQ3MySW40SmNTbUl5RGEyOEpNWDlINkhMNFhWSl95R2tHUUp5VHhoMVlMM0dNYXZHN2NfU2xDRQ?oc=5)
 - [VOA 한반도](https://www.voakorea.com/a/sec-hegseth-to-meet-with-south-korean-defense-minister-ahn-talks-expected-on-opcon-transfer-and-nuclear-submarine-cooperation-20260511/8148831.html)
 
 ## 사이트에서 읽기
@@ -23,5 +24,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "헤그세스 미국 국방장관, 안규백 국방부 장관과 회담…전작권·핵잠수함 협력 논의", combatsociety.kr/news/20260511-e312b3, github.com/CombatSociety/data.
+Combat Society dataset, "헤그세스-안규백 회담, 전작권·핵잠수함 협력 의제", combatsociety.kr/news/20260511-e312b3, github.com/CombatSociety/data.
 ```

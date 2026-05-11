@@ -1,20 +1,22 @@
 {
   "category": "alliance",
-  "content_type": "wire",
-  "cover_image_caption": null,
-  "cover_image_credit": null,
-  "priority": "P3",
+  "content_type": "original",
+  "cover_image_caption": "미국 국방장관 헤그세스와 한국 국방부장관이 판문점 공동경비구역을 방문했다.",
+  "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Madelyn Keech",
+  "priority": "P2",
   "published_at": "2026-05-11T15:56:26.365041+00:00",
   "slug": "20260511-e312b3",
-  "source_name": "VOA 한반도",
-  "source_url": "https://www.voakorea.com/a/sec-hegseth-to-meet-with-south-korean-defense-minister-ahn-talks-expected-on-opcon-transfer-and-nuclear-submarine-cooperation-20260511/8148831.html",
-  "summary": "헤그세스 미국 국방장관이 11일 안규백 국방부 장관과 회담을 가질 예정이며, 전작권 전환과 핵추진 잠수함 협력 등을 논의할 것으로 전망된다.",
+  "source_name": "GoogleNews:한국정책",
+  "source_url": null,
+  "summary": "피트 헤그세스 미국 국방부 장관이 2026년 5월 11일 방미 중인 안규백 한국 국방부 장관과 회담을 갖는다. 전시작전통제권 전환과 핵추진 잠수함 협력이 주요 의제로 논의될 전망이다.",
   "tags": [
     "한국",
     "미국",
     "한미동맹",
-    "핵무기"
+    "잠수함",
+    "회담",
+    "확장억제"
   ],
-  "title": "헤그세스 미국 국방장관, 안규백 국방부 장관과 회담…전작권·핵잠수함 협력 논의",
+  "title": "헤그세스-안규백 회담, 전작권·핵잠수함 협력 의제",
   "url": "https://combatsociety.kr/news/20260511-e312b3"
 }

@@ -1,6 +1,6 @@
-# 미 공군, 전 장병 대상 AI 교육 프로그램 추진
+# 미 공군, 전 장병 대상 AI 교육훈련 프로그램 추진
 
-미 공군이 모든 장병을 대상으로 일상 업무에서 AI를 활용하도록 교육하는 새로운 훈련 프로그램을 추진 중이다.
+미 공군이 모든 장병을 대상으로 일상 업무에서 AI를 활용하도록 교육하는 새로운 훈련 프로그램을 추진 중이라고 공군 최고 선임사관이 밝혔다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 공군, 전 장병 대상 AI 교육 프로그램 추진", combatsociety.kr/news/20260511-27fc36, github.com/CombatSociety/data.
+Combat Society dataset, "미 공군, 전 장병 대상 AI 교육훈련 프로그램 추진", combatsociety.kr/news/20260511-27fc36, github.com/CombatSociety/data.
 ```
