@@ -1,6 +1,6 @@
-# DARPA, 컨테이너형 드론 스웜 개발 추진
+# DARPA, 컨테이너형 드론 군집 개발 추진
 
-DARPA가 원격 조종 가능한 컨테이너형 드론 스웜 개발을 추진 중이며, 이는 적진 후방 배치 후 원격 신호로 작동하는 방식으로 설계되고 있다.
+DARPA가 원격 조종 가능한 컨테이너형 드론 군집 시스템 개발을 추진 중이다. 일반 컨테이너로 위장해 적진 후방에 배치 후 원격 신호로 다수 드론을 동시 발동할 수 있는 기술이다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@ DARPA가 원격 조종 가능한 컨테이너형 드론 스웜 개발을 추진 
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 미국, 드론, 다영역작전 |
+| 태그 | 미국, 드론 |
 | 단일 출처 | [The War Zone](https://www.twz.com/news-features/drone-swarms-packed-into-unassuming-containers-sought-by-darpa) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@ DARPA가 원격 조종 가능한 컨테이너형 드론 스웜 개발을 추진 
 ## 인용
 
 ```
-Combat Society dataset, "DARPA, 컨테이너형 드론 스웜 개발 추진", combatsociety.kr/news/20260510-e868f4, github.com/CombatSociety/data.
+Combat Society dataset, "DARPA, 컨테이너형 드론 군집 개발 추진", combatsociety.kr/news/20260510-e868f4, github.com/CombatSociety/data.
 ```

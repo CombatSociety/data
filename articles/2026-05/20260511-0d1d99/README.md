@@ -1,6 +1,6 @@
 # 이란, 미군 작전에 대응한 정보작전 강화
 
-Small Wars Journal 보도에 따르면 이란이 미군 작전에 대응하기 위해 온라인 기반의 정보작전 캠페인을 점차 강화하고 있으며, 정보 환경에서의 역량이 향상되고 있다.
+Small Wars Journal 보도에 따르면 이란이 미군 작전에 대응하기 위해 온라인 기반 정보작전을 강화하고 있으며, 정보환경에서의 역량이 점차 증대되고 있다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@ Small Wars Journal 보도에 따르면 이란이 미군 작전에 대응하기 �
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | geopolitics |
-| 태그 | 이란, 미국, 사이버안보, 영향공작 |
+| 태그 | 이란, 미국, 영향공작, 사이버안보 |
 | 단일 출처 | [Small Wars Journal](https://smallwarsjournal.com/2026/05/11/legos-at-war-iranian-information-operations/) |
 
 ## 출처 매체
