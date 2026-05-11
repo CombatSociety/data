@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | geopolitics |
-| 태그 | 러시아, 일본, 해군 |
+| 태그 | 러시아, 일본, 해군, 남중국해 |
 | 단일 출처 | [USNI News](https://news.usni.org/2026/05/11/10-ship-russian-convoy-transits-japans-tsushima-strait) |
 
 ## 출처 매체
