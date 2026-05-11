@@ -1,6 +1,6 @@
-# 미국 "북러 동맹과 북중 관계 수준 다르다"
+# 미국 "북러 동맹 수준 아닌 북중 관계 복원"
 
-미국 전문가들은 북한-러시아 관계를 '동맹', 북한-중국 관계를 '관리' 수준으로 평가하며 양자 간 전략적 성격이 다르다고 분석했다.
+VOA 한반도 보도에 따르면 미국 전문가들은 북한-중국 관계 복원을 북한-러시아 동맹 수준으로 보지 않으며, 북러는 '동맹', 북중은 '관리' 관계로 평가하고 있다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미국 "북러 동맹과 북중 관계 수준 다르다"", combatsociety.kr/news/20260511-28d185, github.com/CombatSociety/data.
+Combat Society dataset, "미국 "북러 동맹 수준 아닌 북중 관계 복원"", combatsociety.kr/news/20260511-28d185, github.com/CombatSociety/data.
 ```
