@@ -1,6 +1,6 @@
-# 한국·NATO 방산협의체, 협력 분야 정보 공유 및 추진 방안 논의
+# 한국·나토, 방산협력 강화 논의…'나토 표준 정보' 확보 강조
 
-방위사업청이 NATO와 제2차 방산협의체를 개최, 협력 분야 정보 공유 및 NATO 표준 정보 확보 중요성을 논의했으며, NATO는 다자협력 프로젝트 참여를 요청했다.
+방위사업청이 나토와 제2차 방산협의체를 개최해 협력 가능 분야를 논의하고 국내 업체의 나토 표준 정보 확보 중요성을 강조했다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | alliance |
-| 태그 | 한국, NATO, 방산정책, 한미동맹 |
+| 태그 | 한국, NATO, 방산정책, 한미동맹, 방산수출 |
 | 단일 출처 | [국방일보-방위사업](http://kookbang.dema.mil.kr/newsWeb/20260512/1/ATCE_CTGR_0010020000/view.do) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "한국·NATO 방산협의체, 협력 분야 정보 공유 및 추진 방안 논의", combatsociety.kr/news/20260511-594e7b, github.com/CombatSociety/data.
+Combat Society dataset, "한국·나토, 방산협력 강화 논의…'나토 표준 정보' 확보 강조", combatsociety.kr/news/20260511-594e7b, github.com/CombatSociety/data.
 ```
