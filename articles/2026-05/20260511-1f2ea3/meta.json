@@ -1,20 +1,21 @@
 {
   "category": "weapons",
   "content_type": "wire",
-  "cover_image_caption": null,
-  "cover_image_credit": null,
+  "cover_image_caption": "미 해병대 F-35B 2대와 해군 P-8A 포세이돈이 베네수엘라 해안에서 연합 공중 순찰을 수행 중이다.",
+  "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Nathan Call",
   "priority": "P2",
   "published_at": "2026-05-11T11:27:44.292213+00:00",
   "slug": "20260511-1f2ea3",
   "source_name": "Real Clear Defense",
   "source_url": "https://www.realcleardefense.com/2026/05/11/smaller_aim-9x_could_give_drone_wingmen_more_firepower_1181865.html",
-  "summary": "미 해공군이 협력해 소형 AIM-9X 공대공 미사일 개발을 추진 중이며, 무인 윙맨 항공기의 화력 강화를 목표로 하고 있다.",
+  "summary": "미 해군과 공군이 AIM-9X 공대공 미사일의 소형 버전 개발을 추진 중이며, 이는 무인 윙맨과 첨단 전투기의 화력 강화를 목표로 한다.",
   "tags": [
     "미국",
     "공군",
     "해군",
+    "전투기",
     "드론"
   ],
-  "title": "미 해공군, 소형 AIM-9X 개발 추진…무인기 무장 강화",
+  "title": "미 해공군, 소형 AIM-9X 개발 추진…무인기 화력 강화",
   "url": "https://combatsociety.kr/news/20260511-1f2ea3"
 }
