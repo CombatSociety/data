@@ -1,6 +1,6 @@
-# 미군, 무인기 격추 기술 개발 산업 포럼 개최
+# 미군, 드론 격추 기술 개발 산업 포럼 개최
 
-미군이 4월 28일 뉴저지주 피카티니 병기고에서 무인기 격추 기술 개발을 위한 산업 포럼을 개최했으며, 정부와 산업계 150명 이상이 참석해 기술 파트너십 구축을 논의했다.
+미군이 피카티니 병기창에서 운동에너지 대드론 시스템 개발을 위한 산업 포럼을 개최, 150명 이상의 정부·산업계 지도자가 참석해 기술 파트너십 구축을 논의했다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 미국, 드론, 방공체계 |
+| 태그 | 미국, 드론, 방공체계, 방산정책 |
 | 단일 출처 | [Soldier Systems](https://soldiersystems.net/2026/05/11/kinetic-c-uas-industry-day-gathers-armament-experts-for-networking-tech-updates/?utm_source=rss&utm_medium=rss&utm_campaign=kinetic-c-uas-industry-day-gathers-armament-experts-for-networking-tech-updates) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미군, 무인기 격추 기술 개발 산업 포럼 개최", combatsociety.kr/news/20260511-4b15ab, github.com/CombatSociety/data.
+Combat Society dataset, "미군, 드론 격추 기술 개발 산업 포럼 개최", combatsociety.kr/news/20260511-4b15ab, github.com/CombatSociety/data.
 ```
