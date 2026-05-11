@@ -1,6 +1,6 @@
-# 미공군 F-16 조종사 6명, '미드나이트 해머' 작전 공로로 비행십자훈장 수상
+# 미 공군 F-16 조종사 6명, 이란 핵시설 공격 작전으로 비행십자훈장 수상
 
-미공군 55전투비행단 F-16 조종사 6명이 지난해 이란 핵시설 공격 작전 중 고도로 방어된 공역 침투 임무 수행으로 비행십자훈장을 수상했다.
+미 공군 55전투비행단 F-16 조종사 6명이 지난해 이란 핵시설 공격 작전 중 고위험 비행 수행으로 비행십자훈장을 수상했다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | operations |
-| 태그 | 미국, 공군, 이란, 미사일발사, 교전 |
+| 태그 | 미국, 공군, 전투기, 미사일발사, 이란, 중동 |
 | 단일 출처 | [Task & Purpose](https://taskandpurpose.com/news/air-force-distinguished-flying-cross-midnight-hammer/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미공군 F-16 조종사 6명, '미드나이트 해머' 작전 공로로 비행십자훈장 수상", combatsociety.kr/news/20260511-c242f9, github.com/CombatSociety/data.
+Combat Society dataset, "미 공군 F-16 조종사 6명, 이란 핵시설 공격 작전으로 비행십자훈장 수상", combatsociety.kr/news/20260511-c242f9, github.com/CombatSociety/data.
 ```

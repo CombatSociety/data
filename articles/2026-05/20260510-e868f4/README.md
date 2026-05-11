@@ -1,6 +1,6 @@
-# DARPA, 컨테이너형 드론 스웜 개발 추진
+# DARPA, 컨테이너형 드론 군집 개발 추진
 
-DARPA가 일반 컨테이너에 담긴 원격 작동식 드론 스웜 시스템 개발을 추진 중이며, 적진 후방 배치를 통해 탐지 회피와 광범위 위협 창출을 목표로 하고 있다.
+DARPA가 컨테이너에 수납된 드론 군집 시스템 개발을 추진 중이며, 원격 신호로 작동되어 적진 후방에 배치될 수 있어 방어하기 어려운 위협을 창출할 수 있다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@ DARPA가 일반 컨테이너에 담긴 원격 작동식 드론 스웜 시스템 
 ## 인용
 
 ```
-Combat Society dataset, "DARPA, 컨테이너형 드론 스웜 개발 추진", combatsociety.kr/news/20260510-e868f4, github.com/CombatSociety/data.
+Combat Society dataset, "DARPA, 컨테이너형 드론 군집 개발 추진", combatsociety.kr/news/20260510-e868f4, github.com/CombatSociety/data.
 ```
