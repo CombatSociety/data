@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | industry |
-| 태그 | 우크라이나, NATO, 방산수출, AI국방 |
+| 태그 | 우크라이나, NATO, 방산수출 |
 | 단일 출처 | [Defence Blog](https://defence-blog.com/stockholm-fund-raises-5-4m-to-bridge-ukrainian-innovation-to-nato/) |
 
 ## 출처 매체

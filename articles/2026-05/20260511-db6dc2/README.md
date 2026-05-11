@@ -1,6 +1,6 @@
 # 전술장비 경량화, 전투원 피로도 감소 효과 입증
 
-Blue Force Gear가 전투원의 불필요한 장비 무게 문제를 지적하고 경량화 시스템을 개발해 업계 표준을 선도했다.
+Soldier Systems 보도에 따르면 Blue Force Gear는 전술장비 경량화를 통해 전투원의 피로도 감소와 작전 효율성 향상을 추구해왔으며, 이는 업계 경량화 트렌드 선도 사례로 평가된다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@ Blue Force Gear가 전투원의 불필요한 장비 무게 문제를 지적하�
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 특수전, 미국 |
+| 태그 | 미국, 육군, 방산정책 |
 | 단일 출처 | [Soldier Systems](https://soldiersystems.net/2026/05/11/bfg-monday-the-burden-was-never-the-mission/?utm_source=rss&utm_medium=rss&utm_campaign=bfg-monday-the-burden-was-never-the-mission) |
 
 ## 출처 매체

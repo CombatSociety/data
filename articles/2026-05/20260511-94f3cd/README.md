@@ -1,6 +1,6 @@
-# 미 육군, 이스라엘 SMASH 2000LE 화기통제시스템 1,070만 달러 추가 계약
+# 미 육군, 이스라엘 SMASH 2000LE 화기통제 시스템 1070만 달러 추가 계약
 
-미 육군이 이스라엘 스마트슈터의 AI 기반 SMASH 2000LE 화기통제시스템 추가 공급 계약 1,070만 달러를 체결했으며, 2026년 3분기 납품 예정이다.
+미 육군이 이스라엘 스마트슈터의 AI 기반 소총 장착형 화기통제 시스템 SMASH 2000LE 1070만 달러 추가 계약을 체결했으며, 2026년 3분기 납기 예정.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 미국, 육군, 드론, AI국방, 이스라엘 |
+| 태그 | 미국, 이스라엘, 드론, 전자전, 방산수출, 도입 |
 | 단일 출처 | [Defence Blog](https://defence-blog.com/u-s-army-buys-more-israeli-smash-counter-drone-rifle-system/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 육군, 이스라엘 SMASH 2000LE 화기통제시스템 1,070만 달러 추가 계약", combatsociety.kr/news/20260511-94f3cd, github.com/CombatSociety/data.
+Combat Society dataset, "미 육군, 이스라엘 SMASH 2000LE 화기통제 시스템 1070만 달러 추가 계약", combatsociety.kr/news/20260511-94f3cd, github.com/CombatSociety/data.
 ```
