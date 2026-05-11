@@ -1,6 +1,6 @@
 # OSS, 현대 미국 특수전과 CIA의 기초 마련
 
-제2차 세계대전 당시 미국 전략정보국(OSS)이 비정규전과 정보 수집 활동을 통해 현대 CIA와 미국 특수작전군의 교리와 능력 기초를 마련했다.
+제2차 세계대전 중 미국 전략정보국(OSS)이 비정규전 작전을 통해 현대 CIA와 미 특수작전부대의 교리와 운영 방식의 기초를 마련했다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | history |
-| 태그 | 미국, 특수전, USSOCOM, CIA, 비정규전 |
+| 태그 | 미국, 특수전, USSOCOM, CIA |
 | 단일 출처 | [SOFREP](https://sofrep.com/specialoperations/how-oss-shaped-special-operations-forces-cia-today/) |
 
 ## 출처 매체

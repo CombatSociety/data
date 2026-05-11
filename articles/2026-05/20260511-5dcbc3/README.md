@@ -1,0 +1,27 @@
+# 미 해공군, 소형 AIM-9X 개발 추진…무인전투기 화력 강화
+
+미 해공군이 협력해 소형 AIM-9X 공대공 미사일 개발을 추진 중이며, 협력전투항공기 등 무인항공기의 탄약 적재량 증대를 목표로 하고 있다.
+
+| 항목 | 값 |
+|---|---|
+| Slug | `20260511-5dcbc3` |
+| 발행 | 2026-05-11T02:08:22.830636+00:00 |
+| 우선순위 | P3 |
+| 콘텐츠 타입 | wire |
+| 분류 | weapons |
+| 태그 | 미국, 공군, 해군, 전투기, 드론 |
+| 단일 출처 | [Air Force Magazine](https://www.airandspaceforces.com/smaller-aim-9x-cca-more-firepower/) |
+
+## 출처 매체
+
+- [Air Force Magazine](https://www.airandspaceforces.com/smaller-aim-9x-cca-more-firepower/)
+
+## 사이트에서 읽기
+
+<https://combatsociety.kr/news/20260511-5dcbc3>
+
+## 인용
+
+```
+Combat Society dataset, "미 해공군, 소형 AIM-9X 개발 추진…무인전투기 화력 강화", combatsociety.kr/news/20260511-5dcbc3, github.com/CombatSociety/data.
+```
