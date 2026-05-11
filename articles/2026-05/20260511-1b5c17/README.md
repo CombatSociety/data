@@ -1,6 +1,6 @@
-# 구글 광고·Claude.ai 악용한 Mac 악성코드 유포 캠프 적발
+# 구글 광고·Claude.ai 악용한 맥 악성코드 유포 캠페인 적발
 
-공격자들이 구글 광고와 Claude.ai 공유 채팅을 악용해 Mac 사용자를 대상으로 악성코드를 유포하는 악성광고 캠프를 운영 중이다.
+공격자들이 구글 광고와 Claude.ai 채팅을 악용해 맥 사용자를 대상으로 악성코드를 유포하는 악성광고 캠페인을 진행 중이다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "구글 광고·Claude.ai 악용한 Mac 악성코드 유포 캠프 적발", combatsociety.kr/news/20260511-1b5c17, github.com/CombatSociety/data.
+Combat Society dataset, "구글 광고·Claude.ai 악용한 맥 악성코드 유포 캠페인 적발", combatsociety.kr/news/20260511-1b5c17, github.com/CombatSociety/data.
 ```

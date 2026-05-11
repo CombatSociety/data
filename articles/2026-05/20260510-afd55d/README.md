@@ -1,6 +1,6 @@
-# 러시아 GRU, 미국 가정용 라우터 장악…연방 시스템 내부자 위협까지
+# 러시아 GRU, 미국 가정용 라우터 해킹…연방 시스템 내부자 위협까지
 
-러시아 GRU가 미국 가정용 라우터를 장악하고 연방 시스템 내부자 위협이 증가하면서 사이버전의 전장이 민간 인프라까지 확대되고 있다.
+러시아 GRU가 미국 가정용 라우터를 해킹하고 연방 시스템 내부자 위협도 증가하면서 미국의 사이버 보안 취약점이 심화되고 있다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | threats |
-| 태그 | 미국, 러시아, 사이버안보, APT공격, 국방정보본부 |
+| 태그 | 미국, 러시아, 사이버안보, APT공격, 국방정보본부, 사이버무기 |
 | 단일 출처 | [SOFREP](https://sofrep.com/news/from-insider-cyber-attacks-on-national-security-to-russian-infiltration-of-the-american-living-room/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "러시아 GRU, 미국 가정용 라우터 장악…연방 시스템 내부자 위협까지", combatsociety.kr/news/20260510-afd55d, github.com/CombatSociety/data.
+Combat Society dataset, "러시아 GRU, 미국 가정용 라우터 해킹…연방 시스템 내부자 위협까지", combatsociety.kr/news/20260510-afd55d, github.com/CombatSociety/data.
 ```

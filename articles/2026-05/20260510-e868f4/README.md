@@ -1,6 +1,6 @@
 # DARPA, 컨테이너형 드론 군집 개발 추진
 
-DARPA가 컨테이너에 담아 원격으로 배치 가능한 드론 군집 시스템 개발을 추진 중이며, 이는 적진 후방에서 예측 불가능한 위협을 만들어낼 수 있는 기술이다.
+DARPA가 컨테이너에 담아 원격으로 배치 가능한 드론 군집 시스템 개발을 추진 중이며, 적진 후방 배치 후 원격 신호로 작동되도록 설계되고 있다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@ DARPA가 컨테이너에 담아 원격으로 배치 가능한 드론 군집 시�
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 드론, 미국 |
+| 태그 | 드론, 미국, 다영역작전 |
 | 단일 출처 | [The War Zone](https://www.twz.com/news-features/drone-swarms-packed-into-unassuming-containers-sought-by-darpa) |
 
 ## 출처 매체
