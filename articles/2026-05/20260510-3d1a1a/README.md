@@ -1,6 +1,6 @@
 # BlackSea Technologies, 신형 무인수상정 '코멧'·'체이서' 공개
 
-BlackSea Technologies가 Sea Air Space 2026에서 신형 무인수상정 코멧과 체이서를 공개했으며, 코멧은 길이 13.1미터에 최대 탑재 중량 10,000파운드 규모다.
+BlackSea Technologies가 Sea Air Space 2026 전시회에서 신형 무인수상정 코멧과 체이서를 공개했다. 코멧은 길이 13.1미터, 최대 탑재량 10,000파운드 규모의 대형 무인수상정이다.
 
 | 항목 | 값 |
 |---|---|

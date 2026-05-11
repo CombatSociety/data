@@ -1,6 +1,6 @@
-# OSS, 현대 미국 특수전·정보기관의 모태 역할
+# OSS, 현대 미국 특수전·정보기관의 토대 마련
 
-제2차 세계대전 미국 전략정보국(OSS)이 현대 CIA와 특수작전사령부의 기초를 마련했으며, OSS의 비정규전 교리와 운영 방식이 현대 미국 특수전 부대에 계승되었다.
+제2차 세계대전 미국 전략정보국(OSS)이 현대 CIA와 미군 특수작전군의 기초를 형성했으며, OSS의 비정규전 교리와 작전 방식이 전후 미국 정보·특수작전 커뮤니티로 계승되었다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "OSS, 현대 미국 특수전·정보기관의 모태 역할", combatsociety.kr/news/20260510-c9cd42, github.com/CombatSociety/data.
+Combat Society dataset, "OSS, 현대 미국 특수전·정보기관의 토대 마련", combatsociety.kr/news/20260510-c9cd42, github.com/CombatSociety/data.
 ```
