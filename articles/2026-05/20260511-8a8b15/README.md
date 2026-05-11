@@ -1,6 +1,6 @@
-# 미 육군, 헌터 울프 무인지상차량 포크 기지 배치
+# 미 육군, Hunter WOLF 무인지상차량 도입 시작
 
-미 육군이 HDT Robotics로부터 헌터 울프 무인지상차량을 루이지애나주 포크 기지에 배치했으며, 10산악사단 3여단이 신규 장비 훈련을 진행 중이다.
+미 육군이 HDT Robotics로부터 Hunter WOLF 무인지상차량을 도입해 루이지애나주 포크 포트의 10산악사단 3여단에 배치했으며, 신규장비훈련을 진행 중이다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 미국, 육군, 드론, 방산정책, 배치 |
+| 태그 | 미국, 육군, 드론, 방산정책 |
 | 단일 출처 | [Defence Blog](https://defence-blog.com/u-s-army-receives-hunter-wolf-unmanned-ground-vehicles-at-fort-polk/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 육군, 헌터 울프 무인지상차량 포크 기지 배치", combatsociety.kr/news/20260511-8a8b15, github.com/CombatSociety/data.
+Combat Society dataset, "미 육군, Hunter WOLF 무인지상차량 도입 시작", combatsociety.kr/news/20260511-8a8b15, github.com/CombatSociety/data.
 ```
