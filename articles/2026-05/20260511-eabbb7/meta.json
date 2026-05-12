@@ -1,14 +1,14 @@
 {
   "category": "operations",
   "content_type": "wire",
-  "cover_image_caption": null,
-  "cover_image_credit": null,
+  "cover_image_caption": "JSOU 교관학교에서 USSOCOM과 USCENTCOM 소속 장병들이 GATEWAY 과정의 인공지능 실무 훈련에 참여하고 있다.",
+  "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Marleah Miller",
   "priority": "P2",
   "published_at": "2026-05-12T00:08:49.662692+00:00",
   "slug": "20260511-eabbb7",
   "source_name": "SOFREP",
   "source_url": "https://sofrep.com/news/special-operations-command-eyes-faster-satellite-access-for-operators-in-the-field/",
-  "summary": "미 특수작전사령부가 상용 위성영상을 전장 실시간 상황판으로 신속 전달하는 기술 검증을 추진 중이다.",
+  "summary": "미 특수작전사령부가 상용 위성영상을 현장 작전자에게 실시간으로 제공하는 방안을 테스트 중이다. 초 단위 시간 차이가 작전 결과를 좌우하는 환경에서 위성영상의 신속한 활용을 목표로 한다.",
   "tags": [
     "작전·훈련",
     "군사기술",
@@ -16,9 +16,8 @@
     "특수전",
     "USSOCOM",
     "드론",
-    "우주안보",
-    "전자전우위"
+    "지정학·국제"
   ],
-  "title": "미 특수전사령부, 상용 위성영상 전술 활용 가속화 추진",
+  "title": "미 특수전사령부, 상용 위성영상 실시간 전술 활용 테스트",
   "url": "https://combatsociety.kr/news/20260511-eabbb7"
 }

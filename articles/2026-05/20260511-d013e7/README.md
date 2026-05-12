@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | industry |
-| 태그 | 산업·기업, 동맹·외교, 무기·방산, 일본, NZSAS, 해군, 인도태평양 |
+| 태그 | 산업·기업, 동맹·외교, 무기·방산, 일본, NZSAS, 인도태평양, 해군 |
 | 단일 출처 | [Naval News](https://www.navalnews.com/naval-news/2026/05/japan-welcomes-new-zealand-interest-in-upgraded-mogami-class-frigate/) |
 
 ## 출처 매체

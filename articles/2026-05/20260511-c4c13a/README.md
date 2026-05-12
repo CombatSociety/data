@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | threats |
-| 태그 | 안보위협, 사이버안보, 북한, 한국, 딥페이크, 사이버스파이, 국정원 |
+| 태그 | 안보위협, 사이버안보, 북한, 한국, 딥페이크, 사이버스파이 |
 | 단일 출처 | [VOA 한반도](https://www.voakorea.com/a/south-korea-s-spy-agency-says-north-korea-stole-more-than-1-4-billion-in-crypto-last-year-highest-ever-20260511/8148832.html) |
 
 ## 출처 매체
