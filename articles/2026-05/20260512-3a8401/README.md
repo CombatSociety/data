@@ -1,6 +1,6 @@
 # A-10 워쓰호그, 도시전 적합성 논쟁
 
-Real Clear Defense가 A-10 워쓰호그의 도시전 투입 적합성 문제를 지적. 냉전 시대 설계 철학과 현대 도시 전투 환경의 불일치 논의.
+Real Clear Defense가 A-10 워쓰호그의 현대 도시전 적합성 문제를 보도. 냉전 설계 기종의 새로운 작전 환경 부적응 지적.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@ Real Clear Defense가 A-10 워쓰호그의 도시전 투입 적합성 문제를 
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 무기·방산, 군사기술, 미국, 공군, 근접항공지원, 다영역작전 |
+| 태그 | 무기·방산, 군사기술, 미국, 공군, 전투기, 교리·전술 |
 | 단일 출처 | [Real Clear Defense](https://www.realcleardefense.com/2026/05/12/bringing_a_warthog_to_a_streetfight_1182154.html) |
 
 ## 출처 매체

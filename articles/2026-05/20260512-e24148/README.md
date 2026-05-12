@@ -1,6 +1,6 @@
-# 미 공군, MQ-9 리퍼로 저가 공대공미사일 항공표적 격추 시연
+# 미 공군, MQ-9 리퍼로 저가 공대공 미사일 실사격 시연
 
-저가 공대공미사일 탑재, 항공표적 격추 성공…저렴한 드론 위협 대응 비용효율성 입증
+저가 공대공미사일 탑재로 항공표적 격추 성공, 드론 위협 대응 비용효율성 입증
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 공군, MQ-9 리퍼로 저가 공대공미사일 항공표적 격추 시연", combatsociety.kr/news/20260512-e24148, github.com/CombatSociety/data.
+Combat Society dataset, "미 공군, MQ-9 리퍼로 저가 공대공 미사일 실사격 시연", combatsociety.kr/news/20260512-e24148, github.com/CombatSociety/data.
 ```

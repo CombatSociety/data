@@ -1,6 +1,6 @@
 # 미 육군, Hunter WOLF UGV 포트폴크 인도
 
-HDT Robotics 납품, GOAT 프로그램 기반 OPNET 훈련으로 제10산악사단 운용 교육 본격화
+제10산악사단 OPNET 훈련 기반 운용 교육 본격화, HDT Robotics 납품
 
 | 항목 | 값 |
 |---|---|

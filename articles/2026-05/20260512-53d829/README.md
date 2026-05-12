@@ -1,6 +1,6 @@
-# 앤두릴, 미 육군 미사일방어 C2 시스템 프로토타입 계약 수주
+# 안두릴, 미 육군 미사일방어 C2 시스템 프로토타입 계약 수주
 
-래티스 소프트웨어 기반 정보 통합·지휘통제 능력 강화, 미사일방어 C2 시스템 프로토타입 개발 본격화
+래티스 소프트웨어 기반 정보 통합·지휘통제 능력 강화, 프로토타입 개발 본격화
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "앤두릴, 미 육군 미사일방어 C2 시스템 프로토타입 계약 수주", combatsociety.kr/news/20260512-53d829, github.com/CombatSociety/data.
+Combat Society dataset, "안두릴, 미 육군 미사일방어 C2 시스템 프로토타입 계약 수주", combatsociety.kr/news/20260512-53d829, github.com/CombatSociety/data.
 ```
