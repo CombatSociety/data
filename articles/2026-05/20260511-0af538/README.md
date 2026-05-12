@@ -1,6 +1,6 @@
-# L3Harris, 미 공군 ABMS 디지털 기반시설 고도화 추진
+# L3Harris, 미 공군 ABMS 디지털 기반시설 구축 추진
 
-L3Harris Technologies가 미 공군의 고급전투관리체계(ABMS) 디지털 기반시설 구축을 위해 고도화된 데이터 처리·네트워킹 기법을 활용할 계획이다.
+L3Harris가 미 공군의 첨단전투관리체계(ABMS) 디지털 기반시설 구축을 추진하며, 고도화된 데이터 처리 및 네트워킹 기법을 활용할 계획이다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@ L3Harris Technologies가 미 공군의 고급전투관리체계(ABMS) 디지털 
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 무기·방산, 군사기술, 미국, 공군, USAFRICOM, 전자전, 다영역작전 |
+| 태그 | 무기·방산, 군사기술, 미국, 공군, USAFRICOM |
 | 단일 출처 | [Real Clear Defense](https://www.realcleardefense.com/2026/05/11/l3harris_to_advance_abms_digital_infrastructure_for_us_air_force_1181863.html) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@ L3Harris Technologies가 미 공군의 고급전투관리체계(ABMS) 디지털 
 ## 인용
 
 ```
-Combat Society dataset, "L3Harris, 미 공군 ABMS 디지털 기반시설 고도화 추진", combatsociety.kr/news/20260511-0af538, github.com/CombatSociety/data.
+Combat Society dataset, "L3Harris, 미 공군 ABMS 디지털 기반시설 구축 추진", combatsociety.kr/news/20260511-0af538, github.com/CombatSociety/data.
 ```
