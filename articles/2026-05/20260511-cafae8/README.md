@@ -1,19 +1,20 @@
-# MQ-9 리퍼, 레이저 유도 로켓 시험 성공
+# MQ-9, APKWS 레이저유도로켓으로 드론 격추 실증
 
-MQ-9 리퍼가 APKWS 레이저 유도 로켓 시험을 성공적으로 완료했으며, 저비용 대드론 무기 수요 증가에 대응하는 것으로 나타났다.
+미 공군 MQ-9 리퍼가 APKWS 레이저유도로켓으로 공중·지상 표적 격추 시험에 성공했다. 저가 드론 위협 대응을 위한 비용 효율적 무장 체계 확보가 목적이며, 헬파이어 대비 교전 단가를 대폭 낮출 수 있다.
 
 | 항목 | 값 |
 |---|---|
 | Slug | `20260511-cafae8` |
 | 발행 | 2026-05-11T21:31:23.188392+00:00 |
 | 우선순위 | P2 |
-| 콘텐츠 타입 | wire |
-| 분류 | weapons |
-| 태그 | 미국, 드론 |
-| 단일 출처 | [The War Zone](https://www.twz.com/air/mq-9-reaper-slings-drone-killing-laser-guided-rockets-in-tests) |
+| 콘텐츠 타입 | original |
+| 분류 | tech |
+| 태그 | 미국, 드론, 전투기, 전자전, 도입, AI국방 |
+| 단일 출처 | [Defense One](None) |
 
 ## 출처 매체
 
+- [Defense One](https://www.defenseone.com/defense-systems/2026/05/air-force-missiles-reaper-drones/413469/)
 - [The War Zone](https://www.twz.com/air/mq-9-reaper-slings-drone-killing-laser-guided-rockets-in-tests)
 
 ## 사이트에서 읽기
@@ -23,5 +24,5 @@ MQ-9 리퍼가 APKWS 레이저 유도 로켓 시험을 성공적으로 완료했
 ## 인용
 
 ```
-Combat Society dataset, "MQ-9 리퍼, 레이저 유도 로켓 시험 성공", combatsociety.kr/news/20260511-cafae8, github.com/CombatSociety/data.
+Combat Society dataset, "MQ-9, APKWS 레이저유도로켓으로 드론 격추 실증", combatsociety.kr/news/20260511-cafae8, github.com/CombatSociety/data.
 ```

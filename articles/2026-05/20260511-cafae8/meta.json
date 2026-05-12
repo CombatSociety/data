@@ -1,18 +1,22 @@
 {
-  "category": "weapons",
-  "content_type": "wire",
+  "category": "tech",
+  "content_type": "original",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P2",
   "published_at": "2026-05-11T21:31:23.188392+00:00",
   "slug": "20260511-cafae8",
-  "source_name": "The War Zone",
-  "source_url": "https://www.twz.com/air/mq-9-reaper-slings-drone-killing-laser-guided-rockets-in-tests",
-  "summary": "MQ-9 리퍼가 APKWS 레이저 유도 로켓 시험을 성공적으로 완료했으며, 저비용 대드론 무기 수요 증가에 대응하는 것으로 나타났다.",
+  "source_name": "Defense One",
+  "source_url": null,
+  "summary": "미 공군 MQ-9 리퍼가 APKWS 레이저유도로켓으로 공중·지상 표적 격추 시험에 성공했다. 저가 드론 위협 대응을 위한 비용 효율적 무장 체계 확보가 목적이며, 헬파이어 대비 교전 단가를 대폭 낮출 수 있다.",
   "tags": [
     "미국",
-    "드론"
+    "드론",
+    "전투기",
+    "전자전",
+    "도입",
+    "AI국방"
   ],
-  "title": "MQ-9 리퍼, 레이저 유도 로켓 시험 성공",
+  "title": "MQ-9, APKWS 레이저유도로켓으로 드론 격추 실증",
   "url": "https://combatsociety.kr/news/20260511-cafae8"
 }
