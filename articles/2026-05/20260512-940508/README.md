@@ -1,6 +1,6 @@
-# 영국 로트론, 장거리 스트라이크 드론 '스카이랜스' 시험 성공
+# 영국 로트론, 장거리 타격 드론 '스카이랜스' 시험 발사 성공
 
-온다스 인크, NATO용 영국 독립 스트라이크 능력으로 추진·모회사 전략 반영
+온다스 인크 지원, 추진 체계·시스템 성능 검증 완료
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "영국 로트론, 장거리 스트라이크 드론 '스카이랜스' 시험 성공", combatsociety.kr/news/20260512-940508, github.com/CombatSociety/data.
+Combat Society dataset, "영국 로트론, 장거리 타격 드론 '스카이랜스' 시험 발사 성공", combatsociety.kr/news/20260512-940508, github.com/CombatSociety/data.
 ```
