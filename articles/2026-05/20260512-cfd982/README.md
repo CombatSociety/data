@@ -1,6 +1,6 @@
 # GE Aerospace, 차세대 전투기 엔진 XA102 조립 준비 검토 통과
 
-GE Aerospace가 차세대 전투기 엔진 XA102의 조립 준비 검토를 통과하며 미 공군 차세대 적응형 추진 프로그램에서 다음 단계 경쟁 자격을 획득했다.
+GE Aerospace가 차세대 전투기 엔진 XA102의 조립 준비 검토를 통과하며 미 공군 차세대 적응형 추진 프로그램의 다음 단계 경쟁 진출 자격을 획득했다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@ GE Aerospace가 차세대 전투기 엔진 XA102의 조립 준비 검토를 통�
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 무기·방산, 군사기술, 미국, 공군, 전투기 |
+| 태그 | 무기·방산, 군사기술, 미국, 전투기, 방산수출 |
 | 단일 출처 | [Defence Blog](https://defence-blog.com/ge-aerospace-clears-key-milestone-for-xa102-next-gen-fighter-engine/) |
 
 ## 출처 매체
