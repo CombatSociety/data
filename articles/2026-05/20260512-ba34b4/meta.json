@@ -1,5 +1,5 @@
 {
-  "category": "operations",
+  "category": "threats",
   "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
@@ -8,16 +8,16 @@
   "slug": "20260512-ba34b4",
   "source_name": "GoogleNews:한국정책",
   "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mM0JiYW53ZVEyWnhNSjJRNHBzUkJ1SzhTTU11Vy1iTlNJVnVJY24wNi0xREJfUjZKSWFVNENlZXVlUTZLdGFGMzg5ZkRfSkx2d3A0elFFMTktenJNbWY1MjlzeEZURm9SM1UxOUJLRnMxLUZy?oc=5",
-  "summary": "러시아 나무호 타격 비행체 잔해 수거·분석, 국방부 정밀 조사 본격화",
+  "summary": "러시아 나무호 타격용 비행체 잔해, 도착 후 정밀 조사 본격화",
   "tags": [
-    "작전·훈련",
+    "안보위협",
     "무기·방산",
-    "국방정책",
     "한국",
     "러시아",
     "우크라이나",
-    "군사기술"
+    "드론",
+    "국방정책"
   ],
-  "title": "나무호 타격 비행체 잔해 한국 도착 예정…국방부 정밀 조사 추진",
+  "title": "나무호 타격 비행체 잔해 한국 도착 예정…국방부 정밀 조사",
   "url": "https://combatsociety.kr/news/20260512-ba34b4"
 }

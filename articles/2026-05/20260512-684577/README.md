@@ -1,6 +1,6 @@
-# AI 오류 발생 시 지도자들이 인지할 수 있을까
+# AI 오류 발생 시 지도부가 인지할 수 있을까
 
-군사작전 AI 오류 감지·인식 능력, 지휘관 역량 한계 지적
+지휘관의 AI 오류 감지 능력 문제, Modern War Institute 우려 제기
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "AI 오류 발생 시 지도자들이 인지할 수 있을까", combatsociety.kr/news/20260512-684577, github.com/CombatSociety/data.
+Combat Society dataset, "AI 오류 발생 시 지도부가 인지할 수 있을까", combatsociety.kr/news/20260512-684577, github.com/CombatSociety/data.
 ```

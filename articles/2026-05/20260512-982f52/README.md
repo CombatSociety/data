@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | threats |
-| 태그 | 안보위협, 북한, 사이버안보, 군사기술, 핵무기, 미사일발사, 호주 |
+| 태그 | 안보위협, 북한, 핵무기, 미사일발사, 사이버안보, 대북제재, 호주 |
 | 단일 출처 | [VOA 한반도](https://www.voakorea.com/a/australian-financial-intelligence-agency-warns-north-korea-using-ai-and-crypto-to-fund-nuclear-missile-programs-20260512/8149231.html) |
 
 ## 출처 매체

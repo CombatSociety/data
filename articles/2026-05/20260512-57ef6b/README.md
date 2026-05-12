@@ -1,6 +1,6 @@
-# 미 해군, 장거리 대잠 신무기 LRAW 개발 착수
+# 미 해군, 원거리 대잠 신무기 LRAW 개발 착수
 
-2026년 말 개발 착수, 기존 대잠 무기 대체·보완 신규 체계
+2026년 말 개발 착수, 기존 대잠 무기 대체 신규 체계·2027 회계연도 예산 첫 반영
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 무기·방산, 해군, 미국 |
+| 태그 | 무기·방산, 해군, 미국, 방산정책 |
 | 단일 출처 | [Naval News](https://www.navalnews.com/naval-news/2026/05/u-s-navy-wants-new-lraw-stand-off-anti-submarine-weapon/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 해군, 장거리 대잠 신무기 LRAW 개발 착수", combatsociety.kr/news/20260512-57ef6b, github.com/CombatSociety/data.
+Combat Society dataset, "미 해군, 원거리 대잠 신무기 LRAW 개발 착수", combatsociety.kr/news/20260512-57ef6b, github.com/CombatSociety/data.
 ```
