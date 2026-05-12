@@ -1,6 +1,6 @@
-# 미 육군, Hunter WOLF UGV 포트폴크 전력화
+# 미 육군, Hunter WOLF UGV 포트폴크 인도
 
-HDT Robotics가 2026년 5월 11일 미 육군 제10산악사단 제3여단에 Hunter WOLF 무인지상차량을 인도했다. 미 육군 GOAT 프로그램의 일환으로 포트폴크에서 일주일간 운용자 신장비 훈련이 진행된다.
+HDT Robotics가 2026년 5월 11일 미 육군 제10산악사단 제3여단에 Hunter WOLF 무인지상차량을 인도했다. GOAT 프로그램 일환으로 포트폴크에서 약 1주일간 운용자 신장비 훈련이 진행된다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@ HDT Robotics가 2026년 5월 11일 미 육군 제10산악사단 제3여단에 Hu
 | 우선순위 | P2 |
 | 콘텐츠 타입 | original |
 | 분류 | weapons |
-| 태그 | 무기·방산, 군사기술, 미국, 육군, 드론, 작전·훈련, 도입 |
+| 태그 | 무기·방산, 군사기술, 미국, 육군, 작전·훈련, 드론, 배치 |
 | 단일 출처 | [Defence Blog](None) |
 
 ## 출처 매체
@@ -24,5 +24,5 @@ HDT Robotics가 2026년 5월 11일 미 육군 제10산악사단 제3여단에 Hu
 ## 인용
 
 ```
-Combat Society dataset, "미 육군, Hunter WOLF UGV 포트폴크 전력화", combatsociety.kr/news/20260511-8a8b15, github.com/CombatSociety/data.
+Combat Society dataset, "미 육군, Hunter WOLF UGV 포트폴크 인도", combatsociety.kr/news/20260511-8a8b15, github.com/CombatSociety/data.
 ```
