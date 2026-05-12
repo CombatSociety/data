@@ -1,21 +1,23 @@
 {
   "category": "weapons",
-  "content_type": "wire",
+  "content_type": "original",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P2",
   "published_at": "2026-05-12T00:52:44.795757+00:00",
   "slug": "20260512-ad943d",
-  "source_name": "USNI News",
-  "source_url": "https://news.usni.org/2026/05/11/new-navy-shipbuilding-plan-trump-class-battleship-will-be-nuclear-powered-carrier-design-is-under-review",
-  "summary": "미 해군이 30년 조선 계획에서 트럼프급 핵동력 전함 건조 계획을 공식 확인했다. 예상 건조비는 175억 달러 규모다.",
+  "source_name": "The War Zone",
+  "source_url": null,
+  "summary": "미 해군이 2025년 5월 공개한 30개년 함정건조계획에서 트럼프급 전함의 핵추진 방식을 공식 확정했다. 척당 최대 175억 달러 규모의 해당 전함은 알레이버크급 구축함의 후속함이 아니며, 항공모함 설계 검토도 병행 중이다.",
   "tags": [
-    "미국",
+    "무기·방산",
+    "국방정책",
     "해군",
+    "미국",
     "항공모함",
-    "핵무기",
-    "방산정책"
+    "구축함",
+    "도입"
   ],
-  "title": "미 해군, 트럼프급 전함 핵동력 추진 공식 확인",
+  "title": "트럼프급 전함, 핵추진 공식 확정",
   "url": "https://combatsociety.kr/news/20260512-ad943d"
 }
