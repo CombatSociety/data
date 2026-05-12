@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | alliance |
-| 태그 | 일본, NZSAS, 해군, 인도태평양, 방산수출 |
+| 태그 | 일본, NZSAS, 방산수출, 인도태평양 |
 | 단일 출처 | [Naval News](https://www.navalnews.com/naval-news/2026/05/japan-welcomes-new-zealand-interest-in-upgraded-mogami-class-frigate/) |
 
 ## 출처 매체

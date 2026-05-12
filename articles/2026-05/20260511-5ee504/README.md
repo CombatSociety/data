@@ -1,6 +1,6 @@
 # 한·미 국방장관, 전작권 이양·동맹 현대화 논의
 
-한·미 국방장관이 전작권 이양과 동맹 현대화를 논의했으며, 호르무즈 해협 해상 안보 활동에 대한 한국의 기여도 협의한 것으로 전해졌다.
+한·미 국방장관이 전작권 이양과 동맹 현대화를 중심으로 회담을 가졌으며, 한반도 안보 환경 변화에 대응하기 위한 연합 방위 태세 강화 방안을 협의했다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | alliance |
-| 태그 | 한국, 미국, 한미동맹 |
+| 태그 | 한국, 미국, 한미동맹, 한미연합사 |
 | 단일 출처 | [GoogleNews:한국정책](https://news.google.com/rss/articles/CBMib0FVX3lxTE5OWEwwOVpwVEhyTGNzSzV5eHkyeVNaMTZzbzZSWllxWnVXZFdtYnRqTm9kcUIxM1pwaWQ1OFM0b3EzZjFFZkItM2h0ak5ybDhDT2pJS0M5YWh5aVFBbEFKeTlYZzgtYUNNdlpZSmhwZw?oc=5) |
 
 ## 출처 매체

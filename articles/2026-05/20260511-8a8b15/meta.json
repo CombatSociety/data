@@ -1,5 +1,5 @@
 {
-  "category": "tech",
+  "category": "weapons",
   "content_type": "original",
   "cover_image_caption": "101공수사단이 JRTC 훈련에서 Hunter Wolf 무인지상차량으로 물자수송을 진행 중이다.",
   "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Mariam Diallo",
@@ -8,14 +8,14 @@
   "slug": "20260511-8a8b15",
   "source_name": "Defence Blog",
   "source_url": null,
-  "summary": "HDT Robotics가 2026년 5월 미 육군 제10산악사단 제3여단에 Hunter WOLF 무인지상차량을 인도하고, 포트폴크에서 1주일 일정의 OPNET을 지원한다. 이번 인도는 미 육군 GOAT 프로그램의 일환이다.",
+  "summary": "HDT Robotics가 미 육군 제10산악사단 제3여단에 Hunter WOLF 무인지상차량을 인도했다. GOAT 프로그램 일환으로 포트폴크에서 1주일간 운용자 신장비 훈련이 진행된다.",
   "tags": [
     "미국",
     "육군",
     "드론",
-    "다영역작전",
     "도입",
-    "AI국방"
+    "다영역작전",
+    "유무인복합"
   ],
   "title": "미 육군, Hunter WOLF UGV 포트폴크 배치",
   "url": "https://combatsociety.kr/news/20260511-8a8b15"

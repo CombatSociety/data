@@ -1,6 +1,6 @@
-# 미 특수작전사령부, 상용 위성영상 실시간 전술 활용 테스트
+# 미 특수작전사령부, 상용 위성영상 실시간 전술 활용 시험
 
-미 특수작전사령부가 상용 위성영상을 작전자의 전술 상황도에 실시간 통합하는 기술 검증을 진행 중이며, 이를 통해 전장 인식 능력 향상을 목표로 하고 있다.
+USSOCOM이 상용 위성영상을 현장 작전자에게 실시간으로 제공하는 시스템 구축을 시험 중이다. 초 단위 시간 차이가 작전 성패를 결정하는 환경에서 위성영상의 신속한 활용을 목표로 한다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | operations |
-| 태그 | USSOCOM, 지리정보 |
+| 태그 | USSOCOM, 특수전, 지리정보, 미국 |
 | 단일 출처 | [SOFREP](https://sofrep.com/news/special-operations-command-eyes-faster-satellite-access-for-operators-in-the-field/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 특수작전사령부, 상용 위성영상 실시간 전술 활용 테스트", combatsociety.kr/news/20260511-eabbb7, github.com/CombatSociety/data.
+Combat Society dataset, "미 특수작전사령부, 상용 위성영상 실시간 전술 활용 시험", combatsociety.kr/news/20260511-eabbb7, github.com/CombatSociety/data.
 ```
