@@ -1,23 +1,22 @@
 {
   "category": "threats",
   "content_type": "wire",
-  "cover_image_caption": null,
-  "cover_image_credit": null,
+  "cover_image_caption": "북한 군인이 11월 19일 한반도 비무장지대 군사분계선 북쪽에서 경계 근무를 서고 있다.",
+  "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Brendan Trembath",
   "priority": "P2",
   "published_at": "2026-05-12T16:27:20.087486+00:00",
   "slug": "20260512-982f52",
   "source_name": "VOA 한반도",
   "source_url": "https://www.voakorea.com/a/australian-financial-intelligence-agency-warns-north-korea-using-ai-and-crypto-to-fund-nuclear-missile-programs-20260512/8149231.html",
-  "summary": "지난해 20억 달러 탈취, AI·가상자산 활용한 자금조달 수법 적발·핵미사일 개발 자금화",
+  "summary": "지난해 20억 달러 규모 자산 탈취, AI·가상자산 활용 자금 조달 수법 고도화",
   "tags": [
     "안보위협",
     "북한",
     "핵무기",
     "미사일발사",
-    "사이버안보",
-    "군사기술",
+    "사이버무기",
     "대북제재"
   ],
-  "title": "호주 금융정보기관, 북한의 AI·가상자산 활용 자금조달 경고",
+  "title": "호주 금융정보기관, 북한의 AI·가상자산 활용 자금 조달 경고",
   "url": "https://combatsociety.kr/news/20260512-982f52"
 }

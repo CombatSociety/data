@@ -1,6 +1,6 @@
-# 미 남부사령부, 자율무기 전담 사령부 신설…카르텔 작전 강화
+# 미 남부사령부, 자율무기 전담 사령부 신설…카르텔 작전에 드론 활용
 
-미 남부사령부가 드론·자율무기 전담 사령부를 신설하며 카르텔 작전에 자율무기를 전략적으로 활용할 계획을 밝혔다.
+드론·자율시스템을 전술에서 전략적 효과로 확대, 카르텔 와해·동맹국 협력에 활용
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | operations |
-| 태그 | 작전·훈련, 무기·방산, 군사기술, 미국, USSOCOM, 드론, 지정학·국제 |
+| 태그 | 작전·훈련, 무기·방산, 군사기술, 미국, 드론, USSOCOM, 비정규전, 반테러작전 |
 | 단일 출처 | [War on Rocks](https://warontherocks.com/what-does-southcoms-new-autonomous-warfare-command-herald/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 남부사령부, 자율무기 전담 사령부 신설…카르텔 작전 강화", combatsociety.kr/news/20260512-b4f8fc, github.com/CombatSociety/data.
+Combat Society dataset, "미 남부사령부, 자율무기 전담 사령부 신설…카르텔 작전에 드론 활용", combatsociety.kr/news/20260512-b4f8fc, github.com/CombatSociety/data.
 ```

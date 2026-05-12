@@ -1,6 +1,6 @@
 # 미 해군, 핵추진 트럼프급 전함 건조 계획 공식 확인
 
-미 해군이 30년 장기 조선 계획에서 핵추진 트럼프급 전함 건조를 공식 확인했으며, 건조비는 약 175억 달러 규모로 예상된다.
+30년 장기 조선 계획에 포함, 건조비 약 175억 달러 규모 예상
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 무기·방산, 미국, 해군, 핵무기 |
+| 태그 | 무기·방산, 미국, 해군, 항공모함, 국방정책 |
 | 단일 출처 | [USNI News](https://news.usni.org/2026/05/11/new-navy-shipbuilding-plan-trump-class-battleship-will-be-nuclear-powered-carrier-design-is-under-review) |
 
 ## 출처 매체
