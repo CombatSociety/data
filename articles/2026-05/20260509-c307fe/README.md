@@ -1,6 +1,6 @@
 # 미 공군 B-1B 랜서 광범위 정비 후 운용 재개
 
-미 공군 B-1B 랜서, 광범위 정비 후 운용 재개. Tinker AFB 정비 완료, Dyess AFB 배치.
+Tinker AFB 광범위 정비 완료, Dyess AFB 배치 재개
 
 | 항목 | 값 |
 |---|---|

@@ -1,6 +1,6 @@
 # Small Wars Journal, 5월 11일자 특수전 주간 뉴스레터 발행
 
-Small Wars Journal, 'SOF Weekly Update' 발행. 특수전·정보·비정규전·국방 관련 주간 뉴스레터 배포.
+특수전·정보·비정규전·국방 관련 주간 뉴스레터 배포
 
 | 항목 | 값 |
 |---|---|

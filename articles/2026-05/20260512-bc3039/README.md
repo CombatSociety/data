@@ -1,0 +1,27 @@
+# 호주, 454억 달러 국방예산 공개…AUKUS 투자 확대
+
+호주가 454억 달러 규모의 국방예산을 공개했으며, 전년도 대비 6% 증가했다. AUKUS 관련 지출을 대폭 확대하기로 결정했다.
+
+| 항목 | 값 |
+|---|---|
+| Slug | `20260512-bc3039` |
+| 발행 | 2026-05-12T16:59:24.738516+00:00 |
+| 우선순위 | P2 |
+| 콘텐츠 타입 | wire |
+| 분류 | defense_policy |
+| 태그 | 국방정책, 무기·방산, 동맹·외교, 호주, AUKUS, 국방예산 |
+| 단일 출처 | [Breaking Defense](https://breakingdefense.com/2026/05/australia-unveils-45-2-billion-defense-budget-with-ramp-up-in-aukus-spending/) |
+
+## 출처 매체
+
+- [Breaking Defense](https://breakingdefense.com/2026/05/australia-unveils-45-2-billion-defense-budget-with-ramp-up-in-aukus-spending/)
+
+## 사이트에서 읽기
+
+<https://combatsociety.kr/news/20260512-bc3039>
+
+## 인용
+
+```
+Combat Society dataset, "호주, 454억 달러 국방예산 공개…AUKUS 투자 확대", combatsociety.kr/news/20260512-bc3039, github.com/CombatSociety/data.
+```

@@ -1,6 +1,6 @@
-# 미 해군, 전력공백 메우기 위해 2026년 함정 건조 계획 추진
+# 미 해군, 전력함 291척 운영 중…법정 요구 355척과 격차
 
-미 해군, 현역 291척에서 법정 요구 355척 달성 목표. 2026년 함정 건조 계획 추진.
+법정 요구 355척 대비 64척 부족, 2026년 건조 계획으로 격차 해소 추진
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 해군, 전력공백 메우기 위해 2026년 함정 건조 계획 추진", combatsociety.kr/news/20260511-b1f2dd, github.com/CombatSociety/data.
+Combat Society dataset, "미 해군, 전력함 291척 운영 중…법정 요구 355척과 격차", combatsociety.kr/news/20260511-b1f2dd, github.com/CombatSociety/data.
 ```
