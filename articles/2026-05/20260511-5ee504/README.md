@@ -1,6 +1,6 @@
-# 한·미 국방장관, 전작권 전환·동맹 현대화 협의
+# 한·미 국방장관, 전작권 전환·동맹 현대화 논의
 
-한·미 국방장관이 전작권 전환과 동맹 현대화를 협의했으며, 호르무즈 해협 항행 자유 보장을 위한 한국의 역할 방안도 논의한 것으로 알려졌다.
+한국 국방장관과 미 국방장관 헤그세스가 전작권 전환과 한미동맹 현대화를 논의했으며, 호르무즈 해역 한국 기여도 협의도 진행된 것으로 알려졌다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | alliance |
-| 태그 | 동맹·외교, 국방정책, 한국, 미국, 한미동맹, 인도태평양 |
+| 태그 | 동맹·외교, 국방정책, 한국, 미국, 한미동맹 |
 | 단일 출처 | [GoogleNews:한국정책](https://news.google.com/rss/articles/CBMib0FVX3lxTE5OWEwwOVpwVEhyTGNzSzV5eHkyeVNaMTZzbzZSWllxWnVXZFdtYnRqTm9kcUIxM1pwaWQ1OFM0b3EzZjFFZkItM2h0ak5ybDhDT2pJS0M5YWh5aVFBbEFKeTlYZzgtYUNNdlpZSmhwZw?oc=5) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "한·미 국방장관, 전작권 전환·동맹 현대화 협의", combatsociety.kr/news/20260511-5ee504, github.com/CombatSociety/data.
+Combat Society dataset, "한·미 국방장관, 전작권 전환·동맹 현대화 논의", combatsociety.kr/news/20260511-5ee504, github.com/CombatSociety/data.
 ```
