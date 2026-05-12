@@ -1,6 +1,6 @@
 # 미국 Owl Cyber Defense, 기밀망용 iOS 보안 게이트웨이 'XD Tyton' 공개
 
-Owl Cyber Defense가 기밀 네트워크 내 iPhone·iPad 운영을 위한 보안 게이트웨이 'XD Tyton'을 공개했으며, 이는 정부 기관의 모바일 기기 활용을 안전하게 지원하는 첫 승인 솔루션이다.
+Owl Cyber Defense, 기밀 네트워크용 보안 게이트웨이 'XD Tyton' 공개. 정부 기관 모바일 기기 활용 지원 첫 승인 솔루션.
 
 | 항목 | 값 |
 |---|---|

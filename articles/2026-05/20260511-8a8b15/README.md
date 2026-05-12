@@ -1,6 +1,6 @@
 # 미 육군, Hunter WOLF UGV 포트폴크 인도
 
-HDT Robotics가 2026년 5월 11일 미 육군 제10산악사단 제3여단에 Hunter WOLF UGV를 인도했다. GOAT 프로그램 기반 1주일간 OPNET 훈련을 통해 장병 운용 교육이 진행된다.
+HDT Robotics, 미 육군 제10산악사단에 Hunter WOLF UGV 인도. GOAT 프로그램 기반 OPNET 훈련을 통한 장병 운용 교육 진행.
 
 | 항목 | 값 |
 |---|---|

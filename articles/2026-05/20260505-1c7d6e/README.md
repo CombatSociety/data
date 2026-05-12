@@ -1,6 +1,6 @@
 # AEVEX, 퍼시스턴트 시스템 Wave Relay 네트워크 생태계 참여
 
-방위사업 기술 기업 AEVEX가 퍼시스턴트 시스템의 Wave Relay 메시 네트워크 생태계에 참여하며, Atlas UAS와 Mako 수상무인정의 선호 네트워크로 지정됐다.
+AEVEX, Wave Relay 메시 네트워크 생태계 참여. Atlas UAS·Mako 수상무인정의 선호 네트워크 지정.
 
 | 항목 | 값 |
 |---|---|
