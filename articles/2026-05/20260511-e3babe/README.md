@@ -1,6 +1,6 @@
-# 레이시온, 호주 Sea3000 호위함에 SeaRAM 미사일 공급
+# 레이시온, 호주 Sea3000 호위함에 SeaRAM 방어체계 공급
 
-레이시온이 호주 Sea3000 호위함 사업을 위해 미쓰비시중공업과 SeaRAM 함정자위체계 공급 계약을 체결했다.
+레이시온이 호주 Sea3000 호위함용 SeaRAM 함정자위방어체계 공급 계약을 미쓰비시중공업으로부터 확보했다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "레이시온, 호주 Sea3000 호위함에 SeaRAM 미사일 공급", combatsociety.kr/news/20260511-e3babe, github.com/CombatSociety/data.
+Combat Society dataset, "레이시온, 호주 Sea3000 호위함에 SeaRAM 방어체계 공급", combatsociety.kr/news/20260511-e3babe, github.com/CombatSociety/data.
 ```

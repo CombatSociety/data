@@ -1,142 +1,142 @@
 {
-  "assessment": "북한이 서울 직접 타격권의 신형 자주포를 전방 배치하고 '두 국가·핵전쟁 체제'를 공식화한 것은 대남 전략 목표 자체가 바뀌었음을 선언한 것이며, 같은 시기 RGB (Reconnaissance General Bureau)가 2024년 한 해 약 14억 달러 규모의 가상자산을 탈취해 역대 최대 기록을 세운 사실은 재래식 위협과 비대칭 자금 조달이 하나의 전략 패키지로 묶여 운용되고 있음을 보여준다. 우크라이나 전선에서 생포된 북한군 포로를 둘러싼 제네바협약과 강제송환 금지 원칙의 충돌은 법적 공백 이상의 문제로, 북한군의 실전 투입이 국제법 체계에 구조적 균열을 만들고 있다는 점에서 ROK JCS (Joint Chiefs of Staff)와 Ministry of National Defense (MND)는 포로 처리 시나리오를 포함한 법적·외교적 대응 매뉴얼을 선제적으로 정비해야 한다. 헤그세스-김용현 회담에서 전시작전통제권 전환과 핵추진 잠수함 협력이 동시에 의제에 오른 것은 트럼프 2기 행정부가 방위비 분담 압박과 전략자산 협력 카드를 연동시키는 협상 구도를 구성하고 있음을 시사하며, 한국은 Dosan Ahn Changho-class submarine (KSS-III) 기반의 독자 전략 타격 역량을 협상 레버리지로 명확히 포지셔닝할 필요가 있다. 해외 전선에서는 러시아의 하루 38회 공세와 휴전 합의 무력화가 미국 주도 중재의 실효성 한계를 드러내는 동시에, USSOCOM (United States Special Operations Command)의 상업 위성영상 전술 실시간 통합 실험, DARPA의 컨테이너 은닉형 드론 군집 체계, Hunter WOLF UGV 배치 완료가 한 흐름으로 수렴하고 있다—이는 정보·화력·기동의 통합 속도가 다음 전쟁의 승패 변수임을 실증하는 것으로, 한국군도 ADD (Agency for Defense Development) 주도의 유사 통합 아키텍처 개발을 전력화 일정에 앞당겨 반영해야 한다.",
+  "assessment": "오늘의 안보 지형은 사이버·물리·정보 영역이 동시에 교란되는 다층 복합위협의 구조를 선명하게 드러낸다. NIS가 확인한 북한 해킹 조직의 2024년 가상자산 탈취 규모(미화 약 14억 달러)는 단순 금융범죄가 아니라 대량살상무기 개발 재원 조달 체계의 일부이며, 서울 방면 신형 자주포 전방 배치와 결합하면 북한의 전략적 도발 준비가 사이버·재래식 양 축에서 동시에 심화되고 있음을 보여준다. 한국 선박 타격 비행체 잔해 조사와 피트 헤그세스 미 국방장관-안규백 한국 국방부장관 회담 의제(전작권 전환·핵잠수함 협력)는 서로 무관해 보이지만, 잔해 분석 결과가 특정 행위자를 지목할 경우 한미 지휘구조 재편 논의의 속도와 방향에 직접 영향을 미칠 수 있다는 점에서 연동된 변수다. 해외 전선에서는 USSOCOM의 상업 위성영상 전술 실시간 통합 시험, MQ-9 Reaper UAV의 저비용 공대공 미사일 격추 시연, DARPA의 컨테이너 위장 드론 군집 발사체계 개발이 동시에 진행되고 있어 미군이 비용 비대칭·분산 타격·실시간 ISR 통합을 하나의 작전 개념으로 수렴시키는 속도가 빨라지고 있음을 확인할 수 있다. 오데사 방공 좌표 유출 사건과 러시아군의 포크로우스크 방면 하루 38회 전투 접촉은 인간정보(HUMINT) 침투와 물리적 소모전이 병행될 때 방어선이 얼마나 빠르게 취약해지는지를 실증하고 있으며, 이는 한국군이 전방 방어 종심과 방첩 체계를 별개가 아닌 통합 문제로 다뤄야 한다는 교훈을 제공한다. 미·이스라엘의 이란 농축 우라늄 탈취 작전 가능성은 외교 실패 시 특수작전 수단으로 전환하는 임계점이 낮아지고 있음을 시사하며, 한국 역시 북한 핵·미사일 시설에 대한 정밀 타격 및 특수작전 옵션을 교리 수준에서 구체화하고 ROK Army Special Warfare Command와 ADD 간 표적 개발 협업 체계를 제도화하는 방향으로 나아가야 할 시점이다.",
   "brief_date": "2026-05-12",
   "digest_type": "daily",
   "items": [
     {
-      "editors_comment": "북한 사이버 부대의 전술이 단순 익스플로잇에서 딥페이크 기반 사회공학(social engineering)과 모바일 포렌식 교란까지 확장된 것은 방어 패러다임 전환을 요구한다. 한국 NIS와 DAPA (Defense Acquisition Program Administration) 방산 공급망, 그리고 가상자산 거래소를 연결하는 통합 위협 인텔리전스 공유 체계를 Five Eyes 수준으로 격상하고, 딥페이크 탐지 AI를 채용·접근통제 프로세스에 제도적으로 내재화하는 것이 다음 단계다.",
+      "editors_comment": "북한 정찰총국 (RGB) 산하 사이버부대의 가상자산 탈취 규모가 매년 경신되는 핵심 이유는 '제재 우회 자금 조달 파이프라인'이 사이버 공간으로 완전히 이전됐기 때문이다. 딥페이크 위장 취업은 내부자 위협(insider threat) 벡터를 인공지능으로 자동화한 것으로, 한국 NIS와 DAPA (Defense Acquisition Program Administration, 방위사업청) 협력사 포함 방산 공급망 전반의 신원 검증 체계를 생체인증 + 행동 기반 이상 탐지(behavioral analytics) 이중 레이어로 즉시 강화해",
       "priority": "P2",
       "section": "한반도",
       "source_name": "VOA 한반도",
       "source_url": "https://www.voakorea.com/a/south-korea-s-spy-agency-says-north-korea-stole-more-than-1-4-billion-in-crypto-last-year-highest-ever-20260511/8148832.html",
-      "subtitle": "딥페이크 위장 취업·스마트폰 원격 초기화 등 신종 수법 병행, 사이버 외화벌이 고도화 지속",
-      "summary_en": "South Korea's NIS (National Intelligence Service) reported that North Korean hacking groups stole over $1.4 billion (approximately 2 trillion KRW) in cryptocurrency in 2024, marking a record high. Novel tactics including deepfake-assisted job infiltration and remote smartphone wiping were employed, signaling a significant evolution in RGB-linked cyber operations. The stolen funds are likely funneled into Pyongyang's WMD programs, further undermining the effectiveness of international sanctions.",
-      "summary_kr": "NIS (National Intelligence Service, 국정원)는 북한 해킹 조직이 2024년 한 해 동안 약 14억 달러(2조 원 이상)의 가상자산을 탈취해 역대 최대 규모를 기록했다고 밝혔다. 딥페이크를 활용한 IT 인력 위장 취업, 스마트폰 원격 초기화 등 전례 없는 신종 수법이 동원됐으며, 이는 북한 정찰총국(RGB, Reconnaissance General Bureau) 산하 사이버 부대의 전술 진화를 보여준다. 탈취 자금은 핵·미사일 개발 재원으로 전용될 가능성이 높아 대북제재 실효성에 심각한 도전이 되고 있다.",
-      "title": "북한 해킹 조직, 2024년 가상자산 2조 원 탈취…역대 최대 기록"
+      "subtitle": "딥페이크 위장 취업·스마트폰 원격 초기화 등 전례 없는 신종 수법 동원",
+      "summary_en": "South Korea's NIS (National Intelligence Service) revealed that North Korean hacking groups stole over approximately $1.4 billion USD (around 2 trillion KRW) in cryptocurrency in 2024, marking a record high. Novel tactics including deepfake-assisted fraudulent employment and remote smartphone wiping were identified for the first time. The stolen funds are widely assessed to finance Pyongyang's nuclear and missile programs, posing a serious challenge to the effectiveness of international sanctions.",
+      "summary_kr": "NIS (National Intelligence Service, 국정원)는 북한 해킹 조직이 2024년 한 해 동안 미화 약 14억 달러(약 2조원) 이상의 가상자산을 탈취했다고 밝혔으며, 이는 역대 최대 규모다. 딥페이크를 활용한 위장 취업, 스마트폰 원격 초기화 등 전례 없는 신종 수법이 새롭게 확인됐다. 탈취 자금은 북한의 핵·미사일 프로그램 자금 조달에 활용될 가능성이 높아 국제 사회의 대북 제재 실효성에 심각한 도전이 되고 있다.",
+      "title": "북한 해킹 조직, 2024년 가상자산 2조원 탈취…역대 최대 기록"
     },
     {
-      "editors_comment": "북한군 포로 문제는 단순 인도주의 이슈가 아니라 북한 파병의 불법성을 국제법 무대에서 공식화할 수 있는 전략적 레버리지다. 한국 정부와 국가정보원(NIS)은 포로 심문 접근권 확보를 외교 채널로 추진하는 동시에, 포로 진술을 KPA 11th Storm Corps(북한 폭풍군단) 전술·편제 정보 수집에 활용하는 법적·정보적 투트랙 접근을 지금 당장 구체화해야 한다.",
+      "editors_comment": "잔해 분석은 출처 귀속(attribution)의 핵심 증거다. 국방부 주도 조사에 ADD(Agency for Defense Development)의 재료·추진체 분석 역량과 국방정보본부의 기술정보(TECHINT) 역량을 병렬 투입해 귀속 판정 속도를 높여야 하며, 분석 결과는 유엔사·주한미군과 즉시 공유해 연합 대응 옵션을 사전 정렬해 두는 것이 다음 단계다.",
+      "priority": "P2",
+      "section": "한반도",
+      "source_name": "GoogleNews:한국정책",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd0VrTlNTdDBsYTVXbGhrVFVNZkMwMkZVUGt4bUs3TG85enBWLU40TUVKcTc5Zi1FTnlHb1Q5VmNiWXlnR055aUlJa05SZ1RDWFJUOS1DeHVwMmQzVjRITDh0Ukk3N1BLcG5LV0Y4Z01LXzl1OGV5ZUpiMXduUFlfMl9sZU1qUlpKMXNOcnRDbXg1dw?oc=5",
+      "subtitle": "외교부 장관이 잔해 분석 일정을 공개하며 공식 조사 절차 진행 중임을 확인했다",
+      "summary_en": "South Korean Foreign Minister Cho Hyun announced that debris from a projectile that struck a South Korean vessel will soon arrive domestically, with the Ministry of National Defense and relevant agencies set to conduct a formal investigation. The identification of the projectile's origin and nature is central to the inquiry, and findings could carry significant diplomatic and security implications.",
+      "summary_kr": "조현 외교부 장관은 한국 선박을 타격한 비행체의 잔해가 곧 국내에 도착하며 국방부 등 관계 기관이 조사에 나설 예정이라고 밝혔다. 비행체의 출처와 성격 규명이 조사의 핵심으로, 결과에 따라 외교·안보적 파장이 상당할 것으로 전망된다.",
+      "title": "한국 선박 타격 비행체 잔해, 국내 도착 후 국방부 조사 착수 예정"
+    },
+    {
+      "editors_comment": "이 사안은 단순한 포로 처우 문제를 넘어, 북한군의 해외 파병 자체를 국제법 체계 안으로 끌어들이는 선례가 된다. 한국 정부와 국정원(NIS)은 포로 심문 접근권 확보를 외교 채널로 적극 추진해야 하며, 확보된 정보는 KPA 11th Storm Corps(폭풍군단) 전술·편제 분석에 직접 활용 가능하다. 법적 공백이 해소되기 전이라도 인도적 접근 창구를 선점하는 것이 정보·외교 양면에서 전략적 이익이다.",
       "priority": "P2",
       "section": "한반도",
       "source_name": "VOA 한반도",
       "source_url": "https://www.voakorea.com/a/8148844.html",
-      "subtitle": "미국은 협약 준수 처우를 강조하나, 인권단체는 러시아 이송 자체가 강제송환에 해당한다고 반박한다",
-      "summary_en": "The disposition of captured North Korean soldiers on the Ukrainian front has triggered a clash between Geneva Convention POW exchange norms and the non-refoulement principle. While the United States emphasizes treatment in accordance with the Geneva Conventions, human rights organizations argue that transferring detainees to Russia constitutes forced repatriation to a country where they face persecution. Given that North Korea's deployment itself is contested under international law, the legal debate over POW status and applicable standards is expected to be protracted.",
-      "summary_kr": "우크라이나 전선에서 생포된 북한군 포로의 처리를 둘러싸고 제네바협약상 전쟁포로 교환 원칙과 강제송환 금지(non-refoulement) 원칙이 정면 충돌하고 있다. 미국은 제네바협약에 따른 적법한 처우를 강조하는 반면, 인권단체들은 포로를 러시아에 넘기는 행위 자체가 박해 위험 지역으로의 강제송환에 해당한다고 주장한다. 북한군의 파병 자체가 국제법 위반 논란을 내포하고 있어, 포로 신분 인정 여부와 처우 기준을 둘러싼 법적 공방은 장기화될 전망이다.",
-      "title": "우크라이나 생포 북한군 포로, 제네바협약·강제송환 금지 원칙 충돌"
+      "subtitle": "제네바협약 적용·강제송환 금지 원칙 충돌로 포로 처우 논란 확산",
+      "summary_en": "A legal dispute has emerged over the treatment of captured North Korean soldiers on the Ukrainian front, with the U.S. supporting Geneva Convention protections while human rights groups argue that transfer to Russia also constitutes forced repatriation. The case highlights a rare conflict between POW exchange norms and the non-refoulement principle, exposing gaps in international humanitarian law regarding the legal status of DPRK combatants deployed abroad.",
+      "summary_kr": "우크라이나 전선에서 생포된 북한군 포로의 처우를 둘러싸고 미국은 제네바협약에 따른 전쟁포로 대우를 지지하는 반면, 인권단체들은 러시아로의 이송 역시 강제송환에 해당한다고 주장하며 국제법 해석 충돌이 심화되고 있다. 포로 교환 원칙과 비강제송환(non-refoulement) 원칙이 동시에 적용되는 이례적 상황으로, 북한군의 법적 지위 자체가 국제인도법의 공백을 드러내고 있다.",
+      "title": "우크라이나 생포 북한군 포로, 국제법 쟁점 부상"
     },
     {
-      "editors_comment": "전작권 전환과 핵잠수함 협력은 표면상 별개 의제지만 본질은 하나다—한국이 독자 전략 억제력을 얼마나 확보하느냐의 문제다. 핵잠수함 협력이 실질화되려면 AUKUS Pillar I 수준의 기술 이전 프레임이 필요하고, 이를 위해서는 한국이 원자력 추진 잠수함 운용 인력 양성 로드맵과 해군잠수함사령부(ROK Navy Submarine Force Command) ORBAT 재편을 선제적으로 제시해 협상 레버리지를 확보해야 한다.",
+      "editors_comment": "전작권 전환과 핵잠수함 협력이 동시에 의제에 오른 것은 단순한 의전 회담이 아니라는 신호다. 전작권 전환 가속화 논의가 현실화되면 ROK-US Combined Forces Command (CFC) 지휘구조 재편과 한국군 단독 작전 수행 능력 검증이 병행되어야 하며, 핵잠수함 협력은 AUKUS 모델을 참조해 기술이전·운용교리·승조원 양성 로드맵을 구체화하는 방향으로 선제적으로 설계해야 실질적 억제력 확보가 가능하다.",
       "priority": "P2",
       "section": "한반도",
       "source_name": "GoogleNews:한국정책",
       "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPcHlJZGZEcXdQTlhlMHlseG9aQVNTckVMTm1ZWkJPUjViRjJCaS1mcS1lWFlucXYzSUx5MlhMSU1mWkRRYzdEdDZnLTQzcUdRNWNTcW9wTVY2dHh4SXlQZy1qalZ1c3RrUkJDWHRzYmJncnlmOGthQ0NBVjFkLUdZSTBlMEc3X2dsUERqM3Q3MFRiQzhYNEZaZE9UR1FkOE1DWGdscmJmRXV5ZVE3WDZiN0xhM2p6MS1ucVhCQXRRdlRyNjVmUGpkQ0R5bXhCOGpGaVE0ZGNSQUZSU2tpM1hBRExack5VTVVVZmlVekpvcW81Mk1JdWVkTHBlazN0dzNkR1VqMtIBhwJBVV95cUxQNTJiWVRKaDNMcXd4UzQ3RGtkYS1uUlBETDluZDhkaGdsWVV5YkVPbDdROXg3SGxTaWl3eVlVSkpCc3BKM3BnLWtvVk45QVJ2U2VvWFdNZlhkZkdDYVFzU1ZSZ2FjNDVfdWFQLWEwTE0zRVh4MUhieGZITWljMnRfelNmeUlET3FTcHlDMk5kaGpnY2E0WFlscTdlRmZfR3MzdmVPOTJsd2k2WU9nOThxQWR5WUhLbWowRFFvUXdpNEZHLVgzUEdrMHNpczctTVpkQ3MySW40SmNTbUl5RGEyOEpNWDlINkhMNFhWSl95R2tHUUp5VHhoMVlMM0dNYXZHN2NfU2xDRQ?oc=5",
-      "subtitle": "트럼프 2기 출범 후 첫 한미 국방장관 대면 회담으로 동맹 현안 전반 점검 예정",
-      "summary_en": "U.S. Secretary of Defense Pete Hegseth is set to meet with his South Korean counterpart to discuss wartime operational control (OPCON) transfer and potential nuclear-powered submarine cooperation. The meeting marks the first high-level defense dialogue under the Trump administration's second term, with alliance burden-sharing and strategic asset deployment expected to be key points of contention. The nuclear submarine discussion signals Seoul's continued interest in AUKUS-style arrangements as a means of bolstering extended deterrence credibility.",
-      "summary_kr": "피트 헤그세스 미 국방장관과 한국 국방장관이 회담을 갖고 전시작전통제권 전환 문제와 핵추진 잠수함 협력 방안을 주요 의제로 논의할 전망이다. 트럼프 2기 행정부 출범 이후 한미 동맹의 방위비 분담 및 전략자산 운용 방향에 대한 조율이 본격화되는 시점에서 이번 회담은 양국 국방 협력의 방향성을 가늠하는 중요한 계기가 될 것으로 보인다. 특히 핵잠수함 협력 논의는 AUKUS(오커스) 모델에 대한 한국의 관심과 맞물려 확장억제 실행력 강화 차원에서 주목된다.",
-      "title": "헤그세스-김용현 한미 국방장관 회담, 전작권·핵잠수함 협력 의제 부상"
+      "subtitle": "한미 국방장관 회담에서 전시작전통제권 전환 일정과 핵잠수함 협력 방안이 핵심 의제로 논의될 전망이다.",
+      "summary_en": "U.S. Secretary of Defense Pete Hegseth is expected to meet with ROK Defense Minister Ahn Kyu-baek to discuss the transfer of wartime operational control (OPCON) and potential nuclear submarine cooperation. The talks come amid heightened alliance burden-sharing pressure under the second Trump administration, making the direction of OPCON transfer negotiations a focal point. The nuclear submarine cooperation agenda reflects growing interest in strengthening underwater deterrence against North Korea's advancing nuclear and missile capabilities.",
+      "summary_kr": "피트 헤그세스(Pete Hegseth) 미 국방장관과 안규백 한국 국방부장관이 회담을 갖고 전시작전통제권(전작권) 전환 문제와 핵잠수함 협력 방안을 논의할 것으로 전망된다. 전작권 전환은 한미동맹의 지휘구조 재편과 직결되는 사안으로, 트럼프 2기 행정부 출범 이후 동맹 분담 압박이 강화되는 가운데 논의 방향에 관심이 집중된다. 핵잠수함 협력 의제는 북한의 핵·미사일 위협에 대한 수중 억제력 강화 차원에서 제기된 것으로 분석된다.",
+      "title": "헤그세스-한국 국방장관 회담, 전작권·핵잠수함 협력 의제 부상"
     },
     {
-      "editors_comment": "북한의 신형 자주포 전방 배치는 교리 변화가 편제·장비 수준으로 내려온 신호다. 한국군 대화력전 체계는 AN/TPQ-37 레이더 기반 탐지-K9 Thunder 사격 루프가 핵심이나, 자주포 진지 다변화와 기동 발사 전술에 대응하려면 다중 센서 융합(위성·드론·지상 레이더)을 통한 실시간 표적 갱신 주기를 현재보다 단축하고, 장사정포 요격용 M-SAM Block II 및 개발 중인 L-SAM의 전방 배치 우선순위를 재조정해야 한다.",
+      "editors_comment": "북한의 신형 자주포 전방 배치는 핵·재래식 복합 타격 체계의 상시화를 의미한다. 한국군은 장사정포 대응 개념을 수동적 방호에서 능동적 킬체인—탐지-결심-타격 주기 단축—으로 전환하고, 현무-4 Hyunmoo-4 SRBM 기반 대화력전 자산과 연계한 표적 데이터베이스를 실시간 갱신하는 체계를 ROK JCS(합참) 주도로 제도화해야 한다.",
       "priority": "P2",
       "section": "한반도",
       "source_name": "GoogleNews:북한위협",
       "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01eVhDakNXZF92YTZrcFl5UGMzV0FiRTlmcldfSWFBYlBUTmNTcC0ycEk1c0VFcnZMRXo2LWtmMDlOWVB4cWdHS01jalRRaXdmaG9RdElTbVNPbmdEeTdrZEU1SkNYTEd6Vllr0gFvQVVfeXFMTzdfWmpqZ2U5UjdFZXdmSnl2akpnYkhmRzdBX2phWXFsYmlONUFsNUlGdmlnU1NRNVFBUzFNSDVWUlJ5UlFsc0ZTQXBHNk5hSjl3a3VxSUdNT05EMlg0VWZMZW11ejRnTnQtOVJkTTVz?oc=5",
-      "subtitle": "북한이 대남 적대 노선을 헌법에 명문화한 데 이어 전방 화력 증강으로 실질적 위협을 구체화하고 있다.",
-      "summary_en": "North Korea is deploying new self-propelled artillery systems positioned to target Seoul, while simultaneously institutionalizing a 'two-state' framework and nuclear war posture. This represents a doctrinal shift from unification rhetoric to an explicit adversarial strike posture against South Korea. The increased forward artillery density raises the operational feasibility of a surprise barrage against the Seoul metropolitan area, placing direct pressure on ROK counter-battery and early warning capabilities.",
-      "summary_kr": "북한이 서울을 직접 타격권에 두는 신형 자주포를 전방에 배치하며 '두 국가론'과 핵전쟁 준비 태세를 병행 가시화하고 있다. 이는 단순한 무력 시위를 넘어 대남 전략 목표를 '통일'에서 '적국 타격'으로 공식 전환한 교리적 변화의 물리적 구현이다. 전방 화력 밀도 증가는 유사시 수도권 기습 포격 시나리오의 실행 가능성을 높이며 한국군의 대화력전 및 조기경보 체계에 직접적 압박을 가한다.",
-      "title": "북한, 서울 겨냥 신형 자주포 배치…'두 국가·핵전쟁 체제' 공식화"
+      "subtitle": "'두 국가' 선언 이후 대남 타격 전력 전진 배치로 위협 수위 높인다",
+      "summary_en": "North Korea is deploying new self-propelled artillery systems positioned to target Seoul, signaling an overt shift toward a 'two-state' posture and permanent nuclear war readiness. The move reflects a strategic intent to maintain constant first-strike capability against South Korea beyond mere deterrence signaling. The integration of conventional fire and nuclear threats is fundamentally reshaping the security environment on the Korean Peninsula.",
+      "summary_kr": "북한이 서울을 직접 겨냥하는 신형 자주포를 전방에 배치하며 '두 국가론'과 핵전쟁 준비 태세를 가시화하고 있다. 이는 단순한 무력 시위를 넘어 대남 선제타격 능력을 상시 유지하겠다는 전략적 의도를 드러낸 것으로 분석된다. 재래식 화력과 핵 위협을 결합한 복합 억제 구조가 한반도 안보 환경을 근본적으로 변화시키고 있다.",
+      "title": "북한, 서울 겨냥 신형 자주포 배치…핵전쟁 체제 노골화"
     },
     {
-      "editors_comment": "단기 정치적 휴전은 지상 전술 관성을 멈추지 못한다는 사실이 재확인됐다. 실효적 정전을 위해서는 선언 이전에 전선 단위 연락 채널(deconfliction hotline)과 위반 시 즉각 귀책 가능한 모니터링 체계가 선행돼야 하며, 미국이 진지한 중재자로 자리매김하려면 외교 선언과 현장 검증 메커니즘을 동시에 설계해야 한다.",
-      "priority": "P2",
-      "section": "해외",
-      "source_name": "Defense News",
-      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/11/ukraine-and-russia-fight-on-despite-us-mediated-ceasefire/",
-      "subtitle": "트럼프 주도 5월 9~11일 휴전 선언에도 양측 전선 교전 보고 이어져",
-      "summary_en": "Russia and Ukraine both reported continued fighting along the front line despite agreeing to a Trump-brokered ceasefire from May 9 to 11. The immediate violations underscore the fragility of short-term truces without robust enforcement mechanisms, casting doubt on the durability of U.S.-mediated peace efforts in the conflict.",
-      "summary_kr": "러시아와 우크라이나는 트럼프 행정부 중재로 5월 9일부터 11일까지 휴전에 합의했으나, 합의 직후에도 전선 전역에서 교전이 지속됐다고 양측이 각각 보고했다. 이번 휴전 위반은 미국 주도 평화 협상의 실효성에 의문을 제기하며, 단기 정전 합의가 실질적 전투 중단으로 이어지지 않는 구조적 한계를 재확인시켰다.",
-      "title": "러-우 전선 교전 지속, 미국 중재 휴전 합의 무색"
-    },
-    {
-      "editors_comment": "핵물질 탈취 작전은 단순 타격과 달리 정밀 인간정보(HUMINT)·신호정보(SIGINT) 융합, 침투·추출 경로 확보, 방사선 방호 역량을 동시에 요구하는 최고난도 임무다. DEVGRU 또는 델타포스(1st SFOD-D) 수준의 직접임무 자산과 이스라엘 Sayeret Matkal·Mossad의 합동 운용이 전제되어야 하며, 작전 실패 시 이란의 즉각적 보복과 호르무즈 해협 봉쇄 시나리오가 연동된다. 한국은 청해부대 운용 경험과 CBRN 방어 역량을 기반으로 중동 유사시 자국민 보호·해상 교통로(SLOC) 비상계획을 지금 점검해야 할",
+      "editors_comment": "농축 우라늄 탈취 작전은 단순 공습과 달리 물질 확보·유출 차단·후속 핵 추적까지 요구하는 복합 특수작전이다. 성공하려면 DEVGRU 또는 이스라엘 Sayeret Matkal 급의 직접임무 팀과 핵물질 처리 전문 인력의 통합 운용, 그리고 실시간 신호정보·인간정보 융합이 전제돼야 한다. 향후 6개월이 협상 최종 임계점이 될 가능성이 높으며, 작전 실행 시 이란의 보복 벡터(호르무즈 봉쇄·프록시 공격)에 대한 CENTCOM 차원의 사전 억제 태세 강화가 병행돼야 한다.",
       "priority": "P2",
       "section": "해외",
       "source_name": "The War Zone",
       "source_url": "https://www.twz.com/news-features/possibility-of-operation-to-retrieve-irans-enriched-uranium-appears-to-rise-as-negotiations-sputter",
-      "subtitle": "미·이스라엘 정상의 잇따른 발언이 고위험 핵물질 탈취 작전 시나리오를 현실화하고 있다",
-      "summary_en": "President Trump and Israeli Prime Minister Netanyahu both made statements within 24 hours suggesting a possible high-risk operation to seize Iran's enriched uranium stockpile. With U.S.-Iran nuclear negotiations stalled, a physical removal of nuclear material is emerging as a credible option on the table. Any such operation would carry severe escalation risks and immediate regional security consequences across the Middle East.",
-      "summary_kr": "트럼프 대통령과 네타냐후 이스라엘 총리가 24시간 내 이란 핵물질 탈취 가능성을 시사하는 발언을 잇따라 내놓았다. 미·이란 핵 협상이 교착 상태에 빠진 가운데, 이란의 고농축우라늄 재고를 물리적으로 제거하는 고위험 특수작전 시나리오가 현실적 옵션으로 부상하고 있다. 작전이 실행될 경우 중동 전역의 안보 구조에 즉각적이고 광범위한 연쇄 충격이 예상된다.",
-      "title": "이란 농축우라늄 탈취 작전 가능성 고조, 협상 교착 속 트럼프·네타냐후 발언 주목"
+      "subtitle": "핵협상 교착 속 트럼프·네타냐후 발언이 고위험 물리적 작전 시사",
+      "summary_en": "As U.S.-Iran nuclear negotiations stall, both President Trump and Israeli Prime Minister Netanyahu made statements within 24 hours suggesting a possible high-risk operation to physically seize Iran's enriched uranium stockpile. The remarks indicate that a direct military or special operations option to neutralize Iran's nuclear material is being actively considered should diplomacy fail.",
+      "summary_kr": "미·이란 핵협상이 진전 없이 교착 상태에 빠진 가운데, 트럼프 대통령과 이스라엘 총리 네타냐후가 24시간 내 이란의 농축 우라늄을 물리적으로 탈취하는 고위험 작전 가능성을 시사하는 발언을 잇달아 내놓았다. 이는 외교적 해법이 실패할 경우 군사·특수작전 수단으로 이란 핵 물질을 직접 제거하는 시나리오가 실질적 옵션으로 검토되고 있음을 의미한다.",
+      "title": "미·이스라엘, 이란 농축 우라늄 탈취 작전 가능성 부상"
     },
     {
-      "editors_comment": "상업 위성의 재방문 주기와 해상도가 급격히 향상된 지금, 병목은 센서가 아니라 데이터 파이프라인이다. 한국군 드론봇 전투체계와 ROK Army Special Warfare Command(특수전사령부)의 전술 C2 체계도 상용 OSINT·위성영상을 정식 수집 자산으로 제도화하고, ATAK 계열 전술 플랫폼과의 API 연동 표준을 지금 설계해야 5년 내 한미 SOF 상호운용성을 실질적으로 확보할 수 있다.",
+      "editors_comment": "드론 대 드론 요격 개념은 비용 비대칭 문제의 핵심을 건드린다. 한국군 드론봇 전투체계도 MQ-9 Reaper UAV 급 중고도 플랫폼에 경량 공대공 교전 모듈을 통합하는 방향을 검토해야 하며, ADD(Agency for Defense Development)가 개발 중인 소형 유도무기와 연계해 '드론이 드론을 잡는' 비용 효율적 다층 방공 아키텍처를 조기에 교리화할 필요가 있다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defense One",
+      "source_url": "https://www.defenseone.com/defense-systems/2026/05/air-force-missiles-reaper-drones/413469/",
+      "subtitle": "미 공군, 소형 드론 위협 대응을 위한 비용 효율적 공중 요격 체계 탐색 가속화",
+      "summary_en": "The U.S. Air Force successfully demonstrated the MQ-9 Reaper UAV engaging aerial targets using low-cost air-to-air missiles. The test is part of a broader effort to develop cost-effective countermeasures against inexpensive drone threats. The initiative directly addresses the cost-exchange dilemma where high-value interceptors are used against cheap adversary drones.",
+      "summary_kr": "미 공군이 MQ-9 Reaper UAV에 저비용 공대공 미사일을 탑재해 공중 표적 격추 시연에 성공했다. 이는 저가 드론 위협에 대응하는 비용 효율적 방어 수단을 확보하려는 미 공군의 전략적 노력의 일환이다. 고가 자산으로 저가 위협을 상쇄하는 비용 비대칭 문제를 해결하기 위한 실용적 접근으로 평가된다.",
+      "title": "MQ-9 리퍼 UAV, 저비용 공대공 미사일로 드론 격추 시연 성공"
+    },
+    {
+      "editors_comment": "궤도-전술 화면 간 지연 단축은 단순 기술 업그레이드가 아니라 SOF 결심 사이클 자체를 재설계하는 작업이다. 한국 ROK Army Special Warfare Command(특전사)도 상용 위성·공개출처정보(OSINT)를 ATAK 또는 동급 전술 C2 플랫폼에 실시간 연동하는 파이프라인을 ADD(국방과학연구소)·NIS(국가정보원)와 공동으로 제도화해야 하며, 이를 한미 SOF협력 채널에 연결하면 연합 소규모팀 작전의 상황인식 격차를 단기간에 좁힐 수 있다.",
       "priority": "P2",
       "section": "해외",
       "source_name": "SOFREP",
       "source_url": "https://sofrep.com/news/special-operations-command-eyes-faster-satellite-access-for-operators-in-the-field/",
-      "subtitle": "궤도에서 작전자 손끝까지 지연 최소화, 전장 상황인식 혁신 목표",
-      "summary_en": "USSOCOM is testing the integration of commercial satellite imagery directly into operators' tactical displays, aiming to reduce latency from orbit to the field. The effort focuses on overcoming bandwidth and data pipeline constraints to enable near-real-time geospatial awareness via platforms such as ATAK. This reflects a broader push to formally incorporate commercial space assets into SOF intelligence collection architecture.",
-      "summary_kr": "USSOCOM(특수작전사령부)이 상업 위성영상을 현장 작전자의 전술 화면에 실시간으로 통합하는 실험을 진행 중이다. 대역폭 제약과 지연 시간을 줄여 ATAK(Android Team Awareness Kit) 등 전술 플랫폼에서 위성 영상을 즉시 활용하는 것이 핵심 목표다. 이는 SOF 작전의 지리공간정보 의존도가 높아지는 가운데, 상업 우주 자산을 정식 수집 체계로 편입하려는 흐름을 반영한다.",
-      "title": "USSOCOM, 상업 위성영상 전술 실시간 통합 실험 착수"
+      "subtitle": "궤도에서 현장 작전자 화면까지의 지연을 줄여 결심 우위 확보를 목표로 한다",
+      "summary_en": "USSOCOM is testing the integration of commercial satellite imagery directly into operators' tactical displays to reduce latency from orbit to the field. The initiative focuses on overcoming bandwidth constraints and delivery delays that can determine outcomes in time-sensitive SOF operations. By linking commercial space assets to ATAK-based platforms, SOCOM aims to institutionalize geospatial intelligence access at the small-team level.",
+      "summary_kr": "USSOCOM(특수작전사령부)이 상업 위성영상을 현장 작전자의 전술 화면에 실시간으로 통합하는 방안을 시험 중이다. 초 단위 지연과 대역폭 제약이 실제 교전 결과를 좌우하는 환경에서, 상용 우주 자산을 ATAK 계열 전술 플랫폼과 연동해 지리공간정보 접근 속도를 높이는 것이 핵심 과제다. 이는 상업 위성 생태계를 정식 수집 자산으로 편입해 소규모 SOF 팀의 상황인식을 구조적으로 강화하려는 시도다.",
+      "title": "USSOCOM, 상업 위성영상 전술 실시간 통합 시험 착수"
     },
     {
-      "editors_comment": "트로이안 풋프린트는 단순 훈련이 아니라 SOCEUR이 유럽 전역 SOF 네트워크를 실시간으로 점검하는 통합 검증 플랫폼이다. 한국군 특수전 부대가 Yama Sakura, Cobra Gold 수준을 넘어 유럽 SOF 다자훈련 옵저버 또는 파트너 참가 경로를 개척한다면, 글로벌 SOF 상호운용성 확보와 함께 NATO 연계 방산 협력 신뢰도까지 동시에 끌어올릴 수 있다.",
+      "editors_comment": "방공 좌표 유출은 단순 첩보 사건이 아니라 러시아의 정밀타격 효율을 직접 높이는 전술적 위협이다. 우크라이나가 방공 자산 위치 정보를 구획화(compartmentalization)하고 운용 인원에 대한 정기 방첩 심사를 제도화하는 방향으로 내부 보안 체계를 강화해야 이 유형의 HUMINT 침투를 구조적으로 차단할 수 있다.",
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-crime/4121979-odesa-court-orders-detention-of-man-suspected-of-passing-ukrainian-air-defense-coordinates-to-russia.html",
+      "subtitle": "현지 법원이 46세 남성에 대해 군사시설 및 방공체계 운용 정보 제공 혐의로 구금 명령을 내렸다.",
+      "summary_en": "A court in Odesa has ordered the detention of a 46-year-old local resident suspected of passing information on military facilities and Ukrainian air defense system operations to Russian intelligence. The charge constitutes high treason, highlighting Russia's continued exploitation of human intelligence assets inside Ukraine to degrade its air defense capabilities.",
+      "summary_kr": "우크라이나 오데사 법원이 러시아 정보기관에 군사시설 위치 및 방공체계 운용 정보를 넘긴 혐의로 46세 현지 주민에 대해 구금을 명령했다. 해당 혐의는 국가반역죄에 해당하며, 러시아가 우크라이나 방공망 무력화를 위해 내부 협력자를 적극 활용하고 있음을 다시 한번 보여준다.",
+      "title": "오데사 주민, 우크라이나 방공 좌표 러시아에 넘긴 혐의로 구금"
+    },
+    {
+      "editors_comment": "트로이 풋프린트는 단순 훈련이 아니라 유럽 SOF 네트워크의 연간 통합 점검이다. 한국 특수전사령부(ROK Army Special Warfare Command)가 옵저버 또는 파트너 자격으로 참여 경험을 축적한다면, 유럽 SOF와의 교리·절차 호환성을 높이고 향후 다영역 위기 시 다국적 SOF 협력의 진입 장벽을 낮출 수 있다.",
       "priority": "P2",
       "section": "해외",
       "source_name": "DVIDS:Joint",
       "source_url": "https://www.dvidshub.net/news/564914/us-special-operations-command-europe-commences-trojan-footprint-2026",
-      "subtitle": "NATO 동맹국·파트너국 SOF 통합 역량 강화를 위한 연례 다국적 특수전 훈련 본격 돌입",
-      "summary_en": "U.S. Special Operations Command Europe (SOCEUR) has commenced Trojan Footprint 2026, its annual multinational SOF exercise conducted across the European theater. The exercise brings together NATO allies and partner nation SOF units to enhance interoperability and joint operational capability. Amid the ongoing Russia-Ukraine conflict, the exercise serves as a critical assessment of real-world SOF integration across the European security architecture.",
-      "summary_kr": "미 유럽특수작전사령부(SOCEUR)가 트로이안 풋프린트(Trojan Footprint) 2026 훈련을 개시했다. 이 훈련은 유럽 전역에서 NATO 동맹국 및 파트너국 SOF 부대들이 참가하는 연례 다국적 특수전 통합훈련으로, 상호운용성 및 합동 작전 역량 향상을 목표로 한다. 러시아-우크라이나 전쟁이 장기화되는 안보 환경 속에서 유럽 SOF 네트워크의 실질적 통합 수준을 점검하는 핵심 훈련으로 평가된다.",
-      "title": "미 유럽특수작전사령부, 트로이안 풋프린트 2026 훈련 개시"
+      "subtitle": "NATO 동맹·파트너국 SOF 통합 역량 검증을 위한 연례 다국적 특수작전 훈련 시작",
+      "summary_en": "U.S. Special Operations Command Europe (SOCEUR) has commenced Trojan Footprint 2026, its annual multinational SOF exercise conducted across the European theater. The exercise validates interoperability and integrated operational capabilities among NATO allies and partner nation special operations forces. Conducted amid the ongoing Russia-Ukraine conflict, it reinforces the cohesion and readiness of the European SOF network.",
+      "summary_kr": "미 유럽특수작전사령부(SOCEUR)가 트로이 풋프린트(Trojan Footprint) 2026 훈련을 개시했다. 이 훈련은 유럽 전역에서 NATO 동맹국 및 파트너국 특수작전부대(SOF)의 상호운용성과 통합 작전 역량을 검증하는 연례 다국적 훈련이다. 러시아-우크라이나 전쟁이 지속되는 안보 환경 속에서 유럽 SOF 네트워크의 결속력과 실전 대응 태세를 강화하는 데 전략적 의미가 있다.",
+      "title": "미 유럽특수작전사령부, 트로이 풋프린트 2026 훈련 개시"
     },
     {
-      "editors_comment": "컨테이너 위장 군집 드론은 발사 원점 자체를 불특정 다수로 분산시켜 킬체인 역추적을 무력화하는 개념이다. 한국군 드론봇 전투체계는 현재 전방 기동부대 연동 중심으로 설계되어 있으나, 이 DARPA 모델처럼 적 A2/AD 종심에 사전 침투·대기하는 '전략적 매복 군집' 개념을 ROK Army Special Warfare Command 및 ADD 주도로 연구하고, 소형 자율 군집 운용 교리를 종심 작전(Deep Operations) 프레임으로 확장해야 한다.",
+      "editors_comment": "컨테이너 위장 군집 드론은 '어디서든 발사 가능'이라는 전제를 방어 측에 강요함으로써 방공 자원 배분 자체를 마비시키는 인지전 효과를 노린다. 한국군 드론봇 전투체계가 이 개념을 참조하려면, 개별 운용자 중심의 현행 편제를 컨테이너 단위 자율 군집 모듈로 재설계하고, 후방 침투 사전 배치 시나리오를 상정한 ROE(교전규칙)와 지휘통제 아키텍처를 병행 개발해야 실전 통합이 가능하다.",
       "priority": "P2",
       "section": "해외",
       "source_name": "The War Zone",
       "source_url": "https://www.twz.com/news-features/drone-swarms-packed-into-unassuming-containers-sought-by-darpa",
-      "subtitle": "적 후방 사전 배치 후 원격 기동 가능한 비대칭 타격 개념으로 방어 무력화 목표",
-      "summary_en": "DARPA is pursuing a containerized drone swarm system that can be disguised as ordinary shipping containers and pre-positioned in or behind enemy territory. Once remotely triggered, the swarms would generate simultaneous multi-directional threats that are extremely difficult to intercept. The distributed launch concept fundamentally challenges conventional air defense logic by eliminating predictable launch points.",
-      "summary_kr": "DARPA가 일반 컨테이너 형태로 위장·은닉된 드론 군집 발사 체계 개발을 추진하고 있다. 해당 체계는 적 후방 또는 비예상 지점에 사전 배치된 뒤 원격 신호로 활성화되어 전방위 동시 위협을 형성하는 개념이다. 탐지·요격이 극히 어려운 분산 발사 구조로, 기존 방공 체계의 방어 논리를 근본적으로 흔드는 비대칭 전력으로 평가된다.",
-      "title": "DARPA, 컨테이너 은닉형 드론 군집 체계 개발 착수"
+      "subtitle": "적 후방 사전 배치 후 원격 기동 활성화, 전방위 비대칭 위협 구현 목표",
+      "summary_en": "DARPA is pursuing a containerized drone swarm launch system disguised as ordinary cargo containers, designed to be pre-positioned behind enemy lines and remotely activated on command. The concept generates simultaneous multi-directional threats that overwhelm conventional point-defense logic. By exploiting civilian logistics infrastructure for concealment, the system maximizes strategic surprise and cost asymmetry against adversary air defense networks.",
+      "summary_kr": "DARPA가 일반 화물 컨테이너로 위장한 드론 군집 발사체계 개발에 착수했다. 해당 체계는 적 후방에 사전 배치된 후 원격 신호로 활성화되어 다방향 동시 위협을 생성하는 개념으로, 기존 방공망의 단일 축 대응 논리를 무력화한다. 탐지·식별이 어려운 민간 물류 인프라를 활용한다는 점에서 전략적 기습 효과와 비용 비대칭성이 극대화된다.",
+      "title": "DARPA, 컨테이너 위장 드론 군집 발사체계 개발 추진"
     },
     {
-      "editors_comment": "하루 38회 공세는 러시아군이 소모전 기조를 유지하면서 우크라이나의 예비대 배분을 강제 분산시키는 전형적인 다축 압박 전술이다. 포크로우스크 방면 집중은 단순 지형 탈취가 아니라 우크라이나 동부 보급선 차단을 겨냥한 작전적 목표로 읽어야 하며, 우크라이나군은 기동예비 운용 효율화와 JTAC 유도 기반 근접항공지원(CAS) 통합을 통해 병력 열세를 화력 우위로 상쇄하는 방향으로 방어 교리를 전환해야 한다.",
+      "editors_comment": "하루 38회 교전은 단순 수치가 아니라 러시아군이 우크라이나 예비대 순환 주기를 초과하는 속도로 소모를 강제하고 있다는 신호다. 포크로우스크 축선이 무너지면 슬로비안스크-크라마토르스크 방어 클러스터 전체가 측방 노출되므로, 우크라이나는 기동 예비대 운용보다 종심 방어진지 조기 구축과 드론 기반 화력 차단선 강화를 병행해야 이 소모 방정식을 버텨낼 수 있다.",
       "priority": "P2",
       "section": "해외",
       "source_name": "Ukrinform",
       "source_url": "https://www.ukrinform.net/rubric-ato/4122082-war-update-38-combat-clashes-since-morning-pokrovsk-direction-remains-most-active.html",
-      "subtitle": "우크라이나 전선 전역에서 러시아군의 다방면 동시 공세가 이어지며 포크로우스크 축선이 최대 격전지로 부상하고 있다.",
-      "summary_en": "Russian forces launched 38 separate attacks against Ukrainian defensive positions since morning, with the Pokrovsk direction bearing the heaviest pressure. Pokrovsk serves as a critical logistics and supply hub in Donetsk Oblast, making a breakthrough there a serious threat to Ukraine's overall eastern defense in depth. Ukraine's forces face structural strain in defending multiple threat axes simultaneously with limited reserves under Russia's sustained attrition strategy.",
-      "summary_kr": "러시아군은 하루 동안 우크라이나 방어선을 향해 38회의 공격을 감행했으며, 포크로우스크 방면에서 가장 강도 높은 압박을 가하고 있다. 포크로우스크는 도네츠크주 물류·보급의 핵심 거점으로, 이 방면의 돌파는 우크라이나 동부 전선 전체의 종심 방어에 심각한 위협이 된다. 러시아군의 소모전 기조 속에서 우크라이나군은 제한된 예비대로 복수의 위협 축선을 동시에 방어해야 하는 구조적 압박에 직면해 있다.",
-      "title": "러시아군, 하루 38회 공세…포크로우스크 방면 최대 압박 지속"
-    },
-    {
-      "editors_comment": "SeaRAM은 RIM-116 RAM 미사일과 Phalanx CIWS 마운트를 결합한 근거리 대함·대공 최후방어선으로, MHI가 시스템 통합을 맡고 레이시온이 핵심 무장을 공급하는 구조는 미·일·호 방산 공급망이 플랫폼 단위로 수렴하고 있다는 신호다. 한국 충남급 호위함(FFX-III) 이후 차기 호위함 사업에서도 근접방어체계(CIWS) 및 SeaRAM급 통합 방어 레이어 설계를 조기에 확정해 동맹 상호운용성과 수출 경쟁력을 동시에 확보하는 방향을 검토할 시점이다.",
-      "priority": "P2",
-      "section": "해외",
-      "source_name": "Defence Blog",
-      "source_url": "https://defence-blog.com/raytheon-to-arm-australias-sea3000-frigates-with-searam-missiles/",
-      "subtitle": "레이시온-미쓰비시중공업 계약 체결로 호주 신형 범용 호위함 자기방어 체계 구체화",
-      "summary_en": "Raytheon has secured a contract with Mitsubishi Heavy Industries (MHI) to supply SeaRAM ship self-defense systems for Australia's Sea3000 General Purpose Frigate program. The contract covers SeaRAM launchers, Blast Test Vehicles, and technical services. The deal signals deepening U.S.-Japan-Australia defense industrial integration at the platform level, reinforcing the Indo-Pacific trilateral security architecture.",
-      "summary_kr": "레이시온이 미쓰비시중공업(MHI)과 계약을 체결해 호주 Sea3000 범용 호위함(General Purpose Frigate) 프로그램에 SeaRAM 함정 자기방어 체계를 공급한다. 계약 범위에는 SeaRAM 발사대, 폭발 시험 차량(Blast Test Vehicle), 기술 지원 서비스가 포함된다. 이번 계약은 호주 해군의 수상함 전력 현대화 가속화와 함께 미·일·호 방산 협력 구조가 실질적 체계 통합 단계로 진입했음을 보여준다.",
-      "title": "호주 Sea3000 호위함에 SeaRAM 함대공미사일 탑재 확정"
-    },
-    {
-      "editors_comment": "GOAT 프로그램의 여단급 실전 배치는 자율 군수 수송이 실험실 단계를 벗어나 전술 제대에 뿌리내리는 변곡점이다. 한국군 드론봇 전투체계도 전투 드론 중심에서 군수·정찰 UGV 통합으로 우선순위를 확장하고, 현재 ADD(국방과학연구소) 주도 플랫폼 개발에 여단급 운용 교리와 정비 체계를 동시에 설계해야 5년 내 실전 통합이 가능하다.",
-      "priority": "P2",
-      "section": "해외",
-      "source_name": "Defence Blog",
-      "source_url": "https://defence-blog.com/u-s-army-receives-hunter-wolf-unmanned-ground-vehicles-at-fort-polk/",
-      "subtitle": "10산악사단 3여단에 인도, 자율수송 프로그램 실전화 가속",
-      "summary_en": "HDT Robotics has delivered Hunter WOLF unmanned ground vehicles (UGVs) to the 3rd Brigade, 10th Mountain Division at Fort Polk, Louisiana, under the U.S. Army's Ground Optionally Autonomous Transport (GOAT) program. The delivery is accompanied by a week-long Operator New Equipment Training, marking a concrete step toward integrating autonomous logistics into brigade-level operations. This signals accelerating fielding of optionally autonomous ground systems within the U.S. Army's manned-unmanned teaming doctrine.",
-      "summary_kr": "HDT 로보틱스가 루이지애나 포트폴크 주둔 미 육군 10산악사단 3여단에 Hunter WOLF 무인지상차량(UGV)을 인도했다. 이번 배치는 미 육군의 GOAT(Ground Optionally Autonomous Transport) 프로그램의 일환으로, 일주일간의 운용자 신장비 교육(Operator New Equipment Training)이 병행된다. 자율 군수 수송 분야에서 유무인복합 운용 개념이 여단급 부대에 실질적으로 통합되는 단계에 진입했음을 의미한다.",
-      "title": "미 육군, Hunter WOLF 무인지상차량 포트폴크 배치 완료"
+      "subtitle": "우크라이나 전선 전반에 걸친 러시아의 지속적 소모 공세가 포크로우스크 축선에 집중되고 있다",
+      "summary_en": "Russian forces conducted 38 separate combat engagements against Ukrainian defensive positions since morning, with the Pokrovsk axis sustaining the heaviest pressure. Pokrovsk serves as a critical logistics hub in Donetsk Oblast, and a breakthrough there could trigger cascading failures across Ukraine's eastern defensive line. The multi-axis simultaneous assault pattern reflects a deliberate Russian attrition strategy aimed at dispersing Ukrainian reserves and degrading defensive density at key points.",
+      "summary_kr": "러시아군은 당일 아침부터 우크라이나 방어선을 향해 총 38회의 전투 접촉을 감행했으며, 포크로우스크 방면에서 가장 강도 높은 압박을 가하고 있다. 포크로우스크는 도네츠크주 핵심 병참 거점으로, 이 방면의 돌파는 우크라이나 동부 방어선 전체에 연쇄 붕괴를 초래할 수 있다. 러시아군의 다축 동시 공세는 우크라이나 예비대를 분산시켜 주요 축선의 방어 밀도를 약화시키는 전형적인 소모 전략으로 분석된다.",
+      "title": "러시아군, 하루 38회 공세…포크로우스크 방면 최대 압박"
     }
   ],
   "published_at": "2026-05-11T22:04:04.459372+00:00",
-  "summary": "한반도 4건 · 해외 8건",
+  "summary": "한반도 5건 · 해외 7건",
   "title": "Daily Brief — 2026년 05월 12일"
 }
