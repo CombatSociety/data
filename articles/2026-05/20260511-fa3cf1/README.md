@@ -1,6 +1,6 @@
 # 영국 P-8A 포세이돈에 스팅레이 Mod 1 어뢰 통합 시험 임박
 
-영국 공군의 P-8A 포세이돈 해상초계기에 스팅레이 Mod 1 어뢰 통합 시험이 수개월 내 시작될 예정이다.
+영국 공군의 P-8A 포세이돈 해상초계기에 스팅레이 Mod 1 경량 어뢰를 통합하는 초기 비행 시험이 수개월 내 시작될 예정이다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 무기·방산, 작전·훈련, 해군 |
+| 태그 | 무기·방산, 작전·훈련, NATO, 해군 |
 | 단일 출처 | [Naval News](https://www.navalnews.com/naval-news/2026/05/sting-ray-mod-1-torpedo-poised-to-start-first-p-8a-flight-trials/) |
 
 ## 출처 매체
