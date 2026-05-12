@@ -1,6 +1,6 @@
-# 미국, 이란과의 장기전 불가피…강경파 정권 강화
+# 미국, 이란과의 장기전 불가피...강경파 정권 입장 강화
 
-테헤란 정권 강경화로 협상 여지 상실, 외교적 해결 가능성 급감
+강경파 세력 강화로 협상 가능성 급감, 테헤란 "더 이상 잃을 것 없다" 심화
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미국, 이란과의 장기전 불가피…강경파 정권 강화", combatsociety.kr/news/20260512-e76d6b, github.com/CombatSociety/data.
+Combat Society dataset, "미국, 이란과의 장기전 불가피...강경파 정권 입장 강화", combatsociety.kr/news/20260512-e76d6b, github.com/CombatSociety/data.
 ```

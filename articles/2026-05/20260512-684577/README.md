@@ -1,6 +1,6 @@
-# AI 오류 발생 시 지휘부가 인식할 수 있을까
+# AI 오류 발생 시 지도자들이 인지할 수 있을까
 
-AI 오류 감지 능력 부족, 지휘부 상황인식 한계 노출·대응 체계 구축 시급
+군사작전 AI 오류 감지·인식 능력, 지휘관 역량 한계 지적
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@ AI 오류 감지 능력 부족, 지휘부 상황인식 한계 노출·대응 체
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | doctrine |
-| 태그 | 군사기술, 교리·전술, 미국, AI국방, 다영역작전 |
+| 태그 | 군사기술, 교리·전술, 미국, AI국방, 데이터중심전 |
 | 단일 출처 | [MWI at West Point](https://mwi.westpoint.edu/when-ai-is-wrong-will-our-leaders-know/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@ AI 오류 감지 능력 부족, 지휘부 상황인식 한계 노출·대응 체
 ## 인용
 
 ```
-Combat Society dataset, "AI 오류 발생 시 지휘부가 인식할 수 있을까", combatsociety.kr/news/20260512-684577, github.com/CombatSociety/data.
+Combat Society dataset, "AI 오류 발생 시 지도자들이 인지할 수 있을까", combatsociety.kr/news/20260512-684577, github.com/CombatSociety/data.
 ```
