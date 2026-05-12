@@ -1,6 +1,6 @@
 # 러시아·중국의 '법적 공세', 북극을 남중국해처럼 만든다
 
-War on Rocks 보도에 따르면 러시아와 중국이 과도한 해양 규제와 섀도우 플릿 운영 등 법적 공세를 통해 북극을 남중국해처럼 분쟁 지역으로 만들고 있다.
+War on Rocks 보도에 따르면 러시아와 중국이 과도한 해양 규제, 대륙붕 주장 도전, 섀도우 플릿 운영 등 법적 공세를 통해 북극을 분쟁 지역으로 변모시키고 있다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@ War on Rocks 보도에 따르면 러시아와 중국이 과도한 해양 규제�
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | geopolitics |
-| 태그 | 지정학·국제, 안보위협, 러시아, 중국 |
+| 태그 | 지정학·국제, 러시아, 중국 |
 | 단일 출처 | [War on Rocks](https://warontherocks.com/the-other-border-problem-how-russia-and-chinas-lawfare-threaten-the-arctic/) |
 
 ## 출처 매체

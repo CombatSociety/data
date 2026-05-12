@@ -1,6 +1,6 @@
-# 폴란드, M28 브리자 경수송기에 드론 사냥용 무기 장착
+# 폴란드, M28 브리자 경수송기 무장화 추진…드론 사냥용
 
-폴란드가 M28 Bryza 경수송기에 드론 격추용 포신 무기를 장착하는 사업을 추진 중이며, 계약 체결 후 첫 시제기 개조가 진행될 예정이다.
+폴란드가 M28 브리자 경수송기를 드론 전투용으로 무장화하는 사업을 추진 중이며, 계약 체결 후 첫 시제기가 총열 무기를 탑재하도록 개조될 예정이다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 무기·방산, 작전·훈련, 드론, NATO |
+| 태그 | 무기·방산, 작전·훈련, 드론 |
 | 단일 출처 | [Defence Blog](https://defence-blog.com/poland-to-arm-m28-bryza-aircraft-for-hunting-drones/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "폴란드, M28 브리자 경수송기에 드론 사냥용 무기 장착", combatsociety.kr/news/20260512-9b4ccb, github.com/CombatSociety/data.
+Combat Society dataset, "폴란드, M28 브리자 경수송기 무장화 추진…드론 사냥용", combatsociety.kr/news/20260512-9b4ccb, github.com/CombatSociety/data.
 ```
