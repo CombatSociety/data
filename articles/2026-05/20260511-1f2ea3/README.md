@@ -1,6 +1,6 @@
-# 미 해공군, 소형 AIM-9X 개발 추진…무인기 무장 강화
+# 미 해공군, 소형 AIM-9X 개발 추진…무인기 무장능력 강화
 
-미 해군과 공군이 AIM-9X 공대공 미사일의 소형 버전 개발을 추진 중이며, 무인 윙맨 등 차세대 항공플랫폼의 무장 강화를 목표로 하고 있다.
+미 해군과 공군이 AIM-9X 공대공 미사일의 소형 버전 개발을 추진 중이며, 이는 무인 윙맨의 무장능력 강화를 목표로 한다.
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 미국, 공군, 해군, 드론, 전투기 |
+| 태그 | 미국, 공군, 해군, 드론 |
 | 단일 출처 | [Real Clear Defense](https://www.realcleardefense.com/2026/05/11/smaller_aim-9x_could_give_drone_wingmen_more_firepower_1181865.html) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 해공군, 소형 AIM-9X 개발 추진…무인기 무장 강화", combatsociety.kr/news/20260511-1f2ea3, github.com/CombatSociety/data.
+Combat Society dataset, "미 해공군, 소형 AIM-9X 개발 추진…무인기 무장능력 강화", combatsociety.kr/news/20260511-1f2ea3, github.com/CombatSociety/data.
 ```
