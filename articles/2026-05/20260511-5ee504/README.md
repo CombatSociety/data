@@ -1,6 +1,6 @@
-# 한·미 국방장관, 전작권 전환·동맹 현대화 협의
+# 한·미 국방장관, 전작권 전환·동맹 현대화 논의
 
-한국과 미국의 국방장관이 전시작전통제권 전환, 한미동맹 현대화, 호르무즈 해협 기여 방안 등을 협의했다.
+한국 국방장관과 미 국방장관이 전작권 전환과 한미동맹 현대화를 논의했으며, 한반도 안보 환경 변화에 대응하기 위한 연합 방위 태세 강화 방안을 협의했다.
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "한·미 국방장관, 전작권 전환·동맹 현대화 협의", combatsociety.kr/news/20260511-5ee504, github.com/CombatSociety/data.
+Combat Society dataset, "한·미 국방장관, 전작권 전환·동맹 현대화 논의", combatsociety.kr/news/20260511-5ee504, github.com/CombatSociety/data.
 ```
