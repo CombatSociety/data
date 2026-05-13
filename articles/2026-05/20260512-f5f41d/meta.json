@@ -1,5 +1,5 @@
 {
-  "category": "weapons",
+  "category": "operations",
   "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
@@ -8,14 +8,14 @@
   "slug": "20260512-f5f41d",
   "source_name": "Task & Purpose",
   "source_url": "https://taskandpurpose.com/news/army-exercise-drone-casualty-evacuation/",
-  "summary": "300파운드 하중 의료후송 드론, 폴란드 NATO 훈련서 실전 시험·전장 부상병 신속 후송 목표",
+  "summary": "300파운드 하중 운반 능력, 폴란드 NATO 훈련서 실전 검증",
   "tags": [
-    "무기·방산",
     "작전·훈련",
+    "무기·방산",
     "군사기술",
     "미국",
-    "드론",
-    "NATO"
+    "NATO",
+    "드론"
   ],
   "title": "미군, 전장 부상병 수송 드론 NATO 훈련서 시험",
   "url": "https://combatsociety.kr/news/20260512-f5f41d"
