@@ -10,11 +10,11 @@
 | 콘텐츠 타입 | wire |
 | 분류 | defense_policy |
 | 태그 | 국방정책, 무기·방산, 미국, 방공체계, 국방예산 |
-| 단일 출처 | [Military Times](https://www.militarytimes.com/news/pentagon-congress/2026/05/12/trumps-golden-dome-missile-shield-estimated-to-cost-12-trillion/) |
+| 단일 출처 | [Defense News](https://www.defensenews.com/news/pentagon-congress/2026/05/12/trumps-golden-dome-missile-shield-estimated-to-cost-12-trillion/) |
 
 ## 출처 매체
 
-- [Military Times](https://www.militarytimes.com/news/pentagon-congress/2026/05/12/trumps-golden-dome-missile-shield-estimated-to-cost-12-trillion/)
+- [Defense News](https://www.defensenews.com/news/pentagon-congress/2026/05/12/trumps-golden-dome-missile-shield-estimated-to-cost-12-trillion/)
 
 ## 사이트에서 읽기
 
