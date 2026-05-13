@@ -1,6 +1,6 @@
-# 정부, 국방개혁 기본계획 수치 목표 폐지하고 지속가능 운영 중심으로 전환
+# 정부, 국방개혁 기본계획 수치 목표 폐지…'지속가능 운영' 중심으로 전환
 
-저출산·인구감소·급변하는 안보 환경 대응, 연도별 수치 목표 폐지하고 유연성 강화
+인구감소·안보 환경 변화 대응, 연도별 수치 목표 폐지하고 지속가능 운영 체계로 전환
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | defense_policy |
-| 태그 | 국방정책, 한국, 징병, 국방예산 |
+| 태그 | 국방정책, 한국 |
 | 단일 출처 | [국방일보-국방안보](http://kookbang.dema.mil.kr/newsWeb/20260513/6/ATCE_CTGR_0010010000/view.do) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "정부, 국방개혁 기본계획 수치 목표 폐지하고 지속가능 운영 중심으로 전환", combatsociety.kr/news/20260512-0aed69, github.com/CombatSociety/data.
+Combat Society dataset, "정부, 국방개혁 기본계획 수치 목표 폐지…'지속가능 운영' 중심으로 전환", combatsociety.kr/news/20260512-0aed69, github.com/CombatSociety/data.
 ```

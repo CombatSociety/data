@@ -1,0 +1,21 @@
+{
+  "category": "tech",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-13T07:58:38.697538+00:00",
+  "slug": "20260513-17bca5",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/cloud-security/hugging-face-packages-weaponized-single-file-tweak",
+  "summary": "토크나이저 파일 단일 수정으로 모델 출력 탈취·데이터 유출 가능, 보안 취약점 적발",
+  "tags": [
+    "군사기술",
+    "사이버안보",
+    "AI국방",
+    "공급망공격",
+    "사이버무기"
+  ],
+  "title": "허깅페이스 AI 모델, 토크나이저 파일 조작으로 무기화 가능",
+  "url": "https://combatsociety.kr/news/20260513-17bca5"
+}

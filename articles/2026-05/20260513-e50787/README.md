@@ -1,6 +1,6 @@
-# 미군 PME, AI 성적평가 도입 주저 '킬체인 검증' 실패 지적
+# 미군 군사교육에 AI 도입 논의 심화, 성적 평가부터 검증 필요
 
-저위험 교육 환경서 인간-기계 협력 검증 선행, 실전 작전 신뢰성 확보 필수
+성적 평가 신뢰성 검증부터 선행, AI 도입 타당성 검토 필요
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | doctrine |
-| 태그 | 교리·전술, 군사기술, 미국, AI국방, 전영역지휘통제 |
+| 태그 | 군사기술, 교리·전술, 미국, AI국방 |
 | 단일 출처 | [Small Wars Journal](https://smallwarsjournal.com/2026/05/13/ai-first-professional-military-education/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미군 PME, AI 성적평가 도입 주저 '킬체인 검증' 실패 지적", combatsociety.kr/news/20260513-e50787, github.com/CombatSociety/data.
+Combat Society dataset, "미군 군사교육에 AI 도입 논의 심화, 성적 평가부터 검증 필요", combatsociety.kr/news/20260513-e50787, github.com/CombatSociety/data.
 ```

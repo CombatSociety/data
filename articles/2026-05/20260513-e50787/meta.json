@@ -1,21 +1,20 @@
 {
   "category": "doctrine",
   "content_type": "wire",
-  "cover_image_caption": null,
-  "cover_image_credit": null,
+  "cover_image_caption": "펜실베이니아 주방위군 장병과 민간인이 포트 인디언타운 갭에서 미국 육군전쟁대학 교관으로부터 군사 업무에 인공지능을 통합하는 2일간의 교육을 받고 있다.",
+  "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Shane Smith",
   "priority": "P3",
   "published_at": "2026-05-13T06:58:30.210739+00:00",
   "slug": "20260513-e50787",
   "source_name": "Small Wars Journal",
   "source_url": "https://smallwarsjournal.com/2026/05/13/ai-first-professional-military-education/",
-  "summary": "저위험 교육 환경서 인간-기계 협력 검증 선행, 실전 작전 신뢰성 확보 필수",
+  "summary": "성적 평가 신뢰성 검증부터 선행, AI 도입 타당성 검토 필요",
   "tags": [
-    "교리·전술",
     "군사기술",
+    "교리·전술",
     "미국",
-    "AI국방",
-    "전영역지휘통제"
+    "AI국방"
   ],
-  "title": "미군 PME, AI 성적평가 도입 주저 '킬체인 검증' 실패 지적",
+  "title": "미군 군사교육에 AI 도입 논의 심화, 성적 평가부터 검증 필요",
   "url": "https://combatsociety.kr/news/20260513-e50787"
 }

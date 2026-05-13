@@ -1,6 +1,6 @@
 # 미군, 전장 부상병 수송 드론 NATO 훈련서 시험
 
-300파운드 하중 운반 능력, 전장 부상병 후송 작전 혁신 목표
+300파운드 하중 운반 능력, 폴란드 NATO 훈련서 실전 검증 추진
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 무기·방산, 작전·훈련, 군사기술, 미국, 육군, 드론, NATO |
+| 태그 | 무기·방산, 작전·훈련, 군사기술, 미국, 드론, NATO |
 | 단일 출처 | [Task & Purpose](https://taskandpurpose.com/news/army-exercise-drone-casualty-evacuation/) |
 
 ## 출처 매체
