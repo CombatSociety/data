@@ -1,6 +1,6 @@
-# 우크라이나 전장 네트워크 통합, 미군 능력 앞선다
+# 우크라이나의 전장 네트워크 통합, 미군 능력 초과 — 미 육군장관 지적
 
-드론·위성·지상센서 실시간 연계로 목표식별~타격 시간 단축, 미 육군부장관 의회 보고
+의회 증언서 "미군 능력 초과" 평가, 네트워크 통합 기술 격차 인정
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | doctrine |
-| 태그 | 교리·전술, 동맹·외교, 군사기술, 미국, 우크라이나, 다영역작전, 전자전 |
+| 태그 | 교리·전술, 동맹·외교, 군사기술, 미국, 우크라이나, 전영역지휘통제, 다영역작전 |
 | 단일 출처 | [Military Times](https://www.militarytimes.com/news/your-military/2026/05/13/ukraines-battlefield-integration-surpasses-us-militarys-army-secretary-says/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "우크라이나 전장 네트워크 통합, 미군 능력 앞선다", combatsociety.kr/news/20260513-e4fc58, github.com/CombatSociety/data.
+Combat Society dataset, "우크라이나의 전장 네트워크 통합, 미군 능력 초과 — 미 육군장관 지적", combatsociety.kr/news/20260513-e4fc58, github.com/CombatSociety/data.
 ```
