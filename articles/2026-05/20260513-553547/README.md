@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 무기·방산, 작전·훈련, 군사기술, 미국, 해군, 수상무인정, 다영역작전 |
+| 태그 | 무기·방산, 작전·훈련, 미국, 해군, 수상무인정 |
 | 단일 출처 | [Defense One](https://www.defenseone.com/defense-systems/2026/05/drone-boats-navy-shipbuilding-plan/413504/) |
 
 ## 출처 매체

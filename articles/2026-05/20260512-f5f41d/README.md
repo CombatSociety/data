@@ -8,8 +8,8 @@
 | 발행 | 2026-05-12T20:05:33.47897+00:00 |
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
-| 분류 | operations |
-| 태그 | 작전·훈련, 무기·방산, 군사기술, 미국, 육군, 드론, 한미동맹 |
+| 분류 | weapons |
+| 태그 | 무기·방산, 작전·훈련, 군사기술, 미국, 육군, 드론, NATO |
 | 단일 출처 | [Task & Purpose](https://taskandpurpose.com/news/army-exercise-drone-casualty-evacuation/) |
 
 ## 출처 매체
