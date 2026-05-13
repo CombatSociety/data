@@ -1,14 +1,14 @@
 {
   "category": "weapons",
   "content_type": "wire",
-  "cover_image_caption": null,
-  "cover_image_credit": null,
+  "cover_image_caption": "미국 공군 970th Airborne Air Control Squadron 비행 엔지니어가 2026년 1월 11일 Tinker Air Force Base에서 E-3 AWACS 항공기의 비행 전 시스템 점검을 수행하고",
+  "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Caroline Strickland",
   "priority": "P2",
   "published_at": "2026-05-13T00:02:22.729494+00:00",
   "slug": "20260512-b8bf99",
   "source_name": "The War Zone",
   "source_url": "https://www.twz.com/air/pentagons-mindset-on-e-7-radar-aircraft-it-tried-to-axe-has-completely-changed-hegseth",
-  "summary": "이란 공격으로 E-3 센트리 손실 이후 미 국방부 입장 전환, ISR 공백 우려 반영",
+  "summary": "이란 공격으로 E-3 손실 이후 차세대 레이더 항공기 필요성 재부각, 국방부 입장 전환",
   "tags": [
     "무기·방산",
     "국방정책",
@@ -16,6 +16,6 @@
     "공군",
     "전투기"
   ],
-  "title": "미 국방장관 \"E-7 조기경보기 도입 필요성 대폭 상향\"",
+  "title": "미 국방부, E-7 조기경보기 도입 필요성 재평가…헤그세스 국방장관 입장 변화",
   "url": "https://combatsociety.kr/news/20260512-b8bf99"
 }

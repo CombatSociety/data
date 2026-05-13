@@ -1,6 +1,6 @@
-# 미 해군, 2032년까지 버지니아급 잠수함 연 2척 건조 달성 목표
+# 미 해군, 2032년까지 버지니아급 잠수함 연 2척 건조 목표
 
-산업기반 투자·분산 건조 방식 확대로 건조 속도 가속, 핵추진 공격잠수함 전력화 본격화
+작전부사령관, 2032년 연 2척 건조 가능성 제시·조선소 역량 확충 관건
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 해군, 2032년까지 버지니아급 잠수함 연 2척 건조 달성 목표", combatsociety.kr/news/20260512-0c4d36, github.com/CombatSociety/data.
+Combat Society dataset, "미 해군, 2032년까지 버지니아급 잠수함 연 2척 건조 목표", combatsociety.kr/news/20260512-0c4d36, github.com/CombatSociety/data.
 ```

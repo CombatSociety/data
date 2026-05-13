@@ -1,6 +1,6 @@
-# 미 국방장관 "E-7 조기경보기 도입 필요성 대폭 상향"
+# 미 국방부, E-7 조기경보기 도입 필요성 재평가…헤그세스 국방장관 입장 변화
 
-이란 공격으로 E-3 센트리 손실 이후 미 국방부 입장 전환, ISR 공백 우려 반영
+이란 공격으로 E-3 손실 이후 차세대 레이더 항공기 필요성 재부각, 국방부 입장 전환
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 국방장관 "E-7 조기경보기 도입 필요성 대폭 상향"", combatsociety.kr/news/20260512-b8bf99, github.com/CombatSociety/data.
+Combat Society dataset, "미 국방부, E-7 조기경보기 도입 필요성 재평가…헤그세스 국방장관 입장 변화", combatsociety.kr/news/20260512-b8bf99, github.com/CombatSociety/data.
 ```
