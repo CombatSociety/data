@@ -1,0 +1,19 @@
+{
+  "category": "tech",
+  "content_type": "wire",
+  "cover_image_caption": "미국 특수작전사령부 사령관 Frank Bradley 제독, 미국 전쟁부 사이버정책 차관보 Katherine Sutton, 미국 전쟁부 특수작전·저강도분쟁 차관보 Derrick Anderson이 상원군사위원회에 증언했",
+  "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Milton Hamilton",
+  "priority": "P2",
+  "published_at": "2026-05-13T19:03:37.709531+00:00",
+  "slug": "20260513-20d647",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
+  "summary": "YellowKey·GreenPlasma 제로데이, BitLocker 암호화 우회·권한 상승 익스플로잇 공개",
+  "tags": [
+    "사이버안보",
+    "군사기술",
+    "미국"
+  ],
+  "title": "윈도우 BitLocker 제로데이 취약점 공개, 보호된 드라이브 접근 가능",
+  "url": "https://combatsociety.kr/news/20260513-20d647"
+}
