@@ -1,0 +1,20 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-14T21:43:52.875556+00:00",
+  "slug": "20260514-a5b3c6",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited",
+  "summary": "CVSS 10.0 최고 심각도 취약점, 실제 공격 악용 확인·올해 두 번째 사례",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "군사기술",
+    "미국"
+  ],
+  "title": "시스코 SD-WAN 최고 심각도 취약점 실제 공격에 악용",
+  "url": "https://combatsociety.kr/news/20260514-a5b3c6"
+}
