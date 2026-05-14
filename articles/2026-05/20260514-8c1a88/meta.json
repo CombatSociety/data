@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-14T12:38:30.990949+00:00",
+  "slug": "20260514-8c1a88",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
+  "summary": "사회공학 공격으로 기업 네트워크 5분 내 침투, 초기 접근 중개자의 신규 침투 수법",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "사이버스파이",
+    "영향공작",
+    "허위정보"
+  ],
+  "title": "KongTuke 해킹 조직, 마이크로소프트 팀즈로 기업 침투 시도",
+  "url": "https://combatsociety.kr/news/20260514-8c1a88"
+}
