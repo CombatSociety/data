@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-14T00:41:11.118234+00:00",
+  "slug": "20260514-4c3b89",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
+  "summary": "머디워터의 사이버 첩보 활동, 한국 전자업체·국제 주요 기관 9곳 동시 표적",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "한국",
+    "이란",
+    "사이버스파이",
+    "APT공격"
+  ],
+  "title": "이란 연계 해킹 그룹, 한국 대형 전자업체 포함 9개 기관 표적",
+  "url": "https://combatsociety.kr/news/20260514-4c3b89"
+}

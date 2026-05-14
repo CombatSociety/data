@@ -1,0 +1,27 @@
+# 미군 장성 "인태 평화, 산업 확대·동맹 부담 분담 필수"
+
+방위산업 확대·동맹 부담 분담을 인태 평화 유지의 핵심 조건으로 제시
+
+| 항목 | 값 |
+|---|---|
+| Slug | `20260514-a7c1b0` |
+| 발행 | 2026-05-14T00:37:31.604807+00:00 |
+| 우선순위 | P3 |
+| 콘텐츠 타입 | wire |
+| 분류 | alliance |
+| 태그 | 동맹·외교, 국방정책, 인도태평양, 미국, 한국, 일본, 호주 |
+| 단일 출처 | [Military Times](https://www.militarytimes.com/news/your-military/2026/05/13/no-indo-pacific-peace-without-industry-surge-and-burden-sharing-us-general-says/) |
+
+## 출처 매체
+
+- [Military Times](https://www.militarytimes.com/news/your-military/2026/05/13/no-indo-pacific-peace-without-industry-surge-and-burden-sharing-us-general-says/)
+
+## 사이트에서 읽기
+
+<https://combatsociety.kr/news/20260514-a7c1b0>
+
+## 인용
+
+```
+Combat Society dataset, "미군 장성 "인태 평화, 산업 확대·동맹 부담 분담 필수"", combatsociety.kr/news/20260514-a7c1b0, github.com/CombatSociety/data.
+```
