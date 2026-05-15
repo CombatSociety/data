@@ -1,0 +1,27 @@
+# 아이리스 테크놀로지, 울트라라이프와 전술 전장 전력 공급 솔루션 개발
+
+파워 하이브 미션 파워 노드에 고용량 UBI-2590 배터리 탑재, 보병·원정팀 장비 전력 수요 충족
+
+| 항목 | 값 |
+|---|---|
+| Slug | `20260515-8fc167` |
+| 발행 | 2026-05-15T19:09:51.219758+00:00 |
+| 우선순위 | P2 |
+| 콘텐츠 타입 | wire |
+| 분류 | weapons |
+| 태그 | 무기·방산, 군사기술, 미국, 특수전, 산업·기업 |
+| 단일 출처 | [Soldier Systems](https://soldiersystems.net/2026/05/15/iris-technology-and-ultralife-pair-power-hive-mission-power-node-with-high-capacity-ubi-2590-battery-to-address-tactical-edge-energy-demands/?utm_source=rss&utm_medium=rss&utm_campaign=iris-technology-and-ultralife-pair-power-hive-mission-power-node-with-high-capacity-ubi-2590-battery-to-address-tactical-edge-energy-demands) |
+
+## 출처 매체
+
+- [Soldier Systems](https://soldiersystems.net/2026/05/15/iris-technology-and-ultralife-pair-power-hive-mission-power-node-with-high-capacity-ubi-2590-battery-to-address-tactical-edge-energy-demands/?utm_source=rss&utm_medium=rss&utm_campaign=iris-technology-and-ultralife-pair-power-hive-mission-power-node-with-high-capacity-ubi-2590-battery-to-address-tactical-edge-energy-demands)
+
+## 사이트에서 읽기
+
+<https://combatsociety.kr/news/20260515-8fc167>
+
+## 인용
+
+```
+Combat Society dataset, "아이리스 테크놀로지, 울트라라이프와 전술 전장 전력 공급 솔루션 개발", combatsociety.kr/news/20260515-8fc167, github.com/CombatSociety/data.
+```
