@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-15T15:39:09.568131+00:00",
+  "slug": "20260515-1e5d25",
+  "source_name": "The Record",
+  "source_url": "https://therecord.media/cisa-orders-all-federal-agencies-to-patch-cisco-sd-wan-bug",
+  "summary": "원격 공격자의 인증 우회·관리자 권한 획득 가능, 중대 취약점 긴급 패치",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "미국",
+    "국방정책",
+    "군사기술"
+  ],
+  "title": "미 CISA, 연방기관에 시스코 SD-WAN 취약점 일요일까지 패치 명령",
+  "url": "https://combatsociety.kr/news/20260515-1e5d25"
+}
