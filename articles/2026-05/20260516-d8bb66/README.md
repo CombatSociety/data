@@ -1,6 +1,6 @@
 # 미 7사단과 1st MDTF 통합, 다영역사령부-태평양 창설
 
-스트라이커 보병여단·전투항공여단 통합, 준장급 다영역사령부 체제 전환
+스트라이커 보병여단·전투항공여단, 다영역작전 능력 결합으로 인도태평양 전력 강화
 
 | 항목 | 값 |
 |---|---|
@@ -9,12 +9,12 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | operations |
-| 태그 | 작전·훈련, 미국, 육군, 다영역작전, 인도태평양, USINDOPACOM |
-| 단일 출처 | [Defense News](https://www.defensenews.com/news/your-military/2026/05/15/us-armys-7th-infantry-division-1st-mdtf-to-merge-as-multi-domain-command-pacific/) |
+| 태그 | 작전·훈련, 동맹·외교, 미국, 다영역작전, 인도태평양 |
+| 단일 출처 | [Military Times](https://www.militarytimes.com/news/your-military/2026/05/15/us-armys-7th-infantry-division-1st-mdtf-to-merge-as-multi-domain-command-pacific/) |
 
 ## 출처 매체
 
-- [Defense News](https://www.defensenews.com/news/your-military/2026/05/15/us-armys-7th-infantry-division-1st-mdtf-to-merge-as-multi-domain-command-pacific/)
+- [Military Times](https://www.militarytimes.com/news/your-military/2026/05/15/us-armys-7th-infantry-division-1st-mdtf-to-merge-as-multi-domain-command-pacific/)
 
 ## 사이트에서 읽기
 
