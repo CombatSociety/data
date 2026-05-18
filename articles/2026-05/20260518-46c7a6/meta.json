@@ -1,0 +1,20 @@
+{
+  "category": "tech",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P3",
+  "published_at": "2026-05-18T22:09:45.686794+00:00",
+  "slug": "20260518-46c7a6",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw",
+  "summary": "자격증명 탈취·권한 상향식 확대 위험 노출, 현재 패치 완료",
+  "tags": [
+    "군사기술",
+    "사이버안보",
+    "AI국방",
+    "OpenAI"
+  ],
+  "title": "OpenClaw AI 에이전트 프레임워크 '클로우 체인' 취약점 발견",
+  "url": "https://combatsociety.kr/news/20260518-46c7a6"
+}

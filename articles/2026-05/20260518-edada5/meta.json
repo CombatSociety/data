@@ -1,0 +1,19 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P1",
+  "published_at": "2026-05-18T21:17:24.390302+00:00",
+  "slug": "20260518-edada5",
+  "source_name": "Krebs on Security",
+  "source_url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+  "summary": "계약업체 공개 저장소서 고권한 계정·내부 시스템 정보 노출, 정부 데이터 유출 중 최악 평가",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "미국"
+  ],
+  "title": "미국 CISA, AWS GovCloud 접근 자격증명 GitHub에 노출",
+  "url": "https://combatsociety.kr/news/20260518-edada5"
+}
