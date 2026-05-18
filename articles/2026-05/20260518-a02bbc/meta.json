@@ -1,0 +1,20 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-18T18:38:42.677483+00:00",
+  "slug": "20260518-a02bbc",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/cyberattacks-data-breaches/fuel-tank-breaches-expand-scope-irans-cyber-offensive",
+  "summary": "인터넷 노출 자동탱크게이지 시스템 침투, 연료 공급망 인프라 공격 확대",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "이란",
+    "APT공격"
+  ],
+  "title": "이란, 연료탱크 시스템 해킹으로 사이버 공격 범위 확대",
+  "url": "https://combatsociety.kr/news/20260518-a02bbc"
+}
