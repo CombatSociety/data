@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-19T17:15:31.313847+00:00",
+  "slug": "20260519-7597fd",
+  "source_name": "The Record",
+  "source_url": "https://therecord.media/microsoft-disrupts-fox-tempest-malware-signing-service",
+  "summary": "악성코드 서명 서비스 운영으로 랜섬웨어 조직 지원, 법적 조치 단행",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "미국",
+    "사이버스파이",
+    "랜섬웨어"
+  ],
+  "title": "마이크로소프트, 랜섬웨어 조직 지원 '폭스 템페스트' 악성코드 서명 서비스 적발",
+  "url": "https://combatsociety.kr/news/20260519-7597fd"
+}
