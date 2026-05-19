@@ -1,0 +1,18 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-19T21:16:39.02837+00:00",
+  "slug": "20260519-f5c155",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo",
+  "summary": "프라이빗 명명 저장소, 2025년 11월부터 공개 상태로 운영·기밀정보·인증정보 노출",
+  "tags": [
+    "사이버안보",
+    "미국"
+  ],
+  "title": "미 사이버보안청, 깃허브 저장소에서 기밀정보·인증정보 노출",
+  "url": "https://combatsociety.kr/news/20260519-f5c155"
+}

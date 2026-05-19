@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-19T22:13:31.951586+00:00",
+  "slug": "20260519-183d8c",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
+  "summary": "아티팩트 서명 서비스 악용한 위조 인증서 생성 조직 적발, 랜섬웨어 갱단 등 악성코드 위장에 악용",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "미국",
+    "사이버무기",
+    "랜섬웨어",
+    "Microsoft 국방"
+  ],
+  "title": "마이크로소프트, 악성코드 서명 서비스 악용 사이버범죄 조직 차단",
+  "url": "https://combatsociety.kr/news/20260519-183d8c"
+}
