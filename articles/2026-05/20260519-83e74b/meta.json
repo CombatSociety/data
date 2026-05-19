@@ -1,19 +1,20 @@
 {
   "category": "weapons",
   "content_type": "wire",
-  "cover_image_caption": null,
-  "cover_image_credit": null,
+  "cover_image_caption": "미국 육군 제1기병사단 지휘관들이 2026년 1월 29일 포트후드에서 훈련용 편도공격드론 시연을 관찰하며 AI 기반 편도공격체계의 운용 방식을 검증하고 있다.",
+  "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Russell Shirley-Jones",
   "priority": "P2",
   "published_at": "2026-05-19T15:12:40.028585+00:00",
   "slug": "20260519-83e74b",
-  "source_name": "Defense News",
-  "source_url": "https://www.defensenews.com/industry/techwatch/2026/05/19/pentagon-inks-500-million-deal-with-perennial-autonomy-for-counter-drone-tech/",
-  "summary": "Perennial Autonomy와 체결, 자율 드론 요격·무력화 기술 개발 본격화",
+  "source_name": "Military Times",
+  "source_url": "https://www.militarytimes.com/industry/techwatch/2026/05/19/pentagon-inks-500-million-deal-with-perennial-autonomy-for-counter-drone-tech/",
+  "summary": "Perennial Autonomy와의 계약, 자율 드론 방어 기술 개발 본격화",
   "tags": [
     "무기·방산",
     "군사기술",
     "미국",
-    "드론"
+    "드론",
+    "방산정책"
   ],
   "title": "미 국방부, 드론 대응 기술 개발에 5억 달러 계약 체결",
   "url": "https://combatsociety.kr/news/20260519-83e74b"
