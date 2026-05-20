@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-20T21:35:06.357929+00:00",
+  "slug": "20260520-e9c3d6",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+  "summary": "불완전한 패치 악용, MFA 우회·랜섬웨어 배포 도구 설치 공격 본격화",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "군사기술",
+    "APT공격",
+    "공급망공격"
+  ],
+  "title": "SonicWall VPN 불완전한 패치로 MFA 우회 공격 발생",
+  "url": "https://combatsociety.kr/news/20260520-e9c3d6"
+}
