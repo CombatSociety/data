@@ -1,6 +1,6 @@
-# AC-130J 기총사격기, 소형 순항미사일·AESA 레이더 통합 운용 추진
+# AC-130J 소형 순항미사일·AESA 레이더 통합 시험 추진
 
-장거리 타격·표적 탐지 능력 대폭 강화, 차세대 화력 플랫폼으로 진화
+장거리 타격 체계 통합 시험, 화력·감시 능력 동시 강화 추진
 
 | 항목 | 값 |
 |---|---|
@@ -9,12 +9,12 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 무기·방산, 군사기술, 미국, 공군, 근접항공지원 |
-| 단일 출처 | [Real Clear Defense](https://www.realcleardefense.com/2026/05/20/ac-130j_gunship_with_mini_cruise_missiles_paired_with_aesa_radar_1183826.html) |
+| 태그 | 무기·방산, 군사기술, 작전·훈련, 미국, 공군, 특수전, AFSOC |
+| 단일 출처 | [The War Zone](https://www.twz.com/air/ac-130j-gunship-with-mini-cruise-missiles-paired-with-aesa-radar-to-undergo-tests) |
 
 ## 출처 매체
 
-- [Real Clear Defense](https://www.realcleardefense.com/2026/05/20/ac-130j_gunship_with_mini_cruise_missiles_paired_with_aesa_radar_1183826.html)
+- [The War Zone](https://www.twz.com/air/ac-130j-gunship-with-mini-cruise-missiles-paired-with-aesa-radar-to-undergo-tests)
 
 ## 사이트에서 읽기
 
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "AC-130J 기총사격기, 소형 순항미사일·AESA 레이더 통합 운용 추진", combatsociety.kr/news/20260520-6770ff, github.com/CombatSociety/data.
+Combat Society dataset, "AC-130J 소형 순항미사일·AESA 레이더 통합 시험 추진", combatsociety.kr/news/20260520-6770ff, github.com/CombatSociety/data.
 ```
