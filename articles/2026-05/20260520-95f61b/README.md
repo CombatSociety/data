@@ -1,0 +1,27 @@
+# 푸틴, 휴전 언급하며 '외교 시뮬레이션' 펼치나…전문가 "시간 벌기 전술"
+
+전장 열세 속 협상 카드 꺼내기, 분석가 "시간 벌기 전술" 평가
+
+| 항목 | 값 |
+|---|---|
+| Slug | `20260520-95f61b` |
+| 발행 | 2026-05-20T09:43:04.978194+00:00 |
+| 우선순위 | P3 |
+| 콘텐츠 타입 | wire |
+| 분류 | geopolitics |
+| 태그 | 지정학·국제, 우크라이나, 러시아, 외교 |
+| 단일 출처 | [Al Jazeera](https://www.aljazeera.com/news/2026/5/20/is-russia-simulating-diplomacy-because-of-war-losses-in-ukraine?traffic_source=rss) |
+
+## 출처 매체
+
+- [Al Jazeera](https://www.aljazeera.com/news/2026/5/20/is-russia-simulating-diplomacy-because-of-war-losses-in-ukraine?traffic_source=rss)
+
+## 사이트에서 읽기
+
+<https://combatsociety.kr/news/20260520-95f61b>
+
+## 인용
+
+```
+Combat Society dataset, "푸틴, 휴전 언급하며 '외교 시뮬레이션' 펼치나…전문가 "시간 벌기 전술"", combatsociety.kr/news/20260520-95f61b, github.com/CombatSociety/data.
+```
