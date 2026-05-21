@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-21T15:36:55.565135+00:00",
+  "slug": "20260521-bf4d4b",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/threat-intelligence/chinese-apts-linux-backdoor-telco-attacks",
+  "summary": "쇼보트 리눅스 백도어로 통신 감청·정보 수집, 장기 침투 활동 확인",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "중국",
+    "APT공격",
+    "사이버스파이",
+    "지정학·국제"
+  ],
+  "title": "중국 APT, 중앙아시아 통신사 대상 리눅스 백도어 공격",
+  "url": "https://combatsociety.kr/news/20260521-bf4d4b"
+}
