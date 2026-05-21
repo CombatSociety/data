@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-21T18:34:18.734933+00:00",
+  "slug": "20260521-5bdcc2",
+  "source_name": "VOA 한반도",
+  "source_url": "https://www.voakorea.com/a/north-korea-linked-hackers-used-trojanized-card-game-apps-to-track-defectors-in-china-researchers-say-052126/8152473.html",
+  "summary": "중국 연변 조선족 대상 카드게임 앱 악성코드 삽입, 공급망 공격 통해 탈북자 추적 감행",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "북한",
+    "중국",
+    "공급망공격",
+    "정보수집"
+  ],
+  "title": "북한 연계 해킹조직, 중국 카드게임 앱 악성코드로 탈북자 추적",
+  "url": "https://combatsociety.kr/news/20260521-5bdcc2"
+}
