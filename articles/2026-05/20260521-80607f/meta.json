@@ -1,0 +1,19 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P3",
+  "published_at": "2026-05-21T13:46:26.844102+00:00",
+  "slug": "20260521-80607f",
+  "source_name": "The Record",
+  "source_url": "https://therecord.media/europe-dismantles-first-vpn",
+  "summary": "국제 공조로 First VPN 적발·해제, 랜섬웨어 공격 은폐 인프라 차단",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "랜섬웨어"
+  ],
+  "title": "유럽, 랜섬웨어 공격자들이 사용한 VPN 서비스 적발·해제",
+  "url": "https://combatsociety.kr/news/20260521-80607f"
+}
