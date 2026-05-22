@@ -1,6 +1,6 @@
-# 트럼프, 폴란드 미군 5,000명 추가 전개 발표
+# 트럼프, 폴란드 추가 파병 5,000명 전격 발표
 
-배치 취소 일주일 만의 정책 전환, 주한미군 재배치 압박 우려 동반
+1주일 전 취소 번복, 주한미군 재배치 압박 우려 동반
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | original |
 | 분류 | alliance |
-| 태그 | 동맹·외교, 미국, 한국, NATO, 주한미군, 배치, 지정학·국제, 동유럽 |
+| 태그 | 동맹·외교, 지정학·국제, 미국, NATO, 동유럽, 주한미군, 배치, 국방정책 |
 | 단일 출처 | [Army Times](None) |
 
 ## 출처 매체
@@ -25,5 +25,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "트럼프, 폴란드 미군 5,000명 추가 전개 발표", combatsociety.kr/news/20260522-4e8061, github.com/CombatSociety/data.
+Combat Society dataset, "트럼프, 폴란드 추가 파병 5,000명 전격 발표", combatsociety.kr/news/20260522-4e8061, github.com/CombatSociety/data.
 ```
