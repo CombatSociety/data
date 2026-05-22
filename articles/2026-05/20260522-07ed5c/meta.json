@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-22T01:35:58.878769+00:00",
+  "slug": "20260522-07ed5c",
+  "source_name": "Krebs on Security",
+  "source_url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+  "summary": "수백만 대 IoT 기기 감염, 미·캐 양국 기소 추진",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "미국",
+    "북한 사이버부대",
+    "APT공격"
+  ],
+  "title": "IoT 봇넷 '킴울프' 운영자 캐나다서 체포, 미국·캐나다 기소",
+  "url": "https://combatsociety.kr/news/20260522-07ed5c"
+}
