@@ -1,0 +1,27 @@
+# 일본, 모가미급 호위함 9번함 '나토리' 취역
+
+미쓰비시중공업 건조, 일본해상자위대 공식 인수·취역 완료
+
+| 항목 | 값 |
+|---|---|
+| Slug | `20260522-40f3c6` |
+| 발행 | 2026-05-22T12:04:21.89101+00:00 |
+| 우선순위 | P3 |
+| 콘텐츠 타입 | wire |
+| 분류 | weapons |
+| 태그 | 무기·방산, 일본, 해군, 방산수출 |
+| 단일 출처 | [Naval News](https://www.navalnews.com/naval-news/2026/05/japan-commissions-ninth-mogami-class-frigate-natori-%e3%80%8c%e3%81%aa%e3%81%a8%e3%82%8a%e3%80%8d/) |
+
+## 출처 매체
+
+- [Naval News](https://www.navalnews.com/naval-news/2026/05/japan-commissions-ninth-mogami-class-frigate-natori-%e3%80%8c%e3%81%aa%e3%81%a8%e3%82%8a%e3%80%8d/)
+
+## 사이트에서 읽기
+
+<https://combatsociety.kr/news/20260522-40f3c6>
+
+## 인용
+
+```
+Combat Society dataset, "일본, 모가미급 호위함 9번함 '나토리' 취역", combatsociety.kr/news/20260522-40f3c6, github.com/CombatSociety/data.
+```

@@ -1,6 +1,6 @@
 # 폴란드, 미 국방부 드론 대응 마켓플레이스 참여
 
-미 육군 주도 국방부 마켓플레이스 참여로 양국 군사협력 확대
+미 육군 주도, 드론 대응 기술·장비 공동 개발·조달 협력 본격화
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | alliance |
-| 태그 | 동맹·외교, 무기·방산, 드론, 미국, NATO |
+| 태그 | 동맹·외교, 작전·훈련, 무기·방산, 미국, 드론 |
 | 단일 출처 | [Army Times](https://www.armytimes.com/news/your-military/2026/05/21/poland-joins-pentagons-counter-drone-marketplace-amid-unexpected-us-deployment-cancellation/) |
 
 ## 출처 매체
