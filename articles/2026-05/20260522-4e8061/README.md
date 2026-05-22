@@ -1,6 +1,6 @@
-# 트럼프, 폴란드에 미군 5000명 추가 전개
+# 트럼프, 폴란드 미군 5000명 추가 파병 발표
 
-러시아 인접 동유럽 전략 강화, 주한미군 재배치 압박과 연계 가능성
+주한미군 재배치 가능성 연동 우려 부상, 인태 전략 재편 신호
 
 | 항목 | 값 |
 |---|---|
@@ -24,5 +24,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "트럼프, 폴란드에 미군 5000명 추가 전개", combatsociety.kr/news/20260522-4e8061, github.com/CombatSociety/data.
+Combat Society dataset, "트럼프, 폴란드 미군 5000명 추가 파병 발표", combatsociety.kr/news/20260522-4e8061, github.com/CombatSociety/data.
 ```
