@@ -1,6 +1,6 @@
 # 미국, '에픽 퓨리' 작전서 항공기 42대 손실·피해
 
-무인항공기 25대 포함, 의회 보고서 기반 손실 집계
+드론 25대 포함, 손실·피해 항공기 전수 집계 완료
 
 | 항목 | 값 |
 |---|---|
@@ -10,11 +10,11 @@
 | 콘텐츠 타입 | wire |
 | 분류 | operations |
 | 태그 | 작전·훈련, 무기·방산, 미국, 드론 |
-| 단일 출처 | [Defense News](https://www.defensenews.com/news/pentagon-congress/2026/05/22/congressional-report-tallies-42-us-aircraft-lost-or-damaged-in-operation-epic-fury/) |
+| 단일 출처 | [Military Times](https://www.militarytimes.com/news/pentagon-congress/2026/05/22/congressional-report-tallies-42-us-aircraft-lost-or-damaged-in-operation-epic-fury/) |
 
 ## 출처 매체
 
-- [Defense News](https://www.defensenews.com/news/pentagon-congress/2026/05/22/congressional-report-tallies-42-us-aircraft-lost-or-damaged-in-operation-epic-fury/)
+- [Military Times](https://www.militarytimes.com/news/pentagon-congress/2026/05/22/congressional-report-tallies-42-us-aircraft-lost-or-damaged-in-operation-epic-fury/)
 
 ## 사이트에서 읽기
 
