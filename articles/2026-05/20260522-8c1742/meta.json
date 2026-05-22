@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-22T18:04:34.311678+00:00",
+  "slug": "20260522-8c1742",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
+  "summary": "용의자 2명 체포, 사이버공격 인프라 대규모 적발",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "사이버무기",
+    "APT공격",
+    "영향공작"
+  ],
+  "title": "네덜란드, 사이버공격 지원 호스팅업체 서버 800대 압수",
+  "url": "https://combatsociety.kr/news/20260522-8c1742"
+}

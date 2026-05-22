@@ -1,0 +1,18 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-22T18:03:52.641961+00:00",
+  "slug": "20260522-420f30",
+  "source_name": "Krebs on Security",
+  "source_url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+  "summary": "계약업체 실수로 AWS GovCloud 보안키·기밀정보 공개 깃허브 노출, 의회 설명 요구",
+  "tags": [
+    "사이버안보",
+    "미국"
+  ],
+  "title": "미 CISA, 계약업체의 AWS 보안키 유출 사건으로 의회 추궁 직면",
+  "url": "https://combatsociety.kr/news/20260522-420f30"
+}
