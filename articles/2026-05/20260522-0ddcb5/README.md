@@ -10,11 +10,11 @@
 | 콘텐츠 타입 | wire |
 | 분류 | alliance |
 | 태그 | 동맹·외교, 무기·방산, 드론, 미국, NATO |
-| 단일 출처 | [Military Times](https://www.militarytimes.com/news/your-military/2026/05/21/poland-joins-pentagons-counter-drone-marketplace-amid-unexpected-us-deployment-cancellation/) |
+| 단일 출처 | [Army Times](https://www.armytimes.com/news/your-military/2026/05/21/poland-joins-pentagons-counter-drone-marketplace-amid-unexpected-us-deployment-cancellation/) |
 
 ## 출처 매체
 
-- [Military Times](https://www.militarytimes.com/news/your-military/2026/05/21/poland-joins-pentagons-counter-drone-marketplace-amid-unexpected-us-deployment-cancellation/)
+- [Army Times](https://www.armytimes.com/news/your-military/2026/05/21/poland-joins-pentagons-counter-drone-marketplace-amid-unexpected-us-deployment-cancellation/)
 
 ## 사이트에서 읽기
 
