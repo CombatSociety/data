@@ -1,0 +1,90 @@
+{
+  "assessment": "이번 주 안보 지형의 핵심 축은 중동이다. 트럼프 행정부가 이란과의 핵 협상을 '대부분 타결'로 규정하며 호르무즈 해협 개방을 포함한 합의 윤곽을 공개했지만, Operation Epic Fury 공식 종료 이후에도 F-16 Fighting Falcon이 걸프 상공 전투초계를 유지하고 이스라엘이 레바논 남부 공습을 계속하는 현실은 협상 낙관론과 현장 긴장이 동시에 작동하는 이중 구조를 보여준다. USS 니미츠 (CVN-68) 항모강습단의 카리브해 전개는 중동 집중 국면에서도 서반구 압박 수단을 병행 운용하겠다는 의지로 읽히며, 루비오 국무장관이 NATO 정상회의에서 동맹 실효성에 공개 의구심을 표명한 것은 미국이 다자 안보 틀보다 양자·직접 행동을 우선시하는 기조를 재확인한 것이다. 미 해병대의 MRZR Alpha ULTV 단독계약은 분산·고기동 작전 개념의 장비 기반을 구체화하는 조치로, 경량 전력 투사 교리가 예산 집행 단계로 진입했음을 의미한다. 한국은 KIDA와 NIA가 국방 AX와 공공 AX의 전략적 연계를 논의하는 수준에 있는데, 이를 실질적 전력화로 연결하려면 개념 세미나를 넘어 ADD 주도의 프로토타입 사이클과 ROK JCS 교리 개정을 동기화하는 실행 로드맵이 필요하다.",
+  "brief_date": "2026-05-24",
+  "digest_type": "daily",
+  "items": [
+    {
+      "priority": "P3",
+      "section": "한반도",
+      "source_name": "문화일보",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJbkVWOXgxSVFkWV9ZVDE2UWtyclowTm1ydHVMcEVfN3JERGdFVGNaSVhmSGMzSTBWdDMtUkRIZWQ1UHZCbDJFbWctZ3YxTkIt?oc=5",
+      "subtitle": "국가 AI G3 도약을 목표로 국방·공공 부문 인공지능 전환 전략의 통합 모색",
+      "summary_en": "Korea Institute for Defense Analyses (KIDA) and the National Information Society Agency (NIA) co-hosted a special seminar to explore strategic linkages between public-sector AI transformation (AX) and defense AX, in pursuit of South Korea's national AI G3 goal. The event aimed to design integrated civil-military AI transition policies to maximize synergies across sectors. Aligning defense AI transformation with national digital strategy is seen as a key lever for both enhancing military effectiveness and advancing the broader civilian AI ecosystem.",
+      "summary_kr": "한국국방연구원(KIDA)과 한국지능정보사회진흥원(NIA)이 국가 AI G3 실현을 위한 공공 부문 AI 전환(AX)과 국방 AX의 전략적 연계 방향을 모색하는 특별세미나를 개최했다. 이번 세미나는 민·군 AI 전환 정책을 통합적으로 설계해 시너지를 극대화하려는 취지로 마련됐다. 국방 분야 AI 전환이 국가 차원의 디지털 전략과 연동될 경우 군사 효율성 제고와 함께 민간 AI 생태계 발전에도 기여할 수 있다는 점에서 주목된다.",
+      "title": "KIDA·NIA, 국방 AI 전환과 공공 AX 전략 연계 방향 논의"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-air-strike-pounds-southern-lebanon-leaving-many-injured?traffic_source=rss",
+      "subtitle": "알바크부크 지역 타격으로 다수 부상자 발생, 레바논 남부 긴장 재고조",
+      "summary_en": "Israeli forces conducted an air strike on the Al-Baqbouq area north of Tyre in southern Lebanon, resulting in multiple injuries. The strike underscores the continued Israeli military operations in southern Lebanon and signals ongoing regional instability.",
+      "summary_kr": "이스라엘군이 레바논 남부 티레 북쪽 알바크부크 지역에 공습을 가해 다수의 부상자가 발생했다. 이번 공습은 레바논 남부에 대한 이스라엘의 군사 행동이 지속되고 있음을 보여주며, 해당 지역의 안보 불안이 이어지고 있다.",
+      "title": "이스라엘, 레바논 남부 티레 북쪽 공습 감행"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "SOFREP",
+      "source_url": "https://sofrep.com/news/the-us-iranian-negotiations-enter-the-coin-flip-phase-of-negotiations/",
+      "subtitle": "호르무즈 해협 봉쇄 유지 중인 미 해군, 협상 결과에 따라 폭격 재개 또는 합의 서명 기로",
+      "summary_en": "President Trump stated in a phone interview that the probability of a U.S.-Iran nuclear deal stands at fifty-fifty, giving himself until Sunday to make a final decision. A breakdown in talks could trigger a resumption of U.S. strikes against Iran, while a successful agreement would end roughly three months of military confrontation. U.S. Navy assets maintaining a blockade posture near the Strait of Hormuz remain on station pending the outcome.",
+      "summary_kr": "트럼프 대통령은 전화 인터뷰에서 미-이란 핵 협상 타결 가능성을 50대50으로 평가하며 일요일까지 결정을 내리겠다고 밝혔다. 협상이 결렬될 경우 미국은 이란에 대한 폭격을 재개할 수 있으며, 타결 시 3개월간의 군사적 긴장이 종식될 수 있다. 호르무즈 해협에서 봉쇄 임무를 수행 중인 USCENTCOM (중부사령부) 해군 전력은 협상 결과를 기다리는 상황이다.",
+      "title": "트럼프, 미-이란 협상 타결 확률 '50대50' 발언…주말 결정 예고"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Soldier Systems",
+      "source_url": "https://soldiersystems.net/2026/05/23/us-marine-corps-issues-new-sole-source-contract-to-polaris-government-and-defense-for-mrzr-alpha-ultra-light-tactical-vehicles-ultvs/?utm_source=rss&utm_medium=rss&utm_campaign=us-marine-corps-issues-new-sole-source-contract-to-polaris-government-and-defense-for-mrzr-alpha-ultra-light-tactical-vehicles-ultvs",
+      "subtitle": "최대 9,800만 달러 규모 IDIQ 계약으로 Polaris Government and Defense 선정",
+      "summary_en": "The U.S. Marine Corps (USMC) has awarded Polaris Government and Defense a sole-source IDIQ contract valued at up to $98 million for continued production and delivery of the MRZR Alpha Ultra-Light Tactical Vehicle (ULTV). The contract was issued through the Program Acquisition Executive Marine Corps (PAE-MC). The award ensures sustained procurement of ultra-light tactical mobility platforms optimized for special operations and rapid maneuver missions.",
+      "summary_kr": "미 해병대(USMC)가 Polaris Government and Defense에 MRZR Alpha 초경량 전술차량(ULTV) 생산·납품을 위한 단독 수의계약을 체결했다. 계약 방식은 무기한 납품·무기한 수량(IDIQ) 방식으로 최대 9,800만 달러 규모이며, 해병대 프로그램 획득 집행관(PAE-MC)을 통해 발주됐다. 이번 계약은 특수작전 및 신속기동 임무에 특화된 초경량 차량 전력의 지속적 확보를 목적으로 한다.",
+      "title": "미 해병대, MRZR Alpha 초경량 전술차량 단독계약 체결"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "SCMP Defense",
+      "source_url": "https://www.scmp.com/news/world/middle-east/article/3354647/iran-us-could-be-close-breakthrough-talks-draft-deal-end-war?utm_source=rss_feed",
+      "subtitle": "사우디·UAE·카타르 등 중동 주요국 지도자와 통화 후 최종 세부 협의 중이라고 밝혀",
+      "summary_en": "U.S. President Donald Trump announced that a deal with Iran, including the opening of the Strait of Hormuz, has been 'largely negotiated,' following calls with leaders of Saudi Arabia, the UAE, Qatar, Pakistan, Turkey, Egypt, Jordan, and Bahrain. Trump stated on social media that 'final aspects and details' are under discussion and will be announced shortly, without specifying a timeline. If concluded, the agreement could significantly reshape Middle East energy security and constrain Iran's nuclear ambitions.",
+      "summary_kr": "트럼프 미국 대통령은 이란과의 합의가 '대부분 협상 완료'됐으며 호르무즈 해협 개방이 포함된다고 밝혔다. 사우디아라비아·UAE·카타르·파키스탄·터키·이집트·요르단·바레인 지도자들과 통화한 뒤 소셜미디어를 통해 '최종 세부 사항을 논의 중이며 곧 발표될 것'이라고 전했다. 합의가 실현될 경우 중동 에너지 수송로 안정화와 이란 핵 프로그램 제한에 상당한 지정학적 파장이 예상된다.",
+      "title": "트럼프, 이란 핵합의 '대부분 타결'…호르무즈 해협 개방 포함"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Defense News",
+      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/05/22/rubio-ratchets-up-pressure-on-nato-at-key-summit/",
+      "subtitle": "미국의 '오퍼레이션 에픽 퓨리' 지지를 거부한 핵심 동맹국들에 대한 워싱턴의 불만이 표면화됐다.",
+      "summary_en": "U.S. Secretary of State Marco Rubio publicly questioned NATO's relevance at a key summit after core allies refused to back Washington's 'Operation Epic Fury.' The rebuff has sharpened tensions between the U.S. and European partners over burden-sharing and operational solidarity. The episode signals that the Trump administration's pressure campaign on NATO is intensifying at the diplomatic level.",
+      "summary_kr": "마르코 루비오 미 국무장관이 주요 NATO 정상회의에서 동맹의 실효성에 공개적으로 의문을 제기했다. 핵심 동맹국들이 미국의 '오퍼레이션 에픽 퓨리(Operation Epic Fury)' 지지를 거부한 것이 직접적 계기가 됐다. 이번 발언은 트럼프 행정부의 대NATO 압박 기조가 외교 무대에서 더욱 노골화되고 있음을 시사한다.",
+      "title": "루비오 국무장관, NATO 정상회의서 동맹 결속력에 공개 의구심 표명"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Task & Purpose",
+      "source_url": "https://taskandpurpose.com/news/uss-nimitz-caribbean-cuba/",
+      "subtitle": "미 해군 최장수 항모가 라틴아메리카 해역 작전 중인 여러 함정에 합류했다.",
+      "summary_en": "The USS Nimitz carrier strike group has arrived in the Caribbean amid ongoing tensions with Cuba, joining several other U.S. warships already operating in Latin American waters. As the longest-serving carrier in the U.S. Navy, the Nimitz's deployment signals a visible demonstration of American naval presence in the region. The move underscores Washington's intent to maintain a robust maritime posture in its near abroad.",
+      "summary_kr": "USS 니미츠(CVN-68) 항모강습단이 쿠바와의 긴장이 고조되는 가운데 카리브해에 전개됐다. 니미츠는 현재 라틴아메리카 해역에서 작전 중인 다수의 미 해군 함정들과 합류한 상태다. 이번 전개는 해당 지역에서의 미국의 해군력 투사 의지를 가시적으로 보여주는 조치로 해석된다.",
+      "title": "USS 니미츠 항모강습단, 쿠바 긴장 속 카리브해 전개"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Defence Blog",
+      "source_url": "https://defence-blog.com/u-s-f-16s-hold-the-line-in-the-gulf-after-iran-campaign-ends/",
+      "subtitle": "오퍼레이션 에픽 퓨리 공식 종료 이후에도 USCENTCOM 책임구역 내 무장 초계 비행 유지",
+      "summary_en": "U.S. Air Force F-16 Fighting Falcons continue flying armed combat patrols over the Gulf following the official conclusion of Operation Epic Fury against Iran. Photographs released on May 14 from within the USCENTCOM area of responsibility show an F-16 carrying a weapons loadout during active patrol. The continued presence signals that the U.S. is maintaining a deterrent posture in the volatile airspace even after the declared end of offensive operations.",
+      "summary_kr": "미 공군 F-16 Fighting Falcon이 이란 대상 작전인 오퍼레이션 에픽 퓨리 공식 종료 이후에도 걸프 상공에서 무장 전투초계 임무를 지속하고 있다. 5월 14일 USCENTCOM 책임구역에서 촬영된 사진에는 무장을 탑재한 F-16이 비행 중인 모습이 담겼다. 이는 작전 종료 후에도 역내 억제력 유지를 위한 전력 전개가 계속되고 있음을 시사한다.",
+      "title": "이란 작전 종료 후에도 미 공군 F-16, 걸프 상공 전투초계 지속"
+    }
+  ],
+  "published_at": "2026-05-23T22:01:38.399486+00:00",
+  "summary": "한반도 1건 · 해외 7건",
+  "title": "Daily Brief — 2026년 05월 24일"
+}
