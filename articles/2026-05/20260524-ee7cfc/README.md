@@ -1,6 +1,6 @@
-# KIDA·NIA, 공공·국방 AI 전환 연계 전략 모색
+# KIDA·NIA, 공공·국방 AI 전환 연계 전략 공동 모색
 
-특별세미나서 AI 전환 연계 전략·협력체계 제도화 논의
+공공·국방 AI 전환 연계 전략, 공동 세미나서 협력체계 구축 본격화
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | original |
 | 분류 | tech |
-| 태그 | 군사기술, 국방정책, AI국방, 한국, 산업·기업, 무기·방산 |
+| 태그 | 군사기술, 국방정책, AI국방, 한국, 산업·기업, 교전 |
 | 단일 출처 | [문화일보](None) |
 
 ## 출처 매체
@@ -24,5 +24,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "KIDA·NIA, 공공·국방 AI 전환 연계 전략 모색", combatsociety.kr/news/20260524-ee7cfc, github.com/CombatSociety/data.
+Combat Society dataset, "KIDA·NIA, 공공·국방 AI 전환 연계 전략 공동 모색", combatsociety.kr/news/20260524-ee7cfc, github.com/CombatSociety/data.
 ```
