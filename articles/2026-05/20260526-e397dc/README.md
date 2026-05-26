@@ -1,6 +1,6 @@
-# 탄도미사일·방사포 혼합 발사… 북한, 5주 만에 서해상 도발 재개
+# 탄도미사일·방사포 혼합 발사… 북한, 5주 만에 서해 도발 재개
 
-근거리 탄도미사일·방사포 혼합 발사, 5주 만의 도발 재개 확인
+탄도미사일·방사포 혼합 발사, 한미 당국 제원 분석 중
 
 | 항목 | 값 |
 |---|---|
@@ -9,12 +9,12 @@
 | 우선순위 | P1 |
 | 콘텐츠 타입 | original |
 | 분류 | threats |
-| 태그 | 안보위협, 북한, 한반도, 탄도미사일, 미사일발사, 발사, 한국, 미국 |
+| 태그 | 안보위협, 북한, 한국, 미사일발사, 탄도미사일, 한반도, 발사, 주한미군 |
 
 ## 출처 매체
 
-- [연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE55Skl0UXBqX203SkY1cmktLUVQa2RqUU4xUlg5TjJ4ZnJ3Zkplc0p4YlRYejl3bk1JV0VieU01S2ttU25SdlY3UE5MbndrazNIeUJ3MlA1cWVRd2lzSXNOMtIBYEFVX3lxTE55Skl0UXBqX203SkY1cmktLUVQa2RqUU4xUlg5TjJ4ZnJ3Zkplc0p4YlRYejl3bk1JV0VieU01S2ttU25SdlY3UE5MbndrazNIeUJ3MlA1cWVRd2lzSXNOMg?oc=5)
 - [조선일보](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeFNfUDVTQXhCcDdzWHdqUEJiWnhvQnFhZGdpZkZ0MzI3YmJoZEpGZlZJVnZETG5kNGtCUG9pVThramczUnVkcmZZUXA0cFRVcmRoZmFPUHlPREF6QXNmdWY1alcyR3Q0bldaejVVT29IR2dPZG13WDRmMkNrUGhnUHZyN1JxMVB0a3hSclo4Zl9PQQ?oc=5)
+- [연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiZVloNExrMnZZQjU3Ty1keTEzVmJLbzF0X19hbkR5YkZBd2dqNmVnQTZGcUhobE9PMEREa1Nqb3ZSYjBDQmZxTUZBOG52U2toSzVfYkhRQVlYM1p0NFZ1WU5mc0RqcjA?oc=5)
 
 ## 사이트에서 읽기
 
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "탄도미사일·방사포 혼합 발사… 북한, 5주 만에 서해상 도발 재개", combatsociety.kr/news/20260526-e397dc, github.com/CombatSociety/data.
+Combat Society dataset, "탄도미사일·방사포 혼합 발사… 북한, 5주 만에 서해 도발 재개", combatsociety.kr/news/20260526-e397dc, github.com/CombatSociety/data.
 ```
