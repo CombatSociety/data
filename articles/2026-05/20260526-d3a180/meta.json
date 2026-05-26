@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-26T20:43:11.771268+00:00",
+  "slug": "20260526-d3a180",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos",
+  "summary": "개발자 자격증·소스코드 비밀정보 탈취, 대규모 공급망 공격 본격화",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "군사기술",
+    "공급망공격",
+    "사이버스파이"
+  ],
+  "title": "깃허브 5500개 저장소 감염한 '메갈로돈' 악성코드… 개발자 자격증 탈취",
+  "url": "https://combatsociety.kr/news/20260526-d3a180"
+}
