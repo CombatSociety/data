@@ -1,0 +1,100 @@
+{
+  "assessment": "북한의 KN-23 SRBM과 KN-25 super-large MLRS 혼합 발사는 단순 도발 수위 조절이 아니라 한미 방공체계의 포화 한계를 계산한 전술 검증으로 봐야 하며, 이는 우크라이나 전선에서 러시아가 232회 교전 중 드론·포병·미사일을 혼합 운용해 방공 자산을 소진시키는 전법과 구조적으로 동일한 논리다. 리투아니아 등기센터 60만 건 탈취 사건은 이 물리적 위협과 병행하는 회색지대 작전의 전형으로, 재산권·법인 정보가 하이브리드 전쟁의 표적 식별 데이터베이스로 전용될 수 있다는 점에서 NATO 동맹 전체의 민간 인프라 보안 기준을 재점검하는 계기가 돼야 한다. 미국이 NATO 위기 시 전략폭격기와 전함 지원을 감축하겠다는 방침을 전달하고 인도태평양 전력 집중 기조를 유지하는 상황에서, 호주 ANAO가 잠수함 수명 연장 프로그램에 '고위험' 판정을 내린 것은 AUKUS 전력 공백이 예상보다 길어질 수 있음을 시사한다. 미 하원 군사위원회가 FY2027 NDAA에 알레이버크급 Flight III 증분 예산과 F-35 Lightning II·F-15EX Eagle II 다년도 조달을 동시에 추진하는 것은 해군·공군 전력 재건에 입법 동력을 집중하는 신호이며, 한국 역시 Cheongung-II·L-SAM 복합 방공 레이어를 '섞어쏘기' 포화 시나리오 기준으로 재검증하고, 방공 자산 소진 후 대응 교리를 ROK JCS 차원에서 정립하는 것이 현 시점의 실질적 처방이다.",
+  "brief_date": "2026-05-27",
+  "digest_type": "daily",
+  "items": [
+    {
+      "priority": "P2",
+      "section": "한반도",
+      "source_name": "연합뉴스TV",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kSVJoLW9sUFVPNUdod0F4MnlsU1RHU2VDUTBvWkgxOWdGTXptQ0lKUjZHRUlSd1VjY2JMb1BtbGJhRG1Ud2Q3TGVlbzNKS2NNY1VTdG1jWHM2MUNCa3lnTC1Ec1pZNzQ?oc=5",
+      "subtitle": "다종 발사체 동시 운용으로 한미 방공망 포화 유도 전술 시험 의도로 분석된다",
+      "summary_en": "North Korea conducted a mixed launch exercise combining ballistic missiles and large-caliber multiple rocket launchers in what analysts describe as a 'mixed salvo' tactic. The simultaneous employment of multiple projectile types is assessed as an effort to saturate and complicate ROK-U.S. missile defense systems. This pattern suggests Pyongyang is refining its asymmetric strike doctrine to overwhelm layered air defenses.",
+      "summary_kr": "북한이 탄도미사일과 방사포를 혼합 발사하는 이른바 '섞어쏘기' 방식의 훈련을 실시한 것으로 파악됐다. 이는 KN-23 SRBM 등 탄도미사일과 KN-25 super-large MLRS를 동시에 운용해 한미 방공체계를 복합적으로 압박하는 전술로 평가된다. 다종 발사체 혼합 운용은 요격 자산의 분산을 유도하는 비대칭 전술로, 향후 도발 패턴의 고도화를 시사한다.",
+      "title": "북한, 탄도미사일·방사포 혼합 발사…'섞어쏘기' 훈련 가능성"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-ato/4127579-general-staff-232-clashes-on-front-lines-heaviest-fighting-near-pokrovsk-kostiantynivka-huliaipole.html",
+      "subtitle": "포크로우스크·코스티안티니우카·훌리아이폴레 3개 축선에 전체 교전의 3분의 1 이상 집중",
+      "summary_en": "Ukraine's General Staff reported 232 combat engagements along the front line over the past 24 hours. More than one-third of clashes were concentrated in the Pokrovsk, Kostiantynivka, and Huliaipole sectors, indicating sustained Russian pressure across multiple axes in Donetsk Oblast. The intensity of simultaneous engagements suggests Russian forces continue multi-directional offensive operations aimed at seizing key logistical and urban nodes.",
+      "summary_kr": "우크라이나 참모본부에 따르면 지난 하루 동안 전선에서 232회의 전투 교전이 발생했다. 전체 교전의 3분의 1 이상이 포크로우스크, 코스티안티니우카, 훌리아이폴레 방면에 집중되며 동부 전선의 압박이 지속되고 있다. 이는 러시아군이 도네츠크주 핵심 거점 확보를 위해 다방면 동시 공세를 유지하고 있음을 시사한다.",
+      "title": "우크라이나 전선 하루 232회 교전, 포크로우스크 등 동부 격전"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "USNI News",
+      "source_url": "https://news.usni.org/2026/05/26/house-wants-funding-for-a-second-arleigh-burke-destroyer-in-next-fiscal-year",
+      "subtitle": "하원 군사위 의장안에 Flight III형 구축함 증분 예산 5억 달러 포함, 조선소 물량 확보 우려 반영",
+      "summary_en": "The House Armed Services Committee's chairman's mark for the FY2027 NDAA includes $500 million in incremental funding to procure a second Flight III Arleigh Burke-class guided-missile destroyer. The provision addresses concerns from lawmakers representing shipbuilding states, particularly Maine, over reduced naval vessel production. The move signals intensifying congressional pressure to expand destroyer procurement as the Navy faces fleet size challenges.",
+      "summary_kr": "미 하원 군사위원회가 FY2027 국방수권법(NDAA) 의장안에 알레이버크급 Flight III 구축함 2번함 도입을 위한 증분 예산 5억 달러를 포함시켰다. 이는 메인주 등 조선소 관련 의원들의 함정 건조 물량 감소 우려를 반영한 조치다. 해군 구축함 전력 확충 논의가 예산 심의 과정에서 본격화될 전망이다.",
+      "title": "미 하원, FY2027 국방수권법에 알레이버크급 구축함 2번함 추가 예산 편성"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Military Times",
+      "source_url": "https://www.militarytimes.com/global/europe/2026/05/26/report-us-to-cut-strategic-bombers-and-warships-available-to-nato-in-a-crisis/",
+      "subtitle": "비공개 회의에서 미 전투기 수량 3분의 1 감소 예정임을 미 특사가 공개한 것으로 알려졌다.",
+      "summary_en": "The United States is reportedly planning to reduce the number of strategic bombers and warships available to NATO in a crisis scenario. U.S. envoy Alexander Velez-Green disclosed during a closed-door meeting that the number of U.S. fighter jets is set to fall by one-third. The move is likely to intensify pressure on European NATO allies to accelerate their own defense buildups amid growing concerns over reduced American commitments.",
+      "summary_kr": "미국이 나토(NATO) 위기 상황 시 동맹에 제공 가능한 전략폭격기와 전함 수를 줄일 방침인 것으로 보도됐다. 비공개 회의에서 미 특사 알렉산더 벨레스-그린은 미국 전투기 수량이 3분의 1 감소할 예정이라고 밝힌 것으로 전해졌다. 이는 유럽 방위에 대한 미국의 기여 축소 우려를 심화시키며, NATO 동맹국들의 자체 방위력 증강 압박이 한층 커질 전망이다.",
+      "title": "미국, 나토 위기 시 전략폭격기·전함 지원 감축 방침 전달"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
+      "subtitle": "도하 평화 협상 진행 중 공습 발생, 이란-카타르 협상단 현지 체류 중이었다",
+      "summary_en": "Iran has condemned U.S. strikes as a 'gross violation' of the ceasefire, with the attacks occurring while Iranian and Qatari negotiators were engaged in peace talks in Doha. The simultaneous military action and diplomatic engagement signals a severe breakdown in trust between Washington and Tehran. The incident is expected to significantly complicate ongoing negotiations and escalate regional tensions.",
+      "summary_kr": "이란은 미국의 공습을 휴전 협정에 대한 '중대한 위반'이라고 강력히 규탄했다. 해당 공습은 이란과 카타르 협상단이 도하에서 평화 회담을 진행하는 도중 발생해 외교적 파장이 불가피하다. 협상 테이블과 군사 행동이 동시에 진행된 이번 사태는 미-이란 간 긴장 국면을 한층 고조시킬 것으로 전망된다.",
+      "title": "이란, 미국의 공습을 휴전 협정 '중대 위반'으로 강력 규탄"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "The Record",
+      "source_url": "https://therecord.media/lithuania-investigates-theft-of-state-records",
+      "subtitle": "부동산·법인 정보 포함 국가 핵심 데이터베이스가 무단 접근으로 유출돼 수사 착수",
+      "summary_en": "Lithuania's Prosecutor General's Office announced that a foreign actor gained unauthorized access to over 600,000 records held by the Centre of Registers, the state agency managing property and legal entity data. The breach involves sensitive national administrative records, raising significant concerns over national security and personal data protection. Authorities are investigating the incident as a potential state-sponsored cyberattack.",
+      "summary_kr": "리투아니아 검찰총장실은 외국 행위자가 부동산 및 법인 기록을 관리하는 국가기관인 등기센터(Centre of Registers)에 무단 접근해 60만 건 이상의 기록을 탈취했다고 밝혔다. 유출된 정보에는 재산권·법인 등록 등 국가 핵심 행정 데이터가 포함돼 있어 국가 안보 및 개인정보 침해 우려가 크다. 외국 행위자의 개입이 확인된 만큼 국가 배후 사이버 공격 가능성에 대한 수사가 진행 중이다.",
+      "title": "리투아니아 국가등기소 60만 건 기록 외국 행위자에 탈취"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Air Force Magazine",
+      "source_url": "https://www.airandspaceforces.com/draft-ndaa-multiyear-buys-f-35-f-15ex/",
+      "subtitle": "FY2027 NDAA 초안에 전투기 장기계약 조항 포함, 상원 법안과 연계",
+      "summary_en": "The House Armed Services Committee released its FY2027 NDAA draft, including provisions to authorize multiyear procurement contracts for the F-35 Lightning II and F-15EX Eagle II fighters. The language mirrors legislation introduced in the Senate last month, aiming to reduce per-unit costs and stabilize the industrial base through long-term contracts. If enacted, the measure would provide Lockheed Martin and Boeing with greater production certainty over multiple fiscal years.",
+      "summary_kr": "미 하원 군사위원회가 2027 회계연도 국방수권법(NDAA) 초안을 공개하며 F-35 Lightning II 및 F-15EX Eagle II 전투기에 대한 다년도 조달 계약 승인 조항을 포함시켰다. 해당 조항은 지난달 상원에서 발의된 관련 법안의 내용을 반영한 것으로, 다년도 계약을 통해 단가 절감과 안정적 생산 기반 확보를 목표로 한다. 이 조항이 최종 입법화될 경우 록히드마틴과 보잉의 전투기 생산 계획에 장기적 확실성이 부여될 전망이다.",
+      "title": "미 하원 국방수권법안, F-35·F-15EX 다년도 구매 승인 추진"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Defense News",
+      "source_url": "https://www.defensenews.com/global/asia-pacific/2026/05/26/australia-starts-high-risk-life-extension-of-its-submarine-fleet/",
+      "subtitle": "AUKUS 핵잠수함 전력 공백 메우기 위한 고육책이나 국방부 계획 부실 지적",
+      "summary_en": "Australia's National Audit Office (ANAO) has issued a critical assessment of the Department of Defence's submarine life-extension program, labeling it 'high-risk' due to inadequate planning. The program is intended to bridge the capability gap before nuclear-powered submarines are delivered under the AUKUS agreement. The audit findings raise broader concerns about the timeline and management of Australia's undersea modernization effort.",
+      "summary_kr": "호주 국가감사원(ANAO)이 호주 국방부의 잠수함 수명 연장 프로그램 계획에 대해 '고위험' 판정을 내리며 혹독한 평가를 내놓았다. 이 프로그램은 AUKUS 협약에 따른 핵추진 잠수함 도입 전까지 발생하는 전력 공백을 기존 재래식 잠수함으로 메우기 위한 조치다. 감사원의 지적은 호주의 수중 전력 현대화 일정 전반에 불확실성을 더하고 있다.",
+      "title": "호주, 잠수함 함대 수명 연장 프로그램 착수…감사원 '고위험' 경고"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/05/amid-fpv-threat-aussie-company-to-offer-ukraine-armored-roofs-for-atvs/",
+      "subtitle": "FPV 드론 위협 대응 위해 경량 전술차량 상방 방호력 강화 필요성 부각",
+      "summary_en": "An Australian defense company is moving to supply armored roof kits for ATVs operating in Ukraine, where FPV drone attacks from above have exposed critical vulnerabilities in light tactical vehicles. The solution represents a passive protection approach as modern militaries adapt to the growing threat of first-person-view drone strikes. The initiative reflects a broader trend of rapidly fielding low-cost survivability upgrades in response to evolving unmanned aerial threats on the battlefield.",
+      "summary_kr": "호주 방산업체가 우크라이나 전장에서 운용 중인 ATV(전술 소형 차량)에 장착 가능한 방탄 루프 키트 공급을 추진한다. FPV(1인칭 시점) 드론이 상방 공격 수단으로 광범위하게 활용되면서 기존 경장갑 차량의 취약성이 치명적 문제로 대두됐다. 이번 솔루션은 현대 전장에서 드론 위협에 대응하는 피동적 방호 수단으로서 경량 차량 생존성 향상에 기여할 전망이다.",
+      "title": "호주 업체, 우크라이나 ATV용 방탄 루프 키트 공급 추진"
+    }
+  ],
+  "published_at": "2026-05-26T22:01:50.016994+00:00",
+  "summary": "북한, 탄도미사일·방사포 혼합 발사…'섞어쏘기' 훈련 · 우크라이나 전선 하루 232회 교전, 포크로우스크 등 · 미 하원, FY2027 국방수권법에 알레이버크급 구축함",
+  "title": "5월 27일 데일리 브리프"
+}
