@@ -1,12 +1,12 @@
 [
   {
-    "name": "Task & Purpose",
-    "type": "international",
-    "url": "https://taskandpurpose.com/news/us-strikes-iran-bandar-abbas/"
-  },
-  {
     "name": "BBC",
     "type": "international",
     "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "name": "Task & Purpose",
+    "type": "international",
+    "url": "https://taskandpurpose.com/news/us-strikes-iran-bandar-abbas/"
   }
 ]
