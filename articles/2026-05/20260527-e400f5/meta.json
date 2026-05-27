@@ -1,23 +1,21 @@
 {
-  "category": "geopolitics",
-  "content_type": "original",
+  "category": "operations",
+  "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P2",
   "published_at": "2026-05-27T09:38:00.222413+00:00",
   "slug": "20260527-e400f5",
-  "source_name": null,
-  "source_url": null,
-  "summary": "가자지구 작전서 신임 수장 모하마드 오데흐 표적 살해 확인, 지휘부 연쇄 제거 전략",
+  "source_name": "SCMP Defense",
+  "source_url": "https://www.scmp.com/news/world/middle-east/article/3355013/israel-says-it-killed-hamas-new-armed-wing-chief-gaza-strike?utm_source=rss_feed",
+  "summary": "전임자 사살 직후 연쇄 작전, 가자·레바논 군사 압박 강화",
   "tags": [
-    "지정학·국제",
-    "중동",
-    "이스라엘",
+    "작전·훈련",
     "안보위협",
-    "교전",
-    "반테러작전",
-    "직접임무"
+    "이스라엘",
+    "중동",
+    "교전"
   ],
-  "title": "전임자 사망 수일 만에 후임도 제거… 이스라엘, 하마스 무장 조직 수장 연속 표적 살해",
+  "title": "이스라엘, 하마스 무장부 신임 지도자 가자 공습으로 사살",
   "url": "https://combatsociety.kr/news/20260527-e400f5"
 }

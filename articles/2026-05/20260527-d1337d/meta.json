@@ -1,0 +1,18 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-27T12:38:45.832412+00:00",
+  "slug": "20260527-d1337d",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
+  "summary": "LiteSpeed cPanel 플러그인 취약점, 현재 실제 공격에 악용 중·4일 내 패치 의무화",
+  "tags": [
+    "사이버안보",
+    "미국"
+  ],
+  "title": "美 사이버보안청, 연방기관에 cPanel 플러그인 취약점 4일 내 패치 지시",
+  "url": "https://combatsociety.kr/news/20260527-d1337d"
+}

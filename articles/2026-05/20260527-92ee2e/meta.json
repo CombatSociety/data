@@ -1,24 +1,21 @@
 {
   "category": "threats",
-  "content_type": "original",
+  "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P1",
   "published_at": "2026-05-27T06:36:07.099718+00:00",
   "slug": "20260527-92ee2e",
-  "source_name": null,
-  "source_url": null,
-  "summary": "단거리 탄도미사일·방사포 혼합 운용으로 한미 통합방공미사일방어(IAMD) 동시 대응 부담 가중 의도 노출",
+  "source_name": "YTN",
+  "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iSHNsXzNBRV9SVzFYWkdDS3NFRzMyT2l1RGwwUjVydzI2U3lEcHd5VFBHNFppN3paT1NpdHRSMWxFSkwxTEpEdWRqZWJTblNJN0FXUFNsWm13ZG1Wck5hWF9QQzUwSW1TRzdib3ZQUQ?oc=5",
+  "summary": "탄도미사일로 추정, 서해상 혼합 발사 방식 재개",
   "tags": [
     "안보위협",
     "북한",
     "탄도미사일",
-    "다연장로켓",
     "한반도",
-    "미사일발사",
-    "통합억제",
-    "발사"
+    "미사일발사"
   ],
-  "title": "37일 만의 도발, 탄도미사일·방사포 혼합 운용… 북한, 서해 상 복합 화력 시위",
+  "title": "북한, 37일 만에 미사일 발사…서해상 '혼합 발사' 재개",
   "url": "https://combatsociety.kr/news/20260527-92ee2e"
 }

@@ -1,23 +1,21 @@
 {
-  "category": "threats",
-  "content_type": "original",
+  "category": "weapons",
+  "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P2",
   "published_at": "2026-05-27T09:39:47.332118+00:00",
   "slug": "20260527-36d0a9",
-  "source_name": null,
-  "source_url": null,
-  "summary": "5월 26일 HIMARS 유사 경량 발사대·신형 240mm 유도 로켓 등 3종 무기체계 동시 시험 확인",
+  "source_name": "Defence Blog",
+  "source_url": "https://defence-blog.com/north-korea-built-its-own-version-of-americas-himars-system/",
+  "summary": "김정은 감시 아래 3종 무기 시험, 240mm 유도로켓 사거리 확대 추진",
   "tags": [
+    "무기·방산",
     "안보위협",
     "북한",
-    "다연장로켓",
-    "탄도미사일",
-    "무기·방산",
-    "한반도",
-    "발사"
+    "미사일발사",
+    "다연장로켓"
   ],
-  "title": "北, HIMARS급 경량 다목적 미사일 발사대 독자 개발… 김정은 직접 시험 감독",
+  "title": "북한, 미국 HIMARS 모방한 경량 다목적 미사일 발사기 시험",
   "url": "https://combatsociety.kr/news/20260527-36d0a9"
 }
