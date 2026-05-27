@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P3",
+  "published_at": "2026-05-27T18:38:52.161888+00:00",
+  "slug": "20260527-e9ee7a",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/threat-intelligence/ai-assisted-exploit-development-scanner-detection",
+  "summary": "AI 기반 공격 코드 개발 속도, 보안 스캐너 탐지 능력 추월·위협 심화",
+  "tags": [
+    "안보위협",
+    "군사기술",
+    "사이버안보",
+    "AI국방",
+    "APT공격"
+  ],
+  "title": "AI 활용한 취약점 공격 코드 개발 속도 급증… 보안 스캐너 탐지 추월",
+  "url": "https://combatsociety.kr/news/20260527-e9ee7a"
+}
