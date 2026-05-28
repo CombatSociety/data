@@ -1,6 +1,6 @@
 # 상용 위치정보로 미군 타격… 펜타곤 '전장 데이터 보안' 경고
 
-전쟁터 배치 미군, 상용 위치정보로 노출·타격 받는 상황 확인, 민간 데이터의 적군 악용 심화
+전쟁지역 상용 위치정보 유출로 표적화 위험, 전장 데이터 보안 강화 본격화
 
 | 항목 | 값 |
 |---|---|
@@ -9,12 +9,12 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | threats |
-| 태그 | 안보위협, 군사기술, 미국, 사이버안보, 정보수집 |
-| 단일 출처 | [Military Times](https://www.militarytimes.com/news/pentagon-congress/2026/05/28/us-troops-are-reportedly-being-targeted-using-location-data-pentagon-says/) |
+| 태그 | 안보위협, 미국, 군사기술, 사이버안보, 정보수집, 작전·훈련 |
+| 단일 출처 | [Air Force Times](https://www.airforcetimes.com/news/pentagon-congress/2026/05/28/us-troops-are-reportedly-being-targeted-using-location-data-pentagon-says/) |
 
 ## 출처 매체
 
-- [Military Times](https://www.militarytimes.com/news/pentagon-congress/2026/05/28/us-troops-are-reportedly-being-targeted-using-location-data-pentagon-says/)
+- [Air Force Times](https://www.airforcetimes.com/news/pentagon-congress/2026/05/28/us-troops-are-reportedly-being-targeted-using-location-data-pentagon-says/)
 
 ## 사이트에서 읽기
 

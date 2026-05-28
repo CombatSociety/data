@@ -1,24 +1,20 @@
 {
-  "category": "geopolitics",
-  "content_type": "original",
+  "category": "weapons",
+  "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P2",
   "published_at": "2026-05-28T12:37:55.214377+00:00",
   "slug": "20260528-a725b1",
-  "source_name": null,
-  "source_url": null,
-  "summary": "그리펜 C/D 16기 무상 공여, EU 차관 25억 유로로 E/F 20기 구매·장기 100~150기 이전 목표 확인",
+  "source_name": "Defence Blog",
+  "source_url": "https://defence-blog.com/sweden-donates-16-gripens-and-opens-the-door-to-150-more-for-ukraine/",
+  "summary": "기증 16대 외 최대 150대 추가 공급, EU 차입금 25억 유로로 신형기 20대 구매 지원",
   "tags": [
-    "지정학·국제",
     "무기·방산",
     "동맹·외교",
     "우크라이나",
-    "NATO",
-    "전투기",
-    "방산수출",
-    "배치"
+    "전투기"
   ],
-  "title": "스웨덴, 우크라이나에 그리펜 16기 무상 공여·최대 150기 장기 이전 추진",
+  "title": "스웨덴, 우크라이나에 그리펜 전투기 16대 기증… 150대 추가 공급 길 열어",
   "url": "https://combatsociety.kr/news/20260528-a725b1"
 }
