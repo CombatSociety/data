@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-28T16:28:57.168971+00:00",
+  "slug": "20260528-0fbeee",
+  "source_name": "Military Times",
+  "source_url": "https://www.militarytimes.com/news/pentagon-congress/2026/05/28/us-troops-are-reportedly-being-targeted-using-location-data-pentagon-says/",
+  "summary": "전쟁터 배치 미군, 상용 위치정보로 노출·타격 받는 상황 확인, 민간 데이터의 적군 악용 심화",
+  "tags": [
+    "안보위협",
+    "군사기술",
+    "미국",
+    "사이버안보",
+    "정보수집"
+  ],
+  "title": "상용 위치정보로 미군 타격… 펜타곤 '전장 데이터 보안' 경고",
+  "url": "https://combatsociety.kr/news/20260528-0fbeee"
+}

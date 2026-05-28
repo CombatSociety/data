@@ -8,5 +8,10 @@
     "name": "Defense News",
     "type": "international",
     "url": "https://www.defensenews.com/global/europe/2026/05/28/ukraine-to-buy-20-new-gripen-jets-sweden-to-donate-older-jets-sooner/"
+  },
+  {
+    "name": "Ukrinform",
+    "type": "international",
+    "url": "https://www.ukrinform.net/rubric-defense/4128248-presidents-office-explains-details-of-swedish-gripen-fighter-jets-deal.html"
   }
 ]
