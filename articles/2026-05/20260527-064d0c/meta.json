@@ -1,22 +1,23 @@
 {
   "category": "threats",
-  "content_type": "original",
+  "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P1",
   "published_at": "2026-05-27T21:35:58.867514+00:00",
   "slug": "20260527-064d0c",
-  "source_name": null,
-  "source_url": null,
-  "summary": "3종 발사체 동시 운용으로 방공망 동시 대응 부담 가중, 복합 도발 패턴 재확인",
+  "source_name": "네이트",
+  "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14VWI2UVNOc3E2TFZuMU1PMWFPUWhXZ1BieXpHNVpZQ2NXRl9VdlVBbXQ5aWpxdVZxLVpzbllaVVZUbE9FcnR2STdRQjg2Tlc1SDBR?oc=5",
+  "summary": "3종 장거리 타격 수단 동시 운용 능력 과시, 다층 미사일 체계 통합 운영 역량 입증",
   "tags": [
     "안보위협",
     "북한",
-    "탄도미사일",
     "미사일발사",
-    "한반도",
-    "발사"
+    "탄도미사일",
+    "순항미사일",
+    "다연장로켓",
+    "한반도"
   ],
-  "title": "북한, 3종 혼합 동시 발사… 복합 도발 패턴 재확인",
+  "title": "북한, 탄도미사일·순항미사일·방사포 동시 발사",
   "url": "https://combatsociety.kr/news/20260527-064d0c"
 }
