@@ -1,6 +1,6 @@
-# 미 육군 다영역사령부, 아케인 선더 4차 훈련… 캘리포니아·유럽 동시 전구 운용
+# 캘리포니아·유럽 동시 전개… 미 육군 다영역작전 훈련 'Arcane Thunder' 4회차 돌입
 
-포트 어윈·유럽 전구 동시 운용, LSCO 교훈 도출 추진
+포트 어윈·유럽 전구 동시 전개, 대규모 전투작전 교훈 도출 추진
 
 | 항목 | 값 |
 |---|---|
@@ -22,5 +22,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 육군 다영역사령부, 아케인 선더 4차 훈련… 캘리포니아·유럽 동시 전구 운용", combatsociety.kr/news/20260528-8cfb00, github.com/CombatSociety/data.
+Combat Society dataset, "캘리포니아·유럽 동시 전개… 미 육군 다영역작전 훈련 'Arcane Thunder' 4회차 돌입", combatsociety.kr/news/20260528-8cfb00, github.com/CombatSociety/data.
 ```
