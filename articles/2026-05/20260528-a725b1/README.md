@@ -1,6 +1,6 @@
-# 스웨덴, 우크라이나에 그리펜 16기 무상 공여… 최대 150기 장기 이전 구상도 공개
+# 스웨덴, 그리펜 16대 우크라이나에 무상 공여… 최대 150대 장기 이전 계획도 공개
 
-그리펜 C/D 16기 무상 공여, EU 차관 25억 유로로 E/F형 최대 20기 추가 구매 지원·장기 100~150기 이전 구상
+그리펜 C/D형 16대 즉각 무상 공여, E/F형 20대 구매 지원(EU 차관 25억 유로)·장기 100~150대 이전 목표 병행
 
 | 항목 | 값 |
 |---|---|
@@ -9,12 +9,12 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | original |
 | 분류 | geopolitics |
-| 태그 | 지정학·국제, 무기·방산, 동맹·외교, 우크라이나, NATO, 전투기, 동유럽, 배치 |
+| 태그 | 지정학·국제, 무기·방산, 동맹·외교, 우크라이나, NATO, 전투기, 동유럽, 방산수출 |
 
 ## 출처 매체
 
 - [Defence Blog](https://defence-blog.com/sweden-donates-16-gripens-and-opens-the-door-to-150-more-for-ukraine/)
-- [Breaking Defense](https://breakingdefense.com/2026/05/ukraine-to-acquire-up-to-20-gripen-fighter-jets-on-track-to-receive-batch-of-older-models/)
+- [Defense News](https://www.defensenews.com/global/europe/2026/05/28/ukraine-to-buy-20-new-gripen-jets-sweden-to-donate-older-jets-sooner/)
 
 ## 사이트에서 읽기
 
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "스웨덴, 우크라이나에 그리펜 16기 무상 공여… 최대 150기 장기 이전 구상도 공개", combatsociety.kr/news/20260528-a725b1, github.com/CombatSociety/data.
+Combat Society dataset, "스웨덴, 그리펜 16대 우크라이나에 무상 공여… 최대 150대 장기 이전 계획도 공개", combatsociety.kr/news/20260528-a725b1, github.com/CombatSociety/data.
 ```
