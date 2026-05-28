@@ -1,6 +1,6 @@
 # 미 특수전사령부, 미시시피에 드론 시험장 건설 추진
 
-특수전 무인항공기 성능 검증·운용 기술 개발 전용 시설, 건설 본격화
+차세대 무인항공기 개발·검증 중심, 실전 운용 환경 모의 시험장 조성
 
 | 항목 | 값 |
 |---|---|
@@ -9,12 +9,12 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | operations |
-| 태그 | 작전·훈련, 무기·방산, 군사기술, 미국, 특수전, 드론, USSOCOM |
-| 단일 출처 | [Defense News](https://www.defensenews.com/news/pentagon-congress/2026/05/27/pentagon-eyes-drone-testing-ground-in-mississippi/) |
+| 태그 | 작전·훈련, 무기·방산, 군사기술, 미국, 특수전, 드론 |
+| 단일 출처 | [Military Times](https://www.militarytimes.com/news/pentagon-congress/2026/05/27/pentagon-eyes-drone-testing-ground-in-mississippi/) |
 
 ## 출처 매체
 
-- [Defense News](https://www.defensenews.com/news/pentagon-congress/2026/05/27/pentagon-eyes-drone-testing-ground-in-mississippi/)
+- [Military Times](https://www.militarytimes.com/news/pentagon-congress/2026/05/27/pentagon-eyes-drone-testing-ground-in-mississippi/)
 
 ## 사이트에서 읽기
 
