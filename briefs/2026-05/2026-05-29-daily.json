@@ -1,0 +1,130 @@
+{
+  "assessment": "오늘 이슈들을 관통하는 핵심 축은 두 가지다. 첫째, 전장 데이터·신호 관리의 실패가 전술적 생존을 직접 위협하는 단계에 진입했다. 상업용 위치 데이터로 전장 미군이 표적화된 사례는 스마트폰·앱 기반 신호가 이미 적의 타격 사슬에 편입됐음을 시사하며, 이는 한국군의 작전보안(OPSEC) 교리와 개인 전자기기 통제 지침을 즉각 재검토해야 할 근거가 된다. 둘째, 유무인복합(MUM-T) 운용 개념이 시연 단계를 넘어 획득·양산 단계로 전환되고 있다. F-35 Lightning II 조종사의 태블릿 기반 MQ-20 자율 통제 시연, USSOCOM의 Flyweight AMG 획득 착수, 보급 드론의 로켓 플랫폼 전환 시험은 모두 단일 플랫폼 다기능화와 인간-기계 협업 가속화라는 같은 방향을 가리킨다. 현대로템과 NC AI의 국방 로봇 AI 공동 개발은 한국이 이 흐름에 진입하는 신호로 볼 수 있으나, 플랫폼 개발과 교리·훈련 체계가 동시에 발전하지 않으면 기술 획득이 전투력으로 전환되지 않는다. 러시아의 Kh-47M2 Kinzhal 운용 패턴과 우크라이나 전선의 하루 189회 교전은 고강도 분쟁에서 극초음속 위협 대응과 소모전 지속력이 동시에 요구된다는 점을 재확인시키며, 이는 L-SAM 전력화 일정과 탄약 비축 수준을 함께 점검해야 할 이유가 된다. Combat Society 관점에서, 오늘의 이슈들은 기술 획득보다 운용 개념과 데이터 보안 교리의 속도가 더 느린 조직이 먼저 취약해진다는 사실을 일관되게 증명한다.",
+  "brief_date": "2026-05-29",
+  "digest_type": "daily",
+  "items": [
+    {
+      "priority": "P1",
+      "section": "해외",
+      "source_name": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-ato/4128313-nationwide-air-raid-alert-declared-in-ukraine-due-to-ballistic-missile-threat-and-mig31k-takeoff.html",
+      "subtitle": "탄도미사일 위협과 전투기 이륙이 동시 감지되며 전국 단위 경보가 내려졌다.",
+      "summary_en": "Ukraine declared a nationwide air raid alert following the simultaneous detection of a ballistic missile threat and the takeoff of a Russian MiG-31K aircraft. The MiG-31K serves as the primary launch platform for the Kh-47M2 Kinzhal hypersonic missile, making its takeoff a key indicator of an imminent large-scale strike.",
+      "summary_kr": "러시아 MiG-31K 전투기 이륙과 탄도무기 위협이 동시에 감지되면서 우크라이나 전역에 공습경보가 발령됐다. MiG-31K는 Kh-47M2 Kinzhal 극초음속 미사일의 주요 발사 플랫폼으로, 이륙 자체가 대규모 타격 임박 신호로 간주된다.",
+      "title": "러시아 MiG-31K 이륙에 우크라이나 전국 공습경보 발령"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "The War Zone",
+      "source_url": "https://www.twz.com/land/search-for-new-5-56mm-flyweight-special-operations-machine-gun-to-kick-off-soon",
+      "subtitle": "M249 SAW 특수전 경량형 대체를 위한 5.56mm 신형 돌격기관총 소요 제기",
+      "summary_en": "USSOCOM is preparing to launch an acquisition process for a new 5.56mm Flyweight Assault Machine Gun (AMG) intended to replace the lightweight special operations variant of the M249 SAW. The program aims to provide SOF units with a squad automatic weapon that balances reduced weight with sustained firepower.",
+      "summary_kr": "미 특수전사령부(USSOCOM)가 M249 SAW 경량 특수전 버전을 대체할 5.56mm 'Flyweight Assault Machine Gun(AMG)' 획득 절차를 곧 개시할 예정이다. 해당 사업은 특수전 부대의 기동성과 화력을 동시에 충족하는 경량 분대지원화기 확보를 목표로 한다.",
+      "title": "미 특수전 경량 기관총 'Flyweight AMG' 획득 절차 착수 예정"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/05/28/army-turns-resupply-drone-into-rocket-launcher-in-new-test/",
+      "subtitle": "전장 보급 목적 드론에 로켓 발사 기능을 통합하는 다목적 운용 개념 검증",
+      "summary_en": "The U.S. Army conducted a test converting a battlefield resupply drone into a rocket launcher platform. The experiment reflects a broader effort to maximize multi-role utility from a single unmanned system, enhancing tactical flexibility in contested environments.",
+      "summary_kr": "미 육군이 전장 보급 임무용으로 설계된 드론을 로켓 발사 플랫폼으로 전환하는 시험을 실시했다. 이는 단일 플랫폼의 다기능 활용을 통해 전술적 유연성을 높이려는 유무인복합 운용 개념의 일환으로 평가된다.",
+      "title": "미 육군, 보급용 드론을 로켓 발사 플랫폼으로 전환 시험"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Task & Purpose",
+      "source_url": "https://taskandpurpose.com/news/us-iran-ceasefire-2026/",
+      "subtitle": "약 2개월 전 합의된 휴전 체제가 실질적 효력을 잃고 있다는 우려가 커지고 있다.",
+      "summary_en": "U.S. and Iranian forces have exchanged fire twice within a week, despite a ceasefire agreement reached roughly two months ago. The repeated incidents raise serious questions about the durability of the truce and signal continued volatility in the bilateral military standoff.",
+      "summary_kr": "미국과 이란 양측은 약 2개월 전 휴전에 합의했음에도 불구하고, 일주일 사이 두 차례 교전이 발생했다. 휴전 합의의 실효성에 의문이 제기되며 양측 간 긴장이 재고조되는 양상이다.",
+      "title": "미·이란 '휴전' 선언 속 일주일 새 두 차례 교전 발생"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-ato/4128315-war-update-189-clashes-on-sector-line-ukrainian-forces-neutralize-60-occupiers-in-pokrovsk-sector.html",
+      "subtitle": "러시아군이 포크로우스크·훌리아이폴레 방면에 공세를 집중하며 전선 압박을 강화하고 있다.",
+      "summary_en": "Ukrainian Defense Forces recorded 189 combat engagements against Russian forces on May 28, with the heaviest assault activity concentrated in the Pokrovsk and Huliaipole sectors. Ukrainian troops neutralized 60 Russian personnel in the Pokrovsk sector alone, indicating sustained Russian pressure along the eastern front.",
+      "summary_kr": "5월 28일 하루 동안 우크라이나 방위군과 러시아 점령군 사이에 189회의 교전이 발생했다. 러시아군은 포크로우스크 및 훌리아이폴레 방면에서 가장 활발한 돌격을 시도했으며, 포크로우스크 전선에서만 우크라이나군이 러시아 병력 60명을 무력화했다.",
+      "title": "우크라이나군, 하루 189회 교전…포크로우스크 전선 최대 격전"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Real Clear Defense",
+      "source_url": "https://www.realcleardefense.com/2026/05/28/f-35_lightning_ii_controls_mq-20_avenger_during_autonomy_testing_1185337.html",
+      "subtitle": "유무인복합 운용 개념 검증으로 전술 자율화 기술의 실용화 가능성 주목",
+      "summary_en": "An F-35 Lightning II pilot demonstrated Manned-Unmanned Teaming (MUM-T) by issuing tactical autonomy commands to an MQ-20 Avenger drone via a tablet interface. The test validates the operational concept of a crewed fighter directing unmanned wingmen in real time, advancing the practical integration of autonomous systems into combat aviation.",
+      "summary_kr": "F-35 Lightning II 조종사가 태블릿 기기를 통해 MQ-20 Avenger 무인기에 전술 자율 명령을 전송하는 유무인복합(MUM-T) 시연이 실시됐다. 이번 테스트는 유인 전투기가 무인 자산을 실시간으로 통제하는 '충실한 윙맨' 개념의 실용화 가능성을 보여준다.",
+      "title": "F-35 조종사, 태블릿으로 MQ-20 Avenger 무인기 자율 통제 시연"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42NDdSQ1o5STdJemg5MDJVMThmZzRFbGtIMl9RMEVVVDRTZnloMlkxeUt3Y25Qalo0TE9Sb2oybTcyaDlqOHBPZVVHWmx6Y2dSeGphaktwakhWSUFnTFVVc9IBYEFVX3lxTE42NDdSQ1o5STdJemg5MDJVMThmZzRFbGtIMl9RMEVVVDRTZnloMlkxeUt3Y25Qalo0TE9Sb2oybTcyaDlqOHBPZVVHWmx6Y2dSeGphaktwakhWSUFnTFVVcw?oc=5",
+      "subtitle": "게임 AI 기술을 군사 로봇에 접목하는 민군 협력 사례로 주목받는다",
+      "summary_en": "NC AI and Hyundai Rotem have announced a joint development initiative to build artificial intelligence systems for defense robots. The partnership combines NC AI's expertise in game and simulation AI with Hyundai Rotem's defense platform capabilities, aiming to develop autonomous decision-making functions for military ground robots. The collaboration reflects a broader trend of integrating civilian AI technologies into defense applications.",
+      "summary_kr": "NC AI와 현대로템이 국방 로봇용 인공지능 기술 공동 개발에 나선다. 게임·시뮬레이션 분야 AI 역량을 보유한 NC AI가 현대로템의 방산 플랫폼과 결합해 자율기동·판단 기능을 갖춘 로봇 두뇌 개발을 추진하는 것으로, 민간 AI 기술의 국방 전용화 흐름을 보여주는 사례다.",
+      "title": "NC AI·현대로템, 국방 로봇 인공지능 공동 개발 착수"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Naval News",
+      "source_url": "https://www.navalnews.com/naval-news/2026/05/lockheed-martin-delivers-first-integrated-combat-system-enabled-baseline-advancing-rapid-scalable-capability-for-the-u-s-navy/",
+      "subtitle": "기존 전투체계와 현대 인프라를 결합한 ICS 기반선이 함정 전력화 속도를 높일 전망",
+      "summary_en": "Lockheed Martin has delivered the first Integrated Combat System (ICS)-enabled baseline to the U.S. Navy, marking a milestone in naval combat system modernization. The ICS baseline merges legacy combat system capabilities with modern software infrastructure, enabling rapid and scalable capability deployment across multiple platforms through a single development effort.",
+      "summary_kr": "록히드마틴이 미 해군에 통합전투체계(ICS) 기반선(baseline) 초도 버전을 인도했다. ICS 기반선은 기존 전투체계 기능과 현대적 소프트웨어 인프라를 통합해 단일 개발 주기로 다수 함정에 신속하게 능력을 확산할 수 있도록 설계됐다.",
+      "title": "록히드마틴, 미 해군에 통합전투체계 기반 소프트웨어 첫 인도"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+      "subtitle": "테헤란 일부 매체는 합의 미확정 주장, 협상 결과 불투명",
+      "summary_en": "U.S. officials announced a tentative agreement with Iran to extend a ceasefire, though conflicting reports from Tehran suggest the deal has not been finalized. The divergence in messaging between the two sides leaves the outcome of the agreement uncertain.",
+      "summary_kr": "미국과 이란이 휴전 연장에 잠정 합의했다고 미국 측 관리들이 밝혔다. 다만 이란 내 일부 언론은 최종 합의가 확정되지 않았다고 보도해 상충된 정보가 나오고 있다.",
+      "title": "미국·이란, 핵협상 병행 속 휴전 연장 잠정 합의"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/05/diu-ups-hermeus-contract-for-high-speed-drone/",
+      "subtitle": "국방혁신단이 초음속 무인기 Quarterhorse 개발 가속화를 위해 계약 상한을 대폭 상향했다.",
+      "summary_en": "The Defense Innovation Unit (DIU) has increased its contract ceiling with Hermeus to $219 million to further develop the Mk 2.1 Quarterhorse high-speed unmanned aircraft. The expanded award signals growing U.S. military interest in near-hypersonic drone capabilities for operational use.",
+      "summary_kr": "미국 국방혁신단(DIU)이 헤르메우스(Hermeus)사의 고속 무인기 Mk 2.1 Quarterhorse 개발 계약 상한을 총 2억 1,900만 달러로 증액했다. 이번 계약 확대는 극초음속 영역에 근접하는 고속 드론 기술의 군사적 활용 가능성을 높이기 위한 조치로 풀이된다.",
+      "title": "미 DIU, 헤르메우스 고속 드론 개발 계약 2억 1,900만 달러로 확대"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Military Times",
+      "source_url": "https://www.militarytimes.com/news/pentagon-congress/2026/05/28/us-troops-are-reportedly-being-targeted-using-location-data-pentagon-says/",
+      "subtitle": "민간 데이터 브로커 경유 위치정보가 적대 세력의 미군 추적에 활용된 것으로 알려졌다.",
+      "summary_en": "U.S. military officials have confirmed reports that American forces deployed to combat zones were targeted using commercially available location data. The incidents highlight the operational security risks posed by civilian data brokers, whose products can be exploited by adversaries to track and target military personnel.",
+      "summary_kr": "미 국방부는 전쟁 지역에 배치된 미군이 상업적으로 구매 가능한 위치 데이터를 통해 표적이 된 사례가 보고됐다고 밝혔다. 민간 데이터 시장에서 유통되는 스마트폰·앱 기반 위치정보가 군사적 위협 수단으로 전용될 수 있음을 보여주는 사례로, 미군의 작전보안(OPSEC) 취약성에 대한 우려가 커지고 있다.",
+      "title": "상업용 위치 데이터로 전장 미군 표적화 사례 보고"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Task & Purpose",
+      "source_url": "https://taskandpurpose.com/tech-tactics/navy-battleships-shipbuilding-plan/",
+      "subtitle": "화력 증강 기대와 함께 비용·위험 집중 우려도 제기돼",
+      "summary_en": "The U.S. Navy is pursuing a plan to build 15 Trump-class BBG(X) battleships, citing the need for enhanced firepower at sea. Critics warn that concentrating costs, operational risks, and next-generation weapons bets into a small number of massive vessels poses significant strategic vulnerabilities.",
+      "summary_kr": "미 해군은 BBG(X)로 명명된 트럼프급 전함 15척 건조 계획을 추진하고 있으며, 해상 화력 강화를 주요 목표로 내세우고 있다. 그러나 소수의 대형 함정에 막대한 비용과 미래 무기 체계 개발 리스크가 집중된다는 비판도 함께 제기된다.",
+      "title": "미 해군, 트럼프급 전함 15척 건조 계획 추진"
+    }
+  ],
+  "published_at": "2026-05-28T22:01:55.396188+00:00",
+  "summary": "러시아 MiG-31K 이륙에 우크라이나 전국 공습경보 발령 · 미 특수전 경량 기관총 'Flyweight AMG' 획득 · 미 육군, 보급용 드론을 로켓 발사 플랫폼으로 전환 시험",
+  "title": "5월 29일 데일리 브리프"
+}
