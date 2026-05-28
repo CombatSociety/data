@@ -1,6 +1,6 @@
-# 휴전 유지 선언 속 이란 드론 기지 타격… 미군, 이번 주 두 번째 공습 감행
+# 휴전 유지 선언 속 이란 드론 기지 타격… 미군, 이번 주 두 번째 공습 단행
 
-5월 27일 드론 군사시설 타격, 협상 지속 의사 속 교전 병행
+5월 27일 드론 기지 타격, 광범위 휴전 체제 유효성 동시 확인
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "휴전 유지 선언 속 이란 드론 기지 타격… 미군, 이번 주 두 번째 공습 감행", combatsociety.kr/news/20260528-d36cf6, github.com/CombatSociety/data.
+Combat Society dataset, "휴전 유지 선언 속 이란 드론 기지 타격… 미군, 이번 주 두 번째 공습 단행", combatsociety.kr/news/20260528-d36cf6, github.com/CombatSociety/data.
 ```
