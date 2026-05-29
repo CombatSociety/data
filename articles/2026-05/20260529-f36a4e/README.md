@@ -1,6 +1,6 @@
-# B-21 레이더 생산 속도 향상… 노스럽그루먼, 미 공군에 도입 규모 확대 검토 촉구
+# 생산 속도 높이면 도입 규모도 늘릴 수 있다… 노스럽그루먼, B-21 레이더 증산 카드로 미 공군 설득
 
-생산 속도 향상 근거로 최종 도입 규모 확대 검토 촉구
+증산 역량 확보로 최종 도입 규모 확대 검토 유도, 미 공군 설득 전략 본격화
 
 | 항목 | 값 |
 |---|---|
@@ -22,5 +22,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "B-21 레이더 생산 속도 향상… 노스럽그루먼, 미 공군에 도입 규모 확대 검토 촉구", combatsociety.kr/news/20260529-f36a4e, github.com/CombatSociety/data.
+Combat Society dataset, "생산 속도 높이면 도입 규모도 늘릴 수 있다… 노스럽그루먼, B-21 레이더 증산 카드로 미 공군 설득", combatsociety.kr/news/20260529-f36a4e, github.com/CombatSociety/data.
 ```
