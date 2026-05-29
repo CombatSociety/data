@@ -1,0 +1,130 @@
+{
+  "assessment": "오늘 이슈의 핵심은 미국이 우주·사이버·무인 영역에서 전쟁 수행 방식 자체를 재설계하고 있다는 점이다. SpaceX와의 41억 달러 표적추적 위성 계약은 우주 기반 감시와 타격 연계를 실전 체계로 전환하려는 의지를 시사하며, 97억 달러 규모의 국방부 클라우드 계약은 디지털 전투 인프라를 단일 플랫폼으로 통합하는 방향을 가속화한다. 무인수상정 분야에서 7개사 동시 시제 경쟁을 추진하는 방식은 단일 업체 의존을 탈피한 분산형 획득 전략으로, 한국 해군의 무인수상정 전력화 로드맵이 이 속도를 따라가려면 방위사업청 주도의 민간 스타트업 참여 확대와 자율운항 소프트웨어 국산화가 병행돼야 한다. 러시아 드론의 NATO 회원국 루마니아 영토 타격은 분쟁이 동맹 경계를 실질적으로 침범하는 단계에 진입했음을 보여주며, 이는 한국의 방공 종심 설계와 핵심 에너지 인프라 보호 교리를 재점검할 근거가 된다. 이란 봉쇄 해제 선언의 불투명한 배경과 미군 장병 가족 대상 신상 위협은 회색지대 압박이 군사 작전 외부로 확장되고 있음을 보여주며, 한국군도 가족 보호 및 정보보안 절차를 작전 연속성 계획에 명시적으로 통합할 필요가 있다. Combat Society 관점에서, 오늘의 이슈들은 기술 우위가 획득 속도와 통합 능력에 달려 있음을 일관되게 가리키며, 한국은 플랫폼 개발과 함께 C4I 통합·우주 감시·무인 자율화를 하나의 전력기획 축으로 묶는 구조적 전환을 서둘러야 한다.",
+  "brief_date": "2026-05-30",
+  "digest_type": "daily",
+  "items": [
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "SOFREP",
+      "source_url": "https://sofrep.com/news/sof-week-2026-inside-the-global-marketplace-for-special-operations-warfare/",
+      "subtitle": "탬파에서 열린 글로벌 특수전 박람회, 드론·해상·네트워크 전력이 미래전 방향 제시",
+      "summary_en": "SOF Week 2026 convened in Tampa, Florida, bringing together special operations forces, defense contractors, and allied partners to showcase the latest in unmanned systems, maritime platforms, small arms, and network-centric capabilities. The event underscored USSOCOM's drive to integrate emerging technologies ahead of anticipated near-peer and irregular conflict scenarios.",
+      "summary_kr": "2026 SOF Week가 미국 탬파에서 개최되어 드론, 해상 플랫폼, 소화기, 네트워크 체계 등 차세대 특수전 장비와 기술이 한자리에 집결했다. USSOCOM (특수작전사령부) 주도 아래 각국 특수전 부대와 방산업체들이 참가해 미래 분쟁 환경에 대응하는 전력 통합 방향을 공유했다.",
+      "title": "SOF Week 2026, 차세대 특수전 기술·전력 총집결"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Air Force Magazine",
+      "source_url": "https://www.airandspaceforces.com/space-force-spacex-4b-airborne-target-tracking-satellites/",
+      "subtitle": "궤도 기반 공중 표적 탐지·추적 위성군 구축으로 우주 감시 능력 대폭 확장 전망",
+      "summary_en": "The U.S. Space Force awarded SpaceX a $4.16 billion contract on May 29 to develop a constellation of satellites capable of sensing and tracking airborne targets from orbit. The deal marks a significant expansion of space-based surveillance infrastructure, reinforcing the Pentagon's push to integrate orbital assets into multi-domain kill chains.",
+      "summary_kr": "미 우주군이 5월 29일 SpaceX와 41억 6천만 달러 규모의 계약을 체결하고, 궤도에서 공중 표적을 탐지·추적할 수 있는 위성 군집 개발을 맡겼다. 이번 계약은 미군의 우주 기반 감시·타격 연계 체계 강화를 위한 핵심 투자로 평가된다.",
+      "title": "미 우주군, SpaceX에 41억 달러 규모 표적추적 위성 개발 계약 체결"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "The War Zone",
+      "source_url": "https://www.twz.com/news-features/trump-declares-he-is-lifting-the-naval-blockade-on-iran",
+      "subtitle": "합의 서명 없이 봉쇄 해제를 선언한 배경이 불분명한 가운데 이란 매체들이 즉각 반발하고 나섰다.",
+      "summary_en": "President Trump announced the lifting of the naval blockade on Iran, though no deal has been formally signed, leaving the rationale unclear. Iranian state media pushed back against his claims, casting doubt on whether the move reflects any substantive diplomatic agreement.",
+      "summary_kr": "트럼프 대통령이 이란에 대한 해상 봉쇄를 해제한다고 선언했으나, 공식 합의 서명 없이 이루어진 조치여서 그 배경이 불투명하다. 이란 측 매체들은 해당 주장을 즉각 부인하며 맞서고 있어 실제 이행 여부는 불확실한 상태다.",
+      "title": "트럼프, 이란 해상 봉쇄 해제 선언…이란 측은 반박"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Naval News",
+      "source_url": "https://www.navalnews.com/naval-news/2026/05/saronic-launches-first-marauder-medium-unmanned-surface-vessel/",
+      "subtitle": "설계 착수부터 수상 시험까지 1년 미만 소요, 민군 겸용 자율 운용 목표",
+      "summary_en": "U.S. defense startup Saronic has launched the first hull of its Marauder Medium Unmanned Surface Vessel (MUSV), completing the transition from initial design to on-water trials in under a year. The vessel is designed for dual-use autonomous operations across both defense and commercial applications at extended ranges from shore.",
+      "summary_kr": "미국 방산 스타트업 Saronic이 중형 무인수상정(MUSV) Marauder의 첫 번째 선체를 진수했다. 초기 설계에서 수상 시험 단계까지 1년 이내에 완료한 이번 개발은 연안 원거리 작전과 민군 겸용 자율 임무를 목표로 한다.",
+      "title": "Saronic, 중형 무인수상정 Marauder 첫 진수 완료"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Army Times",
+      "source_url": "https://www.armytimes.com/news/pentagon-congress/2026/05/29/scary-and-silencing-troops-families-receive-threats-from-foreign-bad-actors/",
+      "subtitle": "적대 세력이 장병 배우자·자녀 정보까지 포함한 표적 위협을 가하고 있어 심각한 우려를 낳고 있다.",
+      "summary_en": "Following U.S. strikes against Iran, foreign adversaries have been issuing threats targeting U.S. service members and their families, including identifying details about spouses and children. The campaign appears designed to intimidate and silence military personnel and their households.",
+      "summary_kr": "미국의 이란 공습 이후 외국 적대 세력이 미군 장병과 그 가족을 대상으로 신상 정보를 포함한 위협을 가하고 있다. 위협에는 배우자와 자녀의 식별 정보까지 포함된 것으로 알려졌다.",
+      "title": "미군 장병·가족, 이란 공습 이후 외국 세력의 신상 위협 노출"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "USNI News",
+      "source_url": "https://news.usni.org/2026/05/29/hii-saronic-included-in-first-musv-navy-prototype-tests",
+      "subtitle": "MUSV 마켓플레이스 첫 시제 단계 착수, HII·Saronic 등 포함",
+      "summary_en": "The U.S. Navy has identified seven companies to participate in the first round of Medium Unmanned Surface Vessel (MUSV) prototyping. Selected firms, including HII and Saronic, must integrate hull, mechanical, and engineering systems with autonomy software. The announcement follows the Navy's earlier approval of seven initial MUSV marketplace designs.",
+      "summary_kr": "미 해군이 중형 무인수상정(MUSV) 시제 개발 1차 라운드에 참여할 7개 기업을 선정했다. HII와 Saronic을 포함한 선정 기업들은 선체·기계·공학 시스템과 자율운항 소프트웨어를 통합한 설계안을 제시해야 한다. 이번 선정은 해군이 MUSV 마켓플레이스 첫 7개 설계안을 승인한 데 이은 후속 조치다.",
+      "title": "미 해군, 중형 무인수상정 시제 개발 7개사 선정"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-ato/4128700-ukraine-and-canada-launch-joint-drone-production-program-for-afu.html",
+      "subtitle": "양국 방산 협력 강화를 목표로 우크라이나산 무인기를 캐나다에서 제조하는 신규 사업이 추진된다.",
+      "summary_en": "Ukraine and Canada have launched a joint program to manufacture Ukrainian unmanned aerial vehicles on Canadian soil for the Armed Forces of Ukraine. The initiative aims to deepen bilateral defense-industrial cooperation and diversify Ukraine's drone supply chain.",
+      "summary_kr": "우크라이나와 캐나다가 우크라이나군용 무인항공기를 캐나다 현지에서 생산하는 공동 프로그램을 출범시켰다. 이번 사업은 양국 방위산업 협력을 심화하고 우크라이나의 드론 공급망을 다변화하려는 목적으로 추진된다.",
+      "title": "우크라이나·캐나다, 드론 공동 생산 프로그램 출범"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "SCMP Defense",
+      "source_url": "https://www.scmp.com/news/world/united-states-canada/article/3355386/ex-california-mayor-eileen-wang-pleads-guilty-acting-china-agent?utm_source=rss_feed",
+      "subtitle": "미국 내 중국 영향공작의 지방정치 침투 사례로 주목받는 사건",
+      "summary_en": "Former Arcadia, California mayor Eileen Wang pleaded guilty to acting as an unregistered agent of the Chinese government, admitting she disseminated pro-Beijing content at the direction of Chinese officials without notifying U.S. authorities as required by law. The case highlights China's ongoing influence operations targeting local political figures within the United States.",
+      "summary_kr": "미국 캘리포니아주 아르카디아 전 시장 아일린 왕이 중국 정부의 불법 대리인으로 활동한 혐의에 대해 유죄를 인정했다. 그는 미국 정부에 사전 신고 없이 중국 당국의 지시에 따라 베이징에 유리한 기사를 유포한 것으로 드러났다. 이번 사건은 중국의 영향공작이 미국 지방 정치권까지 침투해 있음을 보여주는 사례로 평가된다.",
+      "title": "전 캘리포니아 시장, 중국 불법 대리인 활동 혐의 유죄 인정"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
+      "subtitle": "루마니아 정부는 긴급회의를 소집했으며, 부상자 2명이 발생했다.",
+      "summary_en": "A Russian drone struck a residential building in Romania, injuring two civilians. NATO condemned the incident as Russian 'recklessness,' raising concerns over the security of alliance territory. The Romanian government convened an emergency meeting in response.",
+      "summary_kr": "러시아 드론이 루마니아 주거용 건물을 타격해 민간인 2명이 부상을 입었다. NATO는 이번 사건을 러시아의 '무모한 행위'로 규탄하며 동맹국 영토 안전에 대한 우려를 표명했다. 루마니아 정부는 긴급회의를 소집해 대응 방안을 논의 중이다.",
+      "title": "러시아 드론, 루마니아 주거 건물 타격…NATO 강력 규탄"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Air Force Magazine",
+      "source_url": "https://www.airandspaceforces.com/northrop-faster-b-21-production-allows-air-force-to-consider-a-bigger-fleet/",
+      "subtitle": "생산 효율 향상이 미 공군의 스텔스 폭격기 최종 도입 수량 재검토로 이어질지 주목된다.",
+      "summary_en": "Northrop Grumman has indicated that accelerating B-21 Raider production could prompt the U.S. Air Force to reconsider expanding its planned fleet size beyond the current baseline of 100 aircraft. The company's push to improve manufacturing efficiency is aimed at lowering per-unit costs and shortening delivery timelines, which could make a larger fleet more fiscally viable.",
+      "summary_kr": "노스럽그루먼은 B-21 Raider 스텔스 폭격기의 생산 속도를 높이기 위한 노력이 미 공군의 최종 도입 규모 확대 결정을 이끌어낼 수 있다고 밝혔다. 현재 미 공군의 공식 도입 목표는 100대이나, 생산 비용 절감과 일정 단축이 실현될 경우 추가 확보 논의가 본격화될 가능성이 있다.",
+      "title": "노스럽그루먼, B-21 레이더 생산 가속으로 도입 규모 확대 기대"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-economy/4128603-russian-forces-strike-gas-infrastructure-in-kharkiv-sumy-regions.html",
+      "subtitle": "나프토가스 그룹 시설 피해 발생, 에너지 인프라 공격 지속",
+      "summary_en": "Russian forces struck Naftogaz Group facilities in Ukraine's Kharkiv and Sumy regions within a 24-hour period, causing significant damage. The attacks represent a continued Russian strategy of targeting civilian energy infrastructure to degrade Ukraine's operational resilience.",
+      "summary_kr": "러시아군이 최근 24시간 동안 우크라이나 하르키우 및 수미 지역의 나프토가스 그룹 시설을 공격해 상당한 피해를 입혔다. 민간 에너지 인프라에 대한 러시아의 반복적 타격은 우크라이나의 에너지 공급 안정성을 지속적으로 위협하고 있다.",
+      "title": "러시아군, 하르키우·수미 지역 우크라이나 가스 인프라 타격"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "DoD News",
+      "source_url": "https://www.war.gov/News/News-Stories/Article/Article/4502292/war-department-signs-97b-technology-deal-with-dell-for-microsoft-services/",
+      "subtitle": "델 테크놀로지스를 통한 5년 전사적 계약으로 연간 4억 달러 이상 절감 기대",
+      "summary_en": "The U.S. Department of Defense has signed a $9.7 billion, five-year enterprise-wide contract with Dell Technologies for Microsoft services. The deal is projected to generate initial annual savings of approximately $422 million for the department.",
+      "summary_kr": "미 국방부가 델 테크놀로지스와 97억 달러 규모의 5년 전사적 마이크로소프트 서비스 도입 계약을 체결했다. 이번 계약을 통해 연간 약 4억 2,200만 달러의 초기 비용 절감 효과가 예상된다.",
+      "title": "미 국방부, 97억 달러 규모 마이크로소프트 서비스 계약 체결"
+    }
+  ],
+  "published_at": "2026-05-29T22:01:52.505497+00:00",
+  "summary": "SOF Week 2026, 차세대 특수전 기술·전력 총집결 · 미 우주군, SpaceX에 41억 달러 규모 표적추적 · 트럼프, 이란 해상 봉쇄 해제 선언…이란 측은 반박",
+  "title": "5월 30일 데일리 브리프"
+}
