@@ -1,0 +1,23 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-29T00:41:45.768352+00:00",
+  "slug": "20260529-53c07a",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
+  "summary": "피싱·악성코드 공격 수행 중, 국가 지원 사이버 위협 조직의 AI 활용 추세 심화",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "군사기술",
+    "우크라이나",
+    "러시아",
+    "AI국방",
+    "APT공격"
+  ],
+  "title": "러시아 해킹 조직 'GreyVibe', ChatGPT·Gemini로 우크라이나 공격",
+  "url": "https://combatsociety.kr/news/20260529-53c07a"
+}
