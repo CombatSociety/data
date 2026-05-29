@@ -1,22 +1,21 @@
 {
   "category": "weapons",
-  "content_type": "original",
+  "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P2",
   "published_at": "2026-05-29T03:34:47.902398+00:00",
   "slug": "20260529-f36a4e",
-  "source_name": null,
-  "source_url": null,
-  "summary": "증산 역량 바탕 미 공군 최종 도입 규모 확대 검토 유도",
+  "source_name": "Air Force Magazine",
+  "source_url": "https://www.airandspaceforces.com/northrop-faster-b-21-production-allows-air-force-to-consider-a-bigger-fleet/",
+  "summary": "생산 속도 향상으로 미 공군 확대 도입 검토 유도, 전략폭격기 전력화 가속",
   "tags": [
     "무기·방산",
-    "산업·기업",
     "미국",
     "공군",
     "폭격기",
-    "도입"
+    "방산정책"
   ],
-  "title": "생산 속도 높이면 도입 규모도 늘어난다… 노스럽그루먼, B-21 레이더 증산으로 미 공군 대형 함대 구성 유도",
+  "title": "노스럽그루먼, B-21 생산 가속화로 미 공군의 확대 도입 추진",
   "url": "https://combatsociety.kr/news/20260529-f36a4e"
 }
