@@ -1,24 +1,23 @@
 {
   "category": "threats",
-  "content_type": "original",
+  "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P2",
   "published_at": "2026-05-30T00:34:38.092145+00:00",
   "slug": "20260530-be2b25",
-  "source_name": null,
-  "source_url": null,
-  "summary": "게란-2 직격으로 NATO 영토 피격 재확인, 리투아니아 공개 항법 조작 패턴·동부 방공 공백 노출",
+  "source_name": "Defense News",
+  "source_url": "https://www.defensenews.com/global/europe/2026/05/29/how-russia-is-turning-ukraines-drones-against-nato/",
+  "summary": "탈취 우크라이나 드론으로 NATO 동맹국 공격, 루마니아 민간인 피해 발생",
   "tags": [
     "안보위협",
-    "지정학·국제",
+    "동맹·외교",
+    "무기·방산",
     "러시아",
-    "NATO",
     "우크라이나",
-    "동유럽",
-    "드론",
-    "교전"
+    "NATO",
+    "드론"
   ],
-  "title": "러시아, 우크라이나 드론을 NATO 영토 타격에 전용… 루마니아 민간 아파트 피격",
+  "title": "러시아, 우크라이나 드론을 NATO 공격에 악용… 루마니아 민간인 피해",
   "url": "https://combatsociety.kr/news/20260530-be2b25"
 }
