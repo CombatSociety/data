@@ -1,0 +1,110 @@
+{
+  "assessment": "오늘 이슈들을 관통하는 핵심 축은 두 가지다. 첫째, 한반도에서 대규모 화력훈련에 주한미군가 참여하지 않은 사실은 한미 연합 억제력 시현의 연속성 문제를 제기한다. 이것이 외교적 시그널인지 훈련 일정 조정인지 불분명한 상태가 지속되면, 북한의 오판 가능성을 높이는 전략적 공백으로 해석될 수 있다. 조기에 연합훈련 정상화 일정을 공개하거나, 독자 화력 시현의 억제 효과를 보완할 대체 수단을 명확히 제시하는 것이 필요하다. 둘째, AUKUS의 Virginia-class submarine 획득 일정 조정과 수중무인체계 공동개발 착수는 인도태평양 수중 전력 경쟁이 유인·무인 복합 구조로 전환되고 있음을 시사한다. 중국의 장기적 다층 세력 확장 전략과 맞물려, 수중 도메인에서의 비대칭 격차가 심화될 가능성이 크다. 한국은 도산안창호급 잠수함(KSS-III) 전력화와 함께 수중무인체계 독자 개발 로드맵을 AUKUS 협력 구조와 연계하는 방향을 검토할 시점이다. 우크라이나 전선의 소모전 양상과 레이저 무장 차량의 실전 검증 흐름은, 드론 위협 대응과 지향성 에너지 무기 통합이 더 이상 미래 과제가 아님을 보여준다.",
+  "brief_date": "2026-06-01",
+  "digest_type": "daily",
+  "items": [
+    {
+      "priority": "P2",
+      "section": "한반도",
+      "source_name": "조선일보",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT2lWV05UTGp0WTg1dV9PS002Zm5ONVlXR0J0Q3hlRVNoRXBKLWFCT2k5ZjBTeUhCZTN4NmxGelByVDdDXzVoZENTbHN4YUdCMUJHM3JPYzB2NFZWMXFrVmNiSHV6bkV6bExxcHRHZWtwRVZtOEhjd0Y5WGpodHN4V3cyeWRfRnlBazJsY2dmeUZZQQ?oc=5",
+      "subtitle": "한국군 단독 실시 배경과 한미동맹 훈련 체계 변화 여부에 관심 집중",
+      "summary_en": "South Korea conducted its first large-scale live-fire exercise under the Lee Jae-myung administration without the participation of U.S. Forces Korea (USFK). Given that combined fire demonstrations have traditionally served as a key visible deterrent against North Korea, the exclusion of USFK raises questions about whether this reflects a temporary adjustment or a broader shift in alliance exercise policy.",
+      "summary_kr": "이재명 정부 출범 후 처음 실시된 대규모 화력훈련에 주한미군(주한미군)가 참여하지 않은 것으로 확인됐다. 한미연합 화력훈련은 대북 억제력의 핵심 시현 수단으로 기능해왔다는 점에서, 이번 주한미군 제외가 일시적 조정인지 정책적 변화의 신호인지 주목된다.",
+      "title": "이재명 정부 첫 대규모 화력훈련, 주한미군 참여 제외"
+    },
+    {
+      "priority": "P1",
+      "section": "해외",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-airstrikes-devastate-lebanons-tyre?traffic_source=rss",
+      "subtitle": "이스라엘의 반복적인 폭격으로 레바논 남부 주요 도시 티레가 심각한 파괴 피해를 입었다.",
+      "summary_en": "Israeli airstrikes have repeatedly targeted the southern Lebanese city of Tyre, causing widespread destruction across the urban area. Footage from the scene documents extensive damage, underscoring the continued intensity of Israeli military operations in southern Lebanon.",
+      "summary_kr": "이스라엘군의 반복적인 공습으로 레바논 남부 도시 티레에 광범위한 파괴가 발생했다. 현지에서 촬영된 영상은 도심 일대의 심각한 피해 상황을 보여주고 있다.",
+      "title": "이스라엘 공습으로 레바논 티레 시 광범위한 피해 발생"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-ato/4129159-war-update-229-clashes-on-front-line-pokrovsk-sector-remains-most-active.html",
+      "subtitle": "러시아군, 포크로우스크 구역에서만 40차례 돌파 시도하며 50명 이상 손실",
+      "summary_en": "Ukrainian forces recorded 229 combat engagements along the front line, with the Pokrovsk sector remaining the most contested area. Russian forces launched 40 assault attempts in that sector alone, sustaining losses of more than 50 personnel without achieving a breakthrough.",
+      "summary_kr": "우크라이나 전선 전역에서 229회의 교전이 발생한 가운데, 포크로우스크 구역이 가장 격렬한 전투 지역으로 기록됐다. 러시아군은 해당 구역에서만 40차례 방어선 돌파를 시도했으나 50명 이상의 병력 손실을 입고 격퇴됐다.",
+      "title": "우크라이나 전선 229회 교전, 포크로우스크 방어선 최대 격전지"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Naval News",
+      "source_url": "https://www.navalnews.com/naval-news/2026/05/aukus-partners-announce-changes-to-submarine-agreement-launch-joint-development-for-underwater-drone-payloads/",
+      "subtitle": "싱가포르 샹그릴라 대화 계기 발표, 호주의 버지니아급 도입 경로 변경 포함",
+      "summary_en": "The three AUKUS partners announced revisions to Australia's acquisition pathway for Virginia-class nuclear-powered submarines under AUKUS Pillar I, releasing a joint statement on the sidelines of the Shangri-La Dialogue in Singapore. The partners also launched a joint development effort for underwater drone payloads. The announcement signals both a recalibration of the submarine delivery timeline and an expansion of AUKUS cooperation into unmanned undersea systems.",
+      "summary_kr": "AUKUS 3개국(호주·영국·미국)이 싱가포르 샹그릴라 대화를 계기로 공동 성명을 발표하며 호주의 버지니아급 잠수함(SSN-774) 획득 계획을 수정했다. 아울러 수중무인체계 탑재장비 공동개발 착수도 선언했다. 이번 조정은 AUKUS Pillar I '최적 경로(Optimal Pathway)'의 실행 속도와 방식에 변화가 생긴 것으로, 3국의 수중 전력 협력이 유인 핵잠수함을 넘어 무인 영역으로 확장되고 있음을 보여준다.",
+      "title": "AUKUS, 핵잠수함 획득 일정 조정 및 수중드론 공동개발 착수"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defence Blog",
+      "source_url": "https://defence-blog.com/u-s-armys-top-official-tested-laser-armed-vehicle-in-new-mexico/",
+      "subtitle": "화이트샌즈 미사일 시험장에서 드론 표적 대상 지향성 에너지 무기 운용 점검",
+      "summary_en": "The U.S. Army's top civilian official personally operated a laser-armed pickup truck at White Sands Missile Range, engaging a drone target to assess the weapon's capability. The high-profile demonstration signals that directed energy weapons are transitioning from research programs toward operational deployment within the U.S. Army.",
+      "summary_kr": "미 육군 최고위 민간 책임자가 뉴멕시코주 화이트샌즈 미사일 시험장에서 레이저 무장 픽업트럭의 운용석에 직접 탑승해 드론 표적을 상대로 무기를 점검했다. 이번 행보는 지향성 에너지 무기가 실험실 단계를 넘어 실전 배치 가능한 전력으로 전환되고 있음을 미 육군이 공개적으로 시사한 것으로 해석된다.",
+      "title": "미 육군 수뇌부, 뉴멕시코서 레이저 무장 차량 직접 시험"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-ato/4129102-zelensky-deep-strikes-on-russian-oil-and-military-targets-follow-approved-strategic-plan.html",
+      "subtitle": "젤렌스키, 승인된 장거리 작전 계획에 따른 전략적 타격임을 확인",
+      "summary_en": "Ukrainian forces struck an oil refinery in the Russian city of Saratov on the night of May 31 using long-range capabilities. President Zelensky confirmed the attack was conducted in accordance with Ukraine's approved long-range operations plan, signaling a continued strategic focus on Russian energy and military infrastructure.",
+      "summary_kr": "우크라이나군이 5월 31일 밤 러시아 사라토프 소재 정유시설을 장거리 무기로 타격했다. 이번 공격은 우크라이나가 사전 승인한 장거리 작전 우선순위 계획에 따라 실행된 것으로, 러시아 에너지·군사 인프라를 겨냥한 전략적 타격 기조가 지속되고 있음을 보여준다.",
+      "title": "우크라이나, 러시아 사라토프 정유시설 장거리 타격"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/2026/5/31/not-just-the-us-how-51-countries-armed-israel-during-gaza-war?traffic_source=rss",
+      "subtitle": "미국 외 유럽·아시아 국가들도 군사 관련 물자 수출을 지속한 것으로 조사됐다.",
+      "summary_en": "An investigation found that at least 51 countries and territories supplied military-related goods to Israel throughout the Gaza conflict, extending well beyond the United States. The findings suggest that Israel's wartime supply chain involved a broad network of international partners, raising questions about arms transfer accountability across multiple jurisdictions.",
+      "summary_kr": "가자 전쟁 기간 동안 최소 51개국 및 지역이 이스라엘에 군사 관련 물자를 지속적으로 공급한 것으로 조사됐다. 미국이 최대 공급국으로 알려진 가운데, 유럽·아시아 등 다수 국가도 직간접적 방식으로 군수 공급망에 연루된 것으로 나타났다.",
+      "title": "51개국이 가자 전쟁 중 이스라엘에 군수물자 공급"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "아주경제",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EZVJSSU9FMU1LUWZ3LU5IbUF6aEdoOWVvZzhjUm9CdzhPMlRjVWlQMzY4cjhoSnFYbGRlOEZ5UmZHeGpZcUZEWmpQUG9nazRMVzVXdXdhUmRqd9IBWEFVX3lxTE1rOUdoRWdtN1Z1Si1aOGdhWUlVazhBSlRMSHFtSDJ1by1KOVpsNXdNNFBSbmROMXFLUGtoZEw4dWZ5U1F4TlRpcFZMOGl4XzVfR2E4UVYwUFg?oc=5",
+      "subtitle": "우크라이나 전쟁 등 현대 분쟁에서 집속탄 사용이 재조명되며 국제 규범과 군사 필요성 간 갈등이 심화되고 있다.",
+      "summary_en": "Cluster munitions offer significant tactical advantages through wide-area suppression, but their use remains deeply controversial due to the humanitarian risks posed by unexploded submunitions to civilian populations. The divide between signatories of the Convention on Cluster Munitions and non-signatories persists, with ongoing conflicts continuing to test the boundaries of international norms.",
+      "summary_kr": "집속탄은 광역 제압 능력으로 전장에서 높은 군사적 효용을 인정받는 반면, 불발탄으로 인한 민간인 피해 문제로 국제 인도주의법과 충돌한다. 집속탄금지협약(CCM) 가입국과 비가입국 간 입장 차이가 좁혀지지 않는 가운데, 현대 분쟁에서의 실제 사용 사례가 논쟁을 더욱 복잡하게 만들고 있다.",
+      "title": "집속탄, 인도주의 논란과 전장 효용 사이의 딜레마"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "The Strategist (ASPI)",
+      "source_url": "https://www.aspistrategist.org.au/chinas-expanding-frontiers-views-in-the-strategist/",
+      "subtitle": "중국이 역내 영향력 확대를 위해 다층적 접근을 지속하고 있다는 분석이 제기됐다.",
+      "summary_en": "Security analysts assess that China is pursuing a long-term, multi-domain strategy to advance its interests across the Indo-Pacific. Through a combination of military posturing, diplomatic engagement, and economic leverage, Beijing is steadily expanding its regional influence in ways that challenge the existing order.",
+      "summary_kr": "복수의 안보 전문가들이 중국이 인도태평양 지역에서 자국 이익을 관철하기 위해 장기적·다층적 전략을 구사하고 있다고 분석했다. 군사·외교·경제 등 복합적 수단을 통한 세력 확장 시도가 역내 질서에 지속적인 압박 요인이 되고 있다는 평가다.",
+      "title": "인도태평양에서 장기전 펼치는 중국의 세력 확장 전략"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Lawfare",
+      "source_url": "https://www.lawfaremedia.org/article/the-jihadist-wave-in-west-africa",
+      "subtitle": "JNIM의 말리 공세가 사헬 지역 전반으로 이어질 가능성에 국제사회 주목",
+      "summary_en": "The jihadist group JNIM (Jama'at Nusrat al-Islam wal Muslimin) has intensified its offensive operations in Mali, raising concerns that the campaign may signal a broader escalation of militant activity across West Africa. Analysts warn that deepening instability in the Sahel could have significant spillover effects on neighboring states.",
+      "summary_kr": "이슬람 무장단체 JNIM(Jama'at Nusrat al-Islam wal Muslimin)이 말리에서 공세를 강화하고 있으며, 이는 서아프리카 지하드 운동의 더 광범위한 확산 신호일 수 있다는 분석이 제기됐다. 사헬 지역의 불안정이 심화될 경우 인근 국가들로의 파급 효과가 우려된다.",
+      "title": "서아프리카 지하드 세력 확산, 말리 공세가 시작점 될 수 있다"
+    }
+  ],
+  "published_at": "2026-05-31T22:01:43.662673+00:00",
+  "summary": "이스라엘 공습으로 레바논 티레 시 광범위한 피해 발생 · 이재명 정부 첫 대규모 화력훈련, 주한미군 참여 제외 · 우크라이나 전선 229회 교전, 포크로우스크 방어선 최대",
+  "title": "6월 1일 데일리 브리프"
+}
