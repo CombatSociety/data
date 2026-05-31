@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-05-31T15:33:48.789507+00:00",
+  "slug": "20260531-d5177a",
+  "source_name": "VOA 한반도",
+  "source_url": "https://www.voakorea.com/a/report-says-north-korea-linked-hackers-targeted-south-korean-nuclear-related-firms-cryptocurrency-sector-052926/8155311.html",
+  "summary": "한국 핵 관련 기업·유럽 드론업체·암호화폐 생태계 동시 표적, 기술·자금 탈취 병행",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "북한",
+    "한국",
+    "APT공격",
+    "사이버스파이"
+  ],
+  "title": "북한 연계 해킹 조직, 한국 핵 관련 기업·유럽 드론업체 집중 공격",
+  "url": "https://combatsociety.kr/news/20260531-d5177a"
+}
