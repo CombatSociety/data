@@ -1,6 +1,6 @@
-# 소말리아 작전 강화하는 미군… 현지 문화·부족 자문관 모집
+# 소말리아 작전 강화하는 미군… 문화·부족 역학 자문관 모집
 
-USSOCOM, 현지 문화·부족 자문관 모집으로 작전 지원 체계 강화
+특수작전 태스크포스, 현지 정치·문화·부족 역학 자문관 모집…동아프리카 작전 현황 파악 강화
 
 | 항목 | 값 |
 |---|---|
@@ -9,12 +9,12 @@ USSOCOM, 현지 문화·부족 자문관 모집으로 작전 지원 체계 강�
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | operations |
-| 태그 | 작전·훈련, 특수전, 미국, USSOCOM, 반테러작전, 비정규전 |
-| 단일 출처 | [Military Times](https://www.militarytimes.com/news/your-military/2026/06/01/us-military-seeks-cultural-advisors-in-somalia-amid-regional-strikes/) |
+| 태그 | 작전·훈련, 특수전, 미국, USSOCOM, 비정규전, 반테러작전 |
+| 단일 출처 | [Defense News](https://www.defensenews.com/news/your-military/2026/06/01/us-military-seeks-cultural-advisors-in-somalia-amid-regional-strikes/) |
 
 ## 출처 매체
 
-- [Military Times](https://www.militarytimes.com/news/your-military/2026/06/01/us-military-seeks-cultural-advisors-in-somalia-amid-regional-strikes/)
+- [Defense News](https://www.defensenews.com/news/your-military/2026/06/01/us-military-seeks-cultural-advisors-in-somalia-amid-regional-strikes/)
 
 ## 사이트에서 읽기
 
@@ -23,5 +23,5 @@ USSOCOM, 현지 문화·부족 자문관 모집으로 작전 지원 체계 강�
 ## 인용
 
 ```
-Combat Society dataset, "소말리아 작전 강화하는 미군… 현지 문화·부족 자문관 모집", combatsociety.kr/news/20260601-86ef1b, github.com/CombatSociety/data.
+Combat Society dataset, "소말리아 작전 강화하는 미군… 문화·부족 역학 자문관 모집", combatsociety.kr/news/20260601-86ef1b, github.com/CombatSociety/data.
 ```

@@ -1,0 +1,130 @@
+{
+  "assessment": "오늘 가장 무거운 전략 신호는 두 축에서 동시에 발신됐다. 중동에서는 이란이 쿠웨이트 소재 미군 사용 기지를 직접 타격하고 바브엘만데브 해협 봉쇄를 재경고하면서, 미국의 역외 억제력이 더 이상 분쟁 외부를 보장하지 못한다는 사실이 드러났다. 우크라이나 전장에서는 드론 대량생산·전술적응 속도가 재래식 항공전력 우위를 무력화하고 있으며, 베르댠스크 항구 타격은 무인 수상전력이 해상 보급선 차단에 실전 적용 가능함을 입증했다. 이 두 교훈은 한국 전력기획에 직접 연결된다. 한국군 단독 화력훈련에서 주한미군가 빠진 것은 연합 억제 신호의 가시성을 낮추는 방향으로 해석할 수 있어, 동맹 운용 기조 변화가 실제 억제력 계산에 미치는 영향을 면밀히 점검해야 한다. 네이버의 군사 AI 플랫폼 진출 선언은 Palantir Technologies 모델을 벤치마크로 삼는다는 점에서 긍정적 방향이나, 민간 빅테크가 방산 AI 생태계에 실질적으로 기여하려면 ADD·방위사업청와의 데이터 연동 체계 및 보안 인증 경로를 조기에 제도화하는 것이 선결 과제다. 무인수상전력 경쟁에서 미 해군이 7개 업체를 실해역 검증 단계로 진입시킨 것은 분산해상작전 구현 속도를 높이는 신호이며, 한국 해군도 KSS-III 기반 수중 전력과 무인 수상전력을 연계하는 복합 비대칭 전력 개념을 교리 차원에서 구체화할 시점이다.",
+  "brief_date": "2026-06-02",
+  "digest_type": "daily",
+  "items": [
+    {
+      "priority": "P2",
+      "section": "한반도",
+      "source_name": "뉴스스페이스",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnTTJWUFBLMnFFQ0wyaVRXVk16YkxYcWw5U2xiWUJfbGxKandoQjBpamJIMHNqMWMySnRtdFdMNEZpTHh0LWQ3MEJhTVZHNGNpTC11U1VGTlkycUtrQllEXw?oc=5",
+      "subtitle": "66조 원 규모 국방예산과 글로벌 군사 AI 시장을 겨냥한 네이버의 방산 AI 사업 진출이 본격화되고 있다.",
+      "summary_en": "Naver has announced its intent to enter the military AI platform market, positioning itself as a Korean counterpart to Palantir Technologies. The company is targeting South Korea's approximately 66 trillion won defense budget alongside the rapidly expanding global military AI sector. The move signals a broader shift in South Korea's defense-industrial ecosystem as civilian tech firms compete for AI-driven defense contracts.",
+      "summary_kr": "네이버가 팔란티어(Palantir Technologies)를 벤치마크 삼아 군사 AI 플랫폼 시장에 진출하겠다는 의지를 공식화했다. 한국 국방예산 66조 원과 수십조 원 규모로 성장 중인 글로벌 군사 AI 시장이 주요 타깃이다. 민간 빅테크의 방산 AI 진입은 국내 방산 생태계 재편과 AI 국방 역량 강화에 직접적인 영향을 미칠 전망이다.",
+      "title": "네이버, 군사 AI 시장 진출 선언…'한국판 팔란티어' 목표"
+    },
+    {
+      "priority": "P2",
+      "section": "한반도",
+      "source_name": "조선일보",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT2lWV05UTGp0WTg1dV9PS002Zm5ONVlXR0J0Q3hlRVNoRXBKLWFCT2k5ZjBTeUhCZTN4NmxGelByVDdDXzVoZENTbHN4YUdCMUJHM3JPYzB2NFZWMXFrVmNiSHV6bkV6bExxcHRHZWtwRVZtOEhjd0Y5WGpodHN4V3cyeWRfRnlBazJsY2dmeUZZQQ?oc=5",
+      "subtitle": "한미연합 화력시위 대신 한국군 단독 훈련으로 진행되며 동맹 운용 방식 변화 주목",
+      "summary_en": "South Korea's first large-scale live-fire exercise under the Lee Jae-myung administration was conducted without the participation of USFK, marking a notable departure from previous combined exercises. The exclusion of U.S. forces raises questions about potential shifts in how the alliance's deterrence posture is being managed under the new government.",
+      "summary_kr": "이재명 정부 출범 후 처음 실시된 대규모 화력훈련에 주한미군(주한미군)가 참여하지 않은 것으로 확인됐다. 과거 정부에서 한미 연합 화력훈련으로 대북 억제력을 과시해온 것과 달리, 이번 훈련은 한국군 단독으로 진행돼 동맹 운용 기조 변화 여부에 관심이 쏠린다.",
+      "title": "이재명 정부 첫 대규모 화력훈련, 주한미군 참여 제외"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "SOFREP",
+      "source_url": "https://sofrep.com/news/evening-brief-iran-fires-at-u-s-used-air-base-in-kuwait-as-ceasefire-frays/",
+      "subtitle": "알리 알살렘 기지 타격으로 쿠웨이트 주둔 미군도 분쟁권 내에 있음이 드러났다.",
+      "summary_en": "Iran struck Ali Al-Salem Air Base in Kuwait, a facility used by U.S. forces, as a regional ceasefire showed signs of breaking down. The attack signals that American troops stationed in Kuwait are no longer insulated from the broader conflict. The strike raises the operational risk calculus for USCENTCOM across the Gulf region.",
+      "summary_kr": "이란이 쿠웨이트 소재 알리 알살렘(Ali Al-Salem) 공군기지를 공격했다. 이 기지는 미군이 사용하는 시설로, 이번 타격은 휴전이 흔들리는 가운데 발생했다. 쿠웨이트 주둔 미군이 분쟁 외부에 있다는 인식이 더 이상 유효하지 않음을 보여주는 사건이다.",
+      "title": "이란, 쿠웨이트 미군 사용 공군기지에 포격 — 휴전 균열 속 확전 신호"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "SOFREP",
+      "source_url": "https://sofrep.com/news/largest-drone-strike-of-the-war-hits-moscow/",
+      "subtitle": "공항 마비·사이렌 속 러시아 수도 시민들이 전쟁의 현실을 직접 체감하다",
+      "summary_en": "Ukraine launched its largest drone strike of the war against Moscow, triggering airport disruptions, air defense activations, and widespread sirens across the Russian capital. The attack marks a significant escalation, bringing the psychological and physical reality of the conflict to Russian civilians who had largely been insulated from frontline conditions.",
+      "summary_kr": "우크라이나가 전쟁 개시 이후 최대 규모의 드론 공격을 감행해 모스크바 일대를 타격했다. 공항 운영이 혼란에 빠지고 방공망이 가동되는 가운데, 그간 전선과 거리를 두고 있던 러시아 수도 시민들이 처음으로 전쟁의 직접적 충격을 경험했다.",
+      "title": "우크라이나, 전쟁 최대 규모 드론 공격으로 모스크바 타격"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Just Security",
+      "source_url": "https://www.justsecurity.org/138164/ukraine-drone-superpower/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-drone-superpower",
+      "subtitle": "무기 비축량 중심의 전력 개념이 수량·속도·학습 속도 경쟁으로 전환되는 양상",
+      "summary_en": "Ukraine has rapidly evolved into a drone superpower through sustained combat experience, fundamentally challenging conventional notions of air power. The key competitive variables have shifted from weapons stockpiles to mass production speed, tactical adaptability, and the capacity to out-learn the adversary in real time.",
+      "summary_kr": "우크라이나는 전쟁을 거치며 드론 운용 능력을 급속히 발전시켜 기존 항공전력 개념을 근본적으로 바꾸고 있다. 핵심 변수는 무기 재고량이 아니라 대량 생산 속도, 전술 적응 속도, 그리고 적보다 빠르게 학습하는 능력으로 이동하고 있다.",
+      "title": "우크라이나, 드론 강국으로 부상하며 현대 항공전 패러다임 재편"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/06/01/us-military-seeks-cultural-advisors-in-somalia-amid-regional-strikes/",
+      "subtitle": "현지 정치·부족 역학 이해를 위한 민간 계약 자문 수요가 대아프리카 작전 지속 의지를 시사한다.",
+      "summary_en": "The U.S. special operations task force in Somalia is seeking civilian contractors to advise personnel on local politics, culture, and tribal dynamics. The move indicates a continued U.S. commitment to operations in Somalia and an emphasis on human terrain understanding to enhance mission effectiveness.",
+      "summary_kr": "소말리아 주둔 미 특수작전 태스크포스가 현지 정치·문화·부족 역학에 관한 자문을 제공할 민간 계약 인력 확보에 나섰다. 이는 미군이 소말리아 내 작전 기반을 유지하면서 현지 맥락 이해를 통한 작전 효과 향상을 도모하는 것으로 해석된다.",
+      "title": "미 특수작전 태스크포스, 소말리아 문화·부족 자문 인력 확보 추진"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/06/navy-unveils-the-seven-companies-that-will-participate-in-musv-at-sea-testing/",
+      "subtitle": "Leidos·HII·Saronic Technologies 등이 MUSV 해상 실증 단계로 진입하며 미 해군 무인수상전력 경쟁이 본격화된다.",
+      "summary_en": "The U.S. Navy has announced seven companies selected to participate in at-sea testing for its Medium Unmanned Surface Vehicle (MUSV) program, including Leidos, HII, and Saronic Technologies. The move advances the competition to a real-world maritime validation phase, marking a critical step in the Navy's effort to field autonomous surface vessels for distributed maritime operations.",
+      "summary_kr": "미 해군이 중형 무인수상정(MUSV) 해상 시험 단계에 참가할 7개 업체를 공개했다. Leidos, HII, Saronic Technologies 등이 선정되어 실해역 검증 단계로 진입했으며, 이번 선발은 미 해군의 분산해상작전 구현을 위한 무인수상전력 확보 경쟁의 핵심 분기점이 된다.",
+      "title": "미 해군, 중형 무인수상정 해상 시험 참가 7개 업체 공개"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "The War Zone",
+      "source_url": "https://www.twz.com/news-features/u-s-iran-ceasefire-on-the-brink-after-tit-for-tat-attacks",
+      "subtitle": "이란이 핵심 석유 수출 통로 차단 카드를 꺼내며 협상 국면이 급격히 불안정해지고 있다.",
+      "summary_en": "The U.S.-Iran ceasefire is teetering after a series of retaliatory strikes between the two sides. Iran has escalated pressure by renewing threats to close the Bab Al-Mandab Strait, a critical chokepoint for global oil exports, raising the risk of broader regional destabilization and energy market disruption.",
+      "summary_kr": "미국과 이란 간 휴전 체제가 상호 공격 응수로 붕괴 위기에 처했다. 이란은 홍해 남단의 바브엘만데브 해협 봉쇄 가능성을 재차 경고하며 압박 수위를 높이고 있으며, 해당 해협은 현재 글로벌 석유 수출의 핵심 통로로 기능하고 있어 봉쇄 시 에너지 시장에 즉각적인 충격이 예상된다.",
+      "title": "미-이란 휴전 위기, 상호 공격 속 바브엘만데브 해협 봉쇄 위협 고조"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Naval News",
+      "source_url": "https://www.navalnews.com/naval-news/2026/06/philippines-verifying-reports-of-structure-in-scarborough-shoal/",
+      "subtitle": "남중국해 긴장의 핵심 거점에서 새로운 중국 활동 정황이 포착돼 주목된다.",
+      "summary_en": "Philippine Defense Secretary Gilberto Teodoro Jr. confirmed that authorities are verifying unconfirmed reports of a possible new Chinese structure at Scarborough Shoal in the South China Sea. Officials have yet to characterize what was observed, underscoring the sensitivity of the disputed shoal as a potential flashpoint for further Chinese militarization.",
+      "summary_kr": "필리핀 국방장관 길베르토 테오도로 주니어는 중국이 스카버러 암초에 새 구조물을 설치했다는 미확인 정보를 검토 중이라고 밝혔다. 당국은 현재 해당 시설물의 성격조차 단정하지 못한 상태로, 추가 확인 작업이 진행 중이다.",
+      "title": "필리핀, 스카버러 암초 내 중국 구조물 설치 의혹 확인 중"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Small Wars Journal",
+      "source_url": "https://smallwarsjournal.com/2026/06/01/no-ones-coming-to-do-it-for-us-innovation-at-african-lion-2026/",
+      "subtitle": "모로코 탄탄 사막에서 진행된 미 주도 다국적 훈련이 상용 부품 기반 자율전 실험장으로 변모했다.",
+      "summary_en": "African Lion 2026, the annual U.S.-led multinational exercise held in Morocco's Tantan desert, shifted its focus this year to AI and autonomous systems integration. Soldiers assembled autonomous capabilities from commercial components in field conditions, signaling a broader push to embed emerging technologies into combined arms training at the tactical level.",
+      "summary_kr": "미 주도 연례 다국적 훈련 아프리카 라이언 2026이 올해는 AI·자율 시스템 통합을 핵심 의제로 삼아 진행됐다. 현장 장교들은 텐트 안에서 상용 부품을 조합해 자율 전투 역량을 구현하는 실험을 수행했으며, 앤더슨 장군과 가스파리 중위가 자율전 도입 현황을 직접 설명했다.",
+      "title": "아프리카 라이언 2026, AI·자율 시스템 중심 훈련으로 전환"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-ato/4129480-ukraines-unmanned-systems-forces-hit-russian-cargo-ship-in-berdiansk-port.html",
+      "subtitle": "우크라이나 무인체계군이 러시아 점령 항구에서 화물선을 공격하며 해상 무인전 전선을 확대하고 있다.",
+      "summary_en": "Ukrainian Unmanned Systems Forces struck the Russian cargo vessel Leonid Pestrikov at the port of occupied Berdiansk. The attack reflects Ukraine's continued use of unmanned maritime systems to disrupt Russian logistics and supply lines through occupied Black Sea ports.",
+      "summary_kr": "우크라이나 무인체계군 예하 부대가 러시아 점령지 베르댠스크 항구에 정박 중이던 러시아 화물선 레오니드 페스트리코프를 타격했다. 이번 공격은 우크라이나가 무인 수상정 등 무인체계를 활용해 러시아 점령 항구의 해상 보급선을 지속적으로 압박하는 작전의 일환으로 평가된다.",
+      "title": "우크라이나 무인전력, 점령지 베르댠스크 항구 러시아 화물선 타격"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Asia Times",
+      "source_url": "https://asiatimes.com/2026/06/trump-says-troops-turned-back-from-beirut-after-netanyahu-call/",
+      "subtitle": "이란의 미국과의 핵협상 중단 선언과 맞물려 레바논 사태가 급박하게 전개되고 있다.",
+      "summary_en": "President Trump claimed that Israeli forces advancing toward Beirut were turned back following a phone call with Prime Minister Netanyahu. The statement came shortly after Iran announced it was suspending nuclear talks with the United States in response to Israel's escalating assault on Lebanon.",
+      "summary_kr": "트럼프 대통령은 네타냐후 이스라엘 총리와의 통화 후 베이루트를 향해 진격하던 이스라엘군이 돌아섰다고 주장했다. 이 발언은 이스라엘의 레바논 공세 강화에 반발해 이란이 미국과의 핵협상 중단을 선언한 직후 나왔다.",
+      "title": "트럼프, 네타냐후 통화 후 베이루트 진격 이스라엘군 철수 지시 주장"
+    }
+  ],
+  "published_at": "2026-06-01T22:02:12.489966+00:00",
+  "summary": "이란의 쿠웨이트 미군 기지 공격·바브엘만데브 봉쇄 위협, 한국군 단독 화력훈련, 우크라이나 드론전 패러다임 전환, 네이버 군사 AI 진출까지 — 억제 신호와 전력 혁신이 교차한 하루",
+  "title": "미군 기지가 타격받고 연합훈련에서 미군이 빠졌다, 억제력의 가시성이 흔들리고 있다"
+}
