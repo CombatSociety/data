@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-01T18:37:13.77318+00:00",
+  "slug": "20260601-633d8f",
+  "source_name": "SOFREP",
+  "source_url": "https://sofrep.com/news/u-s-troops-can-be-tracked-through-their-phones-the-enemy-may-not-need-to-hack-anything/",
+  "summary": "상용 데이터 브로커 경유 위치정보 노출, 적군 타격정보 악용 우려",
+  "tags": [
+    "안보위협",
+    "군사기술",
+    "사이버안보",
+    "미국",
+    "특수전",
+    "USCENTCOM"
+  ],
+  "title": "미군 병사 위치 추적 위협… 해킹 없이도 상용 앱으로 노출",
+  "url": "https://combatsociety.kr/news/20260601-633d8f"
+}

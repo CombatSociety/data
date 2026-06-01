@@ -1,0 +1,27 @@
+# 노스럽그루먼, 우주기반 요격 시연 2027년 추진… 스타트업 에이펙스와 협력
+
+에이펙스 스페이스와 협력, 2027년 우주기반 요격 시연 추진
+
+| 항목 | 값 |
+|---|---|
+| Slug | `20260601-7ca6e2` |
+| 발행 | 2026-06-01T18:37:12.603526+00:00 |
+| 우선순위 | P2 |
+| 콘텐츠 타입 | wire |
+| 분류 | weapons |
+| 태그 | 무기·방산, 군사기술, 우주안보, 미국, 산업·기업 |
+| 단일 출처 | [Breaking Defense](https://breakingdefense.com/2026/06/northrop-grumman-partners-with-apex-for-2027-sbi-demo/) |
+
+## 출처 매체
+
+- [Breaking Defense](https://breakingdefense.com/2026/06/northrop-grumman-partners-with-apex-for-2027-sbi-demo/)
+
+## 사이트에서 읽기
+
+<https://combatsociety.kr/news/20260601-7ca6e2>
+
+## 인용
+
+```
+Combat Society dataset, "노스럽그루먼, 우주기반 요격 시연 2027년 추진… 스타트업 에이펙스와 협력", combatsociety.kr/news/20260601-7ca6e2, github.com/CombatSociety/data.
+```

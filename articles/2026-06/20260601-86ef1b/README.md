@@ -1,6 +1,6 @@
 # 소말리아 작전 강화하는 미군… 현지 문화·부족 자문관 모집
 
-현지 문화·부족 동향 자문관 모집으로 작전 효율성 강화 추진
+USSOCOM, 현지 문화·부족 자문관 모집으로 작전 지원 체계 강화
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | operations |
-| 태그 | 작전·훈련, 미국, 특수전, USSOCOM, 비정규전, 반테러작전 |
+| 태그 | 작전·훈련, 특수전, 미국, USSOCOM, 반테러작전, 비정규전 |
 | 단일 출처 | [Military Times](https://www.militarytimes.com/news/your-military/2026/06/01/us-military-seeks-cultural-advisors-in-somalia-amid-regional-strikes/) |
 
 ## 출처 매체
