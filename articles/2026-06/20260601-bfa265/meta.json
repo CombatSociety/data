@@ -1,24 +1,22 @@
 {
-  "category": "geopolitics",
-  "content_type": "original",
+  "category": "operations",
+  "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P1",
   "published_at": "2026-06-01T15:36:21.894471+00:00",
   "slug": "20260601-bfa265",
-  "source_name": null,
-  "source_url": null,
-  "summary": "지난주 유사 타격으로 미군 부상자 발생, 양측 긴장 고조",
+  "source_name": "Task & Purpose",
+  "source_url": "https://taskandpurpose.com/news/military-us-iran-strikes/",
+  "summary": "지난주 유사 공격으로 미군 장병 부상, 방어체계 대응 확인",
   "tags": [
-    "지정학·국제",
+    "작전·훈련",
     "안보위협",
-    "중동",
     "미국",
     "이란",
-    "배치",
-    "교전",
-    "방공체계"
+    "중동",
+    "미사일발사"
   ],
-  "title": "미군, 쿠웨이트 기지 향한 이란 미사일 요격… 양측 교전 지속",
+  "title": "이란 미사일, 쿠웨이트 주둔 미군기지 공격… 미군 방어체계 격추",
   "url": "https://combatsociety.kr/news/20260601-bfa265"
 }
