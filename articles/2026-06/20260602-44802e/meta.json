@@ -1,0 +1,21 @@
+{
+  "category": "tech",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-02T14:50:51.509474+00:00",
+  "slug": "20260602-44802e",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
+  "summary": "웹로직 서버 취약점, 2년 전부터 실제 악용 공격 확인·긴급 패치 지시",
+  "tags": [
+    "군사기술",
+    "사이버안보",
+    "미국",
+    "사이버무기",
+    "APT공격"
+  ],
+  "title": "미 CISA, 2년 전 오라클 결함 악용 공격 경고… 연방기관 긴급 패치 지시",
+  "url": "https://combatsociety.kr/news/20260602-44802e"
+}

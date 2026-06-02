@@ -1,0 +1,19 @@
+{
+  "category": "tech",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-02T14:50:51.171354+00:00",
+  "slug": "20260602-c2a2de",
+  "source_name": "The Record",
+  "source_url": "https://therecord.media/red-hat-removes-tainted-packages-after-software-pipeline-compromise",
+  "summary": "침해 깃허브 계정 경유 악성 코드 배포, 주간 11만 7000회 다운로드 영향",
+  "tags": [
+    "군사기술",
+    "사이버안보",
+    "공급망공격"
+  ],
+  "title": "레드햇, 소프트웨어 공급망 침해로 32개 패키지 제거",
+  "url": "https://combatsociety.kr/news/20260602-c2a2de"
+}
