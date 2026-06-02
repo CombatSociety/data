@@ -3,12 +3,12 @@
   "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
-  "priority": "P1",
+  "priority": "P3",
   "published_at": "2026-06-02T05:46:56.18496+00:00",
   "slug": "20260602-5af1a3",
-  "source_name": "SCMP Defense",
-  "source_url": "https://www.scmp.com/news/world/europe/article/3355645/major-russian-attack-kyiv-other-ukraine-cities-kills-least-9-wounds-dozens?utm_source=rss_feed",
-  "summary": "전력망·기반시설 목표 공격 지속, 60명 이상 부상",
+  "source_name": "BBC",
+  "source_url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+  "summary": "미사일·드론 집중 투입, 전역 도시 피격·14명 사망, 구조 작업 진행",
   "tags": [
     "작전·훈련",
     "안보위협",
@@ -16,6 +16,6 @@
     "러시아",
     "교전"
   ],
-  "title": "러시아, 우크라이나 주요 도시 대규모 공습… 최소 9명 사망",
+  "title": "러시아, 우크라이나 전역 도시 대규모 공습… 최소 14명 사망",
   "url": "https://combatsociety.kr/news/20260602-5af1a3"
 }
