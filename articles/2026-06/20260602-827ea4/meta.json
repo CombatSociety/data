@@ -1,0 +1,23 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-02T21:40:48.867481+00:00",
+  "slug": "20260602-827ea4",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
+  "summary": "EDR 우회·AD 자동 탐색 기능 탑재, 공격 자동화 수준 고도화",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "사이버무기",
+    "AI국방",
+    "APT공격",
+    "랜섬웨어",
+    "공급망공격"
+  ],
+  "title": "AI 기반 랜섬웨어 툴킷 등장… EDR 우회·AD 자동 탐색 기능",
+  "url": "https://combatsociety.kr/news/20260602-827ea4"
+}

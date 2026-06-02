@@ -1,0 +1,27 @@
+# 열화상·레이저 거리측정 통합 쌍안경, 미군 훈련장서 검증
+
+Pulsar Symbion 다중분광 쌍안경, 열화상·거리측정·4K 비디오 통합 성능 검증
+
+| 항목 | 값 |
+|---|---|
+| Slug | `20260602-a19e2a` |
+| 발행 | 2026-06-02T21:40:48.208183+00:00 |
+| 우선순위 | P3 |
+| 콘텐츠 타입 | wire |
+| 분류 | weapons |
+| 태그 | 무기·방산, 군사기술, 미국, 작전·훈련, 특수전 |
+| 단일 출처 | [Soldier Systems](https://soldiersystems.net/2026/06/02/rampart-range-day-26-pulsar/?utm_source=rss&utm_medium=rss&utm_campaign=rampart-range-day-26-pulsar) |
+
+## 출처 매체
+
+- [Soldier Systems](https://soldiersystems.net/2026/06/02/rampart-range-day-26-pulsar/?utm_source=rss&utm_medium=rss&utm_campaign=rampart-range-day-26-pulsar)
+
+## 사이트에서 읽기
+
+<https://combatsociety.kr/news/20260602-a19e2a>
+
+## 인용
+
+```
+Combat Society dataset, "열화상·레이저 거리측정 통합 쌍안경, 미군 훈련장서 검증", combatsociety.kr/news/20260602-a19e2a, github.com/CombatSociety/data.
+```

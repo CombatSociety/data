@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-02T21:40:49.075465+00:00",
+  "slug": "20260602-aed6b8",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/threat-intelligence/china-uses-dual-method-attack-czech-taiwan-orgs",
+  "summary": "이중 계층 스피어 피싱으로 데이터 탈취, 애저베일 악성코드 활용 중",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "중국",
+    "사이버스파이",
+    "APT공격",
+    "군사기술"
+  ],
+  "title": "중국, 이중 피싱 공격으로 체코 조직 표적… 애저베일 악성코드 활용",
+  "url": "https://combatsociety.kr/news/20260602-aed6b8"
+}
