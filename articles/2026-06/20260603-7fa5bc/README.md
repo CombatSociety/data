@@ -1,6 +1,6 @@
 # 미군, 2028년 실전 레이저 무기 공개 추진… 지향성 에너지 시연 계획
 
-2028년 여름 골든돔 행사서 실전 수준 시연, 지향성 에너지 무기 공개 본격화
+2028년 여름 골든돔 행사서 지향성 에너지 무기 시연, 실전 배치 신호
 
 | 항목 | 값 |
 |---|---|
@@ -9,12 +9,12 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 무기·방산, 군사기술, 미국, 방공체계 |
-| 단일 출처 | [Defense News](https://www.defensenews.com/industry/techwatch/2026/06/02/the-us-military-wants-to-showcase-battle-ready-laser-weapons-by-2028/) |
+| 태그 | 무기·방산, 군사기술, 미국, 극초음속무기 |
+| 단일 출처 | [Military Times](https://www.militarytimes.com/industry/techwatch/2026/06/02/the-us-military-wants-to-showcase-battle-ready-laser-weapons-by-2028/) |
 
 ## 출처 매체
 
-- [Defense News](https://www.defensenews.com/industry/techwatch/2026/06/02/the-us-military-wants-to-showcase-battle-ready-laser-weapons-by-2028/)
+- [Military Times](https://www.militarytimes.com/industry/techwatch/2026/06/02/the-us-military-wants-to-showcase-battle-ready-laser-weapons-by-2028/)
 
 ## 사이트에서 읽기
 
