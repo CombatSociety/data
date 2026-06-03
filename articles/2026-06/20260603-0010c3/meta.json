@@ -1,22 +1,21 @@
 {
   "category": "defense_policy",
-  "content_type": "original",
+  "content_type": "wire",
   "cover_image_caption": "2024년 9월 4일 한국 기계면에서 열린 쌍용 24 훈련 중 한국 화학·생물·방사능·핵(CBRN) 특수부대 소속 한 장병이 미 해병대 1st Battalion Landing Team 5와 함께 실시한 양국 CBRN 방어 훈련에서 오염 제거 작업을 수행하고 있다.",
   "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Alora Finigan",
   "priority": "P2",
   "published_at": "2026-06-03T09:35:38.323224+00:00",
   "slug": "20260603-0010c3",
-  "source_name": null,
-  "source_url": null,
-  "summary": "개발·제조 역량 확보·산업생태계 조성 법적 근거 마련, 상비예비군 명칭 변경도 동시 의결",
+  "source_name": "국방일보-국방안보",
+  "source_url": "http://kookbang.dema.mil.kr/newsWeb/20260604/12/ATCE_CTGR_0010010000/view.do",
+  "summary": "AI 시대 국방력 강화 전략, 체계적 육성·지원 체계 본격화",
   "tags": [
     "국방정책",
-    "군사기술",
-    "한국",
     "무기·방산",
     "산업·기업",
-    "AI국방"
+    "군사기술",
+    "한국"
   ],
-  "title": "국방반도체 육성법 국무회의 의결… AI 시대 군용 반도체 산업생태계 조성 본격화",
+  "title": "국방반도체 체계적 육성 법안 국무회의 의결… 연내 시행",
   "url": "https://combatsociety.kr/news/20260603-0010c3"
 }
