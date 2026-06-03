@@ -1,10 +1,5 @@
 [
   {
-    "name": "Al Jazeera",
-    "type": "international",
-    "url": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss"
-  },
-  {
     "name": "BBC",
     "type": "international",
     "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss"

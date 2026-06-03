@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-03T20:29:44.038044+00:00",
+  "slug": "20260603-95a794",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
+  "summary": "주요 기반시설 ATG 시스템 인터넷 노출 위험, 보안 강화 권고",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "미국",
+    "FBI",
+    "NSA"
+  ],
+  "title": "미국 정부, 연료탱크 모니터링 시스템 사이버공격 경고",
+  "url": "https://combatsociety.kr/news/20260603-95a794"
+}

@@ -1,0 +1,23 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P3",
+  "published_at": "2026-06-03T20:57:39.339478+00:00",
+  "slug": "20260603-0fddbb",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
+  "summary": "OFAC 제재 대상 지정, 랜섬웨어 공격자 자금 세탁 통로 차단 목표",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "미국",
+    "이란",
+    "테러조직",
+    "랜섬웨어",
+    "대북제재"
+  ],
+  "title": "미국, 이란 최대 암호화폐 거래소 노비텍스 제재… 테러자금 이동 차단",
+  "url": "https://combatsociety.kr/news/20260603-0fddbb"
+}

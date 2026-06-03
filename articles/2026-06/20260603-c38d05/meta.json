@@ -1,21 +1,21 @@
 {
   "category": "geopolitics",
-  "content_type": "original",
+  "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
-  "priority": "P2",
+  "priority": "P1",
   "published_at": "2026-06-03T18:34:21.247737+00:00",
   "slug": "20260603-c38d05",
-  "source_name": null,
-  "source_url": null,
-  "summary": "공습·로켓 교환 재발, 미국 중재 협정 이행 여부 시험대",
+  "source_name": "BBC",
+  "source_url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+  "summary": "9명 사망, 헤즈볼라 로켓 반격으로 휴전 협정 위기 심화",
   "tags": [
     "지정학·국제",
-    "중동",
+    "동맹·외교",
     "이스라엘",
-    "교전",
+    "중동",
     "안보위협"
   ],
-  "title": "부분 휴전 사흘 만에 균열… 이스라엘 공습으로 레바논 민간인 9명 사망",
+  "title": "레바논 휴전 흔드는 이스라엘 공습… 헤즈볼라 로켓 반격",
   "url": "https://combatsociety.kr/news/20260603-c38d05"
 }
