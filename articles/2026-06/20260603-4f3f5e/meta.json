@@ -1,23 +1,22 @@
 {
   "category": "doctrine",
-  "content_type": "original",
+  "content_type": "wire",
   "cover_image_caption": "지난 2026년 1월 7일 Defense Logistics Agency Distribution Susquehanna에서 열린 Warehouse Utilization 프로그램 기술 시연 행사에서 전쟁부 산하 여러 부서 관계자들이 창고 관리 현대화를 통한 군수 민첩성 향상 방안을 논의하고 있다.",
   "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Dorie Heyer",
   "priority": "P2",
   "published_at": "2026-06-03T08:20:03.206217+00:00",
   "slug": "20260603-4f3f5e",
-  "source_name": null,
-  "source_url": null,
-  "summary": "웨스트포인트 현대전연구소 분석, 비허가 환경 최적화 구조의 구조적 한계 지적",
+  "source_name": "MWI at West Point",
+  "source_url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+  "summary": "비전투 환경 최적화로 고강도 분쟁 시 붕괴 위험, 경합 환경 대비 근본적 취약성 노출",
   "tags": [
-    "교리·전술",
-    "무기·방산",
+    "국방정책",
     "미국",
     "육군",
-    "다영역작전",
     "작전·훈련",
+    "교리·전술",
     "안보위협"
   ],
-  "title": "비허가 환경에 최적화된 미 육군 군수체계, 대등 경쟁 전쟁에서 붕괴 위험 직면",
+  "title": "미군 육군 보급체계의 취약성 노출… 경합 환경 대비 부족",
   "url": "https://combatsociety.kr/news/20260603-4f3f5e"
 }
