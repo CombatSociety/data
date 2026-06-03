@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P3",
+  "published_at": "2026-06-03T00:37:40.706561+00:00",
+  "slug": "20260603-a59672",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/cyber-risk/fbi-flagged-phishing-kit-kali365-expands-its-reach",
+  "summary": "AWS·오크타 등 클라우드 서비스로 공격 범위 확대, 기기 코드 피싱 기법 활용",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "군사기술",
+    "APT공격",
+    "사이버스파이",
+    "FBI"
+  ],
+  "title": "FBI 경고 피싱 키트 칼리365, 클라우드 서비스 확대 공략",
+  "url": "https://combatsociety.kr/news/20260603-a59672"
+}
