@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-03T22:00:15.386751+00:00",
+  "slug": "20260603-25fc73",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing",
+  "summary": "AI 기반 파이썬 스크립트로 주요 EDR 제품 우회 능력 자동 테스트, 악성코드 탐지 회피 기술 고도화",
+  "tags": [
+    "안보위협",
+    "군사기술",
+    "사이버안보",
+    "APT공격",
+    "사이버무기"
+  ],
+  "title": "AI 활용한 EDR 우회 자동화 테스트… 공격자 기술 고도화",
+  "url": "https://combatsociety.kr/news/20260603-25fc73"
+}

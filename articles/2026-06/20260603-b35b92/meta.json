@@ -1,0 +1,20 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-03T22:00:15.141789+00:00",
+  "slug": "20260603-b35b92",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
+  "summary": "아시아·태평양서 유럽으로 활동 범위 확대, Atlas 백도어 활용 공격 본격화",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "중국",
+    "APT공격"
+  ],
+  "title": "중국 해킹 조직, 유럽 겨냥한 신규 악성코드 'Atlas RAT' 배포",
+  "url": "https://combatsociety.kr/news/20260603-b35b92"
+}

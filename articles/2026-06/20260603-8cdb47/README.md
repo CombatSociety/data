@@ -1,6 +1,6 @@
-# 독립 사이버군 창설에 100억 달러·1년 이상 소요… 미 싱크탱크 분석
+# 독립 사이버군 창설에 100억 달러·최소 1년 소요… 미 싱크탱크 분석
 
-창설 비용 100억 달러·소요 기간 1년 이상, 의회 추진파 대상 실행 방안 검토
+창설 비용 100억 달러·소요 기간 최소 1년, 의회 추진 움직임 속 실행 방안 구체화
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "독립 사이버군 창설에 100억 달러·1년 이상 소요… 미 싱크탱크 분석", combatsociety.kr/news/20260603-8cdb47, github.com/CombatSociety/data.
+Combat Society dataset, "독립 사이버군 창설에 100억 달러·최소 1년 소요… 미 싱크탱크 분석", combatsociety.kr/news/20260603-8cdb47, github.com/CombatSociety/data.
 ```
