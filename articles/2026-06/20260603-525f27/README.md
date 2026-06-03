@@ -1,6 +1,6 @@
-# 상트페테르부르크 석유 터미널 타격… 우크라이나 드론, 약 960km 침투
+# 우크라이나 드론, 발트함대 기지·상트페테르부르크 석유터미널 동시 타격
 
-960km 장거리 침투, 석유 저장 시설 타격 확인·푸틴 국제경제포럼 연설 이틀 전 감행
+약 960km 비행 후 동시 타격 성공, 러시아 서북부 안전지대 붕괴 확인
 
 | 항목 | 값 |
 |---|---|
@@ -9,12 +9,12 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | original |
 | 분류 | geopolitics |
-| 태그 | 지정학·국제, 러시아, 우크라이나, 드론, 교전, 동유럽, 무기·방산, 군사기술 |
+| 태그 | 지정학·국제, 러시아, 우크라이나, 드론, 해군, 교전, 무기·방산, 안보위협 |
 
 ## 출처 매체
 
+- [The War Zone](https://www.twz.com/sea/russias-baltic-fleet-successfully-attacked-by-ukrainian-drones)
 - [Small Wars Journal](https://smallwarsjournal.com/2026/06/03/ukrainian-drones-hit-st-petersburg-npr/)
-- [BBC](https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss)
 
 ## 사이트에서 읽기
 
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "상트페테르부르크 석유 터미널 타격… 우크라이나 드론, 약 960km 침투", combatsociety.kr/news/20260603-525f27, github.com/CombatSociety/data.
+Combat Society dataset, "우크라이나 드론, 발트함대 기지·상트페테르부르크 석유터미널 동시 타격", combatsociety.kr/news/20260603-525f27, github.com/CombatSociety/data.
 ```
