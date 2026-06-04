@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-04T22:03:19.664353+00:00",
+  "slug": "20260604-ad4da2",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/threat-intelligence/china-ta4922-cybercrime-attacks-globally",
+  "summary": "동아시아 중심 활동에서 전 지역 대상으로 확대, 글로벌 공격 본격화",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "중국",
+    "북한 사이버부대",
+    "APT공격"
+  ],
+  "title": "중국 사이버범죄 조직 TA4922, 동아시아 넘어 글로벌 공격 확대",
+  "url": "https://combatsociety.kr/news/20260604-ad4da2"
+}
