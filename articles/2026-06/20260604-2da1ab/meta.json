@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P3",
+  "published_at": "2026-06-04T14:35:32.394452+00:00",
+  "slug": "20260604-2da1ab",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/",
+  "summary": "지하 해킹 커뮤니티 중심 악용법 교육 자료 확산, 신규 공격자 양성·기업 방어 공백 노린 전술 체계화",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "사이버스파이",
+    "APT공격",
+    "군사기술"
+  ],
+  "title": "사이버 위협 집단, 취약점 발견·악용법 공개 교육… 방어 공백 노린다",
+  "url": "https://combatsociety.kr/news/20260604-2da1ab"
+}
