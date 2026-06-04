@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P3",
+  "published_at": "2026-06-04T07:35:11.121257+00:00",
+  "slug": "20260604-6a6b41",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat",
+  "summary": "제노 RAT 악성코드 활용한 첩보활동, 아프가니스탄 사이버보안 취약성 노출",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "APT공격",
+    "정보수집",
+    "사이버스파이"
+  ],
+  "title": "파키스탄, 제노 RAT로 아프가니스탄 재무부 감시",
+  "url": "https://combatsociety.kr/news/20260604-6a6b41"
+}
