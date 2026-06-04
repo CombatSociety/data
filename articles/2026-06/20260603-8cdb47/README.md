@@ -1,6 +1,6 @@
 # 독립 사이버군 창설에 100억 달러·1년 이상 소요… 미 싱크탱크 분석
 
-100억 달러·1년 이상 소요, 의회 추진 움직임 속 실행 가능성 검토
+100억 달러·1년 이상 소요, 구체적 실행 방안 검토 본격화
 
 | 항목 | 값 |
 |---|---|
@@ -10,11 +10,11 @@
 | 콘텐츠 타입 | wire |
 | 분류 | defense_policy |
 | 태그 | 국방정책, 군사기술, 미국, 사이버안보, 국방예산 |
-| 단일 출처 | [Army Times](https://www.armytimes.com/news/pentagon-congress/2026/06/03/creating-a-separate-cyber-force-would-require-10-billion-and-a-minimum-of-1-year-report-says/) |
+| 단일 출처 | [Air Force Times](https://www.airforcetimes.com/news/pentagon-congress/2026/06/03/creating-a-separate-cyber-force-would-require-10-billion-and-a-minimum-of-1-year-report-says/) |
 
 ## 출처 매체
 
-- [Army Times](https://www.armytimes.com/news/pentagon-congress/2026/06/03/creating-a-separate-cyber-force-would-require-10-billion-and-a-minimum-of-1-year-report-says/)
+- [Air Force Times](https://www.airforcetimes.com/news/pentagon-congress/2026/06/03/creating-a-separate-cyber-force-would-require-10-billion-and-a-minimum-of-1-year-report-says/)
 
 ## 사이트에서 읽기
 
