@@ -1,6 +1,6 @@
 # 미군, 인도양서 제재 대상 유조선 나포… 해상 통제 강화
 
-제재 대상 유조선 포함 다수 선박 나포, 해상 제재 이행 강화
+제재 대상 유조선 포함 다수 선박 적발, 해상 통제 강화 본격화
 
 | 항목 | 값 |
 |---|---|
@@ -9,12 +9,12 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | operations |
-| 태그 | 작전·훈련, 동맹·외교, 미국, 인도태평양, 해군, 대북제재 |
-| 단일 출처 | [Defense News](https://www.defensenews.com/news/your-military/2026/06/05/us-forces-board-sanctioned-tanker-in-indian-ocean-pentagon-says/) |
+| 태그 | 작전·훈련, 동맹·외교, 미국, 인도태평양, 해군, 안보위협 |
+| 단일 출처 | [Military Times](https://www.militarytimes.com/news/your-military/2026/06/05/us-forces-board-sanctioned-tanker-in-indian-ocean-pentagon-says/) |
 
 ## 출처 매체
 
-- [Defense News](https://www.defensenews.com/news/your-military/2026/06/05/us-forces-board-sanctioned-tanker-in-indian-ocean-pentagon-says/)
+- [Military Times](https://www.militarytimes.com/news/your-military/2026/06/05/us-forces-board-sanctioned-tanker-in-indian-ocean-pentagon-says/)
 
 ## 사이트에서 읽기
 
