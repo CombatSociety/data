@@ -1,6 +1,6 @@
-# 다국적 SOF 공동상황인식 실증… 코브라 골드 2026에서 TAK 플랫폼 운용
+# 다국적 SOF 공통 작전상황도 구현… 코브라 골드 2026, TAK 기반 공유인식 훈련 실시
 
-미군·다국적 부대 TAK 기반 공동상황인식 구현, 상호운용성 검증 본격화
+미군·다국적 파트너 부대, TAK 기반 실시간 공통작전상황도 공유·다국적 SOF 상호운용성 절차 정립 확인
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | original |
 | 분류 | operations |
-| 태그 | 작전·훈련, 군사기술, 동맹·외교, 미국, 인도태평양, Cobra Gold, 다국적 SOF훈련, 특수전 |
+| 태그 | 작전·훈련, 군사기술, 특수전, 미국, 인도태평양, Cobra Gold, 다국적 SOF훈련 |
 
 ## 출처 매체
 
@@ -22,5 +22,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "다국적 SOF 공동상황인식 실증… 코브라 골드 2026에서 TAK 플랫폼 운용", combatsociety.kr/news/20260605-e3386e, github.com/CombatSociety/data.
+Combat Society dataset, "다국적 SOF 공통 작전상황도 구현… 코브라 골드 2026, TAK 기반 공유인식 훈련 실시", combatsociety.kr/news/20260605-e3386e, github.com/CombatSociety/data.
 ```
