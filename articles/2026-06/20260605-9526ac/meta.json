@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-05T18:32:44.9688+00:00",
+  "slug": "20260605-9526ac",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
+  "summary": "Plenet·AgentPSD 신규 악성코드, 기존 Brickstorm 백도어와 연계해 침해 네트워크 지속 접근 유지",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "중국",
+    "APT공격",
+    "사이버스파이",
+    "정보수집"
+  ],
+  "title": "중국 APT, 마이크로소프트365 침투용 신규 악성코드 배포",
+  "url": "https://combatsociety.kr/news/20260605-9526ac"
+}
