@@ -1,9 +1,130 @@
 {
-  "assessment": "",
+  "assessment": "우크라이나의 드론 작전이 상트페테르부르크까지 도달하고 크라스노다르 유류 시설을 타격하며 러시아 36군의 포병 탄약 사용 제한을 끌어낸 이 흐름은, 드론이 단순한 전술 도구를 넘어 전략적 종심 압박 수단으로 기능하고 있음을 보여준다. 러시아가 수백 대 격추를 주장하면서도 상트페테르부르크 주지사가 처음으로 시민 대피를 요청했다는 사실은, 방어 성공률과 무관하게 드론 포화가 정치적·심리적 압박을 생성한다는 점을 확인시킨다. 이 압박이 영·프·독 3국이 젤렌스키와 협상 복귀 방안을 논의하는 시점과 겹친다는 것은 우연이 아니다. 전장 압박이 외교 공간을 만드는 구조, 즉 군사 행동이 협상 레버리지로 전환되는 경로가 작동하고 있다.\n\n반면 이란 측에서는 정반대의 구조가 드러난다. 미국과 이스라엘의 군사 행동이 이란혁명수비대(IRGC) 지휘 체계를 와해시키면서 단일 협상 상대 자체가 사라졌고, 군사 압박이 협상 공간을 닫아버리는 역설이 발생했다. 두 사례는 같은 수단인 군사 행동이 전략 목표와의 연계 방식에 따라 전혀 다른 결과를 낳는다는 것을 대비적으로 보여준다. 우크라이나는 타격 대상을 에너지 인프라와 탄약 보급망으로 집중해 러시아의 전쟁 지속 비용을 높이는 방향으로 설계했고, 그 결과가 협상 테이블의 무게를 바꾸고 있다. 이란에 대한 압박은 지휘 체계 자체를 분열시켜 협상 가능한 행위자를 소멸시켰다.\n\n이 대비는 한국의 전력기획에서 종심 타격 개념을 어떻게 설계할 것인가의 문제와 직결된다. K239 천무(Chunmoo MLRS)와 현무 계열 탄도미사일의 운용 개념이 억제 신호를 넘어 실질적 레버리지로 기능하려면, 타격 대상 선정이 북한의 전쟁 지속 능력 중 어느 결절을 끊을 것인가에 대한 정밀한 분석 위에 서야 한다. 플랫폼 성능이 아니라 표적 설계의 논리가 먼저다.\n\n같은 주에 쉴드AI(Shield AI)의 이기종 자율 스웜 편대비행 시험과 6개 기업의 자율 킬러 지상로봇 통합 시연이 동시에 공개된 것은 별개의 신호가 아니다. 두 사건이 공유하는 핵심은 속도다. 개념 검증에서 통합 시연까지의 주기가 수개월이 아니라 수일 단위로 압축됐고, 이기종 플랫폼 간 상호운용이 단일 AI 아키텍처로 해결되고 있다. 미국 민간 방산 생태계는 AI 기반 자율 통제 아키텍처를 먼저 확립하고 플랫폼을 그 위에 얹는 방식으로 전환됐다. 한국군의 드론봇 전투체계 개발이 플랫폼 성능 규격 중심으로 소요를 제기하는 방식에 머무는 한, 자율 통제 소프트웨어 계층의 발전 속도와의 간격은 조달 주기마다 벌어진다. 오늘의 전장이 보여주는 것은 플랫폼의 수가 아니라 그것을 통제하는 아키텍처의 성숙도가 전투 결과를 결정한다는 사실이며, 그 판단은 우크라이나 전선과 오클라호마 시험장에서 동시에 확인되고 있다.",
   "brief_date": "2026-06-06",
   "digest_type": "daily",
-  "items": [],
+  "items": [
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "BBC",
+      "source_url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+      "subtitle": "전쟁 발발 이후 처음으로 상트페테르부르크 주지사가 시민들에게 실내 대피를 촉구했다.",
+      "summary_en": "Ukrainian drones struck St. Petersburg in what Russian authorities described as an unprecedented attack since the start of the war. The city's governor issued an indoor shelter advisory for the first time since the conflict began, signaling a significant escalation in Ukraine's long-range strike campaign against Russian territory.",
+      "summary_kr": "우크라이나 드론이 러시아 제2의 도시 상트페테르부르크를 공격했으며, 러시아 당국은 이를 전쟁 개시 이후 전례 없는 수준의 공습으로 규정했다. 상트페테르부르크 주지사는 전쟁 발발 후 처음으로 시민들에게 실내 대피를 요청했다.",
+      "title": "우크라이나 드론, 상트페테르부르크 공습…러시아 '전례 없는 공격' 규정"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defence Blog",
+      "source_url": "https://defence-blog.com/shield-ai-tests-autonomous-swarm-teaming-in-oklahoma/",
+      "subtitle": "Hivemind AI가 V-BAT 무인기 등 복수 플랫폼을 자율 통제하는 다중 편대비행을 처음으로 실증했다.",
+      "summary_en": "Shield AI announced that its Hivemind AI successfully completed its first autonomous multi-platform teaming flight in Oklahoma, coordinating the V-BAT unmanned aircraft alongside other platforms without human input. The test marks a significant step toward operationalizing heterogeneous autonomous swarm concepts for military applications.",
+      "summary_kr": "쉴드AI(Shield AI)가 오클라호마에서 자사 Hivemind AI를 활용해 V-BAT 무인기를 포함한 복수 플랫폼 간 자율 편대비행 시험을 처음으로 완료했다. 이번 시험은 단일 AI가 이기종 무인 플랫폼을 동시에 자율 통제하는 스웜 운용 개념을 실전 환경에 근접한 조건에서 검증했다는 점에서 의미가 있다.",
+      "title": "쉴드AI, 오클라호마서 자율 스웜 편대비행 첫 시험 성공"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defence Blog",
+      "source_url": "https://defence-blog.com/six-companies-built-an-autonomous-hunter-killer-robot-in-under-a-week/",
+      "subtitle": "미 육군장관 앞에서 시연된 이번 성과는 미국 방산 통합 속도의 새로운 기준점으로 평가된다.",
+      "summary_en": "Six defense technology companies integrated their separate products into a fully autonomous hunter-killer ground vehicle system in under a week during a demonstration event. The completed system was presented directly to the Secretary of the Army, with participants citing it as evidence of rapid defense integration capability in the United States.",
+      "summary_kr": "6개 방산기술 기업이 각자의 개별 제품을 가지고 시연 행사에 참가해 수일 만에 완전 통합된 자율 추적·타격 지상 무인차량 시스템을 구현했다. 이 시스템은 미 육군장관에게 직접 시연됐으며, 참가 기업들은 미국 방산 통합 역량의 속도와 유연성을 입증한 사례로 평가했다.",
+      "title": "6개 방산기업, 1주일 만에 자율 킬러 지상로봇 통합 시연"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-ato/4131175-sbu-confirms-strike-on-ustlabinsk-oil-depot-in-russias-krasnodar-krai.html",
+      "subtitle": "우스트-라빈스크 유류 기지 공격으로 러시아 남부 에너지 인프라 타격 지속",
+      "summary_en": "Ukraine's Security Service (SBU) has officially confirmed a strike on an oil depot in Ust-Labinsk, Krasnodar Krai, in southern Russia. The attack is consistent with Ukraine's ongoing campaign targeting Russian rear-area energy and logistics infrastructure.",
+      "summary_kr": "우크라이나 보안국(SBU)이 러시아 크라스노다르 지방 우스트-라빈스크 유류 저장시설에 대한 타격을 공식 확인했다. 이번 공격은 우크라이나가 러시아 본토 후방 에너지 인프라를 지속적으로 압박하는 작전의 일환으로 평가된다.",
+      "title": "우크라이나 보안국, 러시아 크라스노다르 지방 석유 저장시설 타격 확인"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-ato/4131153-russia-restricts-artillery-ammunition-use-in-south-after-ukrainian-strikes-on-depots-spox-voloshyn-says.html",
+      "subtitle": "자포리자·헤르손 점령지 내 탄약 보급망 타격이 러시아 포병 운용에 직접적 제약을 가하고 있다.",
+      "summary_en": "Following Ukrainian strikes on Russian ammunition depots in the occupied Zaporizhzhia and Kherson regions, the Russian 36th Army command imposed artillery ammunition usage restrictions on its units in June. The measure indicates that Ukrainian deep-strike operations are meaningfully degrading Russian artillery sustainment capacity on the southern front.",
+      "summary_kr": "우크라이나군이 자포리자·헤르손 점령지의 러시아군 탄약고를 타격한 이후, 러시아 36군 사령부는 6월부터 예하 포병 부대에 탄약 사용 제한령을 내렸다. 이는 러시아군의 포병 화력 지속 능력에 실질적 차질이 발생하고 있음을 시사한다.",
+      "title": "우크라이나군 탄약고 타격 후 러시아 36군, 포병 탄약 사용 제한 조치"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defence Blog",
+      "source_url": "https://defence-blog.com/teledyne-flir-wins-11-2m-to-build-cbrn-sensor-drone-kits/",
+      "subtitle": "Teledyne FLIR Defense가 1,120만 달러 규모 계약 수주, 병사 직접 노출 없이 실시간 위험 지도 작성 가능",
+      "summary_en": "The U.S. Army has contracted Teledyne FLIR Defense for $11.2 million to procure more than 45 drone kits designed to operate inside chemical, biological, radiological, and nuclear (CBRN) contamination zones. The systems will map hazards in real time, enabling commanders to assess threats without exposing soldiers to potentially lethal environments.",
+      "summary_kr": "미 육군이 Teledyne FLIR Defense에 1,120만 달러 규모의 계약을 부여해 화학·생물·방사선·핵(CBRN) 오염 구역에 투입 가능한 드론 키트 45기 이상을 확보한다. 해당 드론은 오염 지역에 직접 진입해 위험 요소를 실시간으로 탐지·지도화함으로써 병사들의 치명적 환경 노출을 차단하는 것이 핵심 목적이다.",
+      "title": "미 육군, CBRN 오염지역 탐지용 드론 키트 45기 이상 도입 계약"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/06/05/us-forces-board-sanctioned-tanker-in-indian-ocean-pentagon-says/",
+      "subtitle": "미국이 대이란 제재 이행 차원에서 인도양 내 불법 유류 운반 선박 차단 작전을 지속하고 있다.",
+      "summary_en": "U.S. forces boarded a sanctioned tanker in the Indian Ocean, according to the Pentagon. This is part of a broader pattern of American interdiction operations targeting commercial and oil tankers in the region over recent months, aimed at enforcing sanctions and disrupting illicit oil transfers.",
+      "summary_kr": "미 국방부에 따르면 미군이 인도양에서 제재 대상 유조선에 승선해 검색을 실시했다. 미군은 최근 수개월간 인도양에서 복수의 상선 및 유조선을 차단·검색해 왔으며, 이는 대이란 제재 집행과 불법 석유 거래 차단을 위한 작전의 일환이다.",
+      "title": "미군, 인도양에서 제재 대상 유조선 승선 검색 실시"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-polytics/4130898-uk-french-and-german-leaders-to-meet-zelensky-on-peace-talks-bloomberg.html",
+      "subtitle": "유럽 주요국이 우크라이나 전쟁 종식을 위한 외교적 압박 수위를 높이는 가운데, 이번 회동은 러시아를 협상 테이블로 끌어내기 위한 서방의 공조 움직임으로 주목된다.",
+      "summary_en": "The leaders of the United Kingdom, France, and Germany are set to meet Ukrainian President Volodymyr Zelensky this weekend to discuss strategies for bringing Russia back to the negotiating table. The meeting signals a coordinated European push to accelerate diplomatic efforts toward ending the war in Ukraine.",
+      "summary_kr": "영국·프랑스·독일 3국 정상이 이번 주말 볼로디미르 젤렌스키 우크라이나 대통령과 만나 러시아의 협상 복귀를 유도할 방안을 논의할 예정이다. 이번 회동은 우크라이나 전쟁 종전을 향한 유럽 주도 외교 노력이 본격화되는 신호로 해석된다.",
+      "title": "영·프·독 3국 정상, 젤렌스키와 회동…러시아 협상 복귀 방안 논의"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Atlantic Council",
+      "source_url": "https://www.atlanticcouncil.org/dispatches/agentic-ai-opens-the-door-to-weaponizing-financial-systems/",
+      "subtitle": "전장이 아닌 금융 인프라의 구조적 취약점을 겨냥하는 AI 기반 비정규전 위협이 부상하고 있다.",
+      "summary_en": "Agentic AI systems capable of autonomous goal-setting and execution are emerging as potential instruments for weaponizing financial infrastructure in irregular warfare. Rather than targeting battlefield positions, this approach exploits systemic vulnerabilities in financial systems, offering asymmetric attack vectors to both state and non-state actors.",
+      "summary_kr": "자율적으로 목표를 설정하고 행동하는 에이전틱 AI(Agentic AI)가 금융 시스템을 비정규전의 새로운 무기로 활용할 수 있는 가능성을 열고 있다. 이 접근은 전통적인 전장 타격 대신 금융 인프라의 구조적 취약점을 표적으로 삼아 국가·비국가 행위자 모두에게 비대칭적 공격 수단을 제공한다.",
+      "title": "에이전틱 AI, 금융 시스템을 비정규전 무기로 전환하는 새 경로 열어"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/6/russia-says-hundreds-of-ukrainian-drones-downed-as-economic-forum-ends?traffic_source=rss",
+      "subtitle": "크림반도 포함 16개 지역 상공에서 요격됐다고 러시아 국방부가 밝혔다.",
+      "summary_en": "Russia's defense ministry claimed it downed hundreds of Ukrainian drones across 16 regions, including Crimea. The announcement coincided with the conclusion of a major Russian economic forum, underscoring continued Ukrainian long-range strike pressure on Russian territory.",
+      "summary_kr": "러시아 국방부는 우크라이나 드론 수백 대를 크림반도를 포함한 16개 지역에서 격추했다고 발표했다. 해당 발표는 러시아 경제포럼 폐막 시점과 맞물려 나왔다.",
+      "title": "러시아, 우크라이나 드론 수백 대 격추 주장"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "DVIDS:Army",
+      "source_url": "https://www.dvidshub.net/news/567025/usarpacs-1st-tiad-strengthens-cyber-readiness-partnerships-during-marara-26",
+      "subtitle": "다국적 파트너십 기반의 사이버·전자전 통합 역량 점검이 인도태평양 지역 억제력 유지의 핵심 과제로 부상하고 있다.",
+      "summary_en": "The U.S. Army Pacific Command's 1st Theater Integrated Air and Missile Defense (1st TIAD) conducted the Marara 26 exercise to assess cyber readiness and deepen partnerships with regional allies. The exercise focused on enhancing integrated defense capabilities against multi-domain threats across the Indo-Pacific.",
+      "summary_kr": "미 육군 태평양사령부(USARPAC) 예하 제1 극장통합방공방어대(1st TIAD)가 마라라 26(Marara 26) 훈련을 통해 사이버 대비태세를 점검하고 역내 파트너국과의 협력을 강화했다. 이번 훈련은 인도태평양 지역에서의 다영역 위협에 대응하기 위한 통합 방어 역량 향상을 목표로 진행됐다.",
+      "title": "미 육군 태평양사령부 1 TIAD, 마라라 26 훈련으로 사이버 대비태세 강화"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "SOFREP",
+      "source_url": "https://sofrep.com/news/why-america-cant-make-a-deal-with-iran-right-now/",
+      "subtitle": "이스라엘-미국의 공습으로 이란 지휘 체계가 붕괴된 이후, 분열된 내부 세력들이 협상 공간을 잠식하고 있다.",
+      "summary_en": "U.S. and Israeli strikes have dismantled Iran's centralized command structure, leaving a fragmented landscape of IRGC factions, proxy militias, and hardliners competing to assert control. This internal power struggle makes it structurally difficult for Washington to identify a credible negotiating counterpart, constraining any near-term diplomatic deal.",
+      "summary_kr": "미국과 이스라엘의 군사 행동으로 이란의 기존 지휘 체계가 와해되면서, 이란혁명수비대(IRGC) 내 파벌·사병 조직·강경 세력이 각자의 생존을 위해 통제권 경쟁에 나서고 있다. 이처럼 분열된 행위자들이 난립하는 상황에서는 단일한 협상 상대를 특정하기 어려워, 미국이 추진하는 외교적 타결의 실현 가능성이 구조적으로 제약된다.",
+      "title": "미국이 지금 이란과 협상할 수 없는 구조적 이유"
+    }
+  ],
   "published_at": "2026-06-05T22:01:10.606056+00:00",
-  "summary": "한반도 0건 · 해외 0건",
-  "title": "오늘의 군사·안보 흐름과 한반도 함의"
+  "summary": "우크라이나 드론의 상트페테르부르크 공습과 크라스노다르 유류 시설 타격이 러시아 36군 포병 탄약 제한과 영·프·독 3국의 협상 중재 움직임으로 이어지는 동안, 이란에 대한 군사 압박은 협상 가능한 행위자 자체를 소멸시켰다. 두 사례의 대비는 종심 타격 개념이 표적 설계의 논리 위에 서야 억제 신호를 넘어 실질적 레버리지로 기능함을 보여준다. 같은 주 쉴드AI(Shield AI)의 이기종 자율 스웜 시험과 자율 킬러 지상로봇 통합 시연은, 자율 통제 아키텍처가 플랫폼보다 먼저 완성되는 속도가 조달 주기 단위의 격차를 만들고 있음을 확인시킨다.",
+  "title": "군사 행동이 협상 공간을 열기도, 닫기도 한다"
 }
