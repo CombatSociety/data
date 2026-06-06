@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P3",
+  "published_at": "2026-06-06T03:45:48.037803+00:00",
+  "slug": "20260606-c993b1",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
+  "summary": "Serv-U 취약점 악용한 서버 마비 공격 확산, 즉시 패치 권고",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "미국",
+    "APT공격",
+    "공급망공격"
+  ],
+  "title": "미 사이버보안청, SolarWinds 서버 소프트웨어 취약점 악용 공격 경고",
+  "url": "https://combatsociety.kr/news/20260606-c993b1"
+}
