@@ -3,12 +3,12 @@
   "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
-  "priority": "P2",
+  "priority": "P1",
   "published_at": "2026-06-06T03:45:45.791826+00:00",
   "slug": "20260606-117ad9",
-  "source_name": "The War Zone",
-  "source_url": "https://www.twz.com/news-features/u-s-shoots-down-iranian-drones-launched-at-strait-of-hormuz-official",
-  "summary": "호르무즈 해협 상공서 격추 작전, 중동 미-이란 긴장 재점화",
+  "source_name": "Defense News",
+  "source_url": "https://www.defensenews.com/flashpoints/middle-east/2026/06/06/us-strikes-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up/",
+  "summary": "드론 격추 후 해안 레이더 기지 공습, 페르시아만 군사 긴장 재점화",
   "tags": [
     "작전·훈련",
     "안보위협",
@@ -17,6 +17,6 @@
     "중동",
     "드론"
   ],
-  "title": "호르무즈 해협 긴장 고조… 미군, 이란 드론 격추",
+  "title": "호르무즈 해협 긴장 고조… 미군, 이란 드론 격추 후 해안 레이더 기지 공습",
   "url": "https://combatsociety.kr/news/20260606-117ad9"
 }
