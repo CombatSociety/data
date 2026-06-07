@@ -1,6 +1,6 @@
-# 컨테이너에서 헬파이어 발사… 미 육군, 그리즐리 대드론 무기체계 공개
+# 컨테이너에서 헬파이어를 쏜다… 미 육군, 기지 방어용 대드론 무기체계 '그리즐리' 공개
 
-화물 컨테이너 형태, 헬파이어·JAGM 탑재로 기지 방어 임무 특화 설계
+헬파이어·AGM-179 JAGM 동시 운용, 컨테이너 기반 기지 방어 임무 특화 설계 확인
 
 | 항목 | 값 |
 |---|---|
@@ -22,5 +22,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "컨테이너에서 헬파이어 발사… 미 육군, 그리즐리 대드론 무기체계 공개", combatsociety.kr/news/20260607-918c28, github.com/CombatSociety/data.
+Combat Society dataset, "컨테이너에서 헬파이어를 쏜다… 미 육군, 기지 방어용 대드론 무기체계 '그리즐리' 공개", combatsociety.kr/news/20260607-918c28, github.com/CombatSociety/data.
 ```
