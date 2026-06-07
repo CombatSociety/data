@@ -1,20 +1,20 @@
-# 호르무즈 해협 긴장 고조… 미군, 이란 드론 격추 후 해안 레이더 기지 공습
+# 호르무즈 해협 향한 이란 드론 격추… 미군, 이란 해안 레이더 기지 타격
 
-드론 격추 후 해안 레이더 기지 공습, 미-이란 군사 긴장 재점화
+드론 격추 후 해안 레이더 기지 타격으로 대응, 전쟁 중단 이후 약 2개월 만 무력 충돌 재발
 
 | 항목 | 값 |
 |---|---|
 | Slug | `20260607-cc6303` |
 | 발행 | 2026-06-07T06:00:11.25463+00:00 |
 | 우선순위 | P2 |
-| 콘텐츠 타입 | wire |
-| 분류 | operations |
-| 태그 | 작전·훈련, 안보위협, 미국, 이란, 중동, 군사기술 |
-| 단일 출처 | [Military Times](https://www.militarytimes.com/flashpoints/middle-east/2026/06/06/us-strikes-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up/) |
+| 콘텐츠 타입 | original |
+| 분류 | geopolitics |
+| 태그 | 지정학·국제, 안보위협, 중동, 미국, 이란, 드론, 교전, 배치 |
 
 ## 출처 매체
 
-- [Military Times](https://www.militarytimes.com/flashpoints/middle-east/2026/06/06/us-strikes-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up/)
+- [Defense News](https://www.defensenews.com/flashpoints/middle-east/2026/06/06/us-strikes-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up/)
+- [The War Zone](https://www.twz.com/news-features/u-s-shoots-down-iranian-drones-launched-at-strait-of-hormuz-official)
 
 ## 사이트에서 읽기
 
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "호르무즈 해협 긴장 고조… 미군, 이란 드론 격추 후 해안 레이더 기지 공습", combatsociety.kr/news/20260607-cc6303, github.com/CombatSociety/data.
+Combat Society dataset, "호르무즈 해협 향한 이란 드론 격추… 미군, 이란 해안 레이더 기지 타격", combatsociety.kr/news/20260607-cc6303, github.com/CombatSociety/data.
 ```

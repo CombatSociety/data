@@ -1,7 +1,12 @@
 [
   {
-    "name": "Military Times",
+    "name": "Defense News",
     "type": "international",
-    "url": "https://www.militarytimes.com/flashpoints/middle-east/2026/06/06/us-strikes-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up/"
+    "url": "https://www.defensenews.com/flashpoints/middle-east/2026/06/06/us-strikes-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up/"
+  },
+  {
+    "name": "The War Zone",
+    "type": "international",
+    "url": "https://www.twz.com/news-features/u-s-shoots-down-iranian-drones-launched-at-strait-of-hormuz-official"
   }
 ]
