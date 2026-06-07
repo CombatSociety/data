@@ -1,12 +1,12 @@
 [
   {
-    "name": "Al Jazeera",
-    "type": "international",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss"
-  },
-  {
     "name": "BBC",
     "type": "international",
     "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "name": "SCMP Defense",
+    "type": "international",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3356280/iran-threatens-us-interests-and-israel-after-strike-beirut?utm_source=rss_feed"
   }
 ]
