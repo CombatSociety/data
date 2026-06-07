@@ -1,6 +1,6 @@
-# 호르무즈 해협 향한 이란 드론 격추… 미군, 이란 해안 레이더 기지 타격
+# 호르무즈 해협 상공서 이란 드론 격추… 미군, 이란 해안 레이더 기지 타격
 
-드론 요격 후 해안 레이더 기지 타격, 약 2개월 만 무력 충돌 재발
+드론 요격 후 해안 레이더 기지 타격, 약 2개월 교전 중단 이후 재점화
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "호르무즈 해협 향한 이란 드론 격추… 미군, 이란 해안 레이더 기지 타격", combatsociety.kr/news/20260606-117ad9, github.com/CombatSociety/data.
+Combat Society dataset, "호르무즈 해협 상공서 이란 드론 격추… 미군, 이란 해안 레이더 기지 타격", combatsociety.kr/news/20260606-117ad9, github.com/CombatSociety/data.
 ```
