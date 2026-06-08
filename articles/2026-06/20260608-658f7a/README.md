@@ -1,6 +1,6 @@
-# 시진핑, 평양 국빈 방문… 김정은과 양국 관계 강화 논의
+# 시진핑, 평양 국빈 방문…북중 정상 '양국 관계 강화' 논의
 
-14년 만의 방문, 경제협력·안보 공조 강화 논의 본격화
+6월 8일 평양 도착, 김정은과 정상회담 개최 확인
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | original |
 | 분류 | geopolitics |
-| 태그 | 지정학·국제, 북한, 중국, 동맹·외교, 회담 |
+| 태그 | 지정학·국제, 안보위협, 북한, 중국, 동맹·외교, 회담 |
 
 ## 출처 매체
 
@@ -22,5 +22,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "시진핑, 평양 국빈 방문… 김정은과 양국 관계 강화 논의", combatsociety.kr/news/20260608-658f7a, github.com/CombatSociety/data.
+Combat Society dataset, "시진핑, 평양 국빈 방문…북중 정상 '양국 관계 강화' 논의", combatsociety.kr/news/20260608-658f7a, github.com/CombatSociety/data.
 ```
