@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-08T15:04:24.121897+00:00",
+  "slug": "20260608-eb49f4",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
+  "summary": "VPN 제로데이 취약점 악용한 킬린 조직의 침투 활동 추적, 패치 공개로 확산 차단",
+  "tags": [
+    "안보위협",
+    "군사기술",
+    "사이버안보",
+    "APT공격",
+    "랜섬웨어",
+    "이스라엘"
+  ],
+  "title": "체크포인트, VPN 제로데이 공격 킬린 랜섬웨어 조직과 연결 확인",
+  "url": "https://combatsociety.kr/news/20260608-eb49f4"
+}
