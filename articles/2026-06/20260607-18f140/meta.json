@@ -1,22 +1,22 @@
 {
-  "category": "geopolitics",
-  "content_type": "original",
+  "category": "operations",
+  "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P2",
   "published_at": "2026-06-07T17:00:17.661797+00:00",
   "slug": "20260607-18f140",
-  "source_name": null,
-  "source_url": null,
-  "summary": "휴전 발효 수일 만에 베이루트 남부 공습 강행, 이란 대미·대이스라엘 보복 경고 발령",
+  "source_name": "BBC",
+  "source_url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
+  "summary": "휴전 협정 이행 논란 재점화, 헤즈볼라 포격 대응 명분 공습 강행",
   "tags": [
-    "지정학·국제",
-    "중동",
+    "작전·훈련",
+    "안보위협",
+    "동맹·외교",
     "이스라엘",
-    "이란",
-    "교전",
-    "동맹·외교"
+    "중동",
+    "교전"
   ],
-  "title": "휴전 발효 수일 만에 베이루트 남부 피격… 이스라엘, 미국 요청 무시하고 공습 강행",
+  "title": "휴전 합의 사흘 만에 이스라엘, 베이루트 공습… 헤즈볼라 보복 우려",
   "url": "https://combatsociety.kr/news/20260607-18f140"
 }

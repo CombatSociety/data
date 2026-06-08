@@ -1,24 +1,22 @@
 {
   "category": "weapons",
-  "content_type": "original",
+  "content_type": "wire",
   "cover_image_caption": "2026년 3월 31일 노스캐롤라이나주 포트 브래그에서 XVIII Airborne Corps가 주최한 무인항공기 시연에서 훈련 표적용부터 자율 군집 및 목표 추적용까지 다양한 무인항공기 체계들이 전시되고 있다.",
   "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Austin Robertson",
   "priority": "P2",
   "published_at": "2026-06-07T12:36:45.143217+00:00",
   "slug": "20260607-918c28",
-  "source_name": null,
-  "source_url": null,
-  "summary": "헬파이어·JAGM 탑재 경량 기동 플랫폼, 기지방어 특화 설계",
+  "source_name": "Task & Purpose",
+  "source_url": "https://taskandpurpose.com/tech-tactics/army-grizzily-anti-drone-container/",
+  "summary": "헬파이어·AGM-179 미사일 탑재, 화물컨테이너 기반 경량 기동형 기지 방어 체계 본격 배치",
   "tags": [
     "무기·방산",
     "군사기술",
     "미국",
     "육군",
     "드론",
-    "방공체계",
-    "안보위협",
-    "도입"
+    "방공체계"
   ],
-  "title": "컨테이너에서 헬파이어 발사… 미 육군, 그리즐리 기지방어 무기체계 공개",
+  "title": "미 육군, 화물컨테이너 기반 그리즐리 대드론 미사일 체계 배치",
   "url": "https://combatsociety.kr/news/20260607-918c28"
 }
