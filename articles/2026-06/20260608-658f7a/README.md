@@ -1,15 +1,16 @@
-# 시진핑, 평양 국빈 방문…북중 정상 '양국 관계 강화' 논의
+# 시진핑 중국 국가주석, 북한 국빈 방문…김정은과 정상회담
 
-6월 8일 평양 도착, 김정은과 정상회담 개최 확인
+14년 만의 방문, 한반도 정세 변화 속 전략적 동맹 재확인
 
 | 항목 | 값 |
 |---|---|
 | Slug | `20260608-658f7a` |
 | 발행 | 2026-06-08T16:54:34.166467+00:00 |
 | 우선순위 | P2 |
-| 콘텐츠 타입 | original |
+| 콘텐츠 타입 | wire |
 | 분류 | geopolitics |
-| 태그 | 지정학·국제, 안보위협, 북한, 중국, 동맹·외교, 회담 |
+| 태그 | 지정학·국제, 동맹·외교, 중국, 북한, 한반도 |
+| 단일 출처 | [VOA 한반도](https://www.voakorea.com/a/xi-first-day-in-pyongyang-060826/8158554.html) |
 
 ## 출처 매체
 
@@ -22,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "시진핑, 평양 국빈 방문…북중 정상 '양국 관계 강화' 논의", combatsociety.kr/news/20260608-658f7a, github.com/CombatSociety/data.
+Combat Society dataset, "시진핑 중국 국가주석, 북한 국빈 방문…김정은과 정상회담", combatsociety.kr/news/20260608-658f7a, github.com/CombatSociety/data.
 ```

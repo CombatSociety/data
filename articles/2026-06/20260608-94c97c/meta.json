@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-08T21:31:17.773466+00:00",
+  "slug": "20260608-94c97c",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/vulnerabilities-threats/check-point-vpn-flaw-exploited-early-may",
+  "summary": "5월 초부터 악용 중, 킬린 랜섬웨어 계열 최소 1건 침해 연루",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "랜섬웨어",
+    "APT공격",
+    "공급망공격"
+  ],
+  "title": "체크포인트 VPN 제로데이 악용 확산… 킬린 랜섬웨어 연루",
+  "url": "https://combatsociety.kr/news/20260608-94c97c"
+}

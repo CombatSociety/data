@@ -1,24 +1,21 @@
 {
   "category": "weapons",
-  "content_type": "original",
+  "content_type": "wire",
   "cover_image_caption": "2026년 4월 21일 중동 미 중앙사령부 지역에서 3rd Marine Aircraft Wing 산하 Marine Air Control Group 38의 3d Low Altitude Air Defense Battalion 소속 해병대원들이 소형 무인항공기 대응 훈련을 실시하고 있다.",
   "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Courtesy",
   "priority": "P2",
   "published_at": "2026-06-08T18:28:04.869661+00:00",
   "slug": "20260608-a6e979",
-  "source_name": null,
-  "source_url": null,
-  "summary": "PdM AMMO, 5.56mm 'L 변형' 대드론 탄약 ID/IQ 단독계약 협상 착수",
+  "source_name": "Soldier Systems",
+  "source_url": "https://soldiersystems.net/2026/06/08/usmc-issues-sole-source-notice-for-5-56mm-anti-drone-rounds/?utm_source=rss&utm_medium=rss&utm_campaign=usmc-issues-sole-source-notice-for-5-56mm-anti-drone-rounds",
+  "summary": "드론라운드와 부정기 공급 계약 추진, 단독 공급원 공고 발표",
   "tags": [
     "무기·방산",
-    "군사기술",
     "미국",
     "해병대",
     "드론",
-    "특수전",
-    "도입",
-    "안보위협"
+    "방산정책"
   ],
-  "title": "5.56mm 탄약으로 드론 격추… 미 해병대, Drone Round LLC 단독계약 추진",
+  "title": "미 해병대, 5.56mm 대드론 탄약 단독 계약 추진",
   "url": "https://combatsociety.kr/news/20260608-a6e979"
 }
