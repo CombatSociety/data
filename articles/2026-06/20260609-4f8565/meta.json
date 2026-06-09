@@ -1,24 +1,23 @@
 {
   "category": "weapons",
-  "content_type": "original",
-  "cover_image_caption": null,
-  "cover_image_credit": null,
+  "content_type": "wire",
+  "cover_image_caption": "2026년 1월 7일 Defense Logistics Agency Distribution Susquehanna에서 열린 Warehouse Utilization 프로그램 기술 시연 행사에 참석한 전쟁부 관계자들이 군사 물류 현대화 방안을 논의하고 있다.",
+  "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Dorie Heyer",
   "priority": "P2",
   "published_at": "2026-06-09T16:13:20.47087+00:00",
   "slug": "20260609-4f8565",
-  "source_name": null,
-  "source_url": null,
-  "summary": "육군 해상 군수 역량 확대, DIU 주도 수십 척 규모 공모 착수",
+  "source_name": "Naval News",
+  "source_url": "https://www.navalnews.com/naval-news/2026/06/pentagon-eyes-new-usv-for-indo-pacific-contested-logistics/",
+  "summary": "육군 해상 보급 지원용, 수십 척 규모 대량 도입 추진",
   "tags": [
     "무기·방산",
-    "군사기술",
     "작전·훈련",
     "미국",
     "인도태평양",
-    "수상무인정",
-    "다영역작전",
-    "배치"
+    "드론",
+    "해군",
+    "국방정책"
   ],
-  "title": "분쟁 환경 해상 군수 공백 메운다… 미 국방부, 인도태평양용 무인수상정 수십 척 도입 추진",
+  "title": "인도태평양 분쟁 대비 미 국방부, 무인수상정 대량 도입 추진",
   "url": "https://combatsociety.kr/news/20260609-4f8565"
 }

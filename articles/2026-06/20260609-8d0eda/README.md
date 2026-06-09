@@ -1,6 +1,6 @@
-# 전투 수색구조에 무인수상정 첫 투입… 호르무즈 해협 인근 AH-64E 추락 승무원 구조
+# 전투 수색구조 패러다임 전환… 수상무인정이 호르무즈 해협 인근 AH-64 아파치 승무원 구조
 
-승무원 2명 구조 성공, 전투 수색구조 임무 무인수상정 첫 투입 확인
+AH-64E 추락 후 USV로 승무원 2명 회수, 무인 수상 플랫폼의 전투 수색구조 임무 첫 실전 적용
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "전투 수색구조에 무인수상정 첫 투입… 호르무즈 해협 인근 AH-64E 추락 승무원 구조", combatsociety.kr/news/20260609-8d0eda, github.com/CombatSociety/data.
+Combat Society dataset, "전투 수색구조 패러다임 전환… 수상무인정이 호르무즈 해협 인근 AH-64 아파치 승무원 구조", combatsociety.kr/news/20260609-8d0eda, github.com/CombatSociety/data.
 ```

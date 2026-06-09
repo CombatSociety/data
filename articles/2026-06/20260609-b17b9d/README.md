@@ -1,6 +1,6 @@
-# 미 육군 박격포 사격통제, 20년 노후 소프트웨어 스마트폰 앱으로 교체
+# 미군 박격포 부대, 20년 노후 소프트웨어 스마트폰 앱으로 교체
 
-야전 신속성·휴대성 대폭 개선, 모바일 기반 사격통제 체계로 전환
+노트북 기반 사격 계산 소프트웨어 20년 만에 모바일화, 현장 운용 효율성·신속성 대폭 향상
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 무기·방산, 군사기술, 미국, 육군, 작전·훈련 |
+| 태그 | 무기·방산, 군사기술, 미국, 육군 |
 | 단일 출처 | [Army Times](https://www.armytimes.com/industry/techwatch/2026/06/09/army-mortar-crews-trade-laptops-for-phone-app/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미 육군 박격포 사격통제, 20년 노후 소프트웨어 스마트폰 앱으로 교체", combatsociety.kr/news/20260609-b17b9d, github.com/CombatSociety/data.
+Combat Society dataset, "미군 박격포 부대, 20년 노후 소프트웨어 스마트폰 앱으로 교체", combatsociety.kr/news/20260609-b17b9d, github.com/CombatSociety/data.
 ```

@@ -1,21 +1,20 @@
 {
   "category": "weapons",
-  "content_type": "original",
+  "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P2",
   "published_at": "2026-06-09T16:10:01.627599+00:00",
   "slug": "20260609-771dd4",
-  "source_name": null,
-  "source_url": null,
-  "summary": "6월 9일 공개, 소형 기동형 방공체계의 최신 세대 진화 완성",
+  "source_name": "Defence Blog",
+  "source_url": "https://defence-blog.com/diehl-unveils-new-generation-iris-t-air-defense-system/",
+  "summary": "베를린 항공우주전시회서 컴팩트 이동식 4세대 모델 선보임",
   "tags": [
     "무기·방산",
     "방공체계",
-    "NATO",
-    "산업·기업",
-    "도입"
+    "군사기술",
+    "방산수출"
   ],
-  "title": "4세대로 진화한 독일 방공체계… Diehl Defence, ILA 베를린 전날 IRIS-T SLS MK 4 공개",
+  "title": "독일 디엘, IRIS-T SLS MK 4 신세대 방공체계 공개",
   "url": "https://combatsociety.kr/news/20260609-771dd4"
 }
