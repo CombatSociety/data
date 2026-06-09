@@ -1,23 +1,23 @@
 {
-  "category": "tech",
+  "category": "doctrine",
   "content_type": "original",
-  "cover_image_caption": null,
-  "cover_image_credit": null,
+  "cover_image_caption": "지난 2026년 1월 7일 Defense Logistics Agency Distribution Susquehanna에서 열린 Warehouse Utilization 프로그램 기술 시연 행사에서 전쟁부 산하 관계자들이 창고 관리 현대화를 통한 군수 민첩성 향상 방안을 논의하고 있다.",
+  "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Dorie Heyer",
   "priority": "P2",
   "published_at": "2026-06-09T10:04:23.841951+00:00",
   "slug": "20260609-73561a",
   "source_name": null,
   "source_url": null,
-  "summary": "지리적 집중으로 핵심 인프라 배치 영구 재편, 미래전 방호 대상 부상",
+  "summary": "미 육군사관학교 현대전연구소 규정, 군사적 방호 체계 구축 논의 본격화",
   "tags": [
+    "교리·전술",
     "군사기술",
     "AI국방",
-    "안보위협",
-    "교리·전술",
-    "미국",
     "사이버안보",
-    "다영역작전"
+    "미국",
+    "다영역작전",
+    "안보위협"
   ],
-  "title": "AI 인프라가 새로운 핵심 지형으로… 데이터센터, 미래전 경쟁의 물리적 전장으로 부상",
+  "title": "AI 데이터센터, 미래전의 핵심 지형으로 부상… 군사적 방호 논의 본격화",
   "url": "https://combatsociety.kr/news/20260609-73561a"
 }
