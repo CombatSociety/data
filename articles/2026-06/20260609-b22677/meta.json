@@ -1,22 +1,22 @@
 {
-  "category": "tech",
-  "content_type": "original",
+  "category": "doctrine",
+  "content_type": "wire",
   "cover_image_caption": "지난 2026년 5월 2일 오산 공군기지 체육관에서 열린 제5회 한미 우호 어린이·가족 태권도 전시회에 참가한 미군과 한국군 장병 및 가족들이 모여 신체 건강, 화합, 상호 이해와 우정을 증진하고 있다.",
   "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Desiree Ware",
   "priority": "P2",
   "published_at": "2026-06-09T09:35:58.257514+00:00",
   "slug": "20260609-b22677",
-  "source_name": null,
-  "source_url": null,
-  "summary": "AI 파일럿·MUM-T 기술 현황 공유, 지휘관·민간 전문가 참석 하 심층 논의",
+  "source_name": "국방일보-공군",
+  "source_url": "http://kookbang.dema.mil.kr/newsWeb/20260610/1/ATCE_CTGR_0010050000/view.do",
+  "summary": "국내외 전문가 참석, AI 파일럿·유무인 복합전투체계 기술 동향 공유",
   "tags": [
-    "군사기술",
     "공군",
+    "군사기술",
     "AI국방",
     "유무인복합",
-    "작전·훈련",
-    "한국"
+    "한국",
+    "교리·전술"
   ],
-  "title": "AI 파일럿·유무인복합전투체계 현주소 점검… 공군사관학교, 항공우주포럼 개최",
+  "title": "AI 파일럿 기술 현황 점검한 공군사관학교… 유무인 복합전투 논의",
   "url": "https://combatsociety.kr/news/20260609-b22677"
 }
