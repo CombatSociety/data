@@ -1,23 +1,22 @@
 {
   "category": "threats",
-  "content_type": "original",
+  "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P2",
   "published_at": "2026-06-09T13:03:25.055514+00:00",
   "slug": "20260609-611842",
-  "source_name": null,
-  "source_url": null,
-  "summary": "제트 추진 신형 타격 드론 실전 전개 확인, 우크라이나 요격 드론 대응 본격화",
+  "source_name": "Atlantic Council",
+  "source_url": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukrainian-civilians-face-new-threat-from-russias-upgraded-jet-drones/",
+  "summary": "우크라이나 요격 드론 대응책으로 평가, 민간인 피해 확대 우려",
   "tags": [
     "안보위협",
-    "드론",
-    "러시아",
+    "무기·방산",
     "우크라이나",
-    "지정학·국제",
-    "동유럽",
-    "교전"
+    "러시아",
+    "드론",
+    "비정규전"
   ],
-  "title": "우크라이나 요격 드론 대응 나선 러시아, 신형 제트 추진 타격 드론 실전 투입",
+  "title": "러시아, 제트 추진 드론으로 우크라이나 민간인 위협 확대",
   "url": "https://combatsociety.kr/news/20260609-611842"
 }
