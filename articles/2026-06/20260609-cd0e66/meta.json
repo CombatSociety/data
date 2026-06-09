@@ -1,0 +1,23 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-09T20:41:50.081053+00:00",
+  "slug": "20260609-cd0e66",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/vulnerabilities-threats/russian-groups-winrar-flaw-ukrainian-orgs",
+  "summary": "CVE-2025-8088 취약점 악용, 우크라이나 군정부 기관 정보탈취·첩보 활동 전개",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "우크라이나",
+    "러시아",
+    "APT공격",
+    "사이버스파이",
+    "영향공작"
+  ],
+  "title": "우크라이나 군정부 겨냥한 러시아 해킹 그룹… WinRAR 취약점 악용 정보탈취",
+  "url": "https://combatsociety.kr/news/20260609-cd0e66"
+}

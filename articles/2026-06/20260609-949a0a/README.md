@@ -1,6 +1,6 @@
 # 미 국방부, 저비용 자살드론용 탄약 선정… 노스럽그루먼·스타트업 경쟁
 
-노스럽그루먼·스타트업 호환형 페이로드 공급 경쟁, 저비용 탄약 선정 목록 공개
+노스럽그루먼·스타트업 포함 다수 기업, 호환 페이로드 공급 경쟁 본격화
 
 | 항목 | 값 |
 |---|---|
@@ -10,11 +10,11 @@
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
 | 태그 | 무기·방산, 군사기술, 미국, 드론, 산업·기업 |
-| 단일 출처 | [Air Force Times](https://www.airforcetimes.com/industry/techwatch/2026/06/09/pentagon-reveals-preferred-munitions-for-one-way-attack-drones/) |
+| 단일 출처 | [Defense News](https://www.defensenews.com/industry/techwatch/2026/06/09/pentagon-reveals-preferred-munitions-for-one-way-attack-drones/) |
 
 ## 출처 매체
 
-- [Air Force Times](https://www.airforcetimes.com/industry/techwatch/2026/06/09/pentagon-reveals-preferred-munitions-for-one-way-attack-drones/)
+- [Defense News](https://www.defensenews.com/industry/techwatch/2026/06/09/pentagon-reveals-preferred-munitions-for-one-way-attack-drones/)
 
 ## 사이트에서 읽기
 
