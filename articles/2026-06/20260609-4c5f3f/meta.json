@@ -1,0 +1,21 @@
+{
+  "category": "tech",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-09T17:37:57.470708+00:00",
+  "slug": "20260609-4c5f3f",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
+  "summary": "Mythos Preview, 익스플로잇 발견·역공학·실제 검증 등 다양한 보안 작업 활용성 확인·XBOW 평가 결과",
+  "tags": [
+    "군사기술",
+    "AI국방",
+    "Anthropic",
+    "사이버안보",
+    "미국"
+  ],
+  "title": "AI 보안 모델의 취약점 탐지 능력 검증… 소스코드 분석서 높은 성과",
+  "url": "https://combatsociety.kr/news/20260609-4c5f3f"
+}
