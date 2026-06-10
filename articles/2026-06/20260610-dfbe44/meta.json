@@ -1,0 +1,23 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-10T15:38:20.775536+00:00",
+  "slug": "20260610-dfbe44",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
+  "summary": "미군 네트워크 공격 범위 확대, 정찰 활동 강화",
+  "tags": [
+    "안보위협",
+    "군사기술",
+    "사이버안보",
+    "미국",
+    "중국",
+    "APT공격",
+    "사이버스파이"
+  ],
+  "title": "중국 연계 JDY 봇넷, 미군 네트워크 공격 확대",
+  "url": "https://combatsociety.kr/news/20260610-dfbe44"
+}
