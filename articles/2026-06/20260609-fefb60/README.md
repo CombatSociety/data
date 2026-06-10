@@ -1,6 +1,6 @@
-# 미한 핵협의그룹, 11일 서울서 6차 회의 개최… 확장억제 강화 논의
+# 미한 핵협의그룹, 11일 서울서 6차 회의 개최…확장억제 강화
 
-북한 핵 위협 대응, 확장억제 강화 방안 논의
+북한 핵 위협 대응 확장억제력 강화 방안 논의
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | alliance |
-| 태그 | 동맹·외교, 국방정책, 핵무기, 한국, 미국, 한반도, 한미동맹 |
+| 태그 | 동맹·외교, 국방정책, 핵무기, 한국, 미국, 한미동맹, 확장억제 |
 | 단일 출처 | [VOA 한반도](https://www.voakorea.com/a/u-s-and-south-korea-to-hold-6th-nuclear-consultative-group-meeting-in-seoul-on-the-11th-20260609/8158988.html) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미한 핵협의그룹, 11일 서울서 6차 회의 개최… 확장억제 강화 논의", combatsociety.kr/news/20260609-fefb60, github.com/CombatSociety/data.
+Combat Society dataset, "미한 핵협의그룹, 11일 서울서 6차 회의 개최…확장억제 강화", combatsociety.kr/news/20260609-fefb60, github.com/CombatSociety/data.
 ```
