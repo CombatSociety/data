@@ -1,0 +1,20 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-10T14:50:35.357621+00:00",
+  "slug": "20260610-21f4b4",
+  "source_name": "Krebs on Security",
+  "source_url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+  "summary": "90% 수익 배분으로 해커 모집, 활동 활발한 2위 갱단으로 부상·관리자 신원 추적 중",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "랜섬웨어",
+    "APT공격"
+  ],
+  "title": "랜섬웨어 조직 '더 젠틀맨' 급부상… 90% 수익 배분으로 해커 모집",
+  "url": "https://combatsociety.kr/news/20260610-21f4b4"
+}
