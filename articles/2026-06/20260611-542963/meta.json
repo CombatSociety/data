@@ -1,0 +1,19 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-11T20:48:40.101324+00:00",
+  "slug": "20260611-542963",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ivanti-sentry-flaw-exploited-24-hours",
+  "summary": "공개 24시간 내 악용, 공격자 사전 정찰 가능성 지적",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "군사기술"
+  ],
+  "title": "아이반티 최고 심각도 취약점, 공개 24시간 내 악용",
+  "url": "https://combatsociety.kr/news/20260611-542963"
+}
