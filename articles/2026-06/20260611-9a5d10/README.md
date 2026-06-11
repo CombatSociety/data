@@ -1,6 +1,6 @@
-# 헤그세스 국방장관, 이란 대규모 타격 계획 공개 발언… 중부사령부 방문서 작전 논의
+# 헤그세스 국방장관, 이란 대규모 타격 계획 공개 언급… 중부사령부 방문서 작전 논의
 
-맥딜 기지 USCENTCOM 지휘부 회의서 이란 타격 작전 계획 공개 언급, 중부사령부와 구체적 운용 논의
+맥딜 기지 USCENTCOM 지휘부와 이란 대규모 타격 작전 계획 논의
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P1 |
 | 콘텐츠 타입 | original |
 | 분류 | geopolitics |
-| 태그 | 지정학·국제, 중동, 이란, 미국, USCENTCOM, 회담, 성명 |
+| 태그 | 지정학·국제, 미국, 이란, 중동, USCENTCOM, 회담, 성명 |
 
 ## 출처 매체
 
@@ -22,5 +22,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "헤그세스 국방장관, 이란 대규모 타격 계획 공개 발언… 중부사령부 방문서 작전 논의", combatsociety.kr/news/20260611-9a5d10, github.com/CombatSociety/data.
+Combat Society dataset, "헤그세스 국방장관, 이란 대규모 타격 계획 공개 언급… 중부사령부 방문서 작전 논의", combatsociety.kr/news/20260611-9a5d10, github.com/CombatSociety/data.
 ```

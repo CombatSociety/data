@@ -1,6 +1,6 @@
-# 12·3 비상계엄 후속 조치… 한국 국방부, 군사안보지원사령부 해체 공식 발표
+# 방첩사 해체 공식화… 한국 국방부, 군 방첩기구 조직 개편 발표
 
-방첩사 해체 결정 공식화, 비상계엄 후속 조치 본격화
+비상계엄 사태 후속 조치, 군 방첩기구 재편 본격화
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | original |
 | 분류 | defense_policy |
-| 태그 | 국방정책, 한국, 안보위협, 교전, 성명 |
+| 태그 | 국방정책, 한국, 안보위협 |
 
 ## 출처 매체
 
@@ -22,5 +22,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "12·3 비상계엄 후속 조치… 한국 국방부, 군사안보지원사령부 해체 공식 발표", combatsociety.kr/news/20260610-80d90a, github.com/CombatSociety/data.
+Combat Society dataset, "방첩사 해체 공식화… 한국 국방부, 군 방첩기구 조직 개편 발표", combatsociety.kr/news/20260610-80d90a, github.com/CombatSociety/data.
 ```
