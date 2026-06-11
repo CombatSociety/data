@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-11T06:33:57.262671+00:00",
+  "slug": "20260611-92f165",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
+  "summary": "루트 권한 획득으로 보안 게이트웨이 장악 가능, 실제 공격 악용 확산 중",
+  "tags": [
+    "안보위협",
+    "사이버무기",
+    "군사기술",
+    "사이버안보",
+    "APT공격"
+  ],
+  "title": "아이반티 센트리 최고 위험도 취약점 악용 공격 확산",
+  "url": "https://combatsociety.kr/news/20260611-92f165"
+}
