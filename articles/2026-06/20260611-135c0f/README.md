@@ -1,6 +1,6 @@
 # 트럼프, 이란 카르그섬 점령 선언 후 번복… 실제 작전 가능성과 한계
 
-선언 직후 번복, 전직 미군 고위 지휘관들 "작전 요건·군사적 한계 상존
+전직 미군 고위 지휘관들, 작전 실행 가능성과 한계 동시 지적
 
 | 항목 | 값 |
 |---|---|
@@ -9,11 +9,11 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | original |
 | 분류 | geopolitics |
-| 태그 | 지정학·국제, 안보위협, 이란, 미국, 중동, 교전, 성명, USCENTCOM |
+| 태그 | 지정학·국제, 이란, 미국, 중동, 안보위협, 교전, 성명 |
 
 ## 출처 매체
 
-- [Defense News](https://www.defensenews.com/news/pentagon-congress/2026/06/11/trump-vows-to-seize-irans-kharg-island/)
+- [Military Times](https://www.militarytimes.com/news/pentagon-congress/2026/06/11/trump-vows-to-seize-irans-kharg-island/)
 - [The War Zone](https://www.twz.com/news-features/what-it-would-take-to-seize-irans-kharg-island-according-to-top-former-military-leaders)
 
 ## 사이트에서 읽기
