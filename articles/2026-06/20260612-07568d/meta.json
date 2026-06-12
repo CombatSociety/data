@@ -1,0 +1,23 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-12T18:46:42.120297+00:00",
+  "slug": "20260612-07568d",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+  "summary": "아일랜드 신병인도 후 공모 혐의 인정, 美 법원 제출 예정",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "우크라이나",
+    "미국",
+    "사이버스파이",
+    "APT공격",
+    "랜섬웨어"
+  ],
+  "title": "우크라이나 국민, 콘티 랜섬웨어 조직 연루 혐의 인정",
+  "url": "https://combatsociety.kr/news/20260612-07568d"
+}
