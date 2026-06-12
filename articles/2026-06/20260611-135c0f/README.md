@@ -1,6 +1,6 @@
-# 트럼프, 이란 카르그섬 점령 위협 발언 후 번복… 실제 작전 가능성은
+# 트럼프, 이란 카르그섬 점령 선언 후 번복… 실제 작전 가능성과 한계
 
-전직 미군 고위 지휘관들, 실제 작전 가능성 평가·난제 지적
+선언·번복 논란 속 작전 실현성 검증, 전직 군사지도자들 "이란 비대칭 방어 능력 고려 필수
 
 | 항목 | 값 |
 |---|---|
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "트럼프, 이란 카르그섬 점령 위협 발언 후 번복… 실제 작전 가능성은", combatsociety.kr/news/20260611-135c0f, github.com/CombatSociety/data.
+Combat Society dataset, "트럼프, 이란 카르그섬 점령 선언 후 번복… 실제 작전 가능성과 한계", combatsociety.kr/news/20260611-135c0f, github.com/CombatSociety/data.
 ```
