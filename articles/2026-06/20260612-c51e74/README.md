@@ -1,15 +1,16 @@
-# 대만군, 서부 해안서 M142 HIMARS 실사격… 정밀타격 능력 공개 검증
+# 대만, 미국산 HIMARS 대규모 실사격 훈련… 정밀타격 능력 검증
 
-서부 해안 실사격으로 기동성·장거리 정밀타격 능력 공개 검증
+서해안 실사격으로 정밀타격 능력 검증, 실전 운용 태세 점검
 
 | 항목 | 값 |
 |---|---|
 | Slug | `20260612-c51e74` |
 | 발행 | 2026-06-12T00:11:26.796157+00:00 |
 | 우선순위 | P2 |
-| 콘텐츠 타입 | original |
-| 분류 | weapons |
-| 태그 | 무기·방산, 작전·훈련, 대만, 미국, 다연장로켓, 한반도, 인도태평양, 배치 |
+| 콘텐츠 타입 | wire |
+| 분류 | operations |
+| 태그 | 작전·훈련, 무기·방산, 대만, 미국, 다연장로켓 |
+| 단일 출처 | [USNI News](https://news.usni.org/2026/06/11/taiwan-tests-himars-missiles-on-islands-west-coast-in-major-live-fire-drills) |
 
 ## 출처 매체
 
@@ -22,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "대만군, 서부 해안서 M142 HIMARS 실사격… 정밀타격 능력 공개 검증", combatsociety.kr/news/20260612-c51e74, github.com/CombatSociety/data.
+Combat Society dataset, "대만, 미국산 HIMARS 대규모 실사격 훈련… 정밀타격 능력 검증", combatsociety.kr/news/20260612-c51e74, github.com/CombatSociety/data.
 ```

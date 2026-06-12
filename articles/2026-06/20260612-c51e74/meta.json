@@ -1,24 +1,21 @@
 {
-  "category": "weapons",
-  "content_type": "original",
+  "category": "operations",
+  "content_type": "wire",
   "cover_image_caption": "지난 2026년 4월 27일 필리핀 팔라완에서 열린 Balikatan 26 훈련에서 미 육군 7th Infantry Division 예하 5th Battalion, 3rd Artillery Regiment 소속 M142 High Mobility Artillery Rocket Systems가 가상 화력 임무를 수행하고 있다.",
   "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Brandon Rickert",
   "priority": "P2",
   "published_at": "2026-06-12T00:11:26.796157+00:00",
   "slug": "20260612-c51e74",
-  "source_name": null,
-  "source_url": null,
-  "summary": "서부 해안 실사격으로 기동성·장거리 정밀타격 능력 공개 검증",
+  "source_name": "USNI News",
+  "source_url": "https://news.usni.org/2026/06/11/taiwan-tests-himars-missiles-on-islands-west-coast-in-major-live-fire-drills",
+  "summary": "서해안 실사격으로 정밀타격 능력 검증, 실전 운용 태세 점검",
   "tags": [
-    "무기·방산",
     "작전·훈련",
+    "무기·방산",
     "대만",
     "미국",
-    "다연장로켓",
-    "한반도",
-    "인도태평양",
-    "배치"
+    "다연장로켓"
   ],
-  "title": "대만군, 서부 해안서 M142 HIMARS 실사격… 정밀타격 능력 공개 검증",
+  "title": "대만, 미국산 HIMARS 대규모 실사격 훈련… 정밀타격 능력 검증",
   "url": "https://combatsociety.kr/news/20260612-c51e74"
 }

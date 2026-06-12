@@ -1,6 +1,6 @@
-# 미군, 이란 내 표적 타격 완료… 최신 공습 작전 종료 공식 확인
+# 미군, 이란 내 표적 최신 타격 완료… 작전 결과 공식 발표
 
-세부 피해 평가 미공개, 작전 규모·효과성 검증 대기
+작전 결과 공식 발표, 표적 타격 완료 확인
 
 | 항목 | 값 |
 |---|---|
@@ -22,5 +22,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미군, 이란 내 표적 타격 완료… 최신 공습 작전 종료 공식 확인", combatsociety.kr/news/20260611-4475b0, github.com/CombatSociety/data.
+Combat Society dataset, "미군, 이란 내 표적 최신 타격 완료… 작전 결과 공식 발표", combatsociety.kr/news/20260611-4475b0, github.com/CombatSociety/data.
 ```
