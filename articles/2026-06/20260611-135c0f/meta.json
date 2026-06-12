@@ -1,23 +1,21 @@
 {
   "category": "geopolitics",
-  "content_type": "original",
+  "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
-  "priority": "P2",
+  "priority": "P3",
   "published_at": "2026-06-11T21:35:06.923595+00:00",
   "slug": "20260611-135c0f",
-  "source_name": null,
-  "source_url": null,
-  "summary": "전직 미군 고위 지휘관들, 작전 실행 가능성과 한계 동시 지적",
+  "source_name": "The War Zone",
+  "source_url": "https://www.twz.com/news-features/what-it-would-take-to-seize-irans-kharg-island-according-to-top-former-military-leaders",
+  "summary": "전직 미군 지휘관들, 에너지 수출 거점 점령의 다층적 난제 지적",
   "tags": [
     "지정학·국제",
-    "이란",
     "미국",
-    "중동",
+    "이란",
     "안보위협",
-    "교전",
-    "성명"
+    "동맹·외교"
   ],
-  "title": "트럼프, 이란 카르그섬 점령 선언 후 번복… 실제 작전 가능성과 한계",
+  "title": "이란 카르그섬 점령 작전의 군사적 난제… 전직 미군 지휘관들 분석",
   "url": "https://combatsociety.kr/news/20260611-135c0f"
 }
