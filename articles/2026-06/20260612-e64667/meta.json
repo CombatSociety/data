@@ -1,0 +1,22 @@
+{
+  "category": "tech",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-12T14:38:09.981802+00:00",
+  "slug": "20260612-e64667",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
+  "summary": "소프트웨어 공급망 공격 자산 거래 활발, 지하 포럼 모니터링으로 초기 신호 감지 가능",
+  "tags": [
+    "군사기술",
+    "사이버안보",
+    "사이버스파이",
+    "공급망공격",
+    "APT공격",
+    "정보수집"
+  ],
+  "title": "깃허브 계정 판매·API 키 유출… 다크웹서 공급망 공격 신호 포착",
+  "url": "https://combatsociety.kr/news/20260612-e64667"
+}
