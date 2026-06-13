@@ -1,6 +1,6 @@
 # F-35 전투기 전력화율 25%로 급락… 미 GAO 보고서 경고
 
-부품·정비·소프트웨어 문제 복합 작용, 완전 전투 가능 비율 25% 수준으로 저조
+정비·부품 공급망 차질로 가동률 급락, 전력화 목표 달성 난항
 
 | 항목 | 값 |
 |---|---|
@@ -10,11 +10,11 @@
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
 | 태그 | 무기·방산, 군사기술, 미국, 전투기, 국방정책 |
-| 단일 출처 | [Military Times](https://www.militarytimes.com/industry/techwatch/2026/06/12/only-1-in-4-f-35s-is-fully-mission-capable-gao-finds/) |
+| 단일 출처 | [Defense News](https://www.defensenews.com/industry/techwatch/2026/06/12/only-1-in-4-f-35s-is-fully-mission-capable-gao-finds/) |
 
 ## 출처 매체
 
-- [Military Times](https://www.militarytimes.com/industry/techwatch/2026/06/12/only-1-in-4-f-35s-is-fully-mission-capable-gao-finds/)
+- [Defense News](https://www.defensenews.com/industry/techwatch/2026/06/12/only-1-in-4-f-35s-is-fully-mission-capable-gao-finds/)
 
 ## 사이트에서 읽기
 
