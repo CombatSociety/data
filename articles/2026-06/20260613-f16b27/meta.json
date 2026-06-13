@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-13T15:43:28.518271+00:00",
+  "slug": "20260613-f16b27",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
+  "summary": "인증 시스템 장악으로 10년간 관리자 활동 감시, 최상위 수준 지속적 접근 권한 확보",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "중국",
+    "사이버스파이",
+    "APT공격",
+    "정보수집"
+  ],
+  "title": "중국 해킹 조직, 인증 시스템 장악해 10년간 고립 네트워크 감시",
+  "url": "https://combatsociety.kr/news/20260613-f16b27"
+}
