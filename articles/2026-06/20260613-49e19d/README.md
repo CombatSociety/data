@@ -1,6 +1,6 @@
-# F-35 전투기 전력화율 25%로 급락… 미 감시원 경고
+# F-35 전투기 전력화율 25%로 급락… 미 회계감시원 경고
 
-전체 함대 75%, 부분 능력 상태·정비 중…완전 전투능력 보유율 급락
+완전 전력화율 25%로 하락, 함대 가동률 저하 추세 지속
 
 | 항목 | 값 |
 |---|---|
@@ -9,12 +9,12 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 무기·방산, 군사기술, 미국, 전투기, 국방정책 |
-| 단일 출처 | [Military Times](https://www.militarytimes.com/industry/techwatch/2026/06/12/only-1-in-4-f-35s-is-fully-mission-capable-gao-finds/) |
+| 태그 | 무기·방산, 군사기술, 미국, 전투기, 방산정책 |
+| 단일 출처 | [Defense News](https://www.defensenews.com/industry/techwatch/2026/06/12/only-1-in-4-f-35s-is-fully-mission-capable-gao-finds/) |
 
 ## 출처 매체
 
-- [Military Times](https://www.militarytimes.com/industry/techwatch/2026/06/12/only-1-in-4-f-35s-is-fully-mission-capable-gao-finds/)
+- [Defense News](https://www.defensenews.com/industry/techwatch/2026/06/12/only-1-in-4-f-35s-is-fully-mission-capable-gao-finds/)
 
 ## 사이트에서 읽기
 
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "F-35 전투기 전력화율 25%로 급락… 미 감시원 경고", combatsociety.kr/news/20260613-49e19d, github.com/CombatSociety/data.
+Combat Society dataset, "F-35 전투기 전력화율 25%로 급락… 미 회계감시원 경고", combatsociety.kr/news/20260613-49e19d, github.com/CombatSociety/data.
 ```
