@@ -1,0 +1,70 @@
+{
+  "assessment": "F-35 라이트닝 II의 완전임무가능 비율이 25%까지 떨어진 사실은 단순한 정비 문제가 아니라, 미국이 스텔스 전투기 중심으로 재편한 전력 구조 전체의 신뢰성 문제다. 같은 날 F-35C에 AGM-158C 장거리 대함미사일(LRASM)을 통합하는 비행시험이 완료됐다는 소식은 그 모순을 더 선명하게 드러낸다. 플랫폼의 가용률이 4분의 1 수준에 머무는 상황에서 탑재 무장의 능력을 확장하는 것은, 전투 효과를 높이는 것이 아니라 가동 가능한 소수 기체에 임무 부하를 집중시키는 구조를 강화할 뿐이다. 미 해군이 대만해협 등 반접근·지역거부(A2/AD) 환경에서 F-35C의 원거리 대함 타격 능력에 의존하려 할수록, 가용 기체 수 자체가 전략적 병목이 된다는 역설이 생긴다. 한국 공군은 F-35A 라이트닝 II를 핵심 전력으로 운용하고 있으며, 미 본토에서 확인된 가용률 저하 추세가 한반도 전구에서도 동일하게 작동한다고 가정할 근거가 충분하다. GAO가 수치로 확인한 이 구조적 저하는 F-35 전력에 의존하는 모든 동맹국의 전력기획 가정에 균열을 낸다. 전력기획 차원에서 F-35A의 실가용 대수를 보수적으로 재산정하고, 그 공백을 KF-21 보라매 전력화 속도 및 F-15K Slam Eagle 유지 비율과 어떻게 맞물릴 것인지를 따져보는 것이 지금 시점에서 현실적인 접근이며, 이 질문을 미루는 것 자체가 전력 공백을 묵인하는 것과 같다.",
+  "brief_date": "2026-06-14",
+  "digest_type": "daily",
+  "items": [
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "SOFREP",
+      "source_url": "https://sofrep.com/news/force-recon-vbss-training-2/",
+      "subtitle": "마린레이더스 창설로 해체됐던 포스 리콘이 정찰대대 예하로 복원되며 해병원정부대(MEU)의 특수작전 공백을 메우고 있다.",
+      "summary_en": "When MARSOC was established, Force Recon was absorbed and disbanded, leaving Marine Expeditionary Units without direct action or VBSS capability. The Marine Corps reversed course by rebuilding Force Recon under Recon Battalions, and MEUs now field both an Amphibious Reconnaissance Platoon and a Force Recon Platoon, restoring the full-spectrum special operations capacity that had been lost.",
+      "summary_kr": "마린레이더스 창설 당시 포스 리콘이 흡수·해체되면서 해병원정부대(MEU)는 직접행동 및 해상 임검·수색·나포(VBSS) 능력을 상실했다. 미 해병대는 이후 방침을 전환해 포스 리콘을 정찰대대 예하로 재편했으며, 현재 MEU는 상륙정찰소대와 포스 리콘 소대를 동시에 운용하는 체계를 회복했다.",
+      "title": "미 해병대 포스 리콘, 해상 임검·직접행동 능력 재건"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Real Clear Defense",
+      "source_url": "https://www.realcleardefense.com/2026/06/13/saronics_new_180-foot_drone_ship_could_launch_hypersonic_missiles_1188495.html",
+      "subtitle": "사로닉과 캐스텔리온이 55m급 자율 전투함에 극초음속 타격 무기를 탑재하는 협력 방안을 공개했다.",
+      "summary_en": "Defense technology firms Saronic and Castelion have announced a joint initiative to integrate a hypersonic strike weapon onto an autonomous unmanned surface vessel. The collaboration aims to demonstrate a crewless platform capable of long-range precision strike, potentially reshaping distributed maritime operations.",
+      "summary_kr": "방산 기술 기업 사로닉(Saronic)과 캐스텔리온(Castelion)이 자율 무인 수상함에 극초음속 타격 무기를 통합하는 계획을 발표했다. 이는 유인 전력 없이 원거리 정밀 타격이 가능한 무인 전투체계 구현을 목표로 한다.",
+      "title": "미국 방산 스타트업, 자율 무인함과 극초음속 무기 통합 계획 발표"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/06/12/only-1-in-4-f-35s-is-fully-mission-capable-gao-finds/",
+      "subtitle": "회계연도 2025 기준 F-35 전력 가용률이 지속 하락하며 전력화 신뢰성 우려가 커지고 있다.",
+      "summary_en": "A GAO report found that the F-35 Lightning II fleet's full mission capable rate has dropped to 25% as of fiscal year 2025, continuing a sustained decline in readiness. The persistent shortfall raises structural concerns about the operational availability of the U.S. military's primary stealth fighter across the Air Force, Navy, and Marine Corps.",
+      "summary_kr": "미 정부책임처(GAO) 보고서에 따르면 F-35 Lightning II 전대의 완전임무가능(FMC) 비율이 회계연도 2025 기준 25%까지 하락했다. 가용률 저하 추세가 지속되고 있어 미 공군·해군·해병대의 핵심 전투기 전력 운용에 구조적 문제가 있음을 시사한다.",
+      "title": "미 F-35 완전임무가능 비율 25%로 추락, GAO 보고서 확인"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Real Clear Defense",
+      "source_url": "https://www.realcleardefense.com/2026/06/13/us_navy_f-35c_completes_first_lrasm_flight_tests_1188503.html",
+      "subtitle": "록히드마틴과 협력해 장거리 대함미사일 탑재 능력 확보 첫 단계 마무리",
+      "summary_en": "The U.S. Navy and Lockheed Martin have completed the first phase of flight testing to integrate the AGM-158C Long Range Anti-Ship Missile (LRASM) with the F-35C Lightning II carrier-based stealth fighter. The milestone marks a significant step toward equipping the F-35C with standoff anti-ship strike capability, enhancing the Navy's ability to engage surface threats in contested A2/AD environments.",
+      "summary_kr": "미 해군과 록히드마틴이 F-35 라이트닝 II(F-35C)에 AGM-158C 장거리 대함미사일(LRASM) 통합을 위한 1단계 비행시험을 완료했다. 이번 시험은 스텔스 함재기에 원거리 대함 타격 능력을 부여하는 핵심 과정으로, 향후 대만해협 등 반접근·지역거부(A2/AD) 환경에서의 해상 타격력 강화로 이어질 전망이다.",
+      "title": "미 해군 F-35C, LRASM 통합 초도 비행시험 완료"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
+      "subtitle": "Fable 5·Mythos 5 전 세계 서비스 중단 사태로 AI 수출통제 논란 확산",
+      "summary_en": "The U.S. government ordered Anthropic to block all foreign nationals from accessing its Fable 5 and Mythos 5 AI models, prompting the company to suspend both models globally. Anthropic is complying with the directive but contests its basis, arguing the cited jailbreak vulnerability is narrow and that comparable capabilities are widely available elsewhere. The episode signals a potential expansion of U.S. export controls into frontier AI model access.",
+      "summary_kr": "미국 정부가 Anthropic에 외국 국적자의 Fable 5 및 Mythos 5 모델 접근을 전면 차단하도록 명령했고, Anthropic은 이에 따라 두 모델의 전 세계 서비스를 중단했다. Anthropic은 명령을 이행하면서도 정부가 근거로 제시한 탈옥(jailbreak) 취약점이 제한적이며 유사 기능이 다른 곳에서도 광범위하게 제공된다고 반박했다.",
+      "title": "미 정부, Anthropic에 외국인 AI 모델 접근 차단 명령"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Soldier Systems",
+      "source_url": "https://soldiersystems.net/2026/06/13/allen-vanguard-secures-over-3-million-worth-of-new-contracts-in-africa/?utm_source=rss&utm_medium=rss&utm_campaign=allen-vanguard-secures-over-3-million-worth-of-new-contracts-in-africa",
+      "subtitle": "차량 탑재형 및 휴대형 전자대응 시스템 공급으로 아프리카 IED 대응 역량 강화 지원",
+      "summary_en": "Allen-Vanguard has secured over $3 million in new contracts to supply its vehicle-mounted ECM system (3XXX) and man-portable ECM system (SCORPION 2) to two undisclosed African nations. The contracts aim to bolster force protection and counter-IED capabilities in the region.",
+      "summary_kr": "전자기 사이버 활동(CEMA) 전문 방산기업 앨런-뱅가드가 아프리카 2개국과 차량 탑재형 전자대응(ECM) 시스템(3XXX) 및 휴대형 ECM 시스템(SCORPION 2) 공급 계약을 체결해 총 300만 달러 이상을 수주했다. 이번 계약은 해당 국가들의 부대 방호 능력과 대IED(급조폭발물 대응) 역량 강화를 목적으로 한다.",
+      "title": "앨런-뱅가드, 아프리카 2개국에 ECM 시스템 공급 계약 300만 달러 이상 수주"
+    }
+  ],
+  "published_at": "2026-06-13T22:01:36.621534+00:00",
+  "summary": "완전임무가능 비율 25% 확인과 F-35C의 AGM-158C 장거리 대함미사일(LRASM) 통합 시험 완료가 같은 날 보고되면서, 무장 능력 확장이 가동 가능한 소수 기체에 임무 부하를 집중시키는 구조임을 드러냈다. F-35A를 핵심 전력으로 운용하는 한국 공군의 실가용 대수 재산정과 KF-21 보라매 전력화 속도의 연계가 더 이상 유예할 수 없는 전력기획 변수임을 보여준다.",
+  "title": "F-35 가용률 붕괴가 드러낸 스텔스 중심 전력 구조의 취약성"
+}
