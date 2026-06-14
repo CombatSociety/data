@@ -1,0 +1,23 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-14T15:40:48.075769+00:00",
+  "slug": "20260614-526ace",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
+  "summary": "100만 개 이상 URL 활용한 대규모 신용카드·비밀번호 탈취 작전 중단, AI 기반 자동화 피싱 인프라 적발",
+  "tags": [
+    "사이버안보",
+    "미국",
+    "중국",
+    "사이버스파이",
+    "APT공격",
+    "군사기술",
+    "안보위협"
+  ],
+  "title": "중국 AI 피싱 서비스 적발… FBI·구글·블랙로터스랩스 연합 적발",
+  "url": "https://combatsociety.kr/news/20260614-526ace"
+}

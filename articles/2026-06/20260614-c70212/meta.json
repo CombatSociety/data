@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-14T15:35:00.520606+00:00",
+  "slug": "20260614-c70212",
+  "source_name": "VOA 한반도",
+  "source_url": "https://www.voakorea.com/a/8160214.html",
+  "summary": "사회공학 실패 후 제로데이 취약점으로 공격 수단 전환, 방어 역량 강화에 따른 고도화 신호",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "북한",
+    "한국",
+    "사이버스파이",
+    "APT공격"
+  ],
+  "title": "북한, 한국 사회공학 공격 실패 후 제로데이 취약점 악용으로 전환",
+  "url": "https://combatsociety.kr/news/20260614-c70212"
+}
