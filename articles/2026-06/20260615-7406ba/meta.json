@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-15T12:10:28.617865+00:00",
+  "slug": "20260615-7406ba",
+  "source_name": "The Record",
+  "source_url": "https://therecord.media/ghostwriter-targets-personal-gmail-accounts-in-poland",
+  "summary": "고스트라이터의 개인 Gmail 겨냥 피싱 공격 전개, 폴란드 정부 보안 경고 발령",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "러시아",
+    "사이버스파이",
+    "APT공격",
+    "영향공작"
+  ],
+  "title": "벨라루스 연계 해킹 집단, 폴란드 고위 공직자 개인 이메일 대량 공격",
+  "url": "https://combatsociety.kr/news/20260615-7406ba"
+}
