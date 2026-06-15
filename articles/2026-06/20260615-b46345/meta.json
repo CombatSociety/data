@@ -1,0 +1,20 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-15T14:40:43.08141+00:00",
+  "slug": "20260615-b46345",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/",
+  "summary": "북미 의료기관 REDCap 서버 침투, 인피니트레드 악성코드 배포·의료연구 데이터 탈취",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "중국",
+    "APT공격"
+  ],
+  "title": "중국 연계 해킹 집단, 의료연구 데이터 탈취… REDCap 서버 침투",
+  "url": "https://combatsociety.kr/news/20260615-b46345"
+}
