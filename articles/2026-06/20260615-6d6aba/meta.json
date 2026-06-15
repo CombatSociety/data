@@ -1,22 +1,21 @@
 {
-  "category": "tech",
-  "content_type": "original",
+  "category": "defense_policy",
+  "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P2",
   "published_at": "2026-06-15T03:37:14.677582+00:00",
   "slug": "20260615-6d6aba",
-  "source_name": null,
-  "source_url": null,
-  "summary": "2030년 전군 배치 목표, 국방 AX 플랫폼 구축·운영 본격화",
+  "source_name": "지디넷코리아",
+  "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oeUZvZTdmcV9WRTN3Ylp5ekxZN05GTXJ6aVV0a05jclJVYVlZUHpRUUVhS2VvYnVQM0g4YmN1TW5LVjR1QmpxVUlzZnV0U0dZUG1iQTln?oc=5",
+  "summary": "국방부와 협력, 2030년 전군 배치 목표로 국방 AX 사업 본격화",
   "tags": [
+    "국방정책",
     "군사기술",
     "AI국방",
-    "국방정책",
     "한국",
-    "무기·방산",
     "산업·기업"
   ],
-  "title": "2030년 전군 AI 에이전트 확산 목표… 네이버클라우드, 국방 AI 전환 사업 본격화",
+  "title": "네이버클라우드, 국방 AI 에이전트 2030년 전군 확산 추진",
   "url": "https://combatsociety.kr/news/20260615-6d6aba"
 }
