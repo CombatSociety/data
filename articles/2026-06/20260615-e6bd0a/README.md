@@ -1,6 +1,6 @@
-# 미국의 동북아 전략 강화… 중동 파견 주한미군 복귀 추진
+# 미국의 동북아 정책 강화… 중동 파견 주한미군 복귀 예상
 
-인도태평양 지역 안보 우선순위 상향 차원, 중동 파견 전력의 한반도 복귀 본격화
+중동 파견 병력, 한반도 전력 공백 메우기 위한 복귀 본격화
 
 | 항목 | 값 |
 |---|---|
@@ -9,12 +9,12 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | alliance |
-| 태그 | 동맹·외교, 한미동맹, 미국, 한국, 인도태평양, 국방정책, 주한미군 |
-| 단일 출처 | [서울신문](https://news.google.com/rss/articles/CBMifkFVX3lxTE9mdDZEWjJfbkFpc1RpQUFCWlZMNzFKTG03T3FxYk5fSmlMdjdCVWtMVzFFeC1JVWpsc2lMMVBCdmIyaDloNHdpWHpRcWhvMDRYREpSVFZxRS13RlhlVzRhSEhZcWxFRFNGZkJjZ21oMEs3R1dDZUs0ZWdJendJQQ?oc=5) |
+| 태그 | 동맹·외교, 한미동맹, 한국, 미국, 주한미군, 지정학·국제, 인도태평양 |
+| 단일 출처 | [서울신문](https://news.google.com/rss/articles/CBMifkFVX3lxTFBCeW9aREVaX0kxVmFPbUhRdi0xQVJsSXVtS2hIT18tazVmVlNDOWpHQmtYaWtzaGZfM281cG9pZ3V2UkltUU9NX0tDSVBQbkhkaVBrMk9ubmlvRGtjOGl0SmJiRVYwN3piSW12ckNfZERxRGJkYjBGb28zWl9LUQ?oc=5) |
 
 ## 출처 매체
 
-- [서울신문](https://news.google.com/rss/articles/CBMifkFVX3lxTE9mdDZEWjJfbkFpc1RpQUFCWlZMNzFKTG03T3FxYk5fSmlMdjdCVWtMVzFFeC1JVWpsc2lMMVBCdmIyaDloNHdpWHpRcWhvMDRYREpSVFZxRS13RlhlVzRhSEhZcWxFRFNGZkJjZ21oMEs3R1dDZUs0ZWdJendJQQ?oc=5)
+- [서울신문](https://news.google.com/rss/articles/CBMifkFVX3lxTFBCeW9aREVaX0kxVmFPbUhRdi0xQVJsSXVtS2hIT18tazVmVlNDOWpHQmtYaWtzaGZfM281cG9pZ3V2UkltUU9NX0tDSVBQbkhkaVBrMk9ubmlvRGtjOGl0SmJiRVYwN3piSW12ckNfZERxRGJkYjBGb28zWl9LUQ?oc=5)
 
 ## 사이트에서 읽기
 
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "미국의 동북아 전략 강화… 중동 파견 주한미군 복귀 추진", combatsociety.kr/news/20260615-e6bd0a, github.com/CombatSociety/data.
+Combat Society dataset, "미국의 동북아 정책 강화… 중동 파견 주한미군 복귀 예상", combatsociety.kr/news/20260615-e6bd0a, github.com/CombatSociety/data.
 ```
