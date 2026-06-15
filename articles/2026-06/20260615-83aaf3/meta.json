@@ -1,0 +1,23 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-15T18:46:09.402076+00:00",
+  "slug": "20260615-83aaf3",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/threat-intelligence/china-nexus-actor-us-researchers-undetected",
+  "summary": "RedCAP 자격증명 탈취, 민감 정보 대량 유출·구글이 적발 차단",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "미국",
+    "중국",
+    "정보수집",
+    "사이버스파이",
+    "APT공격"
+  ],
+  "title": "중국 연계 해킹 집단, 미국 연구기관 1년간 미탐지 침투",
+  "url": "https://combatsociety.kr/news/20260615-83aaf3"
+}
