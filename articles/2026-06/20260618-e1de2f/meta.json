@@ -1,24 +1,24 @@
 {
   "category": "alliance",
-  "content_type": "original",
+  "content_type": "wire",
   "cover_image_caption": "2026년 4월 21일 부산 해군기지에서 한국 해군 이종이 준장 정책부장과 미 해군 샤리프 H. 칼피 한반도미해군사령관이 양국 해상동맹 강화와 연합작전능력 발전을 위한 2차 장성급 전략대화를 개최했다.",
   "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Courtesy",
   "priority": "P2",
   "published_at": "2026-06-18T17:01:25.262364+00:00",
   "slug": "20260618-e1de2f",
-  "source_name": null,
-  "source_url": null,
-  "summary": "미 상원 군사위원회, NDAA 심의 과정에서 한국 핵추진 잠수함 협력 지지 조항 포함 및 핵 확산 위험·중국 영향력 평가 행정부 요구",
+  "source_name": "VOA 한반도",
+  "source_url": "https://www.voakorea.com/a/senate-ndaa-korea-061826/8162265.html",
+  "summary": "미 상원 군사위원회의 한국 핵추진 잠수함 협력 지지 및 안보 영향 평가 요구",
   "tags": [
+    "한미동맹",
     "동맹·외교",
-    "국방정책",
-    "잠수함",
+    "무기·방산",
     "한국",
     "미국",
-    "중국",
+    "잠수함",
     "핵무기",
-    "안보위협"
+    "인도태평양"
   ],
-  "title": "미 상원 군사위, 한국 핵추진 잠수함 협력 지지…핵 확산 위험 평가도 행정부에 요구",
+  "title": "미 상원 군사위, 한국 핵추진 잠수함 협력 지지…중국 영향력 평가 요구",
   "url": "https://combatsociety.kr/news/20260618-e1de2f"
 }

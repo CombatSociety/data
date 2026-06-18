@@ -1,24 +1,24 @@
 {
-  "category": "doctrine",
-  "content_type": "original",
+  "category": "operations",
+  "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P2",
   "published_at": "2026-06-18T17:02:44.792424+00:00",
   "slug": "20260618-d61c64",
-  "source_name": null,
-  "source_url": null,
-  "summary": "우크라이나의 드론 기반 병참선 타격 작전이 미군 미래 분쟁 대비의 핵심 교훈으로 부상",
+  "source_name": "Task & Purpose",
+  "source_url": "https://taskandpurpose.com/tech-tactics/us-military-logistics-ukraine-drone-strikes/",
+  "summary": "우크라이나의 드론 기반 러시아 보급선 공격이 미군의 미래 전장 대비 과제로 부상",
   "tags": [
-    "교리·전술",
-    "지정학·국제",
+    "작전·훈련",
+    "무기·방산",
     "군사기술",
     "우크라이나",
     "러시아",
+    "미국",
     "드론",
-    "작전·훈련",
-    "비대칭전"
+    "비정규전"
   ],
-  "title": "우크라이나 드론이 러시아 보급선을 끊는다… 미군이 주목해야 할 교훈",
+  "title": "우크라이나의 드론 공급선 타격, 미군이 주목해야 할 미래 전장",
   "url": "https://combatsociety.kr/news/20260618-d61c64"
 }

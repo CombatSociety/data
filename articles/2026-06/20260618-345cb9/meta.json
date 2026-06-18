@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P3",
+  "published_at": "2026-06-18T17:56:58.888198+00:00",
+  "slug": "20260618-345cb9",
+  "source_name": "Krebs on Security",
+  "source_url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+  "summary": "4년간 수백만 안드로이드 TV박스 감염시킨 포파 봇넷, 이스라엘 상장사 알라룸 테크놀로지스의 주거용 프록시 서비스와 연계 적발",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "이스라엘",
+    "APT공격",
+    "영향공작"
+  ],
+  "title": "광고사기·계정탈취 주도한 '포파' 봇넷, 이스라엘 상장사와 연계",
+  "url": "https://combatsociety.kr/news/20260618-345cb9"
+}
