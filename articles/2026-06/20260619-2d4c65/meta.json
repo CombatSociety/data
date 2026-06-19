@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-19T13:50:43.011758+00:00",
+  "slug": "20260619-2d4c65",
+  "source_name": "The Record",
+  "source_url": "https://therecord.media/socgholish-botnet-disrupted",
+  "summary": "러시아 Evil Corp 연계 SocGholish 봇넷을 국제 경찰 합동 작전으로 차단. 랜섬웨어·금융 사기에 악용된 악성 네트워크 적발",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "러시아",
+    "사이버스파이",
+    "APT공격",
+    "랜섬웨어"
+  ],
+  "title": "러시아 Evil Corp 연계 봇넷 적발… 국제 경찰 작전으로 SocGholish 네트워크 차단",
+  "url": "https://combatsociety.kr/news/20260619-2d4c65"
+}
