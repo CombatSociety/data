@@ -1,6 +1,6 @@
-# NATO 동부 전력 강화 추진하는 폴란드… 미국 영구기지 유치 협상 본격화
+# NATO 동부 강화 추진하는 폴란드… 미국 영구기지 유치 협상 본격화
 
-폴란드의 미국 영구기지 유치 제안에 미 국방부가 긍정적 반응. 우크라이나 전쟁 이후 NATO 동부 지역 전력 강화 추진
+폴란드의 미국 영구기지 유치 제안에 미 국방부가 긍정적 입장 표시. NATO 동부 강화 전략의 일환
 
 | 항목 | 값 |
 |---|---|
@@ -9,7 +9,7 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | alliance |
-| 태그 | 동맹·외교, 국방정책, 미국, NATO, 우크라이나, 지정학·국제 |
+| 태그 | 동맹·외교, 국방정책, 지정학·국제, 미국, NATO, 우크라이나, 러시아 |
 | 단일 출처 | [Defense News](https://www.defensenews.com/pentagon/2026/06/18/pentagon-open-to-polands-offer-to-host-permanent-us-base-polish-minister-says/) |
 
 ## 출처 매체
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "NATO 동부 전력 강화 추진하는 폴란드… 미국 영구기지 유치 협상 본격화", combatsociety.kr/news/20260618-e568f5, github.com/CombatSociety/data.
+Combat Society dataset, "NATO 동부 강화 추진하는 폴란드… 미국 영구기지 유치 협상 본격화", combatsociety.kr/news/20260618-e568f5, github.com/CombatSociety/data.
 ```
