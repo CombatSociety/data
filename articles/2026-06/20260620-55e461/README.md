@@ -1,0 +1,27 @@
+# SK오션플랜트, 충남급 호위함 2번함 경북함 해군에 인도
+
+SK오션플랜트가 충남급 호위함 2번함 경북함을 해군에 인도. 예정보다 앞서 납기 달성
+
+| 항목 | 값 |
+|---|---|
+| Slug | `20260620-55e461` |
+| 발행 | 2026-06-20T09:40:15.341505+00:00 |
+| 우선순위 | P2 |
+| 콘텐츠 타입 | wire |
+| 분류 | weapons |
+| 태그 | 무기·방산, 작전·훈련, 한국, 해군, 구축함, 방산수출 |
+| 단일 출처 | [Naval News](https://www.navalnews.com/naval-news/2026/06/sk-oceanplant-delivers-second-ulsan-class-batch-iii-frigate-to-rok-navy/) |
+
+## 출처 매체
+
+- [Naval News](https://www.navalnews.com/naval-news/2026/06/sk-oceanplant-delivers-second-ulsan-class-batch-iii-frigate-to-rok-navy/)
+
+## 사이트에서 읽기
+
+<https://combatsociety.kr/news/20260620-55e461>
+
+## 인용
+
+```
+Combat Society dataset, "SK오션플랜트, 충남급 호위함 2번함 경북함 해군에 인도", combatsociety.kr/news/20260620-55e461, github.com/CombatSociety/data.
+```
