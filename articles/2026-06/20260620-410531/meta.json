@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-20T15:39:20.592338+00:00",
+  "slug": "20260620-410531",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
+  "summary": "북한 해킹 조직 사파이어 슬릿이 npm 패키지 140개 이상을 침투시킨 마스트라 AI 공급망 공격 주도",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "북한",
+    "공급망공격",
+    "APT공격",
+    "군사기술"
+  ],
+  "title": "북한 해킹 조직, npm 패키지 140개 이상 침투… 마스트라 AI 공급망 공격",
+  "url": "https://combatsociety.kr/news/20260620-410531"
+}
