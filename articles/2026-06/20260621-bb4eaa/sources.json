@@ -1,0 +1,12 @@
+[
+  {
+    "name": "뉴스1",
+    "type": "domestic",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yOTd3MDVIeGdLZElmRUVGZjQ1OGM5S1dIRGRuSDBBd2dFbDdqNzdFLXVtcmtUdlNsbUY2Zkt3QXpwN0VaOEE3andwaVczYzV6LUloWXBsOVprMjVweEJ2NU1PX0ZyVlE?oc=5"
+  },
+  {
+    "name": "파이낸셜뉴스",
+    "type": "domestic",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FOGpkMThGemUzMmNkYkI5aW96dzFJOTBxX1hnU2pXOHhUQUhkeG84Z21vNTVZSEhkVy1WQ1R6RUhEMzBlb01FNDBBVzM1R1VaSU9LWTRWbUJEUQ?oc=5"
+  }
+]
