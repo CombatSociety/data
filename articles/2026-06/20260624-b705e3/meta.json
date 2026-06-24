@@ -1,0 +1,21 @@
+{
+  "category": "tech",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-24T15:38:15.458394+00:00",
+  "slug": "20260624-b705e3",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
+  "summary": "미국 사이버보안기반시설보안청이 유비쿼티 네트워크 장비의 최고 심각도 취약점 악용 공격 경고. 원격 접근 허용 가능성",
+  "tags": [
+    "군사기술",
+    "사이버안보",
+    "미국",
+    "사이버무기",
+    "APT공격"
+  ],
+  "title": "미 사이버보안청, 유비쿼티 네트워크 장비 심각 취약점 악용 공격 경고",
+  "url": "https://combatsociety.kr/news/20260624-b705e3"
+}
