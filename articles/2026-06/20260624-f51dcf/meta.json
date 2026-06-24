@@ -1,0 +1,23 @@
+{
+  "category": "tech",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P3",
+  "published_at": "2026-06-24T18:39:22.934453+00:00",
+  "slug": "20260624-f51dcf",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/cyber-risk/malicious-openclaw-skills-clawhub-threaten-ai-supply-chain",
+  "summary": "AI 스킬 마켓플레이스 ClawHub에서 보안 우회 악성 패키지 5개 적발·제거. 정보 탈취 악성코드 포함",
+  "tags": [
+    "군사기술",
+    "사이버안보",
+    "AI국방",
+    "OpenAI",
+    "공급망공격",
+    "사이버스파이",
+    "APT공격"
+  ],
+  "title": "AI 공급망 위협하는 악성 OpenClaw 스킬… 보안 우회 패키지 5개 적발",
+  "url": "https://combatsociety.kr/news/20260624-f51dcf"
+}
