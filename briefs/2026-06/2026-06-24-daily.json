@@ -1,9 +1,130 @@
 {
-  "assessment": "",
+  "assessment": "북한의 최현함 취역에서 주목해야 할 것은 함정 자체의 제원이 아니라 김정은이 취역식에서 직접 발화한 '핵 탑재 해군력'이라는 선언이다. 이는 수중 핵억제를 도산 안창호급 잠수함(KSS-III)에 집중해온 북한의 전략이 수상함으로 확장되는 공식 선언으로 해석할 수 있다. 핵 탑재 수상함은 잠수함과 달리 가시적이고 정치적이다. 억제 신호를 보내는 데 더 효과적이며, 협상 국면에서 카드로 쓰기도 용이하다.\n\n같은 날 확인된 MDL 80m 근접 철책 구축은 이 맥락에서 따로 읽히지 않는다. 지상 접근 차단과 해상 핵위협 선언이 동시에 진행되는 구조는, 북한이 지상·해상 양 축에서 한국의 대응 선택지를 좁히는 복합 억제 구도를 완성해가고 있음을 시사한다. 철책은 DMZ 내 군사시설 설치 금지라는 정전협정 조항과의 충돌 논란을 유발하면서도, 실질적으로는 유엔사(United Nations Command)의 물리적 접근을 제한하는 기정사실화 전술이다.\n\n한국 해군이 이 변화에 대응하는 교전 개념을 갖추고 있는지는 공개된 교리에서 확인되지 않는다. 세종대왕급 이지스구축함(KDX-III)과 정조대왕급 구축함(KDX-III BIII)은 탄도미사일 방어에 최적화된 플랫폼이지, 핵 탑재 수상함을 전시 초기에 무력화하는 선제적 해상 타격 개념을 전제로 설계된 전력이 아니다. 최현함이 실제 핵 탑재 능력을 갖추는 데 시간이 걸리더라도, 선언 자체가 이미 억제 계산식을 바꾼다.\n\n오늘 이슈들 중 이 판단을 보강하는 또 하나의 축은 레바논 남부에 등장한 광섬유 드론이다. 무선 주파수를 쓰지 않아 재밍을 완전히 우회하는 이 전술은 우크라이나에서 중동으로 이전됐고, 한반도 전장과의 거리는 전술 확산 속도를 고려하면 이미 좁다. 미 육군이 이동 중 사격통제 소프트웨어 시험을 성공시키고 저비용 요격체(LCI) 프로그램을 공식 착수한 것은 이 위협에 대한 제도적 응답이다. 기동 방공의 공백을 소프트웨어와 비용 효율적 요격체 조합으로 메우려는 경로를 미 육군이 먼저 열고 있다는 점에서, 한국군 기계화 부대의 대드론 체계가 재밍 중심 구조에 머물고 있다면 같은 취약점을 안고 있다고 봐야 한다.\n\n북한의 복합 억제 구도 완성과 광섬유 드론의 전술 확산이 겹치는 이 시점에, 한국의 억제 개념이 '도발 후 응징' 구조에 고정돼 있다면 경쟁자들의 억제 논리와 점점 더 큰 비대칭을 만들어낼 것이다.",
   "brief_date": "2026-06-24",
   "digest_type": "daily",
-  "items": [],
+  "items": [
+    {
+      "priority": "P2",
+      "section": "한반도",
+      "source_name": "VOA 한반도",
+      "source_url": "https://www.voakorea.com/a/mdl-satellite-imagery-062326/8164021.html",
+      "subtitle": "정전협정 위반 여부 논란 속 북한의 DMZ 일대 군사 구조물 구축이 지속되고 있다.",
+      "summary_en": "Satellite imagery confirms North Korea is constructing fencing and fortification structures along the Military Demarcation Line (MDL), with some sections positioned as close as 80 meters from the line. The activity raises ongoing questions about potential violations of the Armistice Agreement, which prohibits military installations within the Demilitarized Zone.",
+      "summary_kr": "위성사진 분석 결과 북한이 군사분계선(MDL) 인근에 철책과 요새화 구조물을 구축 중이며, 일부 구간은 MDL에서 80m 이내까지 근접한 것으로 확인됐다. 이는 정전협정상 비무장지대(DMZ) 내 군사시설 설치 금지 조항과의 충돌 여부를 둘러싼 논란을 심화시키고 있다.",
+      "title": "북한, MDL 80m 근접 철책 설치…위성사진으로 요새화 작업 확인"
+    },
+    {
+      "priority": "P2",
+      "section": "한반도",
+      "source_name": "NK News",
+      "source_url": "https://www.nknews.org/2026/06/kim-jong-un-commissions-north-koreas-largest-warship-vows-naval-expansion/",
+      "subtitle": "김정은, 해군 현대화의 핵심 전력으로 자평하며 추가 함정 건조 의지 천명",
+      "summary_en": "North Korea formally commissioned its largest warship to date, the 5,000-ton multi-mission destroyer Choe Hyon, with Kim Jong Un presiding over the ceremony. The vessel is presented as the centerpiece of Pyongyang's naval modernization drive toward a nuclear-capable fleet. The commissioning marks a significant milestone in North Korea's effort to project sea-based deterrence and complicates the maritime security calculus on the Korean Peninsula.",
+      "summary_kr": "북한이 자국 최대 규모인 5,000톤급 다목적 구축함 '최현함'을 공식 취역시켰다. 김정은은 취역식을 직접 주관하며 핵 탑재 능력을 갖춘 해군력 건설을 공개적으로 선언했다. 이번 취역은 북한 해군 현대화 프로그램의 상징적 이정표로, 한반도 해상 전력 균형에 새로운 변수를 추가한다.",
+      "title": "북한, 5,000톤급 구축함 '최현함' 취역…핵 탑재 해군력 강화 선언"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/06/23/us-army-tests-fire-control-software-that-helps-moving-vehicles-kill-drones/",
+      "subtitle": "차량과 표적이 동시에 움직이는 환경에서의 대드론 교전 능력 확보를 목표로 한 기술 검증이 완료됐다.",
+      "summary_en": "The U.S. Army has successfully tested fire control software enabling vehicle-mounted weapons to engage drones while both the firing platform and the target are in motion. The capability addresses a critical gap in mobile air defense, allowing ground forces to counter drone threats without halting their movement.",
+      "summary_kr": "미 육군이 차량 탑재 무기로 이동 중인 드론을 격추할 수 있는 사격통제 소프트웨어 시험을 성공적으로 마쳤다. 이 소프트웨어는 아군 차량과 표적 드론이 동시에 이동하는 상황에서도 교전이 가능하도록 설계됐으며, 기동 중 방공 능력의 공백을 메우는 데 초점을 맞추고 있다.",
+      "title": "미 육군, 이동 중 차량에서 드론 격추하는 사격통제 소프트웨어 시험 성공"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defense One",
+      "source_url": "https://www.defenseone.com/defense-systems/2026/06/army-aims-sync-two-divisions-using-next-gen-c2-years-end/414367/",
+      "subtitle": "안두릴(Anduril Industries)이 4th ID 시범 운용에 이어 차세대 지휘통제(NGC2) 체계 확장을 주도한다.",
+      "summary_en": "The U.S. Army is pushing to synchronize two divisions under a next-generation command and control (NGC2) architecture by the end of the year. Anduril Industries, which led NGC2 prototyping at the 4th Infantry Division, will spearhead the expanded effort, marking a significant step toward multi-division digital integration.",
+      "summary_kr": "미 육군이 올해 말까지 차세대 지휘통제(NGC2) 체계를 2개 사단에 동시 적용하는 통합 운용을 목표로 추진 중이다. 방산 소프트웨어 기업 안두릴(Anduril Industries)이 제4보병사단(4th ID)에서 수행한 NGC2 프로토타입 운용 경험을 바탕으로 이번 확장을 이끈다.",
+      "title": "미 육군, 연내 2개 사단 통합 차세대 지휘통제 체계 구축 추진"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Military Times",
+      "source_url": "https://www.militarytimes.com/news/your-marine-corps/2026/06/23/marines-expand-use-of-maven-with-new-ai-operational-reporting-tool/",
+      "subtitle": "데이터 과잉·정보 빈곤 상태를 탈피해 정보 우위 달성을 목표로 한다.",
+      "summary_en": "The U.S. Marine Corps is expanding its use of the Maven platform through a new AI-powered operational reporting tool. Officials say the system is designed to convert data-rich but information-poor conditions into a state of information superiority, enhancing decision-making at the operational level.",
+      "summary_kr": "미 해병대가 Maven 플랫폼을 기반으로 한 AI 작전 보고 도구의 활용 범위를 확대하고 있다. 당국은 이 도구가 방대한 데이터를 실질적인 작전 정보로 전환해 정보 우위를 확보하는 데 기여할 것으로 평가한다.",
+      "title": "미 해병대, Maven 기반 AI 작전 보고 도구 도입 확대"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "SOFREP",
+      "source_url": "https://sofrep.com/news/fiber-optic-drones-just-changed-the-fight-in-southern-lebanon/",
+      "subtitle": "우크라이나에서 검증된 광섬유 유선 드론 전술이 레바논 남부로 확산되며 전자전 억제 수단의 한계를 드러냈다.",
+      "summary_en": "Fiber-optic drones, which transmit control signals via physical cable rather than radio frequency, have appeared in southern Lebanon, rendering conventional jamming systems ineffective. The tactic, previously validated on the Ukrainian battlefield, signals a broader proliferation of anti-jamming drone methods into Middle Eastern conflicts. Forces relying on electronic warfare for drone defense now face a significant capability gap.",
+      "summary_kr": "광섬유 케이블로 제어 신호를 전송하는 드론이 레바논 남부 전장에 등장했다. 이 방식은 무선 주파수를 사용하지 않아 전파 재밍 장비를 완전히 우회하며, 우크라이나 전장에서 효과가 입증된 뒤 중동으로 전술이 이전된 사례로 평가된다.",
+      "title": "광섬유 드론, 레바논 남부 전장에 등장—전파 재밍 무력화"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/23/israeli-fire-kills-two-in-lebanon-as-hezbollah-slams-truce-violation?traffic_source=rss",
+      "subtitle": "헤즈볼라는 이번 공격을 휴전 협정의 명백한 위반이라고 비난하며 긴장이 재고조되고 있다.",
+      "summary_en": "Israeli fire in Lebanon killed two people, drawing sharp condemnation from Hezbollah, which called the strike a blatant violation of the ceasefire agreement. The incident raises concerns over the durability of the truce between the two sides.",
+      "summary_kr": "이스라엘군의 레바논 공격으로 2명이 사망했다. 헤즈볼라는 이를 휴전 협정에 대한 명백한 위반이라고 규탄하며 강하게 반발했다.",
+      "title": "이스라엘군 레바논 공격으로 2명 사망, 헤즈볼라 휴전 위반 규탄"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/06/army-launches-new-low-cost-interceptor-program-targets-fall-for-first-live-fire-demo/",
+      "subtitle": "기존 고가 방공체계를 대체하지 않는 보완 수단으로, 올 가을 첫 실사격 시연을 목표로 한다.",
+      "summary_en": "The U.S. Army has officially launched a new low-cost interceptor (LCI) program aimed at supplementing, not replacing, existing high-end air defense systems. Army Secretary Dan Driscoll clarified the program's complementary role, with a first live-fire demonstration targeted for fall.",
+      "summary_kr": "미 육군이 저비용 요격체(LCI) 개발 프로그램을 공식 출범시켰다. 육군장관은 이 체계가 기존 정밀 방공체계를 대체하는 것이 아니라 보완하는 수단임을 명확히 했으며, 올 가을 첫 실사격 시연을 목표로 하고 있다.",
+      "title": "미 육군, 저비용 요격체 개발 프로그램 공식 착수"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "The War Zone",
+      "source_url": "https://www.twz.com/news-features/nato-and-ukraine-turning-to-private-sector-to-help-crater-russian-airfields",
+      "subtitle": "민간 혁신 역량을 활용해 러시아 항공전력의 작전 기반을 차단하려는 시도",
+      "summary_en": "NATO and Ukraine have launched a challenge offering rewards for private-sector solutions capable of denying Russian forces use of their airfields. The initiative reflects a growing effort to leverage commercial innovation to directly degrade Russian air power at its source, targeting runways and airfield infrastructure.",
+      "summary_kr": "NATO와 우크라이나가 러시아 공군기지를 무력화할 수 있는 시스템 개발자에게 포상금을 제공하는 민간 공모 과제를 개시했다. 러시아 항공전력의 출격 능력을 직접 제한하기 위해 민간 방산 혁신을 적극 활용하는 방향으로 전략이 전환되고 있음을 보여준다.",
+      "title": "NATO·우크라이나, 러시아 공군기지 무력화 기술 민간 공모"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "The War Zone",
+      "source_url": "https://www.twz.com/air/air-forces-fightertown-alaska-plan-takes-shape",
+      "subtitle": "북극·태평양 작전 중요성 증대에 따라 알래스카 북부 거점 전력 강화 계획 구체화",
+      "summary_en": "The U.S. Air Force is advancing plans to significantly expand its primary northern air base in Alaska, driven by growing operational demands in both the Arctic and the Pacific. The expansion reflects Alaska's rising strategic value as a dual-front hub for countering Russian and Chinese air threats, and signals a broader push to enhance northern power projection capabilities.",
+      "summary_kr": "미 공군이 북극 및 인도태평양 작전 수요 증가에 대응해 알래스카 주요 전진기지를 대규모로 확장할 계획을 구체화하고 있다. 이번 구상은 알래스카가 러시아·중국을 동시에 견제하는 전략적 요충지로서의 위상이 높아지는 가운데 나온 것으로, 미 공군의 북방 전력 투사 역량 강화 의지를 반영한다.",
+      "title": "미 공군, 알래스카 전투기 전진기지 대폭 확장 추진"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "War on Rocks",
+      "source_url": "https://warontherocks.com/adapting-to-uncertainty-in-the-strait-of-hormuz/",
+      "subtitle": "미·이스라엘의 대이란 공습 이후 해협 통항이 사실상 마비되며 글로벌 공급망 충격이 현실화됐다.",
+      "summary_en": "Iran effectively closed the Strait of Hormuz in retaliation for U.S. and Israeli strikes, triggering significant global economic disruption. Shipping traffic has partially resumed following U.S.-Iran negotiations, though volumes remain well below pre-conflict levels. The episode confirms Iran's demonstrated capability to leverage Hormuz access as a strategic bargaining tool.",
+      "summary_kr": "이란은 미국·이스라엘의 공습에 대응해 호르무즈 해협 통항을 사실상 봉쇄하며 세계 경제에 충격을 가했다. 이후 미·이란 협상 과정에서 이란이 제한을 일부 완화하면서 선박 통항이 재개됐으나, 전쟁 이전 수준에는 크게 못 미치는 상황이다. 이번 사태는 이란이 협상 카드로서 해협 봉쇄 능력을 실질적으로 입증했음을 보여준다.",
+      "title": "호르무즈 해협 봉쇄 위기, 이란의 해상 통제력 재확인"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Air Force Magazine",
+      "source_url": "https://www.airandspaceforces.com/pentagon-finds-1-55b-for-e-7-wedgetail-mostly-in-classifed-budget/",
+      "subtitle": "해군 E-2D 호크아이 예산과 공군 기밀 계정에서 재원 전용해 2027 회계연도 조달 추진",
+      "summary_en": "The Pentagon has submitted budget amendments to Congress seeking to redirect $1.55 billion toward the revived E-7 Wedgetail airborne early warning and control program in fiscal year 2027. Funding would be drawn primarily from classified Air Force accounts and the Navy's E-2D Hawkeye program, signaling a significant reprioritization of airborne battle management capacity.",
+      "summary_kr": "미 국방부는 재개된 E-7 웨지테일 공중조기경보통제기 프로그램에 2027 회계연도 15억 5천만 달러를 투입하기 위해 의회에 예산 수정안을 제출했다. 재원은 해군의 E-2D 호크아이 예산과 공군 기밀 계정에서 전용하는 방식으로 마련된다.",
+      "title": "미 국방부, E-7 웨지테일 재추진에 15억 5천만 달러 확보"
+    }
+  ],
   "published_at": "2026-06-23T22:01:12.797733+00:00",
-  "summary": "한반도 0건 · 해외 0건",
-  "title": "오늘의 군사·안보 흐름과 한반도 함의"
+  "summary": "최현함 취역과 함께 발화된 핵 탑재 해군력 선언, MDL 80m 근접 철책의 기정사실화, 레바논까지 확산된 광섬유 드론 전술이 동시에 포착된 가운데, 미 육군은 기동 방공 소프트웨어와 저비용 요격체로 제도적 응답을 시작했다. 한국군의 대응 교리가 도발 후 응징 구조에 고정돼 있는 한, 이 비대칭은 좁혀지지 않는다.",
+  "title": "억제 계산식이 바뀌고 있다, 한국의 교전 개념은 아직 그 이전에 있다"
 }
