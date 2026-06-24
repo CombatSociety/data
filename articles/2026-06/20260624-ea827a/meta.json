@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-24T21:50:47.50465+00:00",
+  "slug": "20260624-ea827a",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-hit-cisco-sd-wan-flaw-2-months-before-disclosure",
+  "summary": "시스코 SD-WAN 취약점이 공개 2개월 전부터 악용. 공격자가 부정한 피어링으로 관리자·루트 권한 획득",
+  "tags": [
+    "사이버안보",
+    "안보위협",
+    "군사기술",
+    "미국",
+    "APT공격",
+    "공급망공격"
+  ],
+  "title": "시스코 SD-WAN 취약점, 공개 2개월 전부터 악용돼",
+  "url": "https://combatsociety.kr/news/20260624-ea827a"
+}

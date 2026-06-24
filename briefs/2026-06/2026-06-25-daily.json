@@ -1,0 +1,90 @@
+{
+  "assessment": "호르무즈 해협 봉쇄와 러시아의 방공망 재배치는 표면상 별개의 사건이지만, 같은 구조적 신호를 발신하고 있다. 현대전의 핵심 압박 수단이 '거부(denial)'로 수렴하고 있다는 것이다. 러시아는 우크라이나의 종심 타격에 방공 자산을 모스크바와 케르치 교량으로 집중시키면서 점령지 방공 공백을 감수했다. 방어 자산의 총량이 위협의 분산 속도를 따라가지 못하는 현실이 내부 문서를 통해 확인된 셈이다. 미국의 방공·미사일 방어 산업기반이 구조적 한계를 노출하고 있다는 논의가 같은 시점에 부상하는 것은 이 맥락과 연결된다.\n\n우크라이나가 150km 종심 침투 정찰 드론을 저비용으로 양산하는 방향으로 나아가는 동안, 방어 측은 고비용 체계로 저비용 위협을 상쇄하는 비대칭 소모 구조에 갇혀 있다. 영국이 드래곤파이어 레이저 무기를 Type 45 구축함에 탑재해 2027년 실전 배치를 추진하는 것은 이 구조에서 벗어나려는 현실적 선택으로 해석할 수 있다. 요격 1회당 비용이 수백만 달러에 달하는 미사일 대신, 전력이 공급되는 한 반복 사용 가능한 레이저로 저비용 위협을 처리하겠다는 발상이다.\n\n한국의 방공 기획도 이 비대칭 소모 문제에서 자유롭지 않다. 천궁-II와 L-SAM의 전력화가 진행 중이지만, 북한이 KN-25 초대형 방사포와 무인기를 동시 운용하는 포화 공격 시나리오에서 요격 자산의 총량과 재장전 속도가 실제 방어 능력을 결정한다. 러시아가 방공망을 재배치하면서 드러낸 공백은, 자산 수가 아니라 자산 배분의 우선순위 결정이 얼마나 취약한 지점인지를 보여준다. 한국이 지향해야 할 방향은 고비용 요격 체계의 수량 확대만이 아니라, 저비용 반복 요격 수단과 고비용 정밀 요격 수단을 위협 유형에 따라 분리 운용하는 계층화 설계다. 드래곤파이어의 함상 배치 실험이 성공한다면, 그 데이터는 한국 해군의 함정 방어 체계 설계에도 직접적인 참조점이 될 가능성이 크다.",
+  "brief_date": "2026-06-25",
+  "digest_type": "daily",
+  "items": [
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "The War Zone",
+      "source_url": "https://www.twz.com/news-features/plan-to-evacuate-hundreds-of-ships-still-stranded-from-strait-of-hormuz-closure-is-coalescing",
+      "subtitle": "해협 통항 정상화까지 상당 시간 소요 전망 속 국제 해운 혼란 지속",
+      "summary_en": "A plan to evacuate hundreds of vessels stranded by the Strait of Hormuz closure is taking shape, as the waterway remains under extreme tension. Normal shipping traffic through the strait is not expected to resume for a considerable period, with significant implications for global energy and maritime logistics.",
+      "summary_kr": "호르무즈 해협 봉쇄로 발이 묶인 수백 척의 선박을 대피시키기 위한 계획이 구체화되고 있다. 해협은 여전히 극도로 긴장된 수역으로, 정상적인 통항 재개까지는 상당한 시간이 걸릴 것으로 전망된다.",
+      "title": "호르무즈 해협 봉쇄로 발이 묶인 수백 척 선박, 대피 계획 구체화"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Dark Reading",
+      "source_url": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-hit-cisco-sd-wan-flaw-2-months-before-disclosure",
+      "subtitle": "루트 권한 탈취를 노린 제로데이 공격으로 네트워크 인프라 보안 위협 부각",
+      "summary_en": "Researchers have determined that a Cisco SD-WAN vulnerability was actively exploited approximately two months before its public disclosure. Attackers are believed to have leveraged rogue peering connections to gain administrative and root-level access to victim devices, highlighting the persistent risk of zero-day exploitation in enterprise network infrastructure.",
+      "summary_kr": "시스코 SD-WAN 제품의 취약점이 공식 공개 약 2개월 전부터 실제 공격에 활용된 것으로 연구자들이 분석했다. 공격자는 비인가 피어링 연결을 통해 피해자의 SD-WAN 장비에 접근한 뒤 관리자 권한과 루트 수준의 접근권을 확보한 것으로 추정된다.",
+      "title": "시스코 SD-WAN 취약점, 공개 2개월 전부터 실제 공격에 악용"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defence Blog",
+      "source_url": "https://defence-blog.com/ukraines-new-cheap-recon-drone-flies-150-km-deep-into-enemy-lines/",
+      "subtitle": "전자 재밍 저항 기능을 갖춘 수동 발사형 드론으로, 올 가을 양산 납품 예정",
+      "summary_en": "A Ukrainian defense firm has developed a hand-launched reconnaissance drone capable of penetrating 150 km into enemy territory with electronic jamming resistance. Serial deliveries are expected to begin this autumn, potentially expanding Ukraine's deep-reconnaissance capability at low cost.",
+      "summary_kr": "우크라이나 방산 기업이 적 종심 150km까지 침투 가능한 수동 발사형 정찰 드론을 개발했다. 이 드론은 전자 재밍에 대한 저항 능력을 갖추고 있으며, 올 가을부터 양산 납품이 시작될 예정이다.",
+      "title": "우크라이나, 150km 종심 침투 가능한 저가 정찰 드론 개발"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/06/uk-industry-partners-look-to-miniaturize-dragonfire-laser-weapon-for-type-45-destroyer-debut/",
+      "subtitle": "2027년 실전 배치를 목표로 영국이 유럽 NATO 국가 중 최초의 함상 고에너지 레이저 운용국 지위를 노린다.",
+      "summary_en": "UK defense industry partners are working to miniaturize the DragonFire high-energy laser weapon system for integration aboard Type 45 destroyers. With a 2027 deployment target, the UK is on track to become the first European NATO nation to operationally field a ship-based directed-energy weapon.",
+      "summary_kr": "영국 방산업계가 드래곤파이어(DragonFire) 고에너지 레이저 무기의 소형화 작업에 착수해 Type 45 구축함 탑재를 추진하고 있다. 2027년 배치 목표가 실현되면 영국은 유럽 NATO 회원국 중 처음으로 함상 레이저 무기를 실전 운용하는 국가가 된다.",
+      "title": "영국 해군, 드래곤파이어 레이저 무기 소형화 추진…Type 45 구축함 탑재 목표"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-ato/4137156-russia-redeploying-air-defense-systems-to-moscow-and-kerch-bridge-because-of-ukrainian-strikes-zelensky.html",
+      "subtitle": "내부 문서 입수로 확인된 방공 전력 집중 현상, 점령지 및 여타 지역 방어 공백 우려",
+      "summary_en": "Ukrainian intelligence has obtained internal Russian documents confirming the redeployment of air defense systems from multiple regions toward Moscow and the Kerch Bridge. The consolidation appears to be a direct response to Ukrainian strikes, but risks creating defensive gaps in other parts of Russia and in temporarily occupied Ukrainian territories.",
+      "summary_kr": "우크라이나 정보당국이 입수한 러시아 내부 문서에 따르면, 러시아가 각 지역에 배치된 방공체계를 모스크바와 케르치 교량 방어에 집중 재배치하고 있다. 이로 인해 러시아 본토 여타 지역과 점령 우크라이나 영토의 방공 공백이 발생하고 있는 것으로 분석된다.",
+      "title": "러시아, 우크라이나 타격 대응해 방공망 모스크바·케르치 교량으로 재배치"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/06/built-for-another-era-our-air-and-missile-defense-industrial-base-needs-more-builders/",
+      "subtitle": "냉전 시대 설계된 생산 체계로는 극초음속 위협 등 현재의 속도와 규모를 감당하기 어렵다는 지적이 제기된다.",
+      "summary_en": "The U.S. air-and-missile defense industrial base, largely built around Cold War-era production models, is struggling to keep pace with modern threats including hypersonic weapons. Industry voices are calling for new approaches to designing, manufacturing, and fielding munitions and hypersonic systems to close emerging capability gaps.",
+      "summary_kr": "미국의 방공·미사일 방어 산업기반이 현재의 위협 환경에 맞지 않는 구조적 한계를 드러내고 있다는 주장이 제기됐다. 탄약 및 극초음속 무기 분야에서 설계·생산·전력화 방식의 혁신이 필요하다는 논의가 업계 내부에서 확산되고 있다.",
+      "title": "미국 방공·미사일 방어 산업기반, 현대 위협 대응에 구조적 한계 노출"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Small Wars Journal",
+      "source_url": "https://smallwarsjournal.com/2026/06/24/caught-in-its-own-doctrine/",
+      "subtitle": "스스로 선택한 전쟁이 자국 독트린의 함정으로 되돌아오다",
+      "summary_en": "Israel entered the war against Iran as a deliberate strategic choice, not a reactive measure, yet now faces a structural impasse in which victory, cessation, and prolonged conflict each carry prohibitive costs. The very doctrine that justified the war—framing Iran as an existential threat resolvable only by force—has foreclosed flexible off-ramps, leaving Israeli strategy caught in contradictions of its own making.",
+      "summary_kr": "이스라엘은 이란과의 전쟁을 외부 압박이 아닌 자국의 전략적 선택으로 시작했으나, 현재 승리·중단·지속 어느 방향도 실현하기 어려운 구조적 딜레마에 빠져 있다는 분석이 제기됐다. 수십 년간 이란을 실존적 위협으로 규정하며 군사적 해결을 주장해온 독트린이 오히려 출구 전략을 봉쇄하는 역설적 상황이 전개되고 있다.",
+      "title": "이스라엘, 이란 전쟁에서 승리도 중단도 지속도 불가능한 딜레마에 직면"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Defence Blog",
+      "source_url": "https://defence-blog.com/poland-buys-46000-upgraded-grot-rifles-for-its-soldiers/",
+      "subtitle": "국영 방산업체 파브리카 브로니 우치니크 라돔과 약 1억 6천만 달러 규모 계약 체결",
+      "summary_en": "Poland has contracted for nearly 46,000 MSBS GROT A3 assault rifles from state-owned Fabryka Broni 'Łucznik' Radom in a deal worth approximately $160 million. The order represents a significant step in modernizing Polish infantry small arms while sustaining domestic defense industrial capacity.",
+      "summary_kr": "폴란드가 국산 MSBS GROT 소총의 최신 개량형인 A3 사양으로 약 4만 6천 정을 발주하며 국영 제조사와 약 1억 6천만 달러 규모의 계약을 체결했다. 납품은 일정 기한 내 완료될 예정으로, 폴란드군의 개인화기 현대화 및 국내 방산 기반 강화 의지를 반영한다.",
+      "title": "폴란드, 국산 MSBS GROT A3 소총 4만 6천 정 대량 계약"
+    }
+  ],
+  "published_at": "2026-06-24T22:02:01.619902+00:00",
+  "summary": "러시아의 방공망 재배치가 드러낸 자산 배분의 취약성, 우크라이나의 저비용 종심 정찰 드론 양산, 영국 드래곤파이어 레이저의 함상 탑재 추진은 모두 같은 구조적 압박을 가리킨다. 고비용 요격 체계만으로는 포화 공격을 감당할 수 없으며, 위협 유형에 따라 저비용 반복 요격 수단과 정밀 요격 수단을 분리 운용하는 계층화 설계가 방공 기획의 핵심 변수로 부상하고 있다.",
+  "title": "저비용 위협의 분산 속도가 방어 자산의 총량을 앞서고 있다"
+}

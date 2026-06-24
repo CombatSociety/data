@@ -1,0 +1,20 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-24T21:40:17.455179+00:00",
+  "slug": "20260624-fb407a",
+  "source_name": "The Record",
+  "source_url": "https://therecord.media/stealc-amadey-socgholish-malware-takedown-europol-microsoft",
+  "summary": "마이크로소프트와 유럽경찰청이 사이버범죄 서비스형 조직 3곳을 적발하고 300여 서버를 차단. 악성코드 공급망 전체를 겨냥한 국제 공조 작전",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "미국",
+    "APT공격"
+  ],
+  "title": "마이크로소프트·유럽경찰청, 사이버범죄 서비스형 3개 조직 적발… 300여 서버 차단",
+  "url": "https://combatsociety.kr/news/20260624-fb407a"
+}
