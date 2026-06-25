@@ -1,0 +1,130 @@
+{
+  "assessment": "오늘의 이슈들을 관통하는 하나의 흐름은 '비용 비대칭의 역전'이다. 우크라이나가 풍선 기반 타격 무기로 러시아 방공 자산을 유인·소모시키는 전술을 실전에 투입하고, 파이어포인트가 공격 드론에서 탄도미사일 방어 체계로 영역을 확장하는 동안, 미국은 F-35B 라이트닝 II를 레이더 없이 인수하고 탄약 재고 보충을 위해 876억 달러를 긴급 요청하고 있다. 저비용 수단이 고비용 체계를 소모시키는 구조가 전장에서 반복 검증되는 반면, 고비용 체계를 유지하는 쪽은 공급망 병목과 생산 속도 문제에 발목이 잡혀 있다.\n\nMQ-28 고스트 배트가 '밸리언트 실드' 훈련에서 충실한 윙맨 개념을 검증하고, 미 공군이 1,000해리 사거리의 차세대 장거리 무기 패밀리 개발에 착수한 것은 이 비용 비대칭 문제에 대한 미국의 구조적 대응 방향을 보여준다. 유인기와 무인기의 협동 운용으로 소모 비용을 분산하고, 사거리 확장으로 적 방공권 진입 전에 타격하는 방식이다. 그러나 이 방향이 실전 능력으로 전환되기까지의 시간 동안, 레이더 없는 F-35B 인수와 탄약 재고 부족이 보여주는 현재의 공백은 실재한다.\n\n한국의 전력기획 관점에서 이 흐름은 두 가지 판단을 동시에 요구한다. KF-21 보라매 기반의 충실한 윙맨 개념 통합은 미국이 검증 중인 경로와 같은 방향이지만, 그 개발 일정이 현재의 공백을 메울 수 있는 속도인지는 별개의 문제다. 저비용 비대칭 수단이 고비용 체계를 소모시키는 전장 현실이 반복 확인되는 지금, 한국이 보유한 K239 천무 MLRS와 현무(Hyunmoo) 계열 정밀 타격 자산이 탄약 재고 기반 없이는 전력으로 기능하지 못한다는 점이 오늘의 이슈들이 공통으로 가리키는 지점이다. 미국이 그 격차를 공개 의제로 올린 지금, 한국의 탄약 생산 기반이 동맹 전력기획의 변수가 아니라 상수로 다뤄지고 있는지가 실질적인 판단 기준이 된다.",
+  "brief_date": "2026-06-26",
+  "digest_type": "daily",
+  "items": [
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/06/25/ukraines-newest-strike-weapon-drifts-into-russia-on-the-wind/",
+      "subtitle": "미국과 러시아도 동일 계열 풍선 무기를 운용 중인 것으로 알려져 비대칭 전술의 확산이 주목된다.",
+      "summary_en": "Ukraine is deploying wind-driven balloon weapons that drift into Russian territory, designed to bait air defense systems and serve as missile launch platforms. Both the United States and Russia are also fielding similar balloon-based systems, indicating that this low-cost asymmetric tactic has spread beyond the Ukrainian conflict. The development highlights growing interest in expendable, wind-borne platforms as tools for air defense suppression and standoff strike.",
+      "summary_kr": "우크라이나가 바람에 실려 러시아 영토로 침투하는 풍선 기반 타격 무기를 실전에 투입하고 있다. 이 풍선은 적 방공 자산을 유인·소모시키는 동시에 미사일 발사 플랫폼으로도 활용된다. 미국과 러시아 역시 유사한 계열의 풍선 무기를 운용 중인 것으로 확인돼, 저비용 비대칭 전술이 주요 강대국 간에도 확산되고 있음을 보여준다.",
+      "title": "우크라이나, 바람 타는 풍선 무기로 러시아 방공망 교란"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "USNI News",
+      "source_url": "https://news.usni.org/2026/06/25/air-force-wants-new-1000-nautical-mile-range-missile-for-air-sea-targets",
+      "subtitle": "중국 공군·해군 대응을 위한 공대공·공대지 복합 장거리 타격 능력 확보가 목표다.",
+      "summary_en": "The U.S. Air Force is pursuing a family of next-generation long-range missiles with a minimum range of 1,000 nautical miles, covering both air-to-air and air-to-surface variants. The Air Force Long Range Weapon program is explicitly oriented toward near-peer defense planning scenarios focused on countering Chinese air and naval forces in a potential conflict.",
+      "summary_kr": "미 공군이 최소 1,000해리(약 1,852km) 사거리를 갖춘 차세대 장거리 무기 패밀리 개발에 착수했다. 공대공·공대지 두 가지 변형을 동시에 개발하며, 중국과의 잠재적 충돌 시나리오에서 중국 공군·해군 전력을 원거리에서 타격하는 것이 핵심 목표다.",
+      "title": "미 공군, 1,000해리 사거리 차세대 장거리 미사일 패밀리 개발 추진"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "SOFREP",
+      "source_url": "https://sofrep.com/news/mq-28-ghost-bat-takes-flight-in-massive-pacific-war-exercise/",
+      "subtitle": "유무인 복합 전투 개념을 공개 환경에서 검증하는 첫 대규모 시험대로 주목받는다.",
+      "summary_en": "The MQ-28 Ghost Bat made its operational debut at Valiant Shield, a large-scale Pacific theater exercise, marking the first major public validation of the Loyal Wingman concept. The exercise brought together crewed fighters, uncrewed platforms, and distributed operators to rehearse survivability and coordination tactics under near-combat conditions. The results will inform how future Pacific air campaigns integrate autonomous systems at scale.",
+      "summary_kr": "호주산 무인 전투기 MQ-28 고스트 배트가 태평양 지역 대규모 연합훈련 '밸리언트 실드'에 처음으로 참가했다. 이번 훈련은 유인 전투기와 무인기, 분산 배치된 운용 요원이 실전에 가까운 환경에서 생존성과 협동 전술을 검증하는 자리로, 충실한 윙맨(Loyal Wingman) 개념의 실용화 수준을 가늠하는 시험대가 됐다.",
+      "title": "MQ-28 고스트 배트, 태평양 대규모 연합훈련 '밸리언트 실드'에 첫 실전 데뷔"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Army Times",
+      "source_url": "https://www.armytimes.com/news/pentagon-congress/2026/06/24/white-house-asks-congress-for-876-billion-mostly-for-iran-war/",
+      "subtitle": "군사비 671억 달러 중 210억 달러는 탄약 확보 및 방산 기반 강화에 배정될 예정이다.",
+      "summary_en": "The White House has asked Congress to approve $87.6 billion in supplemental funding, the bulk of which is tied to military operations related to Iran. Of the $67.15 billion earmarked for defense, $21 billion is designated for munitions procurement and reinforcing the U.S. defense industrial base.",
+      "summary_kr": "백악관이 의회에 876억 달러 규모의 추가 예산을 요청했으며, 대부분이 이란과의 군사적 충돌 관련 비용으로 구성된다. 요청액 중 671억 달러가 국방 분야에 배정되며, 이 중 210억 달러는 탄약 생산 확대와 미국 방산 산업 기반 강화에 투입된다.",
+      "title": "백악관, 이란 전쟁 비용 포함 876억 달러 추가 예산 의회에 요청"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Dark Reading",
+      "source_url": "https://www.darkreading.com/threat-intelligence/russia-apt-gamaredon-arsenal-defense",
+      "subtitle": "국가 지원 사이버 위협 행위자의 전술 진화로 기존 방어 체계 재검토 필요성 대두",
+      "summary_en": "The Russian FSB-linked APT group 'Gamaredon' has significantly upgraded its malware delivery techniques and server obfuscation capabilities. These enhancements reduce the effectiveness of existing detection and defense measures, prompting calls for updated defensive approaches against the state-sponsored threat actor.",
+      "summary_kr": "러시아 연방보안국(FSB) 지원을 받는 것으로 알려진 APT 그룹 '가마레돈'이 악성코드 탑재 방식과 지휘통제(C2) 서버 은닉 기술을 대폭 개선한 것으로 확인됐다. 이번 전술 고도화는 기존 탐지·방어 체계의 실효성을 약화시킬 수 있어 새로운 대응 방어 조치 마련이 요구된다.",
+      "title": "러시아 FSB 연계 APT '가마레돈', 악성코드 탑재·서버 은닉 기술 고도화"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defense News",
+      "source_url": "https://www.defensenews.com/unmanned/2026/06/25/ukraines-top-strike-drone-maker-moves-into-ballistic-missile-defense/",
+      "subtitle": "독일 방산기업 헨솔트와 협력해 자국산 방공 시스템 '프레이야' 구축 추진",
+      "summary_en": "Ukrainian strike-drone manufacturer Fire Point, which currently conducts the majority of Kyiv's long-range strikes inside Russia, is expanding into ballistic missile defense. In partnership with Germany's Hensoldt, the company is developing Freyja, a domestically oriented air defense alternative. The move signals Ukraine's growing ambition to build an integrated, sovereign defense industrial base spanning both offensive and defensive capabilities.",
+      "summary_kr": "우크라이나 최대 공격용 드론 제조사 파이어포인트가 독일 방산기업 헨솔트(Hensoldt)와 손잡고 탄도미사일 방어 시스템 '프레이야(Freyja)' 개발에 나섰다. 파이어포인트의 드론은 현재 러시아 내 우크라이나 타격 임무 대부분을 수행하고 있으며, 이번 방공 분야 진출은 우크라이나의 방산 자립 역량 확대를 보여준다.",
+      "title": "우크라이나 최대 공격 드론 기업, 탄도미사일 방어 체계 개발 착수"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/06/china-dumping-more-rocket-bodies-in-space-endangering-low-earth-orbit-satellites-report/",
+      "subtitle": "최근 4년간 중국 로켓 동체 3기 폭발로 우주 파편 급증, 국제 우주 환경 악화 우려",
+      "summary_en": "Three Chinese rocket bodies have exploded in low Earth orbit over the past four years, generating debris clouds expected to persist for an extended period. The incidents raise concerns about China's compliance with international space debris mitigation standards and pose growing risks to operational satellites in LEO.",
+      "summary_kr": "최근 4년간 중국 로켓 동체 3기가 저궤도에서 폭발해 장기 잔류 파편을 대량 생성한 것으로 보고됐다. 이 파편들은 저궤도 위성 운용에 직접적 위협이 되며, 중국의 로켓 잔해 방치 관행이 국제 우주 안전 기준에서 벗어난다는 비판이 제기되고 있다.",
+      "title": "중국 로켓 잔해, 저궤도 위성 위협 수위 높아져"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/06/hegseth-hosted-emerging-weapons-makers-for-meeting-on-munitions-production-sources/",
+      "subtitle": "안두릴·카스텔리온·레이도스 등 참석, 비공개 회의로 진행",
+      "summary_en": "U.S. Secretary of Defense Pete Hegseth hosted a closed-door meeting with emerging defense companies to discuss munitions production. Invitees reportedly included Anduril Industries, Castelion, and Leidos, though the meeting was not publicly announced.",
+      "summary_kr": "피트 헤그세스(Pete Hegseth) 미 국방장관이 탄약 생산 확대를 주제로 신흥 방산기업들을 초청한 비공개 회의를 주재했다. 안두릴(Anduril Industries)·카스텔리온·레이도스 등이 참석한 것으로 알려졌으며, 회의 개최 사실은 사전에 공개되지 않았다.",
+      "title": "피트 헤그세스 미 국방장관, 신흥 방산기업 초청 탄약 생산 회의 주재"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Foreign Policy",
+      "source_url": "https://foreignpolicy.com/2026/06/25/trump-weapons-iran-lockheed-ukraine-nato-rutte/",
+      "subtitle": "대이란 군사작전 이후 소모된 탄약·무기 재고 보충이 미 국방산업계의 당면 과제로 부상했다.",
+      "summary_en": "President Trump has called on U.S. defense manufacturers to accelerate weapons production following the military confrontation with Iran. The push highlights a persistent structural gap between wartime consumption rates and the defense industrial base's peacetime output capacity.",
+      "summary_kr": "트럼프 대통령이 이란과의 군사적 충돌 이후 소모된 무기 재고를 신속히 보충하도록 방산업체들에 생산 속도를 높일 것을 촉구했다. 이는 전시 소모율과 평시 생산 능력 간의 구조적 격차를 재확인하는 계기가 됐다.",
+      "title": "트럼프, 이란전 이후 무기 재고 확충 가속화 촉구"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "USNI News",
+      "source_url": "https://news.usni.org/2026/06/25/rimpac-2026-kicks-off-in-hawaii",
+      "subtitle": "미 태평양함대 부사령관이 지휘하는 역대 최대급 다국적 해상훈련이 진주만-히캄 합동기지에서 시작됐다.",
+      "summary_en": "RIMPAC 2026 opened at Joint Base Pearl Harbor-Hickam, Hawaii, with 31 surface ships, five submarines, 197 aircraft, and approximately 30,000 personnel participating. Vice Adm. Jeff Jablon, deputy commander of U.S. Pacific Fleet, serves as Combined Task Forces commander for the exercise. The drill is billed as the world's premier multinational maritime exercise.",
+      "summary_kr": "림팩(RIMPAC) 2026이 하와이에서 공식 개막했다. 수상함 31척, 잠수함 5척, 항공기 197대, 병력 3만 명(상륙부대 1,100명 포함)이 참가하는 이번 훈련은 미 태평양함대 부사령관 제프 재블론 해군 중장이 연합기동부대 사령관을 겸임해 지휘한다.",
+      "title": "림팩 2026, 하와이서 개막…30개국 3만 명 규모"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Air Force Magazine",
+      "source_url": "https://www.airandspaceforces.com/marines-air-force-radar-less-f-35-deliveries/",
+      "subtitle": "레이더 공급 차질로 기체 코에 밸러스트를 장착한 채 인도되는 이례적 사태",
+      "summary_en": "The U.S. Marine Corps has accepted six F-35B Lightning II aircraft fitted with ballast weights instead of operational radars in their nose cones. The Air Force and Navy are expected to receive similarly incomplete aircraft later this year, raising concerns about radar supply chain disruptions and near-term combat readiness timelines.",
+      "summary_kr": "미 해병대가 기수 레이더 대신 밸러스트를 장착한 F-35B 라이트닝 II 6대를 인수했으며, 미 공군과 해군도 올해 안에 같은 방식으로 기체를 받을 예정이다. 레이더 공급망 문제로 완전 전투 능력을 갖추지 못한 기체가 인도되는 이례적 상황으로, 향후 전력화 일정에 영향을 줄 수 있다.",
+      "title": "미 해병대, 레이더 없는 F-35B 6대 인수…공군·해군도 동일 상황 예고"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/25/un-agency-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked?traffic_source=rss",
+      "subtitle": "선박 피격 사건 이후 국제해사기구가 대피 이니셔티브를 잠정 중단하며 호르무즈 해협 긴장이 고조되고 있다.",
+      "summary_en": "The International Maritime Organization (IMO) suspended its Hormuz vessel evacuation initiative following an attack on a ship in the strait. Iran has warned vessels to use only Tehran-approved routes, asserting unilateral control over navigation in the area. The incident raises renewed concerns over freedom of navigation and global energy supply chain security through the Strait of Hormuz.",
+      "summary_kr": "국제해사기구(IMO)는 호르무즈 해협에서 선박 한 척이 공격을 받은 직후 진행 중이던 선박 대피 이니셔티브를 중단했다. 이란은 역내 항행 선박에 대해 테헤란이 승인한 항로만 이용할 것을 요구하며 독자적 통제 의지를 분명히 했다. 이번 사태는 호르무즈 해협의 항행 안전과 글로벌 에너지 공급망에 대한 우려를 다시 부각시킨다.",
+      "title": "IMO, 호르무즈 선박 대피 계획 중단…이란, 테헤란 승인 항로만 허용 경고"
+    }
+  ],
+  "published_at": "2026-06-25T22:02:46.461343+00:00",
+  "summary": "우크라이나 풍선 타격 무기의 실전 투입, 파이어포인트의 방공 체계 진출, MQ-28 고스트 배트의 충실한 윙맨 개념 검증, 미 공군의 1,000해리 차세대 장거리 무기 패밀리 개발 착수가 같은 방향을 가리킨다. 저비용 수단이 고비용 체계를 소모시키는 구조가 반복 확인되는 동안, 미국은 탄약 재고 보충을 위해 876억 달러를 긴급 요청하며 공급망 병목을 공개 의제로 올렸다. 한국의 K239 천무 MLRS와 현무 계열 정밀 타격 자산이 탄약 재고 기반 없이는 전력으로 기능하지 못한다는 점에서, 탄약 생산 기반이 동맹 전력기획의 상수로 다뤄지고 있는지가 핵심 판단 기준으로 부상한다.",
+  "title": "소모전의 비용 구조가 바뀌고 있다"
+}

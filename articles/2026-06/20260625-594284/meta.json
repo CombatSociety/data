@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-25T21:39:39.480429+00:00",
+  "slug": "20260625-594284",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/threat-intelligence/russia-apt-gamaredon-arsenal-defense",
+  "summary": "러시아 FSB 산하 국가 해킹조직 가마레돈이 악성코드 배포 기법과 서버 은폐 능력을 고도화. 기존 방어 체계 우회 능력 강화",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "러시아",
+    "APT공격",
+    "사이버스파이",
+    "군사기술"
+  ],
+  "title": "러시아 국가 해킹조직 '가마레돈', 악성코드 배포 기법 고도화",
+  "url": "https://combatsociety.kr/news/20260625-594284"
+}

@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-25T21:24:13.75477+00:00",
+  "slug": "20260625-2d2b80",
+  "source_name": "VOA 한반도",
+  "source_url": "https://www.voakorea.com/a/dprk-cyber-macos-gaslight-062526/8164842.html",
+  "summary": "북한 연계 맥OS 악성코드 발견… AI 분석 도구 우회 설계로 사이버 위협 고도화",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "북한",
+    "군사기술",
+    "APT공격",
+    "사이버스파이"
+  ],
+  "title": "북한 연계 맥OS 악성코드, AI 분석 도구까지 우회… 사이버 위협 고도화",
+  "url": "https://combatsociety.kr/news/20260625-2d2b80"
+}
