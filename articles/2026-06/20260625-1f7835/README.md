@@ -1,0 +1,27 @@
+# 미 육군, 차세대 지휘통제 체계 데이터 기준 확립… 안두릴이 주도
+
+미 육군이 차세대 지휘통제 체계(NGC2)의 공통 데이터 기준을 확립하고 안두릴을 주도 기업으로 지정. 운용 검증을 거쳐 시제품 단계에서 실제 배치 단계로 전환
+
+| 항목 | 값 |
+|---|---|
+| Slug | `20260625-1f7835` |
+| 발행 | 2026-06-25T00:36:11.295153+00:00 |
+| 우선순위 | P2 |
+| 콘텐츠 타입 | wire |
+| 분류 | weapons |
+| 태그 | 무기·방산, 군사기술, 미국, 육군, 전영역지휘통제, 산업·기업 |
+| 단일 출처 | [Soldier Systems](https://soldiersystems.net/2026/06/25/army-and-industry-align-on-common-data-baseline-as-next-generation-command-and-control-moves-from-prototyping-to-delivery/?utm_source=rss&utm_medium=rss&utm_campaign=army-and-industry-align-on-common-data-baseline-as-next-generation-command-and-control-moves-from-prototyping-to-delivery) |
+
+## 출처 매체
+
+- [Soldier Systems](https://soldiersystems.net/2026/06/25/army-and-industry-align-on-common-data-baseline-as-next-generation-command-and-control-moves-from-prototyping-to-delivery/?utm_source=rss&utm_medium=rss&utm_campaign=army-and-industry-align-on-common-data-baseline-as-next-generation-command-and-control-moves-from-prototyping-to-delivery)
+
+## 사이트에서 읽기
+
+<https://combatsociety.kr/news/20260625-1f7835>
+
+## 인용
+
+```
+Combat Society dataset, "미 육군, 차세대 지휘통제 체계 데이터 기준 확립… 안두릴이 주도", combatsociety.kr/news/20260625-1f7835, github.com/CombatSociety/data.
+```
