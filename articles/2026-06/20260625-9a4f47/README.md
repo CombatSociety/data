@@ -10,11 +10,11 @@
 | 콘텐츠 타입 | wire |
 | 분류 | defense_policy |
 | 태그 | 국방정책, 미국, 국방예산, 중동, 이란 |
-| 단일 출처 | [Military Times](https://www.militarytimes.com/news/pentagon-congress/2026/06/24/white-house-asks-congress-for-876-billion-mostly-for-iran-war/) |
+| 단일 출처 | [Army Times](https://www.armytimes.com/news/pentagon-congress/2026/06/24/white-house-asks-congress-for-876-billion-mostly-for-iran-war/) |
 
 ## 출처 매체
 
-- [Military Times](https://www.militarytimes.com/news/pentagon-congress/2026/06/24/white-house-asks-congress-for-876-billion-mostly-for-iran-war/)
+- [Army Times](https://www.armytimes.com/news/pentagon-congress/2026/06/24/white-house-asks-congress-for-876-billion-mostly-for-iran-war/)
 
 ## 사이트에서 읽기
 
