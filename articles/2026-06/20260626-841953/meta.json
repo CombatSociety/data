@@ -1,0 +1,18 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-26T19:50:52.123261+00:00",
+  "slug": "20260626-841953",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
+  "summary": "미 CISA, 시스코 원격코드실행 취약점 악용 공격에 대응해 연방기관에 일요일까지 긴급 패치 명령",
+  "tags": [
+    "사이버안보",
+    "미국"
+  ],
+  "title": "시스코 원격코드실행 취약점 악용 공격… 미 CISA 연방기관에 긴급 패치 명령",
+  "url": "https://combatsociety.kr/news/20260626-841953"
+}
