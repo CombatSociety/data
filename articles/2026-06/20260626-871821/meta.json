@@ -1,0 +1,21 @@
+{
+  "category": "tech",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-26T00:36:20.011303+00:00",
+  "slug": "20260626-871821",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/cyberattacks-data-breaches/less-than-24-hours-attackers-weaponize-cisco-cucm-flaw",
+  "summary": "시스코 CUCM 취약점이 24시간 내 악용 대상화… 루트 권한 상승 가능",
+  "tags": [
+    "군사기술",
+    "사이버안보",
+    "사이버무기",
+    "APT공격",
+    "공급망공격"
+  ],
+  "title": "시스코 CUCM 취약점 24시간 내 악용… 원격 권한 상승 위협",
+  "url": "https://combatsociety.kr/news/20260626-871821"
+}
