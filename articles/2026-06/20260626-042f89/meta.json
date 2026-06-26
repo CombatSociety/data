@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-26T18:41:36.111234+00:00",
+  "slug": "20260626-042f89",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
+  "summary": "위협 행위자들이 OpenAI 플랫폼에서 정당한 기업으로 위장한 조직을 만들어 직원들을 초대, 민감정보 탈취 시도",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "군사기술",
+    "APT공격",
+    "영향공작"
+  ],
+  "title": "사이버보안 기업 노린 위조 OpenAI 조직 초대… 민감정보 탈취 시도",
+  "url": "https://combatsociety.kr/news/20260626-042f89"
+}
