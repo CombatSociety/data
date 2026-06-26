@@ -1,0 +1,23 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-26T22:21:25.764906+00:00",
+  "slug": "20260626-364fba",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
+  "summary": "러시아 정보기관 소속 해킹 조직이 시그널 백업 복구키 탈취를 시도 중. FBI·CISA 경고",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "러시아",
+    "미국",
+    "사이버스파이",
+    "APT공격",
+    "영향공작"
+  ],
+  "title": "러시아 해킹 조직, 시그널 백업 복구키 탈취 시도… FBI·CISA 경고",
+  "url": "https://combatsociety.kr/news/20260626-364fba"
+}
