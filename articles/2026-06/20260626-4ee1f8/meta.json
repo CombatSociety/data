@@ -1,0 +1,23 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-26T15:34:06.159457+00:00",
+  "slug": "20260626-4ee1f8",
+  "source_name": "The Record",
+  "source_url": "https://therecord.media/russia-turla-espionage-ukraine-stockstay-malware",
+  "summary": "러시아 툴라 그룹의 신규 악성코드 스톡스테이 적발. 우크라이나 대상 사이버 첩보 활동 강화",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "러시아",
+    "우크라이나",
+    "APT공격",
+    "사이버스파이",
+    "정보수집"
+  ],
+  "title": "러시아 툴라 그룹, 우크라이나 대상 신규 악성코드 '스톡스테이' 개발",
+  "url": "https://combatsociety.kr/news/20260626-4ee1f8"
+}
