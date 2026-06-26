@@ -1,6 +1,6 @@
 # 우크라이나 풍선 드론, 러시아 방공망 교란 후 미사일 발사
 
-우크라이나의 풍선 기반 미사일 발사 체계가 러시아 방공망 교란 수단으로 활용 중. 미국과 러시아도 유사 장비 운용 검토
+우크라이나의 풍선 기반 타격 무기 운용. 미·러도 유사 기술 배치 중
 
 | 항목 | 값 |
 |---|---|
@@ -9,12 +9,12 @@
 | 우선순위 | P2 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 무기·방산, 작전·훈련, 우크라이나, 러시아, 미국, 드론, 미사일발사 |
-| 단일 출처 | [Military Times](https://www.militarytimes.com/global/europe/2026/06/25/ukraines-newest-strike-weapon-drifts-into-russia-on-the-wind/) |
+| 태그 | 무기·방산, 작전·훈련, 우크라이나, 러시아, 드론, 안보위협 |
+| 단일 출처 | [Defense News](https://www.defensenews.com/global/europe/2026/06/25/ukraines-newest-strike-weapon-drifts-into-russia-on-the-wind/) |
 
 ## 출처 매체
 
-- [Military Times](https://www.militarytimes.com/global/europe/2026/06/25/ukraines-newest-strike-weapon-drifts-into-russia-on-the-wind/)
+- [Defense News](https://www.defensenews.com/global/europe/2026/06/25/ukraines-newest-strike-weapon-drifts-into-russia-on-the-wind/)
 
 ## 사이트에서 읽기
 
