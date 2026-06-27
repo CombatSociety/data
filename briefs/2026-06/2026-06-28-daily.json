@@ -1,0 +1,80 @@
+{
+  "assessment": "호르무즈 해협 봉쇄와 미·이란 직접 교전은 중동 긴장의 새로운 임계점처럼 보이지만, 이 사태의 구조적 의미는 확전 여부보다 전쟁 수행 능력의 실질적 완결성에서 찾아야 한다. 미군 중부사령부가 이란의 미사일·드론·레이더 기지를 타격하고 이란이 바레인 미 해군 제5함대 기지를 공격했다고 주장하는 교전이 진행되는 동안, 미군은 레이더가 장착되지 않은 F-35 라이트닝 II를 계속 인수하고 있다. 이것은 조달 일정의 사소한 지연이 아니다. 방산 산업기반의 병목이 최첨단 플랫폼의 전투준비태세를 직접 제약하는 구조이며, 억제가 가장 필요한 시점에 그 공백이 가장 선명하게 드러난다는 점에서 전략적 함의가 크다.\n\n우크라이나 전선은 다른 각도에서 같은 교훈을 전달한다. 러시아의 게란-4 자폭 드론이 24시간 내에 MiG-29 2대를 지상에서 파괴한 것은, 노후 전력의 생존성 문제가 공중전이 아니라 기지 방호 실패에서 먼저 현실화된다는 것을 보여준다. 우크라이나가 모스크바 타격 사거리의 자체 개발 탄도미사일 시험발사를 앞두고 있다는 소식은 이 맥락에서 읽어야 한다. 외부 공급 의존도를 줄이려는 시도는 전략적으로 타당하지만, 그 능력이 실전에 투입되기 전까지 우크라이나 공군은 감소하는 기존 전력으로 시간 압박을 견뎌야 한다. 말라야 비상사태에서 SAS의 교리가 형성된 것도 같은 논리 위에 있다. 정글 침투와 장기 소규모 팀 운용이 유효했던 이유는 외부 지원 없이 현지에서 작전을 지속할 수 있는 자립적 능력을 갖췄기 때문이며, 오늘의 전장에서 그 원칙은 드론 생산 자립과 장거리 정밀 타격 능력의 내재화로 이어진다.\n\n한국의 방산 수출 실적과 독자 무기 개발 성과는 이 맥락에서 단순한 경제적 성취가 아니다. K239 천무 MLRS와 K9 자주포의 수출, KF-21 보라매의 개발 진전은 외부 공급 의존도를 낮추는 자립적 전력 기반의 구축이라는 점에서 전략적 가치를 갖는다. 그러나 플랫폼 개발이 곧 전투준비태세의 완결을 의미하지는 않는다. 미군의 F-35 라이트닝 II 사례가 보여주듯, 플랫폼이 존재해도 핵심 구성품이 빠진 상태로 운용되면 억제력의 실체는 공허해진다. 동맹의 전투준비태세를 신뢰의 전제로 삼는 한국에게, 그 전제 자체가 흔들리고 있다는 신호를 오늘의 중동과 우크라이나가 동시에 보내고 있다. 플랫폼 숫자가 아니라 전투준비태세의 실질적 완결성이 억제력의 실체라는 판단은, 지금 이 순간 두 전선 모두에서 검증되고 있다.",
+  "brief_date": "2026-06-28",
+  "digest_type": "daily",
+  "items": [
+    {
+      "priority": "P1",
+      "section": "해외",
+      "source_name": "Air Force Times",
+      "source_url": "https://www.airforcetimes.com/news/your-military/2026/06/26/us-resumes-attacks-on-iran/",
+      "subtitle": "중부사령부(USCENTCOM)가 이란 내 복수의 군사 시설에 대한 공습을 공식 확인했다.",
+      "summary_en": "U.S. Central Command (USCENTCOM) confirmed strikes against Iranian missile, drone, and radar installations. The operation directly targeted core Iranian military assets, marking a significant escalation in U.S.-Iran tensions in the Middle East.",
+      "summary_kr": "미군 중부사령부(USCENTCOM)는 이란의 미사일·드론·레이더 시설을 타격했다고 밝혔다. 이번 공습은 이란의 핵심 군사 자산을 직접 겨냥한 것으로, 중동 지역 긴장 고조에 중대한 분기점이 될 수 있다.",
+      "title": "미군, 이란 미사일·드론·레이더 기지 타격"
+    },
+    {
+      "priority": "P1",
+      "section": "해외",
+      "source_name": "SCMP Defense",
+      "source_url": "https://www.scmp.com/news/world/middle-east/article/3358609/us-ally-bahrain-claims-iran-attacked-navy-base-hormuz-closed?utm_source=rss_feed",
+      "subtitle": "미국의 이란 해안 시설 공습에 대한 보복 공격으로 중동 긴장이 재점화되는 양상이다.",
+      "summary_en": "Iran announced retaliatory strikes against U.S.-linked targets following American air strikes on its coastal surveillance facilities, framing the attacks as defensive and citing violations of the UN Charter. Bahrain, home to the U.S. Navy's 5th Fleet, claimed its naval base was struck by Iran. The Strait of Hormuz was reported closed, raising acute concerns over global energy supply disruption as both sides accuse each other of breaching last week's ceasefire agreement.",
+      "summary_kr": "이란은 미국의 해안 감시 시설 공습에 대한 보복으로 미군 관련 시설을 타격했다고 밝혔다. 미 해군 제5함대가 주둔한 바레인은 이란의 공격을 받았다고 주장했으며, 호르무즈 해협이 봉쇄된 것으로 전해졌다. 양측은 지난주 체결된 전쟁 종식 합의를 상대방이 먼저 위반했다고 서로 비난하고 있다.",
+      "title": "이란, 바레인 미군 기지 공격 주장…호르무즈 해협 봉쇄"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "SOFREP",
+      "source_url": "https://sofrep.com/news/f-35s-delivered-without-radar-raise-new-questions-about-combat-readiness/",
+      "subtitle": "방산 공급망 병목으로 완전 전투능력 미달 항공기가 전력화되면서 조종사 훈련 공백 문제도 부각되고 있다.",
+      "summary_en": "The U.S. military continues to accept F-35 Lightning II aircraft lacking fully integrated radar systems, reflecting persistent bottlenecks in the defense industrial base. Pilots are being required to train around these capability gaps, raising concerns about the fleet's actual combat readiness should a near-peer contingency arise.",
+      "summary_kr": "미국이 레이더 등 핵심 장비가 미장착된 상태의 F-35 라이트닝 II를 계속 인수하고 있으며, 이는 방산 산업기반의 취약성을 드러내는 동시에 조종사들이 불완전한 항공기로 훈련을 소화해야 하는 상황을 초래하고 있다. 완전 전투능력에 미달하는 항공기의 전력화는 실전 대응력에 직접적인 공백을 만들 수 있다는 점에서 우려가 제기된다.",
+      "title": "레이더 미장착 F-35 인도 지속, 미군 전투준비태세 우려 고조"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defence Blog",
+      "source_url": "https://defence-blog.com/ukraines-ballistic-missile-to-hit-moscow-is-almost-ready/",
+      "subtitle": "우크라이나 방산 기업이 장거리 탄도미사일 개발을 마무리 단계에서 공개하며 러시아 본토 타격 능력 확보에 근접했음을 시사했다.",
+      "summary_en": "Ukraine is nearing the test launch of its first domestically developed long-range ballistic missile reportedly capable of reaching Moscow, according to the founder of the company producing it. The disclosure, made during a rare on-camera interview inside a production facility, signals Ukraine's push to develop an indigenous deep-strike capability independent of foreign weapons supplies.",
+      "summary_kr": "우크라이나가 자국 생산 장거리 탄도미사일의 첫 시험발사를 앞두고 있다고 해당 미사일을 개발 중인 기업의 창업자가 생산 시설 내부에서 진행된 인터뷰에서 밝혔다. 이 미사일은 모스크바를 타격할 수 있는 사거리를 갖춘 것으로 알려졌으며, 우크라이나가 외국 공급 무기에 대한 의존도를 줄이고 독자적인 장거리 타격 능력을 구축하려는 시도의 일환이다.",
+      "title": "우크라이나, 모스크바 타격 가능 자체 개발 탄도미사일 시험발사 임박"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defence Blog",
+      "source_url": "https://defence-blog.com/ukraine-loses-two-mig-29-fighters-in-less-than-24-hours/",
+      "subtitle": "러시아 게란-4 자폭 드론이 남부 우크라이나 공군기지에서 출격 준비 중이던 MiG-29를 직격해 완파했다.",
+      "summary_en": "Russian media released footage of a Geran-4 kamikaze drone destroying a Ukrainian Air Force MiG-29 at a southern Ukrainian airfield while the aircraft was being prepared for a mission. Ukrainian sources confirmed the loss but reported no personnel casualties. The destruction of two MiG-29s within 24 hours accelerates the attrition of Ukraine's already limited legacy fighter fleet.",
+      "summary_kr": "러시아 매체들은 게란-4 자폭 드론이 우크라이나 남부 공군기지에서 임무 준비 중이던 우크라이나 공군 MiG-29를 타격해 완전히 파괴하는 영상을 공개했다. 우크라이나 측은 항공기 손실을 인정했으나 인명 피해는 없다고 밝혔다. 24시간 이내에 동형 전투기 2대를 잃은 것은 우크라이나 공군의 노후 전력 감소 속도를 가속화하는 요인이 된다.",
+      "title": "우크라이나 공군, 24시간 내 MiG-29 전투기 2대 연속 손실"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
+      "subtitle": "모스크바의 우크라이나 공격으로 2명, 키이우의 러시아 본토 공격으로 1명이 사망했다.",
+      "summary_en": "Ukraine and Russia exchanged overnight strikes, resulting in a total of three fatalities. Russian attacks killed two on the Ukrainian side, while a Ukrainian strike on Russian territory claimed one life.",
+      "summary_kr": "우크라이나와 러시아가 야간 상호 공격을 주고받으며 양측에서 총 3명의 사망자가 발생했다. 러시아의 공격으로 우크라이나 측에서 2명이 숨졌고, 우크라이나의 러시아 본토 공격으로 1명이 사망한 것으로 보고됐다.",
+      "title": "우크라이나·러시아, 야간 상호 공격으로 양측 사망자 발생"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "SOFREP",
+      "source_url": "https://sofrep.com/news/sas-malaya-introduction/",
+      "subtitle": "1950년대 말라야 정글 작전은 주민 협력 기반 대반란전 교리의 원형을 정립했다.",
+      "summary_en": "The Malayan Emergency (1948–1960) served as the crucible for the modern Special Air Service, shaping its doctrine of deep jungle penetration and small-team operations. British forces succeeded by combining military pressure with local population engagement, demonstrating that counterinsurgency campaigns require political and social co-ownership alongside kinetic action. The lessons drawn from Malaya continue to underpin Western COIN doctrine.",
+      "summary_kr": "말라야 비상사태(1948~1960)는 현대 SAS(Special Air Service)의 전술 교리와 조직 정체성이 형성된 결정적 계기였다. 영국군은 정글 침투, 현지 주민 협력, 장기 소규모 팀 운용을 결합해 공산 게릴라를 성공적으로 격퇴했으며, 이 경험은 이후 대반란전(COIN) 교리의 원형으로 자리잡았다.",
+      "title": "말라야 비상사태, 현대 SAS의 탄생을 이끈 대반란전 실험장"
+    }
+  ],
+  "published_at": "2026-06-27T22:02:53.90618+00:00",
+  "summary": "미·이란 직접 교전과 호르무즈 해협 봉쇄가 진행되는 동안 미군은 레이더 미장착 F-35 라이트닝 II를 계속 인수하고 있으며, 우크라이나는 24시간 내 MiG-29 2대를 지상에서 잃었다. 억제가 가장 절실한 시점에 산업기반 병목과 기지 방호 실패가 전력의 실질적 공백을 만든다는 것을 두 전선이 동시에 보여준다.",
+  "title": "플랫폼은 있고 전투준비태세는 없다"
+}
