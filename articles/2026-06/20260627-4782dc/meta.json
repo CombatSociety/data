@@ -1,0 +1,21 @@
+{
+  "category": "tech",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-06-27T15:43:15.887659+00:00",
+  "slug": "20260627-4782dc",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
+  "summary": "정상 저장소로 위장한 악성 설정 파일로 AI 코딩 에이전트를 감염시키는 공격 기법 발견. 보안 스캐너 탐지 회피 가능",
+  "tags": [
+    "군사기술",
+    "사이버안보",
+    "AI국방",
+    "사이버무기",
+    "공급망공격"
+  ],
+  "title": "깨끗한 깃허브 저장소로 위장한 악성코드… AI 코딩 에이전트 악용",
+  "url": "https://combatsociety.kr/news/20260627-4782dc"
+}
