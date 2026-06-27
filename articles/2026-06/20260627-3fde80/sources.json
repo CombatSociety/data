@@ -1,0 +1,22 @@
+[
+  {
+    "name": "The War Zone",
+    "type": "international",
+    "url": "https://www.twz.com/news-features/u-s-carries-out-first-strike-on-iran-since-peace-memorandum-signed"
+  },
+  {
+    "name": "Al Jazeera",
+    "type": "international",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss"
+  },
+  {
+    "name": "Air Force Magazine",
+    "type": "international",
+    "url": "https://www.airandspaceforces.com/us-conducts-airstrikes-iran-ship-attack-ceasefire/"
+  },
+  {
+    "name": "Foreign Policy",
+    "type": "international",
+    "url": "https://foreignpolicy.com/2026/06/26/us-strikes-iran-cease-fire-violation-hormuz-ever-lovely-mou-trump/"
+  }
+]
