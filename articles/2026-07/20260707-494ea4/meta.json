@@ -1,0 +1,23 @@
+{
+  "category": "threats",
+  "content_type": "original",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-07-07T08:37:10.204257+00:00",
+  "slug": "20260707-494ea4",
+  "source_name": null,
+  "source_url": null,
+  "summary": "라자루스 연계 추정 공격자, 유명 개발 도구 위장 악성코드로 전 세계 소프트웨어 개발자 대상 공급망 침투 시도 확인",
+  "tags": [
+    "안보위협",
+    "북한",
+    "사이버안보",
+    "북한 정찰총국",
+    "APT공격",
+    "공급망공격",
+    "사이버스파이"
+  ],
+  "title": "라자루스 연계 추정 해커, 개발자 도구 위장 악성코드로 전 세계 공급망 침투",
+  "url": "https://combatsociety.kr/news/20260707-494ea4"
+}
