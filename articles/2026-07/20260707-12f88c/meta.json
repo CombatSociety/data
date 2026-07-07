@@ -1,0 +1,20 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-07-07T14:21:56.952426+00:00",
+  "slug": "20260707-12f88c",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks",
+  "summary": "러시아·브라질·카자흐스탄 정부기관·전력회사 대상 정보탈취 악성코드 침투. 아머드 리호 위협 집단 배후",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "러시아",
+    "정보수집"
+  ],
+  "title": "러시아·브라질·카자흐스탄 주요 기반시설 침투한 'BusySnake' 정보탈취 악성코드",
+  "url": "https://combatsociety.kr/news/20260707-12f88c"
+}

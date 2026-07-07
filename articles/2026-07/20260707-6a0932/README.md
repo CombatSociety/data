@@ -1,6 +1,6 @@
 # 미 국방부 주력 신규 무기사업 평균 12년 지연… 감시기구 경고
 
-미 정부책임청, 국방부 104개 주요 무기사업 조사 결과 평균 12년 지연 적발. 신규 무기 프로그램의 광범위한 일정 부진 드러나
+미 국방부 104개 주요 무기사업 평균 12년 지연 적발. 정부감시기구 경고
 
 | 항목 | 값 |
 |---|---|
@@ -10,11 +10,11 @@
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
 | 태그 | 무기·방산, 국방정책, 미국, 국방예산 |
-| 단일 출처 | [Army Times](https://www.armytimes.com/news/pentagon-congress/2026/07/06/pentagons-top-new-weapons-programs-are-12-years-behind-schedule-watchdog/) |
+| 단일 출처 | [Air Force Times](https://www.airforcetimes.com/news/pentagon-congress/2026/07/06/pentagons-top-new-weapons-programs-are-12-years-behind-schedule-watchdog/) |
 
 ## 출처 매체
 
-- [Army Times](https://www.armytimes.com/news/pentagon-congress/2026/07/06/pentagons-top-new-weapons-programs-are-12-years-behind-schedule-watchdog/)
+- [Air Force Times](https://www.airforcetimes.com/news/pentagon-congress/2026/07/06/pentagons-top-new-weapons-programs-are-12-years-behind-schedule-watchdog/)
 
 ## 사이트에서 읽기
 
