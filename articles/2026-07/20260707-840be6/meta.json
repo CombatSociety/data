@@ -1,23 +1,19 @@
 {
   "category": "weapons",
-  "content_type": "original",
-  "cover_image_caption": null,
-  "cover_image_credit": null,
+  "content_type": "wire",
+  "cover_image_caption": "2026년 1월 29일 포트후드 텍사스에서 6-56 ADA 소속 미 육군 장병들이 민간 일방향 공격 드론 시연 중 M1078 경중형 전술차량과 AN/MPQ-64 Sentinel 레이더를 배치하며 대무인항공기 훈련을 검증하고 있다.",
+  "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Russell Shirley-Jones",
   "priority": "P2",
   "published_at": "2026-07-07T09:14:18.608258+00:00",
   "slug": "20260707-840be6",
-  "source_name": null,
-  "source_url": null,
-  "summary": "미 국방부, 탄도미사일 요격 시험 근접 관측 전용 기밀 항공기 전력에 5억 달러 투입 확인",
+  "source_name": "Defence Blog",
+  "source_url": "https://defence-blog.com/pentagon-pays-500m-for-secret-missile-test-aircraft/",
+  "summary": "미국 국방부가 탄도미사일 요격 시험 관측용 특수항공기 확보에 5억 달러 투자. 미사일 방어 체계 성능 검증의 핵심 자산",
   "tags": [
     "무기·방산",
     "군사기술",
-    "미국",
-    "탄도미사일",
-    "방공체계",
-    "배치",
-    "국방정책"
+    "미국"
   ],
-  "title": "미 국방부, 미사일 요격 시험 전용 비밀 항공기 전력에 5억 달러 투입",
+  "title": "미국 방위사업청, 미사일 요격 시험 관측용 특수항공기에 5억 달러 투자",
   "url": "https://combatsociety.kr/news/20260707-840be6"
 }

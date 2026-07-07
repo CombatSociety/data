@@ -1,24 +1,21 @@
 {
   "category": "weapons",
-  "content_type": "original",
+  "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P2",
   "published_at": "2026-07-07T08:44:41.021253+00:00",
   "slug": "20260707-01f445",
-  "source_name": null,
-  "source_url": null,
-  "summary": "인도 총리 모디 자카르타 방문 계기로 브라모스 미사일 시스템 계약 공식 체결, 양국 방위 협력 강화의 분기점",
+  "source_name": "Naval News",
+  "source_url": "https://www.navalnews.com/naval-news/2026/07/indonesia-signs-brahmos-missile-deal-with-india/",
+  "summary": "인도네시아, 인도와 브라모스 초음속 순항미사일 도입 계약 공식 체결. 모디 총리 방문 중 자카르타에서 발표",
   "tags": [
     "무기·방산",
     "동맹·외교",
-    "산업·기업",
-    "인도태평양",
-    "해군",
+    "인도네시아 Kopassus",
     "순항미사일",
-    "방산수출",
-    "계약"
+    "방산수출"
   ],
-  "title": "인도-인도네시아 방산 협력 본격화… 브라모스 미사일 계약 공식 서명",
+  "title": "인도네시아, 인도와 브라모스 미사일 계약 체결",
   "url": "https://combatsociety.kr/news/20260707-01f445"
 }

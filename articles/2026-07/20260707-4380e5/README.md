@@ -1,19 +1,20 @@
-# 국방 소버린 AI 구현 첫 발… 팀네이버·KAI, 방산 특화 AI 모델 공동 개발 착수
+# 팀네이버·한국항공우주산업, 방산 특화 AI 모델 개발 추진
 
-팀네이버·KAI, 방산 특화 AI 모델 공동 개발 협력 체계 구축… 외부 의존 없는 국방 소버린 AI 확보 목표
+팀네이버와 한국항공우주산업이 방위사업청 지원 아래 국방 특화 AI 모델 개발 추진
 
 | 항목 | 값 |
 |---|---|
 | Slug | `20260707-4380e5` |
 | 발행 | 2026-07-07T08:40:17.158036+00:00 |
 | 우선순위 | P2 |
-| 콘텐츠 타입 | original |
+| 콘텐츠 타입 | wire |
 | 분류 | tech |
-| 태그 | 군사기술, 무기·방산, 산업·기업, AI국방, 한국, 방산정책 |
+| 태그 | 군사기술, 산업·기업, 국방정책, 한국, AI국방 |
+| 단일 출처 | [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE1WcWVnX1JtUjNBcndYaThRVU5WOFZ4a3poTGpmaTRGS19VSy1NbERQQ1pXc1RsT0xmb2xuNEc3V0pMM2x0akZJYTAyT1ZlSThYM0c0MEttUW5jLUdWYU5WSjRIS0RyTWFDMm82aHprbXQ?oc=5) |
 
 ## 출처 매체
 
-- [로봇신문](https://news.google.com/rss/articles/CBMibEFVX3lxTE9nMU5ubFJKRDdldElCUmhjNFFIYm5WTHdVWGV4Zm1GR3F0VGN0OVVXQTNBTS1Ga3h2WGg2QUg0a2hWb0FUYlJGZzJXX0ZlcElHWDJFVlozZWxmQWh3VmczQTJCSWtROGxydWJmSg?oc=5)
+- [연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE1WcWVnX1JtUjNBcndYaThRVU5WOFZ4a3poTGpmaTRGS19VSy1NbERQQ1pXc1RsT0xmb2xuNEc3V0pMM2x0akZJYTAyT1ZlSThYM0c0MEttUW5jLUdWYU5WSjRIS0RyTWFDMm82aHprbXQ?oc=5)
 
 ## 사이트에서 읽기
 
@@ -22,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "국방 소버린 AI 구현 첫 발… 팀네이버·KAI, 방산 특화 AI 모델 공동 개발 착수", combatsociety.kr/news/20260707-4380e5, github.com/CombatSociety/data.
+Combat Society dataset, "팀네이버·한국항공우주산업, 방산 특화 AI 모델 개발 추진", combatsociety.kr/news/20260707-4380e5, github.com/CombatSociety/data.
 ```

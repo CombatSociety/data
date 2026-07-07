@@ -1,21 +1,20 @@
 {
   "category": "threats",
-  "content_type": "original",
+  "content_type": "wire",
   "cover_image_caption": "2025년 11월 3일 판문점 한반도 비무장지대 공동경비구역을 방문한 미국 전쟁부장관 Pete Hegseth와 한국 국방부장관 Kim Seon-ho가 함께 현장을 둘러보고 있다.",
   "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Madelyn Keech",
   "priority": "P2",
   "published_at": "2026-07-07T08:59:24.73627+00:00",
   "slug": "20260707-e3197d",
-  "source_name": null,
-  "source_url": null,
-  "summary": "ROK JCS, 집중호우 시 DMZ 북한 매설 지뢰의 임진강·한탄강 등 공유하천 경유 유실 가능성 공식 경보 발령",
+  "source_name": "국방일보-국방안보",
+  "source_url": "http://kookbang.dema.mil.kr/newsWeb/20260708/4/ATCE_CTGR_0010010000/view.do",
+  "summary": "DMZ 매설 북한제 지뢰의 집중호우 시 유실·유입 위험. 합참 주의보 발령",
   "tags": [
     "안보위협",
-    "북한",
-    "한국",
     "한반도",
-    "교전"
+    "북한",
+    "한국"
   ],
-  "title": "집중호우 시 DMZ 북한 지뢰 하천 유입 경보… 합참, 접경지역 주민 주의 당부",
+  "title": "DMZ 유실지뢰 주의보… 집중호우 시 하천 유입 우려",
   "url": "https://combatsociety.kr/news/20260707-e3197d"
 }

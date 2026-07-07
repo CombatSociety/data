@@ -1,24 +1,23 @@
 {
-  "category": "doctrine",
-  "content_type": "original",
+  "category": "operations",
+  "content_type": "wire",
   "cover_image_caption": "2026년 3월 16일 포항에서 열린 Freedom Shield 26 훈련 중 미 해병대 3rd Marine Division 12th Littoral Combat Team 소속 장병들과 한국 해병대 1st ROK Marine Division 소속 장병들이 하루 훈련을 마치고 있다.",
   "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Daniel Wetzel",
   "priority": "P2",
   "published_at": "2026-07-07T09:08:00.157578+00:00",
   "slug": "20260707-d9e9e8",
-  "source_name": null,
-  "source_url": null,
-  "summary": "해병대 1사단 전투실험대대, 포항 훈련장에서 드론·다족보행로봇 투입 유무인 복합 기동 및 초연결 지휘통제 검증 실시 중",
+  "source_name": "국방일보-해군해병",
+  "source_url": "http://kookbang.dema.mil.kr/newsWeb/20260708/4/ATCE_CTGR_0010040000/view.do",
+  "summary": "해병대가 포항에서 드론·로봇 등 첨단 전투체계를 활용한 통합실험 실시. 초연결 지휘통제와 새 부대구조 적절성 검증",
   "tags": [
-    "교리·전술",
-    "무기·방산",
     "작전·훈련",
-    "해병대",
-    "드론",
+    "무기·방산",
+    "군사기술",
     "한국",
-    "유무인복합",
-    "배치"
+    "해병대",
+    "다영역작전",
+    "유무인복합"
   ],
-  "title": "드론·다족보행로봇 실전 투입… 해병대, 복합전투체계·신편 부대구조 통합실험 진행 중",
+  "title": "해병대, 드론·로봇 활용한 복합전투체계 검증… 새 부대구조 적절성 확인",
   "url": "https://combatsociety.kr/news/20260707-d9e9e8"
 }
