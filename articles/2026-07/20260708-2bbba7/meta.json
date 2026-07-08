@@ -1,0 +1,21 @@
+{
+  "category": "tech",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P3",
+  "published_at": "2026-07-08T11:48:00.121877+00:00",
+  "slug": "20260708-2bbba7",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
+  "summary": "미 사이버보안청이 연방기관에 AI 프레임워크 Langflow의 인증 우회 결함 긴급 패치 지시. 현재 악용 중인 취약점",
+  "tags": [
+    "군사기술",
+    "사이버안보",
+    "미국",
+    "AI국방",
+    "사이버무기"
+  ],
+  "title": "美 사이버보안청, 연방기관에 AI 프레임워크 보안 결함 긴급 패치 지시",
+  "url": "https://combatsociety.kr/news/20260708-2bbba7"
+}
