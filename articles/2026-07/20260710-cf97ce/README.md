@@ -1,0 +1,27 @@
+# 중국 J-15T 함재기, 4발 대함미사일 탑재 항모 발함 첫 확인
+
+중국 푸젠함에서 J-15T 함재기의 4발 대함미사일 탑재 발함 첫 확인. 카타펄트 항모의 함재기 공격 능력 강화
+
+| 항목 | 값 |
+|---|---|
+| Slug | `20260710-cf97ce` |
+| 발행 | 2026-07-10T00:47:20.346161+00:00 |
+| 우선순위 | P2 |
+| 콘텐츠 타입 | wire |
+| 분류 | weapons |
+| 태그 | 무기·방산, 군사기술, 중국, 해군, 항공모함, 전투기 |
+| 단일 출처 | [The War Zone](https://www.twz.com/sea/chinese-j-15-fighter-seen-launching-from-a-carrier-with-four-anti-ship-missiles-for-first-time) |
+
+## 출처 매체
+
+- [The War Zone](https://www.twz.com/sea/chinese-j-15-fighter-seen-launching-from-a-carrier-with-four-anti-ship-missiles-for-first-time)
+
+## 사이트에서 읽기
+
+<https://combatsociety.kr/news/20260710-cf97ce>
+
+## 인용
+
+```
+Combat Society dataset, "중국 J-15T 함재기, 4발 대함미사일 탑재 항모 발함 첫 확인", combatsociety.kr/news/20260710-cf97ce, github.com/CombatSociety/data.
+```
