@@ -1,0 +1,27 @@
+# 현대 전술복장의 열관리 문제… 신체 미기후 제어가 작전능력 좌우
+
+현대 군인 장비의 다층화로 신체 미기후 관리가 작전능력 결정 요소로 부상. 열 축적과 발한 제어 기술이 병사 지구력과 집중력에 직접 영향
+
+| 항목 | 값 |
+|---|---|
+| Slug | `20260710-521ddb` |
+| 발행 | 2026-07-10T15:40:08.669295+00:00 |
+| 우선순위 | P3 |
+| 콘텐츠 타입 | wire |
+| 분류 | weapons |
+| 태그 | 무기·방산, 군사기술, 미국, 장병복지 |
+| 단일 출처 | [Soldier Systems](https://soldiersystems.net/2026/07/10/thermal-comfort-as-a-tactical-advantage/?utm_source=rss&utm_medium=rss&utm_campaign=thermal-comfort-as-a-tactical-advantage) |
+
+## 출처 매체
+
+- [Soldier Systems](https://soldiersystems.net/2026/07/10/thermal-comfort-as-a-tactical-advantage/?utm_source=rss&utm_medium=rss&utm_campaign=thermal-comfort-as-a-tactical-advantage)
+
+## 사이트에서 읽기
+
+<https://combatsociety.kr/news/20260710-521ddb>
+
+## 인용
+
+```
+Combat Society dataset, "현대 전술복장의 열관리 문제… 신체 미기후 제어가 작전능력 좌우", combatsociety.kr/news/20260710-521ddb, github.com/CombatSociety/data.
+```
