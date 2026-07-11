@@ -1,6 +1,6 @@
-# 우크라이나, 패트리엇 자체 생산 허가 추진… 실제 양산까지 수년 소요
+# 우크라이나, 패트리엇 자체 생산 허가 임박… 실제 양산까지 수년 소요
 
-우크라이나, 미국으로부터 패트리엇 자체 생산 허가 추진 중… 실제 양산까지는 수년 소요 예상
+우크라이나, 미국으로부터 패트리엇 자체 생산 허가 임박. 다만 실제 양산까지는 수년 소요 예상
 
 | 항목 | 값 |
 |---|---|
@@ -10,11 +10,11 @@
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
 | 태그 | 무기·방산, 동맹·외교, 우크라이나, 미국, 방공체계 |
-| 단일 출처 | [Defense News](https://www.defensenews.com/industry/techwatch/2026/07/10/ukraine-can-soon-build-its-own-patriots-but-it-could-take-years/) |
+| 단일 출처 | [Military Times](https://www.militarytimes.com/industry/techwatch/2026/07/10/ukraine-can-soon-build-its-own-patriots-but-it-could-take-years/) |
 
 ## 출처 매체
 
-- [Defense News](https://www.defensenews.com/industry/techwatch/2026/07/10/ukraine-can-soon-build-its-own-patriots-but-it-could-take-years/)
+- [Military Times](https://www.militarytimes.com/industry/techwatch/2026/07/10/ukraine-can-soon-build-its-own-patriots-but-it-could-take-years/)
 
 ## 사이트에서 읽기
 
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "우크라이나, 패트리엇 자체 생산 허가 추진… 실제 양산까지 수년 소요", combatsociety.kr/news/20260710-84ce53, github.com/CombatSociety/data.
+Combat Society dataset, "우크라이나, 패트리엇 자체 생산 허가 임박… 실제 양산까지 수년 소요", combatsociety.kr/news/20260710-84ce53, github.com/CombatSociety/data.
 ```
