@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P3",
+  "published_at": "2026-07-11T15:38:35.049359+00:00",
+  "slug": "20260711-0c9025",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
+  "summary": "호주 사이버보안청이 CMS 취약점 악용 글로벌 공격 캠페인 경고. 조직들에 시스템 업데이트 및 접근 제어 강화 권고",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "호주",
+    "APT공격",
+    "공급망공격"
+  ],
+  "title": "호주 사이버보안청, CMS 플랫폼 노린 글로벌 공격 경고",
+  "url": "https://combatsociety.kr/news/20260711-0c9025"
+}
