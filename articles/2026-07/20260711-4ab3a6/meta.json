@@ -1,0 +1,21 @@
+{
+  "category": "tech",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-07-11T09:37:37.140978+00:00",
+  "slug": "20260711-4ab3a6",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
+  "summary": "AI 코드 검토 도구를 우회하는 프롬프트 주입 공격 '고스트커밋' 발견… 이미지 파일 숨긴 악의적 명령으로 저장소 기밀 탈취 가능",
+  "tags": [
+    "군사기술",
+    "사이버안보",
+    "AI국방",
+    "사이버무기",
+    "APT공격"
+  ],
+  "title": "AI 코드 검토 도구 우회하는 '고스트커밋' 공격… 이미지 숨긴 프롬프트 주입으로 저장소 기밀 탈취",
+  "url": "https://combatsociety.kr/news/20260711-4ab3a6"
+}
