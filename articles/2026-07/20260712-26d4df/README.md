@@ -1,0 +1,27 @@
+# NATO, 우크라이나에 역대 최대 규모 지원 결정… 러시아 6월 민간인 사상 최악
+
+NATO 앙카라 정상회담에서 우크라이나에 700억 유로 규모 2026년 원조와 500억 달러 신규 조달 결정. 미국의 패트리엇 미사일 자체 생산 허가 포함. 동시에 6월 러시아 공격으로 민간인 265명 사상, 전쟁 초기 이후 최악
+
+| 항목 | 값 |
+|---|---|
+| Slug | `20260712-26d4df` |
+| 발행 | 2026-07-12T03:32:03.864581+00:00 |
+| 우선순위 | P2 |
+| 콘텐츠 타입 | wire |
+| 분류 | alliance |
+| 태그 | 동맹·외교, 우크라이나, NATO, 무기·방산, 안보위협, 미국, 러시아 |
+| 단일 출처 | [SOFREP](https://sofrep.com/news/nato-locks-in-historic-ukraine-package-as-russian-strikes-kill-record-numbers-of-civilians/) |
+
+## 출처 매체
+
+- [SOFREP](https://sofrep.com/news/nato-locks-in-historic-ukraine-package-as-russian-strikes-kill-record-numbers-of-civilians/)
+
+## 사이트에서 읽기
+
+<https://combatsociety.kr/news/20260712-26d4df>
+
+## 인용
+
+```
+Combat Society dataset, "NATO, 우크라이나에 역대 최대 규모 지원 결정… 러시아 6월 민간인 사상 최악", combatsociety.kr/news/20260712-26d4df, github.com/CombatSociety/data.
+```
