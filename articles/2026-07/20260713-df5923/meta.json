@@ -1,0 +1,23 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-07-13T09:54:27.582698+00:00",
+  "slug": "20260713-df5923",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
+  "summary": "러시아 국가 해킹 조직의 주요 인프라 침투 시도에 대한 미국·동맹국 9개국의 공동 경고. 취약한 라우터 악용 공격 방어 조치 권고",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "미국",
+    "러시아",
+    "북한 사이버부대",
+    "APT공격",
+    "공급망공격"
+  ],
+  "title": "러시아 국가 해킹 조직의 주요 인프라 공격 경고… 미국·동맹국 9개국 공동 주의",
+  "url": "https://combatsociety.kr/news/20260713-df5923"
+}
