@@ -1,0 +1,18 @@
+{
+  "category": "tech",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-07-13T15:47:15.352402+00:00",
+  "slug": "20260713-844577",
+  "source_name": "Krebs on Security",
+  "source_url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+  "summary": "미 CISA, 깃허브 유출 사건 분석 보고서 공개… 정부 자격증명 관리 체계 허점 노출",
+  "tags": [
+    "사이버안보",
+    "미국"
+  ],
+  "title": "미 사이버보안청, 깃허브 유출 사건 분석… 정부 보안 관리 허점 드러내",
+  "url": "https://combatsociety.kr/news/20260713-844577"
+}
