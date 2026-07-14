@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-07-14T10:15:18.983707+00:00",
+  "slug": "20260714-eb08e9",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
+  "summary": "미국 OFAC, 랜섬웨어 공격 지원 VPN·악성코드 제공자 제재. 미국 조직 겨냥 공격 그룹 지원 혐의",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "미국",
+    "랜섬웨어",
+    "대북제재"
+  ],
+  "title": "미국, 랜섬웨어 공격 지원 VPN·악성코드 제공자 제재",
+  "url": "https://combatsociety.kr/news/20260714-eb08e9"
+}
