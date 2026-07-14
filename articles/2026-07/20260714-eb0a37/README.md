@@ -1,6 +1,6 @@
 # 미군의 전투준비태세 평가 체계… '적응력' 측정 난제 부상
 
-미군의 전투준비태세 평가 체계 한계 노출… 적응력·회복탄력성 등 무형 역량 정량화 과제
+미군의 전투준비태세 평가 체계가 정량화 가능한 지표 중심으로 운영되는 가운데, 미래 전쟁에서 중요할 것으로 예상되는 적응력·창의성 등 무형 자질의 측정 방안 부재가 과제로 대두
 
 | 항목 | 값 |
 |---|---|
@@ -9,12 +9,12 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | doctrine |
-| 태그 | 교리·전술, 국방정책, 미국, 군사기술 |
-| 단일 출처 | [Army Times](https://www.armytimes.com/news/pentagon-congress/2026/07/14/the-us-military-measures-readiness-what-about-adaptability/) |
+| 태그 | 국방정책, 군사기술, 미국, 교리·전술, 안보위협 |
+| 단일 출처 | [Air Force Times](https://www.airforcetimes.com/news/pentagon-congress/2026/07/14/the-us-military-measures-readiness-what-about-adaptability/) |
 
 ## 출처 매체
 
-- [Army Times](https://www.armytimes.com/news/pentagon-congress/2026/07/14/the-us-military-measures-readiness-what-about-adaptability/)
+- [Air Force Times](https://www.airforcetimes.com/news/pentagon-congress/2026/07/14/the-us-military-measures-readiness-what-about-adaptability/)
 
 ## 사이트에서 읽기
 
