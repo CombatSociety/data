@@ -1,0 +1,19 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-07-14T09:36:20.323228+00:00",
+  "slug": "20260714-0c7b3d",
+  "source_name": "Defense One",
+  "source_url": "https://www.defenseone.com/threats/2026/07/dhs-network-intrusion-was-twice-ruled-false-positive-breach-confirmed/414748/",
+  "summary": "미국 국토안보부 정보네트워크 침입이 초기 탐지 후 2차례 오탐으로 방치되다가 뒤늦게 확인. 월드컵 경기 지원 네트워크 보안 공백 노출",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "미국"
+  ],
+  "title": "미국 국토안보부 네트워크 침입 탐지 후 2차례 오탐으로 방치",
+  "url": "https://combatsociety.kr/news/20260714-0c7b3d"
+}
