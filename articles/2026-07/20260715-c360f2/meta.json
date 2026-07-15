@@ -1,0 +1,20 @@
+{
+  "category": "tech",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-07-15T14:52:08.934661+00:00",
+  "slug": "20260715-c360f2",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+  "summary": "AI와 코드 분석 기술 결합으로 소프트웨어 취약점 자동 발굴 시스템 개발. 워드프레스 플러그인 제로데이 발견 및 악용 입증",
+  "tags": [
+    "군사기술",
+    "사이버안보",
+    "AI국방",
+    "사이버무기"
+  ],
+  "title": "AI로 자동 발굴하는 소프트웨어 취약점… 보안업체 '제로데이 자판기' 공개",
+  "url": "https://combatsociety.kr/news/20260715-c360f2"
+}
