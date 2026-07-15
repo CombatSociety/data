@@ -1,0 +1,130 @@
+{
+  "assessment": "오늘의 이슈들을 관통하는 하나의 흐름은 '지속력'이다. 전쟁을 시작하는 능력이 아니라, 전쟁을 버티는 능력이 현재 가장 심각하게 시험받고 있다. 러시아가 흑해 무역로와 심해항을 집중 타격하며 우크라이나의 전시 경제를 옥죄는 전략으로 전환한 것은, 전선 소모전만으로는 결정적 성과를 내기 어렵다는 판단 아래 경제적 지속력 자체를 표적으로 삼은 것이다. 이 접근은 전쟁의 무게중심이 전선에서 후방 경제 기반으로 이동하고 있음을 보여준다.\n\n미국 방산업계가 장기 분쟁으로 소진된 미사일·요격체 재고를 단기간에 회복하지 못하고 있다는 현실, 그리고 미 공군이 고가 순항미사일 중심 전력에서 저비용 미사일 수천 발 단위 대량 확보로 전략을 전환하고 있다는 사실은 같은 문제의 다른 면이다. 억제력은 플랫폼의 성능이 아니라 탄약 재고와 생산 속도로 측정되는 시대가 됐다. 안두릴의 YFQ-44A가 협력전투기(CCA) 프로그램 최초 실사격 시험을 통과한 것은 질적 자율화의 진전이지만, 공급망 병목이 해소되지 않은 상태에서 전략 전환을 선언하는 것은 실제 억제력 공백을 수반한다는 점에서 두 흐름은 긴장 관계에 있다.\n\n에스토니아가 러시아의 72시간 기습 시나리오에 대비해 종심 방어와 매복 작전 개념을 발전시키는 것도 같은 논리 위에 있다. 수적 열세를 인정한 상태에서 침공 비용을 높이는 방향으로 방어 개념을 설계하는 것은, 지속력 있는 저항이 억제의 핵심임을 보여준다. 이 개념은 한반도 방어 기획에도 낯설지 않지만, 실제 구현 수준은 다르다.\n\n한미연합사령부(CFC)가 역대 최대 규모의 합동지속지원훈련(CJST)을 경북 포항과 강원 홍천에서 실시하고 있다는 사실은 연합 군수 체계의 취약성을 스스로 인식하고 있다는 신호다. 그러나 훈련 규모의 확대가 실제 재고 수준과 생산 기반의 개선으로 이어지지 않으면, 훈련은 취약성을 확인하는 절차에 그친다. K239 천무(Chunmoo MLRS)와 천궁-II(천궁-II) 계열의 생산 여력이 한국 방산의 실질 기여 공간이 될 수 있는 것은 이 맥락에서이며, 글로벌 재고 소진이 가속화되는 시기에 한국의 생산 기반은 동맹 내 협상력의 실질적 변수가 된다는 해석이 가능하다.",
+  "brief_date": "2026-07-16",
+  "digest_type": "daily",
+  "items": [
+    {
+      "priority": "P2",
+      "section": "한반도",
+      "source_name": "VOA 한반도",
+      "source_url": "https://www.voakorea.com/a/cjst-largest-in-history-071526/8172081.html",
+      "subtitle": "포항·홍천 일대에서 연합·합동지속지원훈련(CJST) 진행 중",
+      "summary_en": "The ROK-US Combined Forces Command (CFC) is conducting a Combined Joint Sustainment Training (CJST) from the 13th to the 16th in the Pohang and Hongcheon areas, marking the largest exercise of its kind to date. The training focuses on validating the combined logistics sustainment framework essential for sustaining combat operations on the Korean Peninsula.",
+      "summary_kr": "한미연합사령부(CFC)가 13일부터 16일까지 경북 포항과 강원 홍천 일대에서 연합·합동지속지원훈련(CJST)을 실시하고 있다. 이번 훈련은 역대 최대 규모로 진행되며, 전시 작전 지속 능력 유지를 위한 한미 연합 군수 지원 체계를 점검하는 데 초점을 맞추고 있다.",
+      "title": "한미연합사, 역대 최대 규모 합동지속지원훈련 실시"
+    },
+    {
+      "priority": "P1",
+      "section": "해외",
+      "source_name": "Defense News",
+      "source_url": "https://www.defensenews.com/flashpoints/2026/07/15/us-launches-new-round-of-strikes-against-iran/",
+      "subtitle": "미국이 이란 항구에 대한 해상 봉쇄를 재부과한 데 이어 군사시설에 대한 추가 공습을 단행했다.",
+      "summary_en": "The U.S. conducted a new wave of airstrikes against Iranian military sites following the reimposition of a naval blockade on Iranian ports. The back-to-back military actions signal an escalating coercive campaign against Iran, combining sea denial with direct strikes on military infrastructure.",
+      "summary_kr": "미국이 이란 항구에 대한 해상 봉쇄를 재개한 직후 이란 군사시설을 겨냥한 추가 공습을 실시했다. 연속적인 군사 압박은 이란에 대한 미국의 강압 전략이 새로운 국면에 진입했음을 시사한다.",
+      "title": "미국, 이란 군사시설 추가 타격 및 해상 봉쇄 재개"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Military Times",
+      "source_url": "https://www.militarytimes.com/industry/techwatch/2026/07/15/air-force-completes-first-ever-cca-live-fire-test-with-anduril-yfq-44a/",
+      "subtitle": "유무인복합 전력 구축의 핵심 이정표로, 자율 전투기 실전화 가속화 전망",
+      "summary_en": "The U.S. Air Force successfully conducted the first-ever live-fire test under its Collaborative Combat Aircraft (CCA) program, using Anduril Industries' YFQ-44A autonomous aircraft. The milestone marks a significant step toward operationalizing manned-unmanned teaming concepts, validating the CCA's combat employment potential ahead of broader fleet integration.",
+      "summary_kr": "미 공군이 안두릴 인더스트리(Anduril Industries)의 YFQ-44A를 활용해 협력전투기(CCA) 프로그램 사상 최초의 실사격 시험을 성공적으로 마쳤다. 이번 시험은 유인 전투기와 자율 무인기가 협력하는 유무인복합 전력 개념의 실전 적용 가능성을 검증한 핵심 단계로 평가된다.",
+      "title": "미 공군, 안두릴 YFQ-44A로 협력전투기(CCA) 최초 실사격 시험 완료"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/07/15/us-air-force-turns-to-cheaper-cruise-missiles-it-can-buy-by-the-thousand/",
+      "subtitle": "단가를 낮춰 수천 발 규모로 구매함으로써 과거 1발 비용으로 다수를 운용하는 방식을 추구한다.",
+      "summary_en": "The U.S. Air Force is shifting toward procuring low-cost cruise missiles in quantities of thousands, seeking to acquire multiple rounds for what a single missile once cost. The move reflects growing emphasis on magazine depth and attritable munitions to sustain high-intensity conflict scenarios.",
+      "summary_kr": "미 공군이 기존 고가 순항미사일 중심 전력에서 벗어나 저비용 순항미사일을 수천 발 단위로 대량 확보하는 방향으로 전략을 전환하고 있다. 이는 과거 1발 발사 비용으로 다수의 미사일을 운용할 수 있는 물량 우위를 확보하려는 접근으로, 고강도 분쟁 시 소모전에 대비한 탄약 재고 확충 논의와 맞닿아 있다.",
+      "title": "미 공군, 저비용 순항미사일 대량 확보 전략으로 전환"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "The Record",
+      "source_url": "https://therecord.media/gold-eagle-cybersecurity-vulnerabilities-clearinghouse",
+      "subtitle": "'골드 이글' 프로그램, 민관 협력으로 취약점 탐지·패치 속도 대폭 단축 목표",
+      "summary_en": "The Trump administration has unveiled the Gold Eagle program, an AI-supported clearinghouse designed to rapidly detect, prioritize, and patch cybersecurity vulnerabilities. The platform is intended for joint use by private industry, critical infrastructure operators, and government agencies, signaling a shift toward AI-driven, whole-of-nation cyber defense.",
+      "summary_kr": "트럼프 행정부가 AI를 활용해 사이버 보안 취약점을 신속히 탐지·우선순위화·패치할 수 있는 통합 플랫폼 '골드 이글(Gold Eagle)' 프로그램을 공개했다. 이 체계는 민간 기업, 핵심 인프라 운영자, 정부 기관이 공동으로 활용할 수 있도록 설계됐다.",
+      "title": "트럼프 행정부, AI 기반 사이버 취약점 통합 관리 체계 공개"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+      "subtitle": "코드 분석과 대형언어모델을 결합한 자동화 취약점 탐색 기술이 실전 적용 단계에 진입했다.",
+      "summary_en": "Security firm Intruder has developed an AI-powered vulnerability discovery system that combines code slicing with large language models to automatically identify complex software flaws. The system successfully uncovered a previously unknown zero-day in a WordPress plugin, with additional findings currently under responsible disclosure. The automation of vulnerability research at this scale signals a significant shift in the offensive and defensive cybersecurity landscape.",
+      "summary_kr": "보안 기업 인트루더(Intruder)가 코드 슬라이싱과 대형언어모델(LLM)을 결합한 AI 기반 취약점 자동 탐색 시스템을 개발해 워드프레스 플러그인의 미공개 제로데이 취약점을 발굴하는 데 성공했다. 추가로 발견된 취약점들은 현재 책임 공개 절차가 진행 중이다. 이 기술은 기존 수동 분석 방식을 자동화함으로써 취약점 발굴 속도와 범위를 대폭 확장할 수 있어, 방어 측과 공격 측 모두에 파급 효과가 예상된다.",
+      "title": "AI 기반 취약점 자동 발굴 시스템, 워드프레스 플러그인 제로데이 탐지"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Foreign Policy",
+      "source_url": "https://foreignpolicy.com/2026/07/15/russia-ukraine-war-strikes-black-sea-ports-odesa-zelensky-koretskyi-fedorov/",
+      "subtitle": "모스크바는 전선 교착 속에서 해상 경제 봉쇄를 새로운 압박 수단으로 전환하고 있다.",
+      "summary_en": "Russia is shifting military focus toward Black Sea trade routes and deepwater ports to squeeze Ukraine's wartime economy. By targeting export logistics and port infrastructure alongside front-line attrition, Moscow appears to be pursuing a dual strategy aimed at undermining Ukraine's long-term economic resilience.",
+      "summary_kr": "러시아가 흑해 무역로와 심해항을 집중 타격하며 우크라이나의 전시 경제를 옥죄는 전략으로 전환하고 있다. 수출 물류와 항만 인프라를 겨냥한 이 접근은 전선 소모전과 병행해 우크라이나의 경제적 지속력을 약화시키려는 의도로 풀이된다.",
+      "title": "러시아, 흑해 무역로·심해항 타격으로 우크라이나 전시경제 압박"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "SOFREP",
+      "source_url": "https://sofrep.com/news/the-russian-threat-to-estonia/",
+      "subtitle": "발트해 소국이 도로·교량·병목 지점을 사전 분석해 NATO 지원과 연계한 매복 방어 전략을 정비하고 있다.",
+      "summary_en": "Estonia has systematically mapped key roads, bridges, choke points, and firing positions to counter a potential Russian rapid advance on Tallinn. By integrating this terrain analysis with NATO reinforcement plans, Tallinn aims to transform any 72-hour blitz into a costly, NATO-backed ambush that offsets Russia's numerical advantage.",
+      "summary_kr": "에스토니아는 러시아의 탈린 72시간 기습 시나리오에 대비해 주요 도로·교량·화력 진지를 사전 분석하고, NATO 증원과 연계한 종심 방어 및 매복 작전 개념을 발전시키고 있다. 러시아가 수적 우위를 보유하더라도 에스토니아의 지형 활용과 동맹 지원이 결합될 경우 침공 비용을 대폭 높일 수 있다는 평가다.",
+      "title": "에스토니아, 러시아 기습 침공 시나리오에 대비한 종심 방어 체계 구축"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/07/15/pressure-mounts-on-defense-executives-to-boost-weapons-production/",
+      "subtitle": "미사일·요격체 등 핵심 탄약 소모가 누적되면서 방산 기업들의 생산 능력 확충이 시급한 과제로 부상하고 있다.",
+      "summary_en": "Prolonged conflicts have significantly depleted U.S. stockpiles of missiles, interceptors, and other munitions, intensifying pressure on defense industry executives to scale up production. Supply chain constraints and limited manufacturing capacity pose structural challenges to rapidly restoring inventory levels, raising broader concerns about U.S. deterrence readiness.",
+      "summary_kr": "장기화된 분쟁으로 미사일, 요격체 등 주요 무기 재고가 대규모로 소진되면서 미국 방산 기업 경영진에 대한 생산 확대 압박이 높아지고 있다. 공급망 병목과 생산 시설 한계가 맞물려 단기간 내 재고 회복이 쉽지 않다는 점에서 미국의 억제력 유지에 구조적 도전이 제기된다.",
+      "title": "장기 분쟁으로 소진된 무기 재고, 미 방산업계에 증산 압박 가중"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "The War Zone",
+      "source_url": "https://www.twz.com/news-features/trumps-threat-to-strike-irans-pickaxe-mountain-bunkers-front-door-underscores-targeting-challenges",
+      "subtitle": "이란 최심부 지하 핵시설을 정면 타격하겠다는 발언이 실제 작전 가능성 논쟁을 촉발하고 있다.",
+      "summary_en": "President Trump's remark about striking the 'front door' of Iran's Pickaxe Mountain underground nuclear facility has drawn attention to the severe targeting challenges the site presents. Considered Iran's most inaccessible nuclear-related installation, the bunker is believed to be buried at depths that strain the limits of existing penetrating munitions, raising questions about whether any conventional strike could achieve meaningful damage.",
+      "summary_kr": "트럼프 대통령이 이란의 지하 핵시설 '곡괭이산(Pickaxe Mountain)'의 '정문을 직접 타격할 수 있다'고 언급하면서 해당 시설의 표적화 난제가 재조명되고 있다. 이 시설은 이란 핵 프로그램 관련 시설 중 접근이 가장 어려운 곳으로 꼽히며, 기존 벙커버스터 무기로도 파괴가 불확실한 수준의 지하 깊이에 위치한 것으로 알려져 있다.",
+      "title": "트럼프, 이란 '곡괭이산' 핵 벙커 타격 위협 — 관통 난제 부각"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Lawfare",
+      "source_url": "https://www.lawfaremedia.org/article/takeaways-for-iran-a-year-after-the-syria-sanctions-rollback",
+      "subtitle": "트럼프 행정부가 이란과의 합의 시 제재 해제를 시사했으나, 시리아 전례는 그 과정이 복잡하고 지난함을 보여준다.",
+      "summary_en": "The Trump administration has signaled willingness to lift sanctions on Iran contingent on a peace agreement. However, the experience of Syria's sanctions rollback over the past year highlights significant legal, administrative, and implementation hurdles. The Iran case is likely to face similarly complex obstacles beyond any political-level deal.",
+      "summary_kr": "트럼프 행정부는 이란과 평화 합의가 이뤄질 경우 제재를 해제할 수 있다는 입장을 밝혔다. 그러나 시리아 제재 해제 과정은 법적·행정적 절차의 복잡성과 실질적 이행의 어려움을 드러낸 바 있다. 이란 제재 완화 역시 단순한 정치적 결정을 넘어 다층적 장벽에 직면할 가능성이 높다.",
+      "title": "시리아 제재 해제 사례가 보여주는 이란 제재 완화의 난관"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "The Strategist (ASPI)",
+      "source_url": "https://www.aspistrategist.org.au/resources-competition-and-environmental-change-australian-polar-policy-isnt-keeping-up/",
+      "subtitle": "자원·환경 변화로 남극·북극의 지정학적 중요성이 커지는 가운데 호주의 수동적 대응이 한계에 달했다는 지적이 제기된다.",
+      "summary_en": "Australia's passive, diplomacy-first approach to the polar regions is increasingly untenable as strategic competition intensifies in the Arctic and Antarctic. Analysts argue that Canberra must shift from treating the poles as peripheral scientific domains to developing a proactive polar strategy that accounts for resource competition and environmental change.",
+      "summary_kr": "호주가 극지 지역을 외교로 관리하는 주변적 과학 영역으로 취급해온 기존 접근법이 전략 경쟁 심화 속에서 더 이상 유효하지 않다는 분석이 나왔다. 자원 경쟁과 환경 변화가 남극·북극의 안보적 함의를 높이는 만큼, 캔버라는 보다 능동적인 극지 전략을 수립해야 한다는 주장이다.",
+      "title": "호주 극지 정책, 전략 경쟁 시대에 뒤처지다"
+    }
+  ],
+  "published_at": "2026-07-15T22:02:47.828013+00:00",
+  "summary": "러시아의 흑해 항만 타격이 전쟁의 무게중심을 전선에서 후방 경제 기반으로 옮기는 사이, 미 공군은 고가 순항미사일 중심 전력에서 저비용 미사일 대량 확보로 전략을 전환하고 방산업계는 재고 회복의 한계를 노출하고 있다. 안두릴 YFQ-44A의 협력전투기(CCA) 실사격 시험 성공은 자율화의 진전을 보여주지만, 공급망 병목이 해소되지 않은 상태에서의 전략 전환은 실질적 억제력 공백을 수반한다. 한미연합사령부(CFC)의 역대 최대 규모 합동지속지원훈련(CJST)은 연합 군수 체계의 취약성을 스스로 인식한 신호이며, 글로벌 재고 소진이 가속화되는 국면에서 한국의 생산 기반이 동맹 내 실질 협상력의 변수임을 드러낸다.",
+  "title": "전력 우위보다 지속력이 먼저 시험받는 시대"
+}
