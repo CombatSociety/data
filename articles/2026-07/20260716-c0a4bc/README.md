@@ -1,0 +1,27 @@
+# 신원 인증 공격이 랜섬웨어 주요 원인으로 부상… MFA 우회 사례 증가
+
+이메일 기반 신원 공격이 랜섬웨어 감염의 최대 원인으로 부상. 다중인증 배포에도 불구하고 97% 사례에서 우회 성공
+
+| 항목 | 값 |
+|---|---|
+| Slug | `20260716-c0a4bc` |
+| 발행 | 2026-07-16T00:45:42.905612+00:00 |
+| 우선순위 | P3 |
+| 콘텐츠 타입 | wire |
+| 분류 | threats |
+| 태그 | 안보위협, 사이버안보, 사이버스파이, APT공격, 군사기술 |
+| 단일 출처 | [Dark Reading](https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause) |
+
+## 출처 매체
+
+- [Dark Reading](https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause)
+
+## 사이트에서 읽기
+
+<https://combatsociety.kr/news/20260716-c0a4bc>
+
+## 인용
+
+```
+Combat Society dataset, "신원 인증 공격이 랜섬웨어 주요 원인으로 부상… MFA 우회 사례 증가", combatsociety.kr/news/20260716-c0a4bc, github.com/CombatSociety/data.
+```
