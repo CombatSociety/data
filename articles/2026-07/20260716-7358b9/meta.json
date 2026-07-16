@@ -1,23 +1,22 @@
 {
   "category": "doctrine",
-  "content_type": "original",
+  "content_type": "wire",
   "cover_image_caption": "2026년 2월 26일 펜실베이니아 메카니즈버그 해군지원활동에서 열린 AI 리더십 포럼에서 해군대학원 인공지능 태스크포스 전문가가 해군보급시스템사령부 및 산하 부대 지휘관들을 대상으로 해군 보급·물류 작전에 AI 통합 전략을 설명하고 있다.",
   "cover_image_credit": "Photo: U.S. DVIDS / Public Domain / Karissa Murdock",
   "priority": "P2",
   "published_at": "2026-07-16T15:03:30.640809+00:00",
   "slug": "20260716-7358b9",
-  "source_name": null,
-  "source_url": null,
-  "summary": "헝 카오 해군부 대행 장관 서명, 데이터·AI를 전투 자원으로 규정한 해양 우위 유지 로드맵 공개",
+  "source_name": "USNI News",
+  "source_url": "https://news.usni.org/2026/07/16/the-navys-strategy-to-weaponize-data-and-artificial-intelligence",
+  "summary": "미 해군, 데이터·AI 전력화 전략 발표… 의사결정 가속화·해양 우위 유지 목표",
   "tags": [
-    "교리·전술",
     "군사기술",
     "미국",
     "해군",
     "AI국방",
-    "무기·방산",
-    "동맹·외교"
+    "전자전",
+    "다영역작전"
   ],
-  "title": "데이터·AI 무기화로 해양 우위 유지… 미 해군부, 전력 전환 전략 공개",
+  "title": "미 해군, AI·데이터 전력화 전략 공개… 의사결정 가속화 추진",
   "url": "https://combatsociety.kr/news/20260716-7358b9"
 }

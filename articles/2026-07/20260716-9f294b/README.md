@@ -1,15 +1,16 @@
-# 방공망 포화 전술 본격화… 러시아, 자포리자 드론 공세 강도 높여
+# 자포리자 공격 증가, 러시아군 방공망 포화 시도
 
-러시아군, 자포리자에 드론·UAV 공격 빈도 증가… 방공망 포화 유도 전술로 일부 요격 실패 확인
+자포리자 지역 공격 증가, 러시아군 드론 대량 투입으로 우크라이나 방공망 포화 시도
 
 | 항목 | 값 |
 |---|---|
 | Slug | `20260716-9f294b` |
 | 발행 | 2026-07-16T15:07:02.173256+00:00 |
 | 우선순위 | P2 |
-| 콘텐츠 타입 | original |
-| 분류 | threats |
-| 태그 | 안보위협, 러시아, 우크라이나, 드론, 방공체계, 교전, 지정학·국제 |
+| 콘텐츠 타입 | wire |
+| 분류 | operations |
+| 태그 | 작전·훈련, 안보위협, 우크라이나, 러시아, 드론, 방공체계 |
+| 단일 출처 | [Ukrinform](https://www.ukrinform.net/rubric-ato/4145046-number-of-attacks-on-zaporizhzhia-increases-enemies-try-to-overload-air-defense-systems.html) |
 
 ## 출처 매체
 
@@ -22,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "방공망 포화 전술 본격화… 러시아, 자포리자 드론 공세 강도 높여", combatsociety.kr/news/20260716-9f294b, github.com/CombatSociety/data.
+Combat Society dataset, "자포리자 공격 증가, 러시아군 방공망 포화 시도", combatsociety.kr/news/20260716-9f294b, github.com/CombatSociety/data.
 ```

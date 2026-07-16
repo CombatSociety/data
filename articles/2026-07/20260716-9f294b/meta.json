@@ -1,23 +1,22 @@
 {
-  "category": "threats",
-  "content_type": "original",
+  "category": "operations",
+  "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P2",
   "published_at": "2026-07-16T15:07:02.173256+00:00",
   "slug": "20260716-9f294b",
-  "source_name": null,
-  "source_url": null,
-  "summary": "러시아군, 자포리자에 드론·UAV 공격 빈도 증가… 방공망 포화 유도 전술로 일부 요격 실패 확인",
+  "source_name": "Ukrinform",
+  "source_url": "https://www.ukrinform.net/rubric-ato/4145046-number-of-attacks-on-zaporizhzhia-increases-enemies-try-to-overload-air-defense-systems.html",
+  "summary": "자포리자 지역 공격 증가, 러시아군 드론 대량 투입으로 우크라이나 방공망 포화 시도",
   "tags": [
+    "작전·훈련",
     "안보위협",
-    "러시아",
     "우크라이나",
+    "러시아",
     "드론",
-    "방공체계",
-    "교전",
-    "지정학·국제"
+    "방공체계"
   ],
-  "title": "방공망 포화 전술 본격화… 러시아, 자포리자 드론 공세 강도 높여",
+  "title": "자포리자 공격 증가, 러시아군 방공망 포화 시도",
   "url": "https://combatsociety.kr/news/20260716-9f294b"
 }
