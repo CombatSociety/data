@@ -1,0 +1,22 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-07-16T21:50:07.563921+00:00",
+  "slug": "20260716-fbfadd",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters",
+  "summary": "AI 보안 필터를 우회하는 텍스트 염색 기법으로 100만 건 이상의 피싱 이메일이 사용자 받은편지함에 도달. 대규모언어모델 기반 탐지 시스템의 한계 노출",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "군사기술",
+    "AI국방",
+    "사이버스파이",
+    "허위정보"
+  ],
+  "title": "AI 보안 필터 우회하는 '텍스트 염색' 공격… 100만 건 이상 피싱 이메일 적발",
+  "url": "https://combatsociety.kr/news/20260716-fbfadd"
+}
