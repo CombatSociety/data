@@ -1,0 +1,20 @@
+{
+  "category": "tech",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-07-16T07:16:43.842676+00:00",
+  "slug": "20260716-c1346e",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/cyber-risk/forgotten-bootloaders-expose-secure-boot-blind-spot",
+  "summary": "UEFI 부트로더 취약점으로 보안 부팅 우회 가능… 폐기 후에도 수년간 신뢰 상태 유지된 관리 감시 공백",
+  "tags": [
+    "군사기술",
+    "사이버안보",
+    "사이버무기",
+    "미국"
+  ],
+  "title": "보안 부팅 우회 경로 노출한 UEFI 부트로더 취약점… 수년간 신뢰 상태 유지",
+  "url": "https://combatsociety.kr/news/20260716-c1346e"
+}
