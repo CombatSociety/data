@@ -1,0 +1,130 @@
+{
+  "assessment": "드론이 전장의 기본 소모품이 된 속도를 미군은 아직 제도적으로 따라잡지 못하고 있다. 우크라이나가 연간 1,000만 대 규모의 드론을 생산하며 EU 공급망과 연계하는 동안, 미 육군 중기계화부대는 적 무인항공기(UAS) 위협 대응 능력에서 심각한 공백을 안고 있다는 지적을 받고 있다. 차세대 단거리 방공 체계 NGSRI(Next Generation Short Range Interceptor)가 실사격 시험을 통과한 것은 의미 있는 진전이지만, FIM-92 Stinger MANPADS를 수십 년간 운용해온 구조가 보여주듯 체계 전환의 속도는 위협의 진화 속도를 따라가지 못하는 경향이 있다.\n\n우크라이나 전장이 증명한 것은 드론 대응이 특정 방공 체계의 문제가 아니라 기동부대 전체의 생존성 문제라는 점이다. 현장 지휘관이 경고한 것처럼, 적 드론을 신속히 제압하지 못하면 기동 작전의 연속성 자체가 끊긴다. 이는 플랫폼 대 플랫폼의 대결이 아니라 소모 속도와 대응 속도 사이의 싸움이며, 그 싸움에서 지금 미군은 구조적으로 느리다.\n\n전 미 공군장관의 AI 전환 주장은 이 흐름의 논리적 귀결이다. 유무인복합 체계로의 전환이 선택이 아닌 생존의 문제가 되고 있다면, 교리와 인력 구조의 재편은 장비 도입보다 먼저 결론이 나야 한다. 그러나 미 해군·육군이 극초음속 미사일 개발에서 통합 전략 없이 각자 사업을 추진하다 예산과 일정을 낭비하고 있다는 미 회계감사원(GAO)의 경고는, 미군 내부의 군종 간 조율 실패가 첨단 체계 전반에 걸쳐 반복되는 구조적 패턴임을 시사한다. 드론 대응 공백과 극초음속 지연은 별개의 사건이 아니라 같은 뿌리에서 나온 증상이다.\n\n한국군 기계화부대 역시 같은 구조적 취약성을 공유한다. 천궁-II(천궁-II) 중심의 중고도 방공 체계와 소부대 수준의 드론 대응 능력 사이의 공백은 전력기획에서 아직 충분히 다루어지지 않은 영역이다. 우크라이나가 EU와 드론 생산 협정을 체결하며 산업 역량과 전장 소요를 연계하는 방식은, 한국이 K239 천무(K239 천무 MLRS)와 같은 플랫폼 수출 성과를 넘어 드론 대응 생태계 전체를 어떻게 구성할 것인지를 묻는 준거가 된다. 한화가 미 해군 미사일 추적 계측함 '골든 디펜더' 건조를 수주하며 미국의 전략 감시 인프라 공급망에 편입된 것은 K-방산의 외연 확장으로 기록할 수 있지만, 드론 대응과 유무인복합 체계라는 현재 전쟁의 핵심 영역에서 한국이 어느 위치에 있는지는 별개의 질문이다.",
+  "brief_date": "2026-07-18",
+  "digest_type": "daily",
+  "items": [
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "The War Zone",
+      "source_url": "https://www.twz.com/news-features/u-s-iran-fight-heats-up-with-mutual-strikes-on-infrastructure-targets",
+      "subtitle": "미 공군 공중급유기·전투기 중동 추가 전개로 확전 대비 태세 강화",
+      "summary_en": "The United States and Iran have exchanged strikes on infrastructure targets, marking a significant escalation in direct military confrontation between the two sides. The U.S. Air Force is reinforcing its Middle East posture by deploying additional tankers and fighter aircraft to the region.",
+      "summary_kr": "미국과 이란이 인프라 시설을 겨냥한 상호 타격을 주고받으며 양측 간 무력 충돌이 고조되고 있다. 미 공군은 공중급유기와 전투기를 중동 지역에 추가 전개하며 확전에 대비한 전력 증강에 나섰다.",
+      "title": "미국·이란, 인프라 시설 상호 타격으로 충돌 격화"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Dark Reading",
+      "source_url": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days",
+      "subtitle": "두 취약점을 결합하면 원격에서 루트 권한 탈취가 가능해 기업·기관 네트워크 침투 경로로 활용될 수 있다.",
+      "summary_en": "The Inc ransomware group has been exploiting two chained zero-day vulnerabilities in SonicWall's Secure Mobile Access (SMA) appliances to achieve root-level access. When combined, the flaws allow unauthenticated attackers to fully compromise affected devices, posing a significant risk to enterprise and government networks relying on SonicWall for remote access.",
+      "summary_kr": "Inc 랜섬웨어 그룹이 소닉월(SonicWall) 모바일 접근 어플라이언스(SMA)에서 발견된 두 개의 제로데이 취약점을 연쇄 활용해 루트 수준의 권한을 획득하는 공격을 수행하고 있다. 두 취약점을 조합하면 인증 없이 장비를 완전히 장악할 수 있어 피해 범위가 광범위할 수 있다.",
+      "title": "Inc 랜섬웨어, 소닉월 SMA 장비 제로데이 취약점 연쇄 악용"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/07/eu-ukraine-sign-drone-deal-to-fast-track-unmanned-systems-production/",
+      "subtitle": "젤렌스키 대통령이 연간 1,000만 대 생산 목표를 밝힌 가운데 EU와의 협력으로 무인체계 공급망 확충에 나선다.",
+      "summary_en": "Ukraine and the EU have signed an agreement to accelerate unmanned systems production, as Ukrainian President Volodymyr Zelenskyy announced the country is currently manufacturing 10 million drones annually. The deal aims to integrate Ukraine's rapidly expanding drone industry into EU defense supply chains, boosting both battlefield capability and European defense industrial capacity.",
+      "summary_kr": "우크라이나는 현재 연간 1,000만 대 규모의 드론을 생산 중이며, EU와 무인체계 생산 가속화를 위한 협정을 체결했다. 이번 협정은 우크라이나의 드론 산업 역량을 EU 공급망과 연계해 전장 소요를 충족하는 동시에 유럽 방산 기반 강화를 목표로 한다.",
+      "title": "EU·우크라이나, 드론 생산 가속화 협정 체결"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Real Clear Defense",
+      "source_url": "https://www.realcleardefense.com/2026/07/17/armys_heavy_units_face_counter-drone_capability_gaps_1195096.html",
+      "subtitle": "기동 작전 지속을 위한 신속한 대드론 체계 확보가 시급한 과제로 부상했다.",
+      "summary_en": "U.S. Army heavy units are facing significant gaps in counter-drone capabilities, raising concerns about their ability to sustain maneuver operations. A commander warned that without rapid and effective UAS suppression, continued ground maneuver will be at serious risk.",
+      "summary_kr": "미 육군 중기계화부대가 적 무인항공기(UAS) 위협에 대응하는 능력에서 심각한 공백을 안고 있다는 지적이 제기됐다. 현장 지휘관은 적 드론을 신속히 제압하지 못하면 기동 작전의 연속성 자체가 위협받는다고 경고했다.",
+      "title": "미 육군 중기계화부대, 드론 대응 능력 공백 직면"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Real Clear Defense",
+      "source_url": "https://www.realcleardefense.com/2026/07/17/the_missile_poised_to_replace_the_stinger_just_proved_itself_1195114.html",
+      "subtitle": "스팅거 FIM-92 Stinger MANPADS 후속 체계로 개발 중인 NGSRI가 모의 공중 위협 교전 시험에서 성능을 입증했다.",
+      "summary_en": "The U.S. Army's Next Generation Short Range Interceptor (NGSRI) successfully engaged simulated airborne threats during live-fire testing, employing a Command Launch Assembly, precision-optics seeker, and solid rocket motor. The milestone advances the program aimed at replacing the aging FIM-92 Stinger MANPADS, which has served as the Army's primary man-portable air defense system for decades.",
+      "summary_kr": "미 육군의 차세대 단거리 방공 체계 NGSRI(Next Generation Short Range Interceptor)가 지휘발사조립체(Command Launch Assembly)와 정밀 광학 탐색기, 고체 로켓 모터를 활용해 모의 공중 위협 표적 교전 시험을 성공적으로 완료했다. 이번 시험은 수십 년간 운용된 FIM-92 Stinger MANPADS를 대체할 후속 체계 개발에 중요한 이정표로 평가된다.",
+      "title": "미 육군 차세대 단거리 방공 미사일 NGSRI, 실사격 시험 통과"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "The Record",
+      "source_url": "https://therecord.media/ukraine-acting-defense-minister-yevhenii-khmara",
+      "subtitle": "장거리 타격 작전 경험을 갖춘 보안국 수장이 국방부를 겸직하며 전시 지휘 체계 재편",
+      "summary_en": "Ukrainian President Volodymyr Zelensky has appointed Major General Yevhenii Khmara, the acting head of the Security Service of Ukraine, as acting defense minister. Khmara brings extensive background in intelligence, counterterrorism, and long-range strike operations against Russia. The dual appointment signals Kyiv's intent to tighten integration between intelligence and defense functions under wartime conditions.",
+      "summary_kr": "볼로디미르 젤렌스키 우크라이나 대통령이 정보·대테러·대러 장거리 타격 분야 경력을 보유한 예브헤니 흐마라 소장을 국방장관 대행으로 임명했다. 보안국장 직을 겸직하는 이번 인사는 전시 상황에서 정보와 국방 기능을 통합하려는 의도로 풀이된다.",
+      "title": "젤렌스키, 정보·대테러 전문가를 우크라이나 국방장관 대행에 임명"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/07/navy-army-risk-wasting-money-time-without-unified-hypersonic-missile-strategy-gao/",
+      "subtitle": "미 회계감사원(GAO), 줌왈트급 구축함 현대화 2년 지연 등 군종 간 조율 부재 문제 지적",
+      "summary_en": "The U.S. Government Accountability Office (GAO) warned that the Navy and Army risk wasting resources by pursuing hypersonic missile programs without a unified cross-service strategy. The Navy is already approximately two years behind schedule on modernizing its Zumwalt-class destroyers as part of the effort.",
+      "summary_kr": "미 회계감사원(GAO)은 해군과 육군이 극초음속 미사일 개발에 있어 통합된 전략 없이 각자 사업을 추진할 경우 예산과 시간을 낭비할 위험이 있다고 경고했다. 해군은 줌왈트(Zumwalt)급 구축함 현대화 사업에서 이미 약 2년의 일정 지연이 발생한 것으로 파악됐다.",
+      "title": "미 해군·육군, 극초음속 미사일 전략 불통합으로 예산·일정 낭비 위험"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Military Times",
+      "source_url": "https://www.militarytimes.com/industry/techwatch/2026/07/17/let-the-ai-do-it-former-air-force-secretary-pits-machine-against-human-operators/",
+      "subtitle": "인간 조종사·운용자 역할을 AI로 대체해야 한다는 주장이 전직 고위 당국자로부터 제기되며 논쟁을 촉발하고 있다.",
+      "summary_en": "A former U.S. Air Force secretary publicly advocated replacing human operators with AI in aviation missions, framing it as a necessary shift in military operations. The remarks intensify ongoing debate over manned-unmanned teaming and could accelerate doctrinal reassessment within the U.S. Air Force.",
+      "summary_kr": "전 미 공군장관이 항공 작전 분야에서 인간 운용자 대신 AI가 임무를 수행해야 한다고 공개적으로 주장했다. 이는 유무인복합 체계 전환 논의를 가속화할 수 있는 발언으로, 미 공군의 인력 구조와 교리에 대한 근본적 재검토를 촉구하는 신호로 해석된다.",
+      "title": "전 미 공군장관, 유인 운용 대신 AI 전환 주장"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Military Times",
+      "source_url": "https://www.militarytimes.com/industry/techwatch/2026/07/17/us-navy-2-years-behind-on-hypersonic-missile-installation-on-zumwalt-destroyers/",
+      "subtitle": "고비용 전략 타격 현대화 사업이 일정 차질을 빚으며 해군 전력화 계획에 영향을 줄 전망이다.",
+      "summary_en": "The U.S. Navy's program to equip three Zumwalt-class destroyers with hypersonic missiles has fallen two years behind schedule. The costly modernization effort raises concerns about the timeline for fielding a credible naval hypersonic strike capability.",
+      "summary_kr": "미 해군이 줌왈트(Zumwalt)급 구축함 3척에 극초음속 미사일을 탑재하는 사업이 당초 일정보다 2년 지연된 것으로 확인됐다. 해당 사업은 막대한 예산이 투입된 전략 타격 현대화 프로그램으로, 지연이 장기화될 경우 미 해군의 극초음속 전력 운용 시기에 직접적인 영향을 미칠 수 있다.",
+      "title": "미 해군 줌왈트급 구축함 극초음속 미사일 탑재 사업, 2년 지연"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "SOFREP",
+      "source_url": "https://sofrep.com/?p=229851&preview=true&preview_id=229851",
+      "subtitle": "SEAL 후보생 사망 사건 이후 불법 호르몬 사용 문제가 수면 위로 떠오르며 미 국방부가 검사 정책을 도입했으나 실효성 논란이 지속되고 있다.",
+      "summary_en": "The Pentagon's testosterone screening policy emerged not from a clean medical debate but from years of illicit hormone use in elite training pipelines and a SEAL candidate's death that forced Naval Special Warfare to act. The central question now is whether the policy will meaningfully improve force readiness or serve primarily as a performative measure without substantive enforcement.",
+      "summary_kr": "미 국방부의 테스토스테론 검사 정책은 특수전 훈련 과정 내 불법 호르몬 사용과 반복된 조사 실패, 그리고 SEAL 후보생 사망 사건을 계기로 도입됐다. 정책이 실질적인 전력 강화로 이어질지, 아니면 외형만 갖춘 형식적 조치에 그칠지에 대한 논란이 이어지고 있다.",
+      "title": "미 특수전 테스토스테론 검사 정책, 전력 강화냐 형식적 조치냐"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "The War Zone",
+      "source_url": "https://www.twz.com/sea/china-is-building-a-monster-supply-ship-for-its-carrier-groups",
+      "subtitle": "항모전단 원거리 작전 지속 능력 강화를 위한 전략적 군수 투자로 풀이된다.",
+      "summary_en": "A Chinese shipyard is constructing what appears to be the world's largest at-sea replenishment vessel. The ship is expected to significantly extend the sustained operational range of PLAN carrier strike groups, signaling a major investment in blue-water logistics capability.",
+      "summary_kr": "중국 조선소에서 현존 최대 규모로 추정되는 해상 보급함이 건조되고 있는 것으로 확인됐다. 이 함정은 PLA 해군(PLAN) 항모전단의 원해 작전 지속 능력을 획기적으로 높일 전망이다.",
+      "title": "중국, 세계 최대급 해상 보급함 건조 중"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "USNI News",
+      "source_url": "https://news.usni.org/2026/07/17/philly-shipyard-to-build-golden-defender-ship-as-part-of-new-missile-defense-program",
+      "subtitle": "트럼프 행정부의 '골든 돔' 미사일 방어 구상을 지원하는 해상 계측 함정으로, 한화의 기존 다목적 선박 설계를 기반으로 제작된다.",
+      "summary_en": "Hanwha Philly Shipyard has been selected to build the 'Golden Defender,' a missile-range instrumentation vessel for the U.S. Navy supporting the Trump administration's Golden Dome missile defense initiative. The vessel is based on the National Security Multi-Mission Vessel design Hanwha is already producing for U.S. Maritime Administration training ships, with TOTE Services serving as vessel operator.",
+      "summary_kr": "한화 필리 조선소가 미 해군의 미사일 추적 계측함 '골든 디펜더' 건조를 수주했다. 이 함정은 트럼프 행정부의 '골든 돔' 미사일 방어 프로그램을 지원하기 위한 것으로, 한화가 미 해사청 훈련함 사업에서 활용 중인 국가안보 다목적 선박(NSMV) 설계를 기반으로 한다.",
+      "title": "한화, 미 해군 미사일 추적함 '골든 디펜더' 건조 수주"
+    }
+  ],
+  "published_at": "2026-07-17T22:02:38.959901+00:00",
+  "summary": "우크라이나가 연간 1,000만 대 드론 생산 체계를 EU 공급망과 연계하는 동안, 미 육군 중기계화부대는 적 무인항공기(UAS) 대응 공백을 안고 있고, 극초음속 미사일 사업은 군종 간 조율 실패로 2년 지연됐다. 전 미 공군장관의 AI 전환 주장은 이 흐름의 논리적 귀결이지만, 교리와 인력 구조의 재편이 장비 도입보다 먼저 결론 나야 한다는 점에서 미군의 전환 속도는 아직 위협의 진화를 따라가지 못한다.",
+  "title": "드론 위협의 속도를 제도가 따라가지 못하고 있다"
+}
