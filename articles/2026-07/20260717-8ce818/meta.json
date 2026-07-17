@@ -1,0 +1,20 @@
+{
+  "category": "tech",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-07-17T18:41:50.552471+00:00",
+  "slug": "20260717-8ce818",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/application-security/real-ai-threat-blind-trust",
+  "summary": "AI 모델의 자동 명령 실행이 사이버보안 감시 기능을 무력화할 수 있다는 우려. 인간 개입 제거로 악의적 명령 사전 차단 불가능",
+  "tags": [
+    "군사기술",
+    "사이버안보",
+    "AI국방",
+    "안보위협"
+  ],
+  "title": "AI 모델의 자동 명령 실행, 사이버보안 감시 체계 무력화 우려",
+  "url": "https://combatsociety.kr/news/20260717-8ce818"
+}
