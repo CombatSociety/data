@@ -1,0 +1,27 @@
+# 미 중부사령부, 이란 대상 최신 공습 완료
+
+미 중부사령부, 이란 대상 공습 작전 완료
+
+| 항목 | 값 |
+|---|---|
+| Slug | `20260718-c25e53` |
+| 발행 | 2026-07-18T03:45:38.437889+00:00 |
+| 우선순위 | P2 |
+| 콘텐츠 타입 | wire |
+| 분류 | operations |
+| 태그 | 작전·훈련, 미국, 이란, 중동, USCENTCOM, 교전 |
+| 단일 출처 | [DVIDS:Joint](https://www.dvidshub.net/news/570254/centcom-finishes-latest-wave-strikes-against-iran) |
+
+## 출처 매체
+
+- [DVIDS:Joint](https://www.dvidshub.net/news/570254/centcom-finishes-latest-wave-strikes-against-iran)
+
+## 사이트에서 읽기
+
+<https://combatsociety.kr/news/20260718-c25e53>
+
+## 인용
+
+```
+Combat Society dataset, "미 중부사령부, 이란 대상 최신 공습 완료", combatsociety.kr/news/20260718-c25e53, github.com/CombatSociety/data.
+```
