@@ -1,0 +1,70 @@
+{
+  "assessment": "FQ-44A 퓨리의 공대공 미사일 실사격 성공과 줌왈트급 구축함 극초음속 미사일 탑재 사업의 2년 지연이 같은 날 확인된 것은 우연한 병치가 아니다. 미국 방위력 현대화 내부에서 개발 방법론에 따른 속도 분기가 실제로 벌어지고 있음을 보여주는 구체적 증거다.\n\nFQ-44A 퓨리는 안두릴이 소프트웨어 중심 반복 개발 방식으로 추진한 CCA 사업의 산물이다. 시제기 단계에서 무장 실사격까지의 주기가 전통적 조달 체계보다 압축됐고, 이번 성공은 그 방식이 단순한 시연을 넘어 실전 가능한 전투 능력으로 전환될 수 있음을 입증했다. 반면 줌왈트급 사업은 플랫폼 설계 단계부터 특정 전략 임무에 최적화된 고비용 단일 체계로 구성됐기 때문에, 하드웨어 통합 지연이 전체 장거리 정밀타격 능력 확보 일정에 직접 파급된다. 두 사업의 차이는 예산 규모나 기술 난이도의 문제가 아니라, 복잡성을 어떻게 분산하느냐의 구조적 차이에서 비롯된다.\n\n같은 날 버지니아주 소재 Onyx Industries의 자율 유도 낙하산 보급 시스템 시험도 이 흐름 안에 있다. 조종사 위험 노출 없이 전방 지정 좌표에 정밀 보급을 가능하게 하는 이 시스템은 소규모 민간 기업이 특정 전장 문제를 자율화 기술로 해결한 사례다. 우크라이나 전쟁이 반복적으로 드러낸 군수 지원의 취약성, 즉 전방 보급 차단이 전투력 유지의 실질적 병목이 된다는 현실에 대한 기술적 응답이기도 하다. 퓨리와 자율 보급 시스템이 공유하는 원칙은 하나다. 위험 노출을 최소화하면서 전투와 군수 양 영역에서 자율화 기술이 동시에 실전 진입하고 있다는 것이다.\n\n한국의 전력기획 관점에서 이 흐름은 KF-21 보라매 기반 유·무인 복합 편대 운용 논의와 직접 맞닿는다. 현재 논의 구조는 플랫폼 개발과 자율화 소프트웨어 개발을 사실상 순차적으로 접근하는 경향이 있는데, 퓨리 사례는 두 트랙을 병렬로 분리해 진행하는 것이 지연 리스크를 분산하는 현실적 경로임을 보여준다. 단일 플랫폼에 모든 능력을 집약하는 방식은 줌왈트급이 겪는 것처럼 하나의 지연이 전체 능력 확보를 막는 구조를 만든다. 자율 보급 기술 역시 마찬가지다. 한국군의 전방 군수 지원은 여전히 유인 항공기 의존도가 높고, 이 영역에서의 자율화 투자는 전투 플랫폼 자율화보다 훨씬 뒤처져 있다. 전투와 군수 모두에서 자율화가 동시에 진입하는 현재의 기술 환경에서, 어느 한 축만 앞서는 전력 구조는 실전에서 비대칭적 취약점을 만들 가능성이 크다.",
+  "brief_date": "2026-07-19",
+  "digest_type": "daily",
+  "items": [
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "SOFREP",
+      "source_url": "https://sofrep.com/news/andurils-fury-fires-its-first-air-to-air-missile-and-the-drone-wingman-era-just-grew-teeth/",
+      "subtitle": "자율 무인 전투기 시대가 실전 무장 능력을 갖추며 새로운 단계에 진입했다",
+      "summary_en": "Anduril Industries' FQ-44A Fury autonomous combat aircraft successfully fired an air-to-air missile for the first time, marking a significant transition from prototype to armed platform. The Pentagon must now demonstrate it can scale this milestone into a survivable and operationally sustainable force within the Collaborative Combat Aircraft program.",
+      "summary_kr": "안두릴 인더스트리(Anduril Industries)의 협력전투항공기(Collaborative Combat Aircraft) FQ-44A 퓨리가 공대공 미사일 실사격에 처음으로 성공하며 시제기 단계를 넘어 무장 전투기로서의 가능성을 입증했다. 미 국방부는 이번 단발 사격 성공을 실전 배치 가능한 생존성·지속 운용성을 갖춘 전력으로 전환하는 과제를 안게 됐다.",
+      "title": "안두릴 FQ-44A 퓨리, 공대공 미사일 첫 실사격 성공"
+    },
+    {
+      "priority": "P2",
+      "section": "해외",
+      "source_name": "Ukrinform",
+      "source_url": "https://www.ukrinform.net/rubric-ato/4145623-skelia-regiment-clears-kostiantynivka-of-russian-forces.html",
+      "subtitle": "스켈리아 연대가 러시아 점령군을 축출하고 우크라이나 국기를 게양했다.",
+      "summary_en": "Ukraine's 425th Separate Assault Regiment Skelia has cleared Russian occupying forces from the town of Kostiantynivka in the Donetsk region and raised the Ukrainian flag. The operation marks a localized Ukrainian advance in an area that has seen sustained Russian pressure.",
+      "summary_kr": "우크라이나 제425독립돌격연대(스켈리아)가 도네츠크주 코스탄티니우카에서 러시아 점령군을 완전히 몰아내고 우크라이나 국기를 게양했다.",
+      "title": "우크라이나군 425돌격연대, 도네츠크 코스탄티니우카 탈환"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/07/17/us-navy-2-years-behind-on-hypersonic-missile-installation-on-zumwalt-destroyers/",
+      "subtitle": "고비용 전략 타격 전력 현대화 사업이 일정 차질을 빚으며 해군 전력화 계획에 불확실성을 더하고 있다.",
+      "summary_en": "The U.S. Navy's program to equip three Zumwalt-class destroyers with hypersonic missiles has fallen two years behind schedule. The costly initiative is a key component of the Navy's long-range precision strike modernization effort, and the delay raises questions about the timeline for fielding this capability.",
+      "summary_kr": "미 해군이 줌왈트(Zumwalt)급 구축함 3척에 극초음속 미사일을 탑재하는 사업이 당초 일정보다 2년 지연된 것으로 확인됐다. 해당 사업은 막대한 예산이 투입된 전략 타격 전력 강화 프로젝트로, 지연은 해군의 장거리 정밀타격 능력 확보 일정에 직접적인 영향을 미친다.",
+      "title": "미 해군 줌왈트급 구축함 극초음속 미사일 탑재 사업, 2년 지연"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Defence Blog",
+      "source_url": "https://defence-blog.com/canada-orders-more-acsv-armored-vehicles-some-for-ukraine/",
+      "subtitle": "캐나다 총리가 제너럴 다이내믹스 캐나다 시설을 직접 방문해 전략적 파트너십을 공식 발표했다.",
+      "summary_en": "Canadian Prime Minister Mark Carney and National Defence Minister David J. McGuinty visited General Dynamics Land Systems-Canada's facility in London, Ontario, to announce a new Strategic Partnership for additional ACSV armored vehicle procurement. A portion of the order is designated for Ukraine, reflecting Canada's continued defense industrial support to Kyiv.",
+      "summary_kr": "캐나다 총리와 국방장관이 온타리오주 런던 소재 제너럴 다이내믹스 랜드 시스템스-캐나다 시설을 방문해 ACSV 장갑차 추가 도입을 위한 전략적 파트너십 체결을 공식 발표했다. 도입 물량 일부는 우크라이나 지원에 배정될 예정으로, 캐나다의 대우크라이나 방산 지원이 지속되고 있음을 보여준다.",
+      "title": "캐나다, ACSV 장갑차 추가 도입 계약 체결…일부 우크라이나 지원"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "Defence Blog",
+      "source_url": "https://defence-blog.com/onyx-industries-tests-smart-parachutes-for-supply-drops/",
+      "subtitle": "저고도 비행 없이 정밀 지점에 물자를 투하하는 스마트 낙하산 기술이 시연됐다.",
+      "summary_en": "Virginia-based Onyx Industries has tested a smart parachute system designed to deliver supplies to precise ground coordinates without requiring aircraft to fly at low altitude or low speed over hostile territory. The autonomous guidance capability reduces aircrew risk while improving delivery accuracy, pointing toward a significant shift in contested-environment logistics.",
+      "summary_kr": "미국 버지니아주 소재 Onyx Industries가 항공기에서 투하된 보급품을 적 위협 지역 상공 저고도·저속 비행 없이 지정 좌표에 정밀 착지시키는 자율 유도 낙하산 시스템을 시험했다. 이 기술은 조종사 위험 노출을 최소화하면서 전방 부대에 핵심 장비를 공급할 수 있어 전장 군수 지원 방식의 변화를 예고한다.",
+      "title": "버지니아 소재 기업, 자율 유도 낙하산 보급 시스템 시험"
+    },
+    {
+      "priority": "P3",
+      "section": "해외",
+      "source_name": "BleepingComputer",
+      "source_url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
+      "subtitle": "브라우저 저장 자격증명·인증 토큰 탈취를 노린 정보 탈취형 악성코드 위협이 확산되고 있다.",
+      "summary_en": "Microsoft has issued a warning about a significant surge in ACR Stealer malware attacks targeting enterprise customers. The malware is designed to exfiltrate browser-stored passwords, authentication tokens, and sensitive documents, posing a direct threat to corporate credential security.",
+      "summary_kr": "마이크로소프트는 기업 고객을 대상으로 ACR 스틸러 악성코드를 이용한 공격이 급증하고 있다고 경고했다. 이 악성코드는 브라우저에 저장된 패스워드, 인증 토큰, 민감 문서 등을 탈취하는 데 특화되어 있어 기업 환경의 자격증명 보안에 직접적인 위협이 된다.",
+      "title": "ACR 스틸러 악성코드, 기업 고객 대상 공격 급증"
+    }
+  ],
+  "published_at": "2026-07-18T22:01:47.223405+00:00",
+  "summary": "FQ-44A 퓨리의 공대공 실사격 성공과 줌왈트급 구축함 극초음속 탑재 사업의 2년 지연이 같은 날 확인됐다. 두 사업의 차이는 예산이나 기술 난이도가 아니라 복잡성을 단일 플랫폼에 집약하느냐, 병렬 트랙으로 분산하느냐의 구조에서 비롯된다. Onyx Industries의 자율 유도 낙하산 보급 시스템 시험은 전투뿐 아니라 군수 영역에서도 자율화가 실전에 동시 진입하고 있음을 보여주며, 어느 한 축만 앞서는 전력 구조가 실전에서 비대칭 취약점을 만들 수 있음을 드러낸다.",
+  "title": "복잡성을 분산하는 쪽이 먼저 전장에 닿는다"
+}
