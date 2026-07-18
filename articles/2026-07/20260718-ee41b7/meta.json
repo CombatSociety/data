@@ -1,0 +1,21 @@
+{
+  "category": "tech",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P3",
+  "published_at": "2026-07-18T15:03:15.181209+00:00",
+  "slug": "20260718-ee41b7",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
+  "summary": "마이크로소프트가 기업 고객을 노린 ACR 스틸러 악성코드 공격 급증을 경고. 브라우저 저장 비밀번호·인증토큰·민감문서 탈취 위협",
+  "tags": [
+    "군사기술",
+    "사이버안보",
+    "사이버무기",
+    "APT공격",
+    "공급망공격"
+  ],
+  "title": "마이크로소프트, ACR 스틸러 악성코드 공격 급증 경고",
+  "url": "https://combatsociety.kr/news/20260718-ee41b7"
+}
