@@ -9,7 +9,7 @@
 | 우선순위 | P3 |
 | 콘텐츠 타입 | wire |
 | 분류 | weapons |
-| 태그 | 무기·방산, 미국, 해군, 극초음속무기, 방산정책 |
+| 태그 | 무기·방산, 미국, 해군, 극초음속무기, 구축함, 방산정책 |
 | 단일 출처 | [Defense News](https://www.defensenews.com/industry/techwatch/2026/07/17/us-navy-2-years-behind-on-hypersonic-missile-installation-on-zumwalt-destroyers/) |
 
 ## 출처 매체
