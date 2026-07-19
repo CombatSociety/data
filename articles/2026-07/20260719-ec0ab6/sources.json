@@ -1,22 +1,17 @@
 [
   {
-    "name": "Defense News",
+    "name": "Air Force Times",
     "type": "international",
-    "url": "https://www.defensenews.com/flashpoints/2026/07/18/2-us-troops-killed-1-missing-after-iranian-missile-drone-attack-in-jordan/"
+    "url": "https://www.airforcetimes.com/flashpoints/2026/07/18/2-us-troops-killed-1-missing-after-iranian-missile-drone-attack-in-jordan/"
+  },
+  {
+    "name": "Al Jazeera",
+    "type": "international",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss"
   },
   {
     "name": "BBC",
     "type": "international",
-    "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "name": "Task & Purpose",
-    "type": "international",
-    "url": "https://taskandpurpose.com/news/two-troops-killed-iran-jordan/"
-  },
-  {
-    "name": "SOFREP",
-    "type": "international",
-    "url": "https://sofrep.com/news/two-us-service-members-killed-one-missing-after-iranian-attack-in-jordan/"
+    "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
   }
 ]
