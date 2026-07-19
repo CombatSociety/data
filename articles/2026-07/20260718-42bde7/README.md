@@ -8,13 +8,13 @@
 | 발행 | 2026-07-18T18:30:17.310868+00:00 |
 | 우선순위 | P1 |
 | 콘텐츠 타입 | wire |
-| 분류 | operations |
-| 태그 | 작전·훈련, 안보위협, 미국, 이란, 미사일발사, 드론 |
-| 단일 출처 | [Army Times](https://www.armytimes.com/flashpoints/2026/07/18/2-us-troops-killed-1-missing-after-iranian-missile-drone-attack-in-jordan/) |
+| 분류 | threats |
+| 태그 | 안보위협, 미국, 이란, 중동, 미사일발사, 드론, 탄도미사일 |
+| 단일 출처 | [Air Force Times](https://www.airforcetimes.com/flashpoints/2026/07/18/2-us-troops-killed-1-missing-after-iranian-missile-drone-attack-in-jordan/) |
 
 ## 출처 매체
 
-- [Army Times](https://www.armytimes.com/flashpoints/2026/07/18/2-us-troops-killed-1-missing-after-iranian-missile-drone-attack-in-jordan/)
+- [Air Force Times](https://www.airforcetimes.com/flashpoints/2026/07/18/2-us-troops-killed-1-missing-after-iranian-missile-drone-attack-in-jordan/)
 
 ## 사이트에서 읽기
 
