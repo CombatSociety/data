@@ -1,0 +1,20 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-07-21T03:35:49.643856+00:00",
+  "slug": "20260721-c98a8a",
+  "source_name": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
+  "summary": "소닉월 SMA1000 VPN 장비의 미공개 취약점이 제로데이 공격에 악용돼 맞춤형 악성코드 설치에 이용 중. 기업 네트워크 침투 위협 증가",
+  "tags": [
+    "안보위협",
+    "사이버무기",
+    "군사기술",
+    "미국"
+  ],
+  "title": "소닉월 VPN 장비 제로데이 공격… 맞춤형 악성코드 설치 위협",
+  "url": "https://combatsociety.kr/news/20260721-c98a8a"
+}
