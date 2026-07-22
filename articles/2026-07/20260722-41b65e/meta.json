@@ -1,22 +1,21 @@
 {
-  "category": "operations",
+  "category": "threats",
   "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P1",
   "published_at": "2026-07-22T01:52:10.715641+00:00",
   "slug": "20260722-41b65e",
-  "source_name": "Army Times",
-  "source_url": "https://www.armytimes.com/news/your-military/2026/07/21/pentagon-identifies-third-american-soldier-killed-in-iranian-attack-in-jordan/",
-  "summary": "요르단 이란군 공격으로 미군 상병 램퍼사드 전사 확인. 현역 군인 중 3번째 피해자",
+  "source_name": "Military Times",
+  "source_url": "https://www.militarytimes.com/news/your-military/2026/07/21/pentagon-identifies-third-american-soldier-killed-in-iranian-attack-in-jordan/",
+  "summary": "미국 국방부, 요르단 이란군 공격으로 현역 미군 병사 3번째 전사자 신원 공개. 상병 앤젤 S. 램퍼사드",
   "tags": [
-    "작전·훈련",
     "안보위협",
     "미국",
-    "중동",
     "이란",
-    "교전"
+    "중동",
+    "군사사"
   ],
-  "title": "요르단 이란군 공격으로 미군 3번째 전사자 확인",
+  "title": "요르단 이란군 공격으로 미군 3번째 전사자 발생",
   "url": "https://combatsociety.kr/news/20260722-41b65e"
 }
