@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-07-22T02:24:50.414409+00:00",
+  "slug": "20260722-63af26",
+  "source_name": "Dark Reading",
+  "source_url": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai",
+  "summary": "랜섬웨어 공격 급증은 AI 발전이 아닌 공격자 집단 분화와 방어 취약 조직 확대 때문. 생태계 분화로 신규 공격자 진입 가속화",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "랜섬웨어",
+    "APT공격",
+    "사이버스파이"
+  ],
+  "title": "랜섬웨어 공격 가속화, AI 탓 아니라 생태계 분화 탓",
+  "url": "https://combatsociety.kr/news/20260722-63af26"
+}

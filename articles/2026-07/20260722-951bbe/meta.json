@@ -1,23 +1,20 @@
 {
   "category": "weapons",
-  "content_type": "original",
+  "content_type": "wire",
   "cover_image_caption": null,
   "cover_image_credit": null,
   "priority": "P2",
   "published_at": "2026-07-22T02:12:46.90129+00:00",
   "slug": "20260722-951bbe",
-  "source_name": null,
-  "source_url": null,
-  "summary": "독일 공급 시킹 Mk.41 6대의 예상 무장 구성, 판버러 에어쇼 정적 전시를 통해 최초 공개",
+  "source_name": "Naval News",
+  "source_url": "https://www.navalnews.com/naval-news/2026/07/heavily-armed-ukrainian-sea-king-at-farnborough-airshow/",
+  "summary": "우크라이나 해군의 독일 공급 Sea King 헬기, 판버러 에어쇼에서 대함 미사일 등 무장 공개",
   "tags": [
     "무기·방산",
+    "동맹·외교",
     "우크라이나",
-    "러시아",
-    "해군",
-    "지정학·국제",
-    "동유럽",
-    "배치"
+    "해군"
   ],
-  "title": "독일 공급 시킹 Mk.41, 우크라이나 해군 무장 구성 공개… 판버러 에어쇼 정적 전시",
+  "title": "우크라이나 해군의 무장 강화… 독일 공급 Sea King 헬기 전시",
   "url": "https://combatsociety.kr/news/20260722-951bbe"
 }
