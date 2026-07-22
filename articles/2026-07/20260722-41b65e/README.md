@@ -1,6 +1,6 @@
-# 요르단 이란군 공격으로 미군 3번째 전사자 확인
+# 이란의 요르단 공격으로 미군 3번째 전사자 확인
 
-요르단 이란군 공격으로 미군 현역 병사 3명 전사 확인. 국방부가 28세 앤젤 S. 램퍼사드 병사 신원 공개
+미국 국방부, 요르단 이란 공격으로 인한 미군 전사자 3명 확인. 28세 현역 병사 램퍼사드
 
 | 항목 | 값 |
 |---|---|
@@ -9,12 +9,12 @@
 | 우선순위 | P1 |
 | 콘텐츠 타입 | wire |
 | 분류 | threats |
-| 태그 | 안보위협, 미국, 이란, 중동, 군사사, 교전 |
-| 단일 출처 | [Army Times](https://www.armytimes.com/news/your-military/2026/07/21/pentagon-identifies-third-american-soldier-killed-in-iranian-attack-in-jordan/) |
+| 태그 | 안보위협, 미국, 중동, 이란 |
+| 단일 출처 | [Air Force Times](https://www.airforcetimes.com/news/your-military/2026/07/21/pentagon-identifies-third-american-soldier-killed-in-iranian-attack-in-jordan/) |
 
 ## 출처 매체
 
-- [Army Times](https://www.armytimes.com/news/your-military/2026/07/21/pentagon-identifies-third-american-soldier-killed-in-iranian-attack-in-jordan/)
+- [Air Force Times](https://www.airforcetimes.com/news/your-military/2026/07/21/pentagon-identifies-third-american-soldier-killed-in-iranian-attack-in-jordan/)
 
 ## 사이트에서 읽기
 
@@ -23,5 +23,5 @@
 ## 인용
 
 ```
-Combat Society dataset, "요르단 이란군 공격으로 미군 3번째 전사자 확인", combatsociety.kr/news/20260722-41b65e, github.com/CombatSociety/data.
+Combat Society dataset, "이란의 요르단 공격으로 미군 3번째 전사자 확인", combatsociety.kr/news/20260722-41b65e, github.com/CombatSociety/data.
 ```
