@@ -1,0 +1,21 @@
+{
+  "category": "threats",
+  "content_type": "wire",
+  "cover_image_caption": null,
+  "cover_image_credit": null,
+  "priority": "P2",
+  "published_at": "2026-07-22T01:42:37.518841+00:00",
+  "slug": "20260722-096ada",
+  "source_name": "VOA 한반도",
+  "source_url": "https://www.voakorea.com/a/north-korea-cyber-campaign-072126/8174450.html",
+  "summary": "북한 연계 해킹 조직의 위장 채용 면접 기반 악성코드 유포 공격. 가상자산 업계 표적, 신종 '클릭픽스' 수법 활용",
+  "tags": [
+    "안보위협",
+    "사이버안보",
+    "북한",
+    "APT공격",
+    "사이버스파이"
+  ],
+  "title": "북한 해킹 조직, 가상자산 업계 노린 위장 채용 공격…악성코드 유포",
+  "url": "https://combatsociety.kr/news/20260722-096ada"
+}
